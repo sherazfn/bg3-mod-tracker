@@ -87569,7 +87569,7 @@
     "summary": "Followers of the Spider Queen, rejoice! A set designed especially for Death Clerics of Lolth that includes 3 robes, 3 gloves, 3 hats, shoes, a cloak, 2 rings, an amulet, a mace, and 2 shields. Fully dye-able, fits all bodies, stats scale with level!",
     "description": "<h2><span style=\"color:#efefef;\"><strong>Agh! A spider!</strong></span><strong><br><span style=\"font-size:large;\">- Me when I see a spider</span></strong></h2>\n<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\">Spider Queen Gear - a mod created for Clerics of Lolth! Commissioned and shared with all of you.</div>\n<p> </p>\n<div style=\"text-align:center;\"><span style=\"color:#00ffff;\"><span style=\"font-size:large;\"><strong>All pieces scale with level as explained in each piece's description.</strong></span></span><br><br>All skills will show from level 1, but they won’t work until the appropriate level. Make sure to un-equip and re-equip to activate the bonuses!</div>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Things to keep in mind...</strong></span></blockquote>\n<ul>\n<li>The chest stats are for <strong>Death Clerics</strong> but of course anyone can wear them.</li>\n<li>The jewelry and shields can ONLY be equipped by worshipers of Lolth. Not just Lolth-sworn Drow; she has to be your deity.</li>\n<li>Only body type 1 has three different robes; everyone else gets the same robe 3 times.</li>\n<li>The crown and hood are only available for body types 1 and 2.</li>\n<li>The fancy boots are only available for body type 1; everyone else has lace-up boots.</li>\n<li>The cuffed gloves are only available for body type 1; everyone else gets 2 pairs of the same gloves.</li>\n<li>I've added a modesty patch under the skirt to cover your bits and pieces, however...</li>\n<li>If that's not enough coverage, I've included a chest of undies and matching trousers. No stats, just underwear.</li>\n<li>If you choose to wear the trousers, they will clip through your camp clothes. Several mods include modular \"just shirt\" options, including my own <a href=\"https://www.nexusmods.com/baldursgate3/mods/14081\">Magic and Might Mage Gear</a>.</li>\n<li>Un-equip and re-equip at the appropriate levels to ensure all bonuses are working correctly.</li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Set includes...</strong></span></blockquote>\n<ul>\n<li>3 Robes</li>\n<li>3 Hats</li>\n<li>2 Gloves</li>\n<li>1 pair of boots</li>\n<li>1 Cloak</li>\n<li>2 Rings</li>\n<li>1 Amulet</li>\n<li>1 Mace</li>\n<li>2 Shields</li>\n</ul>\n<p><br><br><br>Fully dyable, and made to fit all body types...for the most part.<br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~<br><br><br>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper and Helsik (The Devil's Fee) in act 3. If you’ve already visited one (or more) of these merchants before you install the mod, it won’t show up in their inventory until after a long rest or two. Or three.<br><br><br>You shouldn't have any issue loading this mod mid-game, but never try to UNload clothing/equipment mods if they're already in your and/or a merchant's inventory.<br><br><span style=\"font-size:large;\"><strong>Special shout-out to the bg3 Modders CMTY and also mod.io user flowergarden for the jewelry inspo with her cool ass <a href=\"https://mod.io/g/baldursgate3/m/rings-of-lolth\">Rings of Lolth</a> mod.</strong></span><br><br><br><a href=\"https://ko-fi.com/copperleaves\"><img src=\"https://i.imgur.com/XRa3ZXF.png\" alt=\"XRa3ZXF.png\"></a><br><br><br>Check out my other gear mods for Barbarian, Bard, Cleric, Druid, Fighter, Mage, Paladin, and Rogue!<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13571\">Neil's Bangin' Bard Gear VOLUME 2</a> (recommended)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\">Neil's Bangin' Bard Gear VOLUME 1</a> (outdated)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\">Rage Queen Barbarian Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14875\">Instruments of Darkness - Dark Cleric Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13774\">The Inconstant Moon - Shar and Selune Cleric Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/15154\">Leaves of Grass - Druid Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14165\">Grim Visag'd War - Fighter Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14081\">Magic and Might - Mage Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13219\">Big...Darn Heroes Paladin Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13435\">Dastardly Accoutrements - Rogue Gear</a></p>",
     "date_added": 1742374704,
-    "date_updated": 1766959001,
+    "date_updated": 1766964282,
     "date_live": 1742445357,
     "visible": 1,
     "status": 1,
@@ -87583,15 +87583,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/7007/33602659/crop_100x100/img_1774.jpeg"
     },
     "modfile": {
-      "id": 7200050,
+      "id": 7200401,
       "mod_id": 4807168,
-      "version": "1.0.0.22",
-      "filename": "cl_lolthviconia_be4249c5-4caa-4nhm.zip",
-      "changelog": "Changed the mace's damage bonus to be based on Wis, not str",
-      "date_added": 1766958951,
+      "version": "1.0.0.24",
+      "filename": "cl_lolthviconia_be4249c5-4caa-bdmj.zip",
+      "changelog": null,
+      "date_added": 1766964254,
       "date_updated": 0,
-      "date_scanned": 1766959042,
-      "filesize": 5657613,
+      "date_scanned": 1766964268,
+      "filesize": 5657640,
       "platforms": [
         {
           "platform": "windows",
@@ -87725,7 +87725,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7200050
+        "modfile_live": 7200401
       }
     ]
   },
