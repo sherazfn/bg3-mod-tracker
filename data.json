@@ -69418,7 +69418,7 @@
     "summary": "Pack includes armours themed to both Selune and Shar, with several chest pieces each for 5 Domains: Death, Life, Light, Tempest, and War + a variety of accessories and camp clothes. Fully dye-able and works for all body types!",
     "description": "<h2>Swear not by the moon, the inconstant moon, that monthly changes in her circled orb...</h2>\n<p> </p>\n<p>So said Shakespeare, and it seems he was right! Gear for your Cleric of any race and body type, all fully dye-able. Yes, it was designed for Shadowheart, but we're inclusive here at Copperleaves Couture Clothiers.</p>\n<p> </p>\n<h3>All pieces scale with level as explained in each piece's description.</h3>\n<p> </p>\n<p style=\"text-align:center;\">All skills will show from level 1, but they won’t work until the appropriate level. Make sure to un-equip and re-equip to activate the bonuses!</p>\n<h3> </h3>\n<blockquote>\n<p>Ch-ch-changes</p>\n</blockquote>\n<ul>\n<li>Reworked the aura buff on the Death Domain shirts</li>\n<li>Shields should be equipable now</li>\n<li>Fully updated for Patch 8</li>\n<li><strong>Safe to update IF</strong> you're on version 1.1.0.60 already. If you're still on 1.1.0.58, run <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a> (from Nexus) first. If you CAN’T run Mod Uninstaller (lookin' at you, my Mac-using friends), don’t do this update, or make sure you're super duper early in the game because in my early game I was able to update no problem.</li>\n</ul>\n<p> </p>\n<blockquote>\n<p>A few important things to keep in mind:</p>\n</blockquote>\n<ul>\n<li>Death Domain: The aura thingie can be toggled on and off, so you can just have it on for battle, or have it on all the time. Up to you!</li>\n<li>Selunite Look 2, the leather: Different style tunic for body types 2 and 4</li>\n<li>Sharran Look 4, the scale mail: Only available for body type 1 Humans, Elves, Tieflings, and Gith, plus femme shorties. See the pics for the replacement gear!</li>\n<li>Sharran White Mask: Only available for body type 1 and 3 Humans, Elves, Tieflings, and Gith. Everyone else has the plain metal mask. These items are NOT dye-able.</li>\n<li>Selunite Woven Circlet: For body type 1 Humans, Elves, Tieflings, and Gith, you'll see the \"visor\" style half-helm. Everyone else gets the circlet.</li>\n<li>Look 6, the corset: Corsets are only for body type 1, Gith, and femme shorties. Everyone else has the plain shirt and belts.</li>\n<li>Bracelet Gloves: Bracelets and rings are only for body types 1 and 3 and Gith. Everyone else has cool leather gloves.</li>\n<li>You’ll need to remove Tav’s bra for bra-style tops, unless you want it to clip through. It worked for Regina George.</li>\n<li>The stats on each Domain's armour for both Selune and Shar are the same, except for War.</li>\n<li>Accessories have different stats for Selune and Shar, aligning with each goddess' demesne. Mix and match if you wanna I'm not your real mom.</li>\n<li>Un-equip and re-equip at the appropriate levels to ensure all bonuses are working correctly.</li>\n</ul>\n<p> </p>\n<blockquote>\n<p>Selunite set includes</p>\n</blockquote>\n<ul>\n<li>9 armors for each of 5 domains - Death, Life, Light, Tempest, and War!</li>\n<li>7 gloves!</li>\n<li>4 hats!</li>\n<li>4 boots!</li>\n<li>4 cloaks!</li>\n<li>a shield!</li>\n</ul>\n<p> </p>\n<blockquote>\n<p>Sharran set includes</p>\n</blockquote>\n<ul>\n<li>9 armors for each of 5 domains!</li>\n<li>5 hats!</li>\n<li>7 gloves!</li>\n<li>4 boots!</li>\n<li>4 cloaks!</li>\n<li>a shield!</li>\n</ul>\n<p> </p>\n<p>Plenty of options for even the pickiest of Princesses. Fully dyeable, and made to fit all body types (with the exceptions explained above).</p>\n<p>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper and Helsik (The Devil's Fee) in act 3. If you’ve already visited one (or more) of these merchants before you install the mod, it won’t show up in their inventory until you take a long rest or two. Or three.</p>\n<p>You shouldn't have any issue loading this mod mid-game, but never try to UNload clothing/equipment mods if they're already in your and/or a merchant's inventory.</p>\n<p> </p>\n<p>Dyes featured<br>Faerun Colors <br>Izzi's Tinctures and Dyes</p>\n<p> </p>\n<p>Check out my other gear mods for Barbarian, Bard, Paladin, and Rogue!</p>\n<p>Neil's Bangin' Bard Gear VOLUME ONE <br>Neil's Bangin' Bard Gear VOLUME TWO (I recommend this one) <br>Rage Queen Barbarian Gear <br>Big...Darn Heroes Paladin Gear <br>Dastardly Accoutrements - Rogue Gear</p>\n<p><a href=\"https://ko-fi.com/P5P217AKKL\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi4.png?v=6\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"30\"></a></p>",
     "date_added": 1731491733,
-    "date_updated": 1758727478,
+    "date_updated": 1767081488,
     "date_live": 1731506313,
     "visible": 1,
     "status": 1,
@@ -69432,15 +69432,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/7007/33602659/crop_100x100/img_1774.jpeg"
     },
     "modfile": {
-      "id": 6759144,
+      "id": 7206641,
       "mod_id": 4483673,
-      "version": "1.2.0.109",
-      "filename": "cl_shadowheart_gear_13cca0f0-d-0hgd.zip",
-      "changelog": "Fixed the missing BT1 headwear for Woven Selunite Circlet",
-      "date_added": 1757472931,
+      "version": "1.2.0.112",
+      "filename": "cl_shadowheart_gear_13cca0f0-d-ie18.zip",
+      "changelog": null,
+      "date_added": 1767080733,
       "date_updated": 0,
-      "date_scanned": 1757473129,
-      "filesize": 76329345,
+      "date_scanned": 1767080909,
+      "filesize": 75554095,
       "platforms": [
         {
           "platform": "windows",
@@ -69448,15 +69448,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -69559,6 +69559,11 @@
         "date_added": 0
       },
       {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
         "name": "English",
         "name_localized": "English",
         "date_added": 0
@@ -69571,10 +69576,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6759144
-      },
-      {
         "platform": "mac",
         "modfile_live": 6759144
       },
@@ -69585,6 +69586,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6759144
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7206641
       }
     ]
   },
