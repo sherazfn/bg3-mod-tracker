@@ -44413,6 +44413,199 @@
     ]
   },
   {
+    "id": 4376248,
+    "game_id": 6715,
+    "name": "FearTaylor's Camp Clothes",
+    "name_id": "feartaylors-camp-clothes",
+    "summary": "Adds 600+ items for the camp clothes, camp shoes, and underwear slots :) Each item has a simple cantrip or level 1 spell usable once each rest, as well as a +1 to a random skill.",
+    "description": "<p><span style=\"text-decoration:underline;\"><strong>Warning: </strong></span></p>\n<p>Avoid <span style=\"text-decoration:underline;\">updating</span> in the middle of a playthrough, and avoid uninstalling. This can cause issues when loading the save. If you want to attempt uninstalling, make sure you save your game after removing each item from your character's inventories. <span style=\"text-decoration:underline;\">New installs mid-playthrough are completely safe</span>. </p>\n<p><strong><span style=\"text-decoration:underline;\">If you're experience issues, refer to the FAQ</span></strong> at the bottom of this description! If you make a report, please include your platform, a detailed description of the problem, and try to reach out to me through DM or the comments on Mod.IO so that I can help you find additional solutions. </p>\n<hr>\n<h2>How The Mod Works</h2>\n<p>When entering camp for the first time, a golden chest containing 500+ items will <strong><span style=\"text-decoration:underline;\">appear in the camp chest</span></strong>. The golden chest contains several mini chests in which the clothing items are organized. <span style=\"text-decoration:underline;\"><strong>If you update the mod mid playthrough or download mid playthrough you will need to</strong></span> <span style=\"text-decoration:underline;\"><strong>purchase them from listed vendors as listed below</strong></span>!</p>\n<p><span style=\"text-decoration:underline;\"><strong>All outfits and armor will take the camp clothes slot</strong></span>, allowing you to wear whatever you would like while keeping the function of the armor you have equipped. This allows for minor transmogging if camp clothes are set to always show, especially for console players who do not have access to script mods.</p>\n<p><span style=\"text-decoration:underline;\"><strong>All shoes will take the camp shoes slot.</strong></span> </p>\n<p><span style=\"text-decoration:underline;\"><strong>All items that are not set outfits or shoes will take the underwear slot</strong></span> including: hats, hoods, cloaks, gloves. Keep in mind that items in the underwear slot may cause clipping and will show up over normal armor. </p>\n<p>Keep in mind that <span style=\"text-decoration:underline;\"><strong>not every outfit will work with every body type</strong></span>, read the descriptions of each item to determine whether an outfit will function on your character. Putting a dress on Astarion may cause him to appear only in his underwear, putting Lae'zel in the wrong corset could cause severe visual glitches. </p>\n<p><span style=\"text-decoration:underline;\"><strong>All items have a +1 to skills and a simple spell attachment</strong></span> (does not apply to items in the underwear slot). For example, a robe may grant a +1 to arcana checks and allow you to cast magic missile once per rest. This function is more significant in early game and less so in late game. </p>\n<p>The items are also <span style=\"text-decoration:underline;\"><strong>available for purchase at the following vendors</strong></span>: Aaron (Grove), Blurg (Underdark), Esther (Mountain), Talli (Last Light), Mamzell (Wyrm's Rock), and as of patch 8 Mystic Carrion (Lower City). If anything new is added in an update you will need to purchase the new items from the vendors if you want them after a long rest, they will not automatically spawn in the camp chest unless you are starting a new game. </p>\n<p><span style=\"text-decoration:underline;\"><strong>Multiplayer:</strong></span> I have set it up that each player will have their own version in their unique camp chest. My hope is that this will fix the prior issues with this mod and multiplayer. </p>\n<hr>\n<h2>Pending Console: </h2>\n<p><span style=\"text-decoration:underline;\"><strong>The following is pending console release: </strong></span></p>\n<ul>\n<li>All of the above</li>\n<li>Every in-game armor not previously included are now available.</li>\n<li>Additional accessories including Gortash's gloves and Ketheric's armor both containing netherstones.</li>\n<li>Fixed descriptions, missing spells, and clipping on dragonborn/half-orcs. </li>\n<li>All hats not previously included are now available. </li>\n<li>A lot of new shoes in the shoes chest. </li>\n<li>A few more custom items in the corset chest and the custom chest. </li>\n<li>Items will spawn in each multiplayer Traveler's Chest. </li>\n<li>Items are now available for purchase at Mystic Carrion. </li>\n</ul>\n<p>Console and Mac updates are delayed as they must go through a testing period before release. I do not have control over this process and cannot guarantee when updates will be approved. It is entirely up to Larian's team. </p>\n<hr>\n<h2>Video Showcase</h2>\n<p>The following is a video showcase showing most of what comes with the mod, missing only things from the most recent update. </p>\n<p><a href=\"https://youtu.be/lnOKCsn4y8k?si=xIDMFyTPdPCGZifV\">FearTaylor's Camp Clothes</a></p>\n<p>I do not currently have a photo showcase and likely won't be making one. </p>\n<hr>\n<h2>Reports</h2>\n<p><strong>Please provide the following information in your reports!</strong></p>\n<ul>\n<li>The platform you play on</li>\n<li>A detailed description of what the problem is.\n<ul>\n<li>If it is an issue with a particular outfit, please tell me which one specifically and what is wrong with it.</li>\n<li>If the issue is a spell, please tell me which spell and which outfit it's connected to. </li>\n<li>If the issue is multiplayer, please tell me exactly which version of the mod you are using, if you are doing cross-play, and other details. </li>\n<li>If the issue is that it fails to show up, tell me if it fails to show up in camp/specific vendors listed earlier in the description. </li>\n</ul>\n</li>\n</ul>\n<p>I answer any legitimate concerns through the chat feature on Mod.IO, or the comments if you post in the discussion tab. You can also message me on Nexus or Reddit. </p>\n<p>I cannot answer a report if all you tell me is \"doesn't work\" or \"wont load\" or other vague descriptions. I will not answer or message you if this is all you send me. </p>\n<p>I will not answer or message you if the answer to your issue is already within the mod description. </p>\n<p>If the mod says that there is an update but it will not load, you can check the files tab to see when the last update was released (it has been a long while). If this occurs, it is not an issue with the mod itself, it is an issue with the mod manager and should be reported to Larian directly as this is not the only mod facing such issues. </p>\n<p><strong>Remember always that there is always inherent risk when downloading mods, you are ultimately responsible for your game's integrity when you choose to download any mod. Mods are made by fans of the game and are not going to be on a similar level of quality to paid dlcs. </strong><strong>General rule of thumb is to always read the description before you download anything.</strong></p>\n<hr>\n<h2>FAQ</h2>\n<p><strong>302 Errors/Server Crashes/Saves Not Loading: </strong></p>\n<ul>\n<li>This usually happens because you have tried to uninstall the mod mid-playthrough or you have tried to update from the oldest versions to the newer version mid-playthrough.</li>\n<li>Simply, you may need to downgrade to the version you previously had. This can usually be done from in-game if the version you had is still available on Mod.IO. Try to load the save and click the optional down-grade button when prompted. </li>\n</ul>\n<ul>\n<li>The only version no longer available that usually fixes the issue is Version .15. If you need Version .15, download it manually from the following link. Consoles never had access to this version and thus shouldn't need to worry about it. </li>\n<li><strong><a href=\"https://drive.google.com/file/d/156p4hVFLYK371J2viFf41jnOKN8SNFbE/view?usp=sharing\">https://drive.google.com/file/d/156p4hVFLYK371J2viFf41jnOKN8SNFbE/view?usp=sharing</a></strong></li>\n<li>\\Users\\%USERNAME%\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods</li>\n<li>Place the downloaded file in this folder in your computer, may change if you downloaded anywhere other than Steam. Then load the game and avoid updating until you're ready to start a new playthrough. </li>\n</ul>\n<p><strong>Where are the items? / They're not in the camp chest? </strong></p>\n<ul>\n<li>Make sure that the mod is enabled when you load your save and that you have <span style=\"text-decoration:underline;\">long rested before looking</span>. </li>\n<li><span style=\"text-decoration:underline;\">If downloaded mid-playthrough, they may not spawn in the traveler's chests and will need to be purchased from vendors after a long rest. This is due to multiplayer fixes</span>. </li>\n<li>Remember, they spawn inside of the Traveler's Chest, it will not spawn in the middle of your camp. They will not spawn in the tutorial chest. In multiplayer, there should be one version of the chest inside each multiplayer traveler's chest. </li>\n</ul>\n<p><strong>Clipping? </strong></p>\n<ul>\n<li>Clipping is inevitable as most of the items and outfits used were not designed to go together or be used by player characters at all. I cannot edit meshes so I can't fix them myself. </li>\n</ul>\n<p><strong>Can I make an outfit available for all body types? </strong></p>\n<ul>\n<li>No. I cannot edit meshes, it's just not in my skill set. I don't have the time to learn. I am limited to the assets as they were made by Larian. A lot of the items were not meant to be used by player characters, thus there are some assets made specifically for some races that will not work on others and the same for genders. Most skirts won't work on males because they never made a male character or a character with a male body type that they wanted to wear that asset. </li>\n</ul>\n<p><strong>Bodies are invisible after updating / Items stopped working or can't be equipped / Characters are naked</strong></p>\n<ul>\n<li>Make sure that you are reading the description to ensure that the outfit fits the body type you are using. </li>\n<li>This is more commonly reported by console players. </li>\n<li>Due to stats issues, I had to recreate a lot of the items in the later updates. A new chest with the corrected items will spawn in your camp chest after a long rest. Sell the old items or find another way to dispose of them and you'll be good. </li>\n</ul>\n<p><strong>Is there a version without spells? </strong></p>\n<ul>\n<li>Yes! Check my profile. It is currently pending on console. </li>\n</ul>\n<p><strong>Icon Glitch</strong></p>\n<ul>\n<li>I have seen some posts stating that some of the headpieces in the underwear slot can cause visual glitches to portraits. Its my understanding that removing the item before leveling up then reequipping, or going into the magic mirror fixes this issue. </li>\n</ul>\n<p><strong>Mod won't download/update.</strong></p>\n<ul>\n<li>This is not an issue with the mod. This is an issue with the mod manager. Reporting the issue on the mod goes to me and is ineffective as there is nothing that I can do to fix this issue. Please report the issue to Larian's team directly.</li>\n</ul>\n<p><strong>Cross-Play</strong></p>\n<ul>\n<li>If you intend to use this mod between PC and console whether through multiplayer or single player playthroughs, you (and your multiplayer friends) will need to manually downgrade to the version of the mod that is available on console. It will not downgrade automatically. You can see this in the files tab. This will not work on existing playthroughs using the most recent version of this mod until the console version is updated the match the most recent version available to pc. </li>\n<li>If you choose to return to an older version of the mod, make sure that you do not have duplicates in your mod folder after downgrading/upgrading!</li>\n</ul>\n<p><strong>Will there be anymore updates? </strong></p>\n<ul>\n<li>Other than bug fixes, no. Requests and suggestions are closed. </li>\n</ul>\n<hr>\n<h3>My Other Mods Include: </h3>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/ft-dye-official\">FearTaylor's Dye</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylors-dye-20\">FearTaylor's Dye 2.0</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylor-dye-30#description\">FearTaylor's Dye 3.0</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylors-camp-clothes-no-spells\">FearTaylor's Camp Clothes (No Spells)</a></li>\n</ul>\n<h3>Other Accounts to Reach Me: </h3>\n<ul>\n<li>Youtube: <a href=\"https://youtube.com/@feartaylor?si=iRaiMzmTQGBmsIgW\">@FearTaylor</a></li>\n<li>Reddit: <a href=\"https://www.reddit.com/user/_FearTaylor_/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">u/_FearTaylor_</a></li>\n<li>Nexus: <a href=\"https://www.nexusmods.com/baldursgate3/mods/13885\">FearTaylor</a></li>\n</ul>",
+    "date_added": 1727823431,
+    "date_updated": 1767189272,
+    "date_live": 1727823822,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/feartaylors-camp-clothes",
+    "submitted_by": {
+      "id": 34710135,
+      "name_id": "feartaylor",
+      "username": "FearTaylor",
+      "profile_url": "https://mod.io/u/feartaylor",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2cd0/34710135/crop_100x100/f9cc2cdfb3e386d489831492407d806.jpg"
+    },
+    "modfile": {
+      "id": 7212121,
+      "mod_id": 4376248,
+      "version": "1.0.0.78",
+      "filename": "campclothes_e34f4a47-7015-bbd5-0xnv.zip",
+      "changelog": "Corrected missing skirt textures. Fixed Longstrider spell. Changed Vicious Mockery spell to Shocking Grasp. Changed Ensnaring Strike spell to Sacred Flame.",
+      "date_added": 1767189229,
+      "date_updated": 0,
+      "date_scanned": 1767189237,
+      "filesize": 2636246,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "untitled10.png",
+      "original": "https://image.modcdn.io/mods/f330/4376248/untitled10.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f330/4376248/crop_320x180/untitled10.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f330/4376248/crop_640x360/untitled10.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f330/4376248/crop_1280x720/untitled10.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 5734470
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5734470
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5734470
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7212121
+      }
+    ]
+  },
+  {
     "id": 4376473,
     "game_id": 6715,
     "name": "Wooden Dice Set",
