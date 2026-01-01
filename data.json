@@ -97819,7 +97819,7 @@
     "name": "Gale's Beating and Glowing Orb",
     "name_id": "gales-beating-and-glowing-orb",
     "summary": "Makes Gale's orb glow at all times and pulse with every heartbeat!",
-    "description": "<p>Gives Gale's orb a continuous glow effect, as well as making it pulse along with his heartbeat!</p>",
+    "description": "<p>Gives Gale's orb a continuous glow effect, as well as making it pulse along with his heartbeat!</p>\n<p> </p>\n<p>I am aware of the bug that causes a dark triangle shadow on Gale's forehead! Since publishing this mod originally, I have switched PCs and I'm having some trouble trying to update this version. I am looking into it though. Thanks &lt;3</p>",
     "date_added": 1745955318,
     "date_updated": 1752745485,
     "date_live": 1745955594,
@@ -97889,6 +97889,11 @@
       {
         "name": "English",
         "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
         "date_added": 0
       }
     ],
