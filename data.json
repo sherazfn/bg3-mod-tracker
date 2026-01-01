@@ -75529,7 +75529,7 @@
     "summary": "A collection of modded hairstyles",
     "description": "<p><strong>Important Note:</strong> In order to make these hairs function with custom races as well, as a cost, this mod has a known side effect giving dragonborn a hair slot. Just ignore it.</p>\n<p>-----</p>\n<h3><strong>FAQ:</strong></h3>\n<p><em>\"Do the long hairs have physics?\"</em></p>\n<ul>\n<li>Yes.</li>\n</ul>\n<p><em>\"Do you take requests?\"</em></p>\n<ul>\n<li>No.</li>\n</ul>",
     "date_added": 1734380347,
-    "date_updated": 1758730401,
+    "date_updated": 1767256372,
     "date_live": 1734380877,
     "visible": 1,
     "status": 1,
@@ -75543,15 +75543,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/94a9/33661686/crop_100x100/tepkunseticon.png"
     },
     "modfile": {
-      "id": 6765486,
+      "id": 7215699,
       "mod_id": 4560615,
-      "version": "1.0.0.5",
-      "filename": "haircollection_57b22f40-4886-9-bmeg.zip",
-      "changelog": "More hairs added",
-      "date_added": 1757721326,
+      "version": "1.0.0.10",
+      "filename": "haircollection_57b22f40-4886-9-8q6y.zip",
+      "changelog": "Added four new hairs",
+      "date_added": 1767256258,
       "date_updated": 0,
-      "date_scanned": 1757721406,
-      "filesize": 45825188,
+      "date_scanned": 1767256345,
+      "filesize": 51522233,
       "platforms": [
         {
           "platform": "windows",
@@ -75559,15 +75559,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -75607,10 +75607,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6765486
-      },
-      {
         "platform": "mac",
         "modfile_live": 6765486
       },
@@ -75621,6 +75617,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6765486
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7215699
       }
     ]
   },
