@@ -75372,6 +75372,11 @@
         "name": "English",
         "name_localized": "English",
         "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
       }
     ],
     "platforms": [
