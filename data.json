@@ -75858,9 +75858,9 @@
     "name": "Item and Spell Bug Fixes",
     "name_id": "item-and-spell-bug-fixes",
     "summary": "The unofficial community bug fix mod - Over 900 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells as they are discovered.",
-    "description": "<p>The unofficial community bug fix mod - <strong>Over 900 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French</p>\n<p>If you would like to add a language that you translated directly into this mod, please reach out to me!<br><br>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p><strong>Items: 358 changed<br>Attacks/Spells: 369 changed<br>Classes/Feats/Passives/Reactions: 189 changed</strong></p>\n<p>The changelog has now exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a><br>(<a href=\"https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub\">https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub</a>)</p>\n<p>Updates on Tuesdays and Fridays</p>",
+    "description": "<p>The unofficial community bug fix mod - <strong>Over 900 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French</p>\n<p>If you would like to add a language that you translated directly into this mod, please reach out to me!<br><br>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p><strong>Items: 358 changed<br>Attacks/Spells: 369 changed<br>Classes/Feats/Passives/Reactions: 191 changed</strong></p>\n<p>The changelog has now exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a><br>(<a href=\"https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub\">https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub</a>)</p>\n<p>Updates on Tuesdays and Fridays</p>",
     "date_added": 1734434091,
-    "date_updated": 1767125616,
+    "date_updated": 1767391034,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -75874,15 +75874,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7208894,
+      "id": 7223016,
       "mod_id": 4561805,
-      "version": "4.1.5.1",
-      "filename": "itembugfix_010e73d5-9342-e528-ehot.zip",
-      "changelog": "- 'Aspect of the Beast: Wolverine' now correctly only triggers on attacks\n- 'Soul Branding' has been returned to providing a 5m movement speed increase, with descriptions changed to match\n- Armour of Moonbasking 'Lunar Vitality' is no longer incorrectly removed when dismissing Disguise Self or switching Starry Forms while affected by a Starry Form\n- Potion of Angelic Reprieve now correctly resets the cooldown of all item abilities which have a Short Rest cooldown, and also correctly displays the condition 'Potion of Angelic Reprieve' when used\n- 'Animal Friendship' now provides Advantage on Animal Handling checks, mirroring 5e functionality (thank you Bert for the idea)\n- Minor code improvements",
-      "date_added": 1767125587,
+      "version": "4.1.6.2",
+      "filename": "itembugfix_010e73d5-9342-e528-2l6f.zip",
+      "changelog": "- Divination School 'Expert Divination' prophecy completions are now correctly limited to once per attack outside of combat\n- The Emperor should now correctly be able to cast Counterspell\n- 'Charm Animals and Plants' now references the correct condition in its description, properly functions how it is described, and warns the player that affected creatures might become hostile in higher difficulties\n- Additional technical conditions excluded from triggering on-condition effects\n- Previous change to 'Animal Friendship' reverted, as it was unfortunately too clunky given the dialogue system",
+      "date_added": 1767391004,
       "date_updated": 0,
-      "date_scanned": 1767125593,
-      "filesize": 499381,
+      "date_scanned": 1767391011,
+      "filesize": 500192,
       "platforms": [
         {
           "platform": "windows",
@@ -75976,7 +75976,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7208894
+        "modfile_live": 7223016
       }
     ]
   },
