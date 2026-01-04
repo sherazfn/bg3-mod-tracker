@@ -116887,12 +116887,12 @@
   {
     "id": 5327835,
     "game_id": 6715,
-    "name": "Axi and Cay's Cute Couple Poses",
+    "name": "Axi &amp; Cay's Cute Couple Poses",
     "name_id": "axi-cays-cute-couple-poses",
     "summary": "30 matched couple poses for BT1/BT2.",
     "description": "<h3><span style=\"text-decoration:underline;\">Console Players:</span></h3>\n<p>Because custom poses overwrite each other in photo mode, you can only use one custom pose mod at a time (right now there are only three custom pose mods for console: Axi &amp; Cay's Cute Couple Poses, Axi &amp; Cay's Hand-Holding Poses, and Axi &amp; Cay's Meme Poses — the other pose mods, such as Get a Room, Claravel's Emotes for Photo Mode, and Portrait Poses use existing in-game animations and do not add custom poses to the game). </p>\n<p>This means that ONLY ONE custom pose mod will work at a time. You can, however, add all pose mods to your load order and switch between them by disabling and re-enabling all of them — the last pose mod you enable will be the one that shows up in photo mode. </p>\n<p>We have created a mega pose pack, which includes all of our poses (and a ton more), so hopefully that will come to console soon!</p>\n<hr>\n<p><span style=\"font-size:small;\">Adds 30 matched couple poses for BT1 &amp; BT2 to photo mode. We made these poses for our characters, mostly as one-off poses for one or two photos — at the moment we're not planning to adjust them for other body types. However, they are not locked to BT1/BT2 and will show up for all body types.</span></p>\n<p>Check out our other pose packs: <a href=\"https://mod.io/g/baldursgate3/m/axi-and-cays-hand-holding-poses#description\">Axi &amp; Cay's Hand-Holding Poses</a> and <a href=\"https://mod.io/g/baldursgate3/m/axi-cays-meme-poses#description\">Axi &amp; Cay's Meme Poses</a></p>\n<p><span style=\"font-size:small;\">This pack is part of the </span><a href=\"https://www.nexusmods.com/baldursgate3/mods/19414\" rel=\"nofollow\">Compatibility Patch for Photo Mode Pose Mods</a><span style=\"font-size:small;\">; you can also find the poses in </span><a href=\"https://www.nexusmods.com/baldursgate3/mods/17737\" rel=\"nofollow\">QSAT</a><span style=\"font-size:small;\"> by searching 'AxiCay.' Otherwise, it may need to be the <strong>only custom pose mod</strong> in your load order for all poses to show up correctly in the game's photo mode menu.</span></p>\n<hr>\n<h4><u><span style=\"font-size:large;\">Special Thanks</span></u></h4>\n<p><a href=\"https://next.nexusmods.com/profile/Kit?gameId=3474\" rel=\"nofollow\">kit</a> for the rig<br><a href=\"https://next.nexusmods.com/profile/rakor1?gameId=3474\" rel=\"nofollow\">rakor</a> for QSAT and Lighty Lights<br><a href=\"https://discord.gg/fashionistas\" rel=\"nofollow\">Faerûn Fashionistas Discord Server</a></p>",
     "date_added": 1762058397,
-    "date_updated": 1765921188,
+    "date_updated": 1767552579,
     "date_live": 1762188174,
     "visible": 1,
     "status": 1,
@@ -116906,15 +116906,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/38d6/35017275/crop_100x100/bg3_dx11_2025-07-10_02-58-39_84.png"
     },
     "modfile": {
-      "id": 6897622,
+      "id": 7232676,
       "mod_id": 5327835,
-      "version": "1.0.0.19",
-      "filename": "axicay_7abb3027-fe94-e77d-6b14-gkyi.zip",
-      "changelog": null,
-      "date_added": 1762058417,
+      "version": "1.0.0.23",
+      "filename": "axicay_7abb3027-fe94-e77d-6b14-heno.zip",
+      "changelog": "Added one couple pose (Bonus Action)",
+      "date_added": 1767552296,
       "date_updated": 0,
-      "date_scanned": 1762058427,
-      "filesize": 1014813,
+      "date_scanned": 1767552306,
+      "filesize": 1063794,
       "platforms": [
         {
           "platform": "windows",
@@ -116922,15 +116922,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -116970,10 +116970,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6897622
-      },
-      {
         "platform": "mac",
         "modfile_live": 6897622
       },
@@ -116984,6 +116980,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6897622
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7232676
       }
     ]
   },
