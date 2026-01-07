@@ -58323,7 +58323,7 @@
     "summary": "All resources, including spells granted by magic items, projectiles, teleport spells, and Wild Shape forms, will be replenished. The 'Illithid Wisdom check' can be used infinitely, in or out of combat, with no short or long rest needed.",
     "description": "<h2><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/sfr_infinitespellcasting1.1.png\" alt=\"\" width=\"200\" height=\"200\">    <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/sfr_infinitespellcasting-intro1.png\" alt=\"\" width=\"512\" height=\"292\"></h2>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\"><strong><span style=\"font-size:x-large;\">Infinite Spell Casting for mod.io</span></strong> <br><br><span style=\"font-size:large;\">This passive ability, when toggled on, grants the following effects:</span></p>\n<ul style=\"font-family:Roboto, sans-serif;font-size:large;color:#00ff00;\">\n<li><strong>Illithid Wisdom Check</strong> can be used infinitely.</li>\n<li><strong>Illithid Powers</strong> are fully replenished.</li>\n<li>All <strong>resources</strong> and <strong>spells</strong> — including those granted by magic items, projectiles, teleportation spells, and <strong>Wild Shape</strong> forms — are replenished.</li>\n<li>All <strong>melee</strong> and <strong>ranged weapon attacks</strong> can be used without limitation.</li>\n<li>No <strong>Short Rest</strong> or <strong>Long Rest</strong> is required.</li>\n<li>These effects apply both <strong>in and out of combat</strong>.</li>\n</ul>\n<p style=\"font-family:Roboto, sans-serif;font-size:large;color:#00ff00;\">The passive is automatically granted when loading a save or when a character joins the party. By default, it is toggled <strong>ON</strong>.<br>Characters leaving the party will remember their toggle state. When they rejoin, the passive toggle will be <strong>restored</strong> accordingly.</p>\n<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/sfr_infinitespell_clean.png\" alt=\"\" width=\"100\" height=\"100\"></p>\n<p style=\"font-family:Roboto, sans-serif;font-size:large;color:#00ff00;\">You also get:<br><strong>Passive: Replenishes Cleanness</strong> (default OFF)<br>If toggled on, the character will be <strong>washed</strong> and cleared of <strong>blood</strong> and <strong>grime</strong> after combat or healing.</p>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;font-size:large;\"><strong>Replenished Resources:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Spells &amp; Abilities</th>\n<th>Interrupts &amp; Charges</th>\n<th>Other Resources</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Spell Slots</td>\n<td>Hellish Rebuke Charges (Tiefling &amp; Warlock MI)</td>\n<td>Wild Shape</td>\n</tr>\n<tr>\n<td>Bardic Inspiration</td>\n<td>Entropic Ward Charges</td>\n<td>Warlock Spell Slots</td>\n</tr>\n<tr>\n<td>Channel Divinity</td>\n<td>Illusory Self Charges</td>\n<td>Sorcery Points</td>\n</tr>\n<tr>\n<td>Superiority Dice</td>\n<td>Psionic Dominance Charges (TAD)</td>\n<td>Ki Points</td>\n</tr>\n<tr>\n<td>Weapon Action Points</td>\n<td>Luck of the Far Realms Charges</td>\n<td>Psi Points</td>\n</tr>\n<tr>\n<td>Arcane Recovery Points</td>\n<td>Deflect Missiles Charges</td>\n<td>Shadow Spell Slots</td>\n</tr>\n<tr>\n<td>Natural Recovery Points</td>\n<td>Legendary Resistance Charges</td>\n<td>Astral Plane Points</td>\n</tr>\n<tr>\n<td>Ritual Points</td>\n<td>War Priest Charges</td>\n<td>Hit Dice</td>\n</tr>\n<tr>\n<td>Lay on Hands Charges</td>\n<td>Tides of Chaos</td>\n<td>Rage</td>\n</tr>\n<tr>\n<td>Channel Oath</td>\n<td>Fungal Infestation Charges</td>\n<td>Illithid Wisdom Check</td>\n</tr>\n<tr>\n<td>Polymorph</td>\n<td> </td>\n<td>Luck Points</td>\n</tr>\n<tr>\n<td>Telekinesis</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>ArcaneShot <em>(New in Patch #8)</em></td>\n<td> </td>\n<td>StarMapPoint <em>(New in Patch #8)</em></td>\n</tr>\n<tr>\n<td>Bladesong <em>(New in Patch #8)</em></td>\n<td>CurvingShot_Charge <em>(New in Patch #8)</em></td>\n<td>CosmicOmen <em>(New in Patch #8)</em></td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>SwarmCharge <em>(New in Patch #8)</em></td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>WrithingTidePoint <em>(New in Patch #8)</em></td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>TwinklingConstitution_Charge <em>(New in Patch #8)</em></td>\n</tr>\n</tbody>\n</table>\n<p>--------------------------------------------------------------------------------------------------------------------------------------</p>\n<p><strong>Credits:</strong><br>A big thanks to <a style=\"color:#00ff00;\" href=\"https://next.nexusmods.com/profile/Lernos/about-me?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">Lernos</a> for testing, identifying issues, and helping to improve this mod.</p>\n<p>---------------------------------------------------------------------------------------------------------------------------------------</p>\n<p> </p>",
     "date_added": 1729344552,
-    "date_updated": 1766074130,
+    "date_updated": 1767809454,
     "date_live": 1729347013,
     "visible": 1,
     "status": 1,
@@ -58337,15 +58337,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 7154592,
+      "id": 7244459,
       "mod_id": 4425316,
-      "version": "5.1.8.14",
-      "filename": "infinitespellcasting_5639dc7b-4iv1.zip",
-      "changelog": "Adjusted the effect of toggling passives on/off.",
-      "date_added": 1766074011,
+      "version": "5.2.8.0",
+      "filename": "infinitespellcasting_5639dc7b-8tgy.zip",
+      "changelog": "Illithid Wisdom checks now work infinitely and have been fully optimized.",
+      "date_added": 1767809275,
       "date_updated": 0,
-      "date_scanned": 1766074042,
-      "filesize": 17605643,
+      "date_scanned": 1767809308,
+      "filesize": 17800671,
       "platforms": [
         {
           "platform": "windows",
@@ -58409,7 +58409,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7154592
+        "modfile_live": 7244459
       }
     ]
   },
