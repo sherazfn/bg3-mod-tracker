@@ -8855,10 +8855,10 @@
     "game_id": 6715,
     "name": "featsextra modio version",
     "name_id": "featsextra-modio-version",
-    "summary": "Adds feats 2.0.0.8 Fix: Crossbow Expert (spell/ attacks in melee, BA attack after attacking with a handcrossbow)",
-    "description": "<p>FURTHER INFORMATION ABOUT THE FEATS: <a href=\"https://www.nexusmods.com/baldursgate3/mods/167\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nexusmods.com/baldursgate3/mods/167</a></p>\n<p>NOTE: NO FEATS ARE LIMITED BY RACE (unable to do atm...and player choice)</p>\n<p>2.0.0.8 Fix: Crossbow Expert (spell/ attacks in melee, BA attack after attacking with a handcrossbow)</p>\n<p>2.0.0.7 Fix: Dracon Hide (AC)</p>\n<p>2.0.0.5 Fix: Dwarven Fortitude</p>\n<p>2.0.0.3 Add: Slasher feat</p>\n<p>2.0.0.1 Change version numbers only</p>\n<p>1..0.0.46 Add: Slasher feats</p>\n<p>1.0.0.55 ShadowTouched- supports Ray of Sickness, Inflict Wounds, False Life, Color Spray.</p>\n<p>1.0.0.48 FeyTouched- supports bless, hex, huntersmark, dissonant whispers, hideous laughter, command</p>\n<p>1.0.0.141 Dwarven Fortitude, Wood Elf magic, Vigor of the Hill Giant, Strike of the Giants, Svirfneblin Magic (later requires 5e spells for non detection spell),</p>\n<p>1.0.0.136 Squat Nimbleness</p>\n<p>1.0.0.130 Add potion: current use is to add and remove the dodge action.</p>\n<p>1.0.0.115 Eldritch Adept, Soul of the Storm Giant</p>\n<p>1.0.0.113 Skulker </p>\n<p>1.0.0.111 Fix: missing animation for Dragon Hide Claw attack.</p>\n<p>1.0.0.97 Rune Shaper, Remarkable Recovery</p>\n<p>1.0.0.80 Keenness of the Stone Giant, Metamagic Adept, Poisoner Feat</p>\n<p>1.0.0.78 Healer, Infernal Constitution, Inspiring Leader</p>\n<p>1.0.0.73 Guile of the Frost Giant</p>\n<p>1.0.0.57</p>\n<p>Gift of Chromatic, Gem and Metallic Dragons</p>\n<p>1.0.0.54</p>\n<p>Fury of the Frost Giant</p>\n<p>Flames Of Phlegethos (only cantrips supported is firebolt)</p>\n<p>Fighting Initiative</p>\n<p>FadeAway</p>\n<p>Everybodys Friend</p>\n<p>Piercer Dragon Hide  </p>\n<p>1.0.042 Observant</p>\n<p>V1.0.0.35 Telekinetic</p>\n<p>V1.0.0.30 Ember Of The Fire Giant</p>\n<p>V1.0.0.15 Bountiful Luck</p>\n<p>V1.0.0.12 Crusher</p>\n<p>V1.00 Elven Accuracy</p>\n<p>Massive thanks for Djmr (more feats) and Riesun28 (expanded feats).!!</p>",
+    "summary": "Adds feats 2.0.0.10 Fix: Infernal Constution- now get advantage on saves vs Poison.",
+    "description": "<p>FURTHER INFORMATION ABOUT THE FEATS: <a href=\"https://www.nexusmods.com/baldursgate3/mods/167\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nexusmods.com/baldursgate3/mods/167</a></p>\n<p>NOTE: NO FEATS ARE LIMITED BY RACE (unable to do atm...and player choice)</p>\n<p>2.0.0.10 Fix: Infernal Constitution- now get advantage on saves vs Poison.</p>\n<p>2.0.0.8 Fix: Crossbow Expert (spell/ attacks in melee, BA attack after attacking with a handcrossbow)</p>\n<p>2.0.0.7 Fix: Dracon Hide (AC)</p>\n<p>2.0.0.5 Fix: Dwarven Fortitude</p>\n<p>2.0.0.3 Add: Slasher feat</p>\n<p>2.0.0.1 Change version numbers only</p>\n<p>1..0.0.46 Add: Slasher feats</p>\n<p>1.0.0.55 ShadowTouched- supports Ray of Sickness, Inflict Wounds, False Life, Color Spray.</p>\n<p>1.0.0.48 FeyTouched- supports bless, hex, huntersmark, dissonant whispers, hideous laughter, command</p>\n<p>1.0.0.141 Dwarven Fortitude, Wood Elf magic, Vigor of the Hill Giant, Strike of the Giants, Svirfneblin Magic (later requires 5e spells for non detection spell),</p>\n<p>1.0.0.136 Squat Nimbleness</p>\n<p>1.0.0.130 Add potion: current use is to add and remove the dodge action.</p>\n<p>1.0.0.115 Eldritch Adept, Soul of the Storm Giant</p>\n<p>1.0.0.113 Skulker </p>\n<p>1.0.0.111 Fix: missing animation for Dragon Hide Claw attack.</p>\n<p>1.0.0.97 Rune Shaper, Remarkable Recovery</p>\n<p>1.0.0.80 Keenness of the Stone Giant, Metamagic Adept, Poisoner Feat</p>\n<p>1.0.0.78 Healer, Infernal Constitution, Inspiring Leader</p>\n<p>1.0.0.73 Guile of the Frost Giant</p>\n<p>1.0.0.57</p>\n<p>Gift of Chromatic, Gem and Metallic Dragons</p>\n<p>1.0.0.54</p>\n<p>Fury of the Frost Giant</p>\n<p>Flames Of Phlegethos (only cantrips supported is firebolt)</p>\n<p>Fighting Initiative</p>\n<p>FadeAway</p>\n<p>Everybodys Friend</p>\n<p>Piercer Dragon Hide  </p>\n<p>1.0.042 Observant</p>\n<p>V1.0.0.35 Telekinetic</p>\n<p>V1.0.0.30 Ember Of The Fire Giant</p>\n<p>V1.0.0.15 Bountiful Luck</p>\n<p>V1.0.0.12 Crusher</p>\n<p>V1.00 Elven Accuracy</p>\n<p>Massive thanks for Djmr (more feats) and Riesun28 (expanded feats).!!</p>",
     "date_added": 1723449759,
-    "date_updated": 1764867481,
+    "date_updated": 1768118096,
     "date_live": 1723450089,
     "visible": 1,
     "status": 1,
@@ -8872,15 +8872,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/56f9/32864333/crop_100x100/90903142-2a62-4855-a503-f0ee982.png"
     },
     "modfile": {
-      "id": 7008696,
+      "id": 7258770,
       "mod_id": 4254493,
-      "version": "2.0.0.8",
-      "filename": "featsextra_modio_3de3f968-38e2-dwzf.zip",
-      "changelog": "Adds feats 2.0.0.8 Fix: Crossbow Expert (spell/ attacks in melee, BA attack after attacking with a handcrossbow)",
-      "date_added": 1763291725,
+      "version": "2.0.0.10",
+      "filename": "featsextra_modio_3de3f968-38e2-6jwk.zip",
+      "changelog": "2.0.0.10 Fix: Infernal Constitution- now get advantage on saves vs Poison.",
+      "date_added": 1768118045,
       "date_updated": 0,
-      "date_scanned": 1763291762,
-      "filesize": 20130163,
+      "date_scanned": 1768118081,
+      "filesize": 20130186,
       "platforms": [
         {
           "platform": "windows",
@@ -8888,15 +8888,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -8936,10 +8936,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7008696
-      },
-      {
         "platform": "mac",
         "modfile_live": 7008696
       },
@@ -8950,6 +8946,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7008696
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7258770
       }
     ]
   },
