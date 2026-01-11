@@ -114915,10 +114915,10 @@
     "game_id": 6715,
     "name": "Hunting Gear: 6 outfits for BT1 + BT3",
     "name_id": "hunting-gear",
-    "summary": "UPDATED for BT3! Three outfits with two colour variants each following a hunter/raider theme.",
-    "description": "<div style=\"text-align:center;\"><span style=\"font-family:'Courier New';font-size:medium;\">Three outfits with two colour variants each following a hunter/raider theme!<br><br>All outfits are camp clothing for humanoid F only. </span></div>\n<p> </p>\n<div style=\"text-align:center;\"><span style=\"font-family:'Courier New';font-size:medium;\">BT3 versions may look slightly different or have clipping as I'm still new to modding and editing meshes.<br>The second outfit may look odd if you use Unique Tav because it includes an edit of the character body mesh. It is still usable but just may not match your character's skintone!<br><br>Outfits can be found in the tutorial chest in a backpack called \"Hunting Supplies\".<br><br>I am happy to take requests if you would like a different colour combination for any of the outfits!<br><br>You are welcome to convert them to other bodytypes! I am new to modding so like to stick to the bodytypes I play most.<br><br></span><br><span style=\"font-family:'Courier New';font-size:small;\">lmk if any issues hope u like it</span></div>\n<div style=\"text-align:center;\">if you feel like it you can support me at kofi.com/clloudiie :)</div>",
+    "summary": "UPDATED armour versions added! Three outfits with two colour variants each following a hunter/raider theme.",
+    "description": "<div><strong>[11/1/26]: </strong>added armour versions! the full outfit in one slot, so might be some clipping with other armour pieces.</div>\n<div> </div>\n<div style=\"text-align:center;\"><span style=\"font-family:'Courier New';font-size:medium;\">Three outfits with two colour variants each following a hunter/raider theme!<br><br>All outfits are for humanoid F only.</span></div>\n<p> </p>\n<div style=\"text-align:center;\"><span style=\"font-family:'Courier New';font-size:medium;\">BT3 versions may look slightly different or have clipping as I'm still new to modding and editing meshes.<br>The second outfit may look odd if you use Unique Tav because it includes an edit of the character body mesh. It is still usable but just may not match your character's skintone!<br><br>Outfits can be found in the tutorial chest in a backpack called \"Hunting Supplies\".<br><br>I am happy to take requests if you would like a different colour combination for any of the outfits!<br><br>You are welcome to convert them to other bodytypes! I am new to modding so like to stick to the bodytypes I play most.<br><br></span><br><span style=\"font-family:'Courier New';font-size:small;\">lmk if any issues hope u like it</span></div>\n<div style=\"text-align:center;\">if you feel like it you can support me at kofi.com/clloudiie :)</div>",
     "date_added": 1757034015,
-    "date_updated": 1760621205,
+    "date_updated": 1768102754,
     "date_live": 1757034535,
     "visible": 1,
     "status": 1,
@@ -114932,15 +114932,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d9fa/49848546/crop_100x100/20250921122641.png"
     },
     "modfile": {
-      "id": 6754908,
+      "id": 7257986,
       "mod_id": 5215780,
-      "version": "1.0.0.7",
-      "filename": "cld_hunter_861f4e0f-613e-f935-hbzu.zip",
-      "changelog": "added outfits for bt3!",
-      "date_added": 1757323774,
+      "version": "1.0.0.11",
+      "filename": "cld_hunter_861f4e0f-613e-f935-5yyh.zip",
+      "changelog": "added armour versions!",
+      "date_added": 1768101780,
       "date_updated": 0,
-      "date_scanned": 1757323900,
-      "filesize": 27188235,
+      "date_scanned": 1768101812,
+      "filesize": 18960873,
       "platforms": [
         {
           "platform": "windows",
@@ -114948,24 +114948,24 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
     "logo": {
-      "filename": "20250904143117.1.png",
-      "original": "https://image.modcdn.io/mods/0524/5215780/20250904143117.1.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/0524/5215780/crop_320x180/20250904143117.1.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/0524/5215780/crop_640x360/20250904143117.1.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/0524/5215780/crop_1280x720/20250904143117.1.png"
+      "filename": "20250904143117.2.png",
+      "original": "https://image.modcdn.io/mods/0524/5215780/20250904143117.2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0524/5215780/crop_320x180/20250904143117.2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0524/5215780/crop_640x360/20250904143117.2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0524/5215780/crop_1280x720/20250904143117.2.png"
     },
     "tags": [
       {
@@ -115031,10 +115031,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6754908
-      },
-      {
         "platform": "mac",
         "modfile_live": 6754908
       },
@@ -115045,6 +115041,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6754908
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7257986
       }
     ]
   },
