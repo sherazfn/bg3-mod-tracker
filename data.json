@@ -8509,7 +8509,7 @@
     "summary": "Hand-created armor set with a militaristic dieselpunk aesthetic inspired by Trench Crusade. Flavored as gear issued to select mortal conscripts in the Blood War. The Dogs That Went to Hell module recommended for distributing items in Act 1.",
     "description": "<p><strong>Note on Updating/Uninstalling</strong></p>\n<ul>\n<li>There is currently still a bug in the base game itself that causes system file errors (cannot delete old version) when trying to uninstall or update mods with Virtual Textures in them. This is one such mod.</li>\n<li><strong>Workaround: </strong>Disable the mod, restart the game first, and then either uninstall or update the mod.</li>\n<li>If you skip over this and open a bug report about this I hope you step on a lego</li>\n</ul>\n<p>=================================================================================================================</p>\n<p>Some meshes were sourced from Sketchfab with permission to use in public projects:</p>\n<p><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;background-color:#444444;\">\"M35 Stahlhelm german helmet\" (https://skfb.ly/oEJu8) by Cyril Demetrius is licensed under Creative Commons Attribution (<a href=\"https://creativecommons.org/licenses/by/4.0/)\">https://creativecommons.org/licenses/by/4.0/)</a>.</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;background-color:#444444;\">\"WW2 German Wehrmacht Soldier\" (https://skfb.ly/68NDs) by Tactical_Beard is licensed under Creative Commons Attribution (<a href=\"https://creativecommons.org/licenses/by/4.0/)\">https://creativecommons.org/licenses/by/4.0/)</a>.</span></p>\n<p>Mesh for the hood, elbow and knee plates were sourced from vanilla assets, and handwraps are also taken directly from vanilla assets.</p>\n<p>All other meshes and all textures (excluding the handwraps) were created by me for this project. Design inspired by a piece of Trench Crusade concept art by Mike Franchina. </p>\n<p> </p>\n<p>Armor comes in four rarities sharing the same visuals. </p>\n<p> </p>\n<ul>\n<li>Common set looted from Tutorial chest with potions on the Nautiloid</li>\n<li>Uncommon set sold by Dammon in Act 1</li>\n<li>Rare chestpiece sold by Dammon in Act 2</li>\n<li>Rare chestpiece sold by Lann Tarv in Act 2</li>\n<li>Rare helmet sold by/dropped by Hoarding Merregon with Yurgir's retinue in Act 2</li>\n<li>Very Rare set sold by Dammon in Act 3</li>\n<li>Very Rare set sold by Helsik (special stock) in Act 3</li>\n</ul>",
     "date_added": 1723337270,
-    "date_updated": 1768098159,
+    "date_updated": 1768138401,
     "date_live": 1723337678,
     "visible": 1,
     "status": 1,
@@ -8523,30 +8523,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/e524/34023097/crop_100x100/f1ba731029019961adf2ed158c73d24.jpg"
     },
     "modfile": {
-      "id": 5859562,
+      "id": 7257753,
       "mod_id": 4250783,
-      "version": "2.0.0.80",
-      "filename": "avernuswarhound_a3298c95-d6d5-otqo.zip",
-      "changelog": "- fixed Gith type 1 bodies not taking progression visuals",
-      "date_added": 1734048169,
+      "version": "2.0.0.81",
+      "filename": "avernuswarhound_a3298c95-d6d5-4xps.zip",
+      "changelog": "- PC only update for The Dogs That Went to Hell: just removes armor pieces from Act 1 and Act 2 vendors",
+      "date_added": 1768098152,
       "date_updated": 0,
-      "date_scanned": 1734048332,
-      "filesize": 164312608,
+      "date_scanned": 1768098405,
+      "filesize": 164312734,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -8642,10 +8630,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 5859562
-      },
-      {
         "platform": "mac",
         "modfile_live": 5859562
       },
@@ -8656,6 +8640,10 @@
       {
         "platform": "ps5",
         "modfile_live": 5859562
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7257753
       }
     ]
   },
