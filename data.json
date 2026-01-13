@@ -75065,6 +75065,11 @@
         "date_added": 0
       },
       {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
         "name": "Visual Effects",
         "name_localized": "Visual Effects",
         "date_added": 0
@@ -75105,63 +75110,8 @@
         "date_added": 0
       },
       {
-        "name": "Barbarian",
-        "name_localized": "Barbarian",
-        "date_added": 0
-      },
-      {
-        "name": "Bard",
-        "name_localized": "Bard",
-        "date_added": 0
-      },
-      {
-        "name": "Cleric",
-        "name_localized": "Cleric",
-        "date_added": 0
-      },
-      {
-        "name": "Druid",
-        "name_localized": "Druid",
-        "date_added": 0
-      },
-      {
-        "name": "Fighter",
-        "name_localized": "Fighter",
-        "date_added": 0
-      },
-      {
-        "name": "Monk",
-        "name_localized": "Monk",
-        "date_added": 0
-      },
-      {
-        "name": "Paladin",
-        "name_localized": "Paladin",
-        "date_added": 0
-      },
-      {
-        "name": "Ranger",
-        "name_localized": "Ranger",
-        "date_added": 0
-      },
-      {
-        "name": "Rogue",
-        "name_localized": "Rogue",
-        "date_added": 0
-      },
-      {
-        "name": "Sorcerer",
-        "name_localized": "Sorcerer",
-        "date_added": 0
-      },
-      {
-        "name": "Warlock",
-        "name_localized": "Warlock",
-        "date_added": 0
-      },
-      {
-        "name": "Wizard",
-        "name_localized": "Wizard",
+        "name": "All Classes",
+        "name_localized": "All Classes",
         "date_added": 0
       },
       {
