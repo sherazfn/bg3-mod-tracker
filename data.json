@@ -23720,6 +23720,104 @@
     ]
   },
   {
+    "id": 4328627,
+    "game_id": 6715,
+    "name": "Lone Wolf Mode",
+    "name_id": "lone-wolf-mode",
+    "summary": "This mod is a re-creation of sp8cemonkey83's Lone Wolf Mode in the Baldur's Gate 3 Toolkit. Full credit to sp8cemonkey83 for the initial rendition of this mod. Updated for Patch 8.",
+    "description": "<p>This mod adds a passive (Under the passives tab) to every hero character which enables \"Lone Wolf Mode\"</p>\n<p>This passive makes the following changes to the game:</p>\n<ul>\n<li>1 additional Action charge</li>\n<li>Increased hit points by 30%</li>\n<li>Increased carrying capacity by 50%</li>\n<li>1d4 bonus to all d20 rolls</li>\n<li>More frequent use of their weapon actions (Once per Battle, as compared to Once per Short Rest)</li>\n</ul>\n<p>The \"Lone Wolf Mode\" can only be disabled by disabling the mod from the Mod Manager Menu..<br>For optimal experience, it is advisable to only bring a maximum of two party members but no limitations exist in the mod which prevents larger parties.</p>\n<p>Mods that override any of the characters may break the implementation of this mod and not add the passive.</p>\n<p> </p>\n<p>Credit(s)</p>\n<p>This mod is a re-creation of sp8cemonkey83's Lone Wolf Mode in the Baldur's Gate 3 Toolkit.<br>Full credit to sp8cemonkey83 for the initial rendition of this mod.<br>sp8cemonkey83 has provided their consent to re-publish their mod using the Baldur's Gate 3 Toolkit.<br>Please check out their page for more content!</p>",
+    "date_added": 1725902315,
+    "date_updated": 1768407965,
+    "date_live": 1725902525,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/lone-wolf-mode",
+    "submitted_by": {
+      "id": 10187079,
+      "name_id": "adiannon",
+      "username": "Adiannon",
+      "profile_url": "https://mod.io/u/adiannon",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2c76/10187079/crop_100x100/5b8d0e6b9b27b5ddfbea67746012041.jpg"
+    },
+    "modfile": {
+      "id": 6340523,
+      "mod_id": 4328627,
+      "version": "1.1.0.8",
+      "filename": "lone_wolf_86d8304f-f656-87ac-9-6spv.zip",
+      "changelog": "Added condition to only apply the effect to allies.",
+      "date_added": 1746464279,
+      "date_updated": 0,
+      "date_scanned": 1746464293,
+      "filesize": 366177,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/68ab/4328627/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/68ab/4328627/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/68ab/4328627/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/68ab/4328627/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6340523
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6340523
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6340523
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6340523
+      }
+    ]
+  },
+  {
     "id": 4328699,
     "game_id": 6715,
     "name": "XP-Multiplier(x10)",
@@ -74713,6 +74811,109 @@
     ]
   },
   {
+    "id": 4542004,
+    "game_id": 6715,
+    "name": "Ghost's Deck Of Many Feats (Patch 8 READY)",
+    "name_id": "ghosts-deck-of-many-feats",
+    "summary": "FEAT This Mod add more than ** Feats",
+    "description": "<p><strong>1.Close fighter</strong><br><em>Can use reaction to hit anyone who enter your range</em></p>\n<p><strong>2.Spellcaster Expert</strong><br><em>+1 Spellslot 1, 2, 3 and 4</em><br><em>+1 Intelligence, Charisma or Wisdom</em><br><em>+3 spell save DC</em></p>\n<p><strong>3.Master of Archery</strong><br><em>+3 archery</em><br><em>+1 Strength or +1 Dexterity </em></p>\n<p><strong>4.Critical Expert</strong><br><em>-3 roll to CRIT</em></p>\n<p><strong>5.Sword Master</strong><br><em>+3 sword</em></p>\n<p><em>+1 Strength or dexterity </em></p>\n<p><strong>6.Reactive</strong><br><em>- you can do 3 reactions</em><br><em>+5 initiative</em></p>\n<p><strong>7.Fast hands</strong><br><em>It gives you a passive extra bonus action</em></p>\n<p><strong>8.Extra action</strong><br><em>It gives you a passive extra action</em></p>\n<p><strong>9.Slayer of the weak</strong><br><em>Can use riposte as a reaction if the enemy miss you</em></p>\n<p><strong>10.Second Chance</strong><br><em>Once per battle you die you return with 1 Hit Point</em></p>\n<p><strong>11.Death Essence</strong><br><em>Every time you kill someone you heal </em><br><em>1d8 Hit Points</em></p>\n<p><strong>12.Talking one</strong><br><em>you really enjoy talking with every creature dead or alive</em><br><em>+1 charisma</em><br><em>+5 persuasion</em></p>\n<p><em>+speak with dead</em><br><em>+speak with animals</em></p>\n<p><strong>13. Exceptional Mind </strong></p>\n<p>Can chose one of the effects to your Character</p>\n<ul>\n<li><strong>BurningMind</strong><br>You can deal a 1d8 fire damage + charisma</li>\n<li><strong>Cold Mind</strong><br>You can deal a 1d8 ice damage + intelligence</li>\n<li><strong>Eletric Mind</strong><br>You can deal a 1d8 lightning damage + dexterity</li>\n<li><strong>Dark Mind</strong><br>You can deal a 1d8 necrotic damage +con</li>\n<li><strong>Strong Mind</strong><br>You can deal a 1d8 force damage +strength</li>\n<li><strong>DivineMind</strong><br>You deal a 1d8 radiant damage + wisdom</li>\n</ul>\n<p><strong>14.Body Guard</strong><br><em>+2 Ac class</em></p>\n<p><strong>15.What a joke</strong><br><em>Every time you misses an enemy within melee range it gets hideous laughter</em></p>\n<p><strong>16.Dumb luck</strong><br><em>You are just very lucky for no reason</em></p>\n<p><em>It gain a d4 on checks</em></p>\n<p><strong>17.Battlemage</strong><br><em>Every time you hit an enemy you get +2 arcane acuity</em></p>\n<p><strong>18.Hit and Run</strong><br><em>On CRIT you cause prone to the target, and also gain +3 momentum</em></p>\n<p><strong>19.Assassins Frenzy</strong><br><em>Once per turn you kill a target you get 1 extra action</em></p>\n<p><strong>20.Eagle vision</strong><br><em>+10 perception</em><br><em>+5 survival</em></p>\n<p><strong>21.Erudite scholar</strong><br><em>+1 intelligence, +1 wisdom or +1 charisma</em><br><em>+10 religion +10 history +10 arcane</em></p>\n<p><strong>22. Drinking Problem</strong><br><em>Deal a passive D4 fire Damage</em><br><em>Deal one more D4 fire and thunder damage while drunk.</em></p>\n<p><strong>23. NoOne</strong></p>\n<p><em>While Shapeshifting, you gain +5 Deception +5 Persuasion +5 performance.</em></p>\n<p><strong>24. Mind Reader</strong><br><em>Enemies have disadvantages against you, and you gain 1d4 on attack Rolls</em><br><em>Can always cast Detect Thoughts </em></p>\n<p><strong>25. Combat Agility</strong><br><em>Can dash, Sneak and disengage with a bonus action </em></p>\n<p><strong>26. Defensive Parry</strong><br>Can reduce the damage you receive by 1d12, it costs a reaction point</p>\n<p><strong>27. Pride of the guild</strong><br><em>+5 Stealth</em><br><em>+5 Sleight of hand</em></p>\n<p><strong>28. Magic Restoration </strong><br><em>You can always restore empty spell slots</em><br><em>(only spells that you have consumed)</em></p>\n<p><strong>29. Ki restoration</strong><br><em>You can always restore your kit points</em><br><em>(only ki points that you have consumed)</em></p>\n<p><strong>30. Animage</strong></p>\n<p><em>Can chose one of the creatures to always transform into</em></p>\n<ul>\n<li><strong>Cat, </strong><strong>Spider, </strong><strong>Raven, </strong><strong>Wolf, Dilofosaurus, Panther, SaberTooth, Bear, OwlBear and others</strong></li>\n</ul>\n<p><strong>31.Flying Ability</strong></p>\n<ul>\n<li>Angelic ascension</li>\n<li>Devilish Descent<br><br></li>\n</ul>\n<p><strong>32.The Hidden One</strong><br>can always become invisible with a bonus action</p>\n<p><strong>32.Dimensional Traveler</strong></p>\n<ul>\n<li>You can always teleport as bonus action</li>\n<li>You can always cast a dimensional door using an action and a bonus action</li>\n<li>you can always hide himself in other plane</li>\n</ul>\n<p><strong>33.Multiple Targets</strong><br>Your arrows now hit three enemies at a time.</p>\n<p> </p>\n<p>Anymore suggestions or ideias just leave a comment. =D</p>",
+    "date_added": 1733664975,
+    "date_updated": 1768407515,
+    "date_live": 1733664975,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ghosts-deck-of-many-feats",
+    "submitted_by": {
+      "id": 39631696,
+      "name_id": "iamtheghoost",
+      "username": "TheGhoost_",
+      "profile_url": "https://mod.io/u/iamtheghoost",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/9d35/39631696/crop_100x100/capturadetela2024-11-182142.png"
+    },
+    "modfile": {
+      "id": 6517312,
+      "mod_id": 4542004,
+      "version": "2.0.0.3",
+      "filename": "homemade_feats_and_itens_ac319-bblj.zip",
+      "changelog": "Some Buffs and Nerfs",
+      "date_added": 1751220051,
+      "date_updated": 0,
+      "date_scanned": 1751220377,
+      "filesize": 3007720,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "ghostsdeckofmanyfeatslogo.png",
+      "original": "https://image.modcdn.io/mods/b74f/4542004/ghostsdeckofmanyfeatslogo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b74f/4542004/crop_320x180/ghostsdeckofmanyfeatslogo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b74f/4542004/crop_640x360/ghostsdeckofmanyfeatslogo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b74f/4542004/crop_1280x720/ghostsdeckofmanyfeatslogo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6517312
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6517312
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6517312
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6517312
+      }
+    ]
+  },
+  {
     "id": 4542154,
     "game_id": 6715,
     "name": "Vampire Origin New",
@@ -79568,6 +79769,179 @@
       {
         "platform": "ps5",
         "modfile_live": 6502000
+      }
+    ]
+  },
+  {
+    "id": 4633146,
+    "game_id": 6715,
+    "name": "Ironhand Grenadier Class",
+    "name_id": "bongle-bomber-class",
+    "summary": "Specialized deep gnome, excels in explosive warfare, crafting intricate bombs to dominate the battlefield. They deploy devastating explosives to blind, incapacitate, or obliterate foes, making them formidable in tactical operations.",
+    "description": "<h2>Ironhand Grenadier Class</h2>\n<p>The Ironhand Grenadier is a specialized deep gnome who has honed the art of explosive warfare in the treacherous depths of the earth. With an unmatched skill for crafting intricate bombs and deadly traps, they utilize their unparalleled expertise in explosive technology to bring chaos to the battlefield. Known for their quick thinking and ability to adapt under pressure, Ironhand Grenadiers have earned a reputation for their precision in deploying devastating bombs that can blind, incapacitate, or obliterate their enemies. Their mastery of explosives, combined with their deep gnome ingenuity, makes them formidable foes in both ranged combat and tactical operations.</p>\n<h2>아이언핸드 척탄병</h2>\n<p>아이언핸드 척탄병은 지하 깊은 곳에서 폭발 전술의 예술을 연마한 특수화된 딥-노움입니다. 정교한 폭탄과 치명적인 함정을 제작하는 데 있어 비할 데 없는 기술을 보유한 이들은 폭발 기술에 대한 독보적인 전문 지식을 활용하여 전장에서 혼란을 일으킵니다. 빠른 사고와 압박 속에서 적응하는 능력으로 유명한 아이언핸드 척탄병은 적을 눈멀게 하거나 무력화시키거나 완전히 제거할 수 있는 폭탄을 정확하게 배치하는 것으로 명성을 얻었습니다. 폭발물에 대한 숙련도와 딥-노움 특유의 기지가 결합되어 이들은 원거리 전투와 전술 작전 모두에서 강력한 적이 됩니다.</p>\n<table>\n<tbody>\n<tr>\n<td>Class<br>Level</td>\n<td>Class<br>Features</td>\n<td>Bongle<br>Attack (Bomb)<br>Damage</td>\n<td>Bongle<br>Bomb<br>Charges</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Expertise, Bongle Attack, Ironhand Bomb</td>\n<td>1d6</td>\n<td>3</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Experimental Alchemy</td>\n<td>1d6</td>\n<td>4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Poison Bomb, Spike Bomb, Protect from Poison</td>\n<td>2d6</td>\n<td>6</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Feat</td>\n<td>2d6</td>\n<td>7</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Flash Bomb, Shockwave Bomb, Glacier Bomb,</td>\n<td>3d6</td>\n<td>8</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Expertise, Uncanny Dodge</td>\n<td>3d6</td>\n<td>10</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Nausea Bomb, Hypno Bomb, Protect from Energy</td>\n<td>4d6</td>\n<td>12</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Feat</td>\n<td>4d6</td>\n<td>13</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Timmask Bomb, Neuro Bomb, Gravity Bomb</td>\n<td>5d6</td>\n<td>15</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Evasion</td>\n<td>5d6</td>\n<td>16</td>\n</tr>\n<tr>\n<td>11</td>\n<td> </td>\n<td>6d6</td>\n<td>18</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Feat</td>\n<td>6d6</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>",
+    "date_added": 1736482508,
+    "date_updated": 1768407573,
+    "date_live": 1736482556,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/bongle-bomber-class",
+    "submitted_by": {
+      "id": 33661205,
+      "name_id": "yoonmoonsick",
+      "username": "yoonmoonsick",
+      "profile_url": "https://mod.io/u/yoonmoonsick",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
+    },
+    "modfile": {
+      "id": 6023944,
+      "mod_id": 4633146,
+      "version": "1.3.0.7",
+      "filename": "bonglebomber_cc90d178-efa8-b52-1hae.zip",
+      "changelog": "New Feature:\n- ********* Bomb\n- Protection from Energy\n- Protection from Poison\nAdd Language Support",
+      "date_added": 1737868664,
+      "date_updated": 0,
+      "date_scanned": 1737869066,
+      "filesize": 1246742,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "file2.png",
+      "original": "https://image.modcdn.io/mods/6f90/4633146/file2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/6f90/4633146/crop_320x180/file2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/6f90/4633146/crop_640x360/file2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/6f90/4633146/crop_1280x720/file2.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      },
+      {
+        "name": "German",
+        "name_localized": "German",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Polish",
+        "name_localized": "Polish",
+        "date_added": 0
+      },
+      {
+        "name": "Russian",
+        "name_localized": "Russian",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Turkish",
+        "name_localized": "Turkish",
+        "date_added": 0
+      },
+      {
+        "name": "Portuguese - Brazil",
+        "name_localized": "Portuguese - Brazil",
+        "date_added": 0
+      },
+      {
+        "name": "Italian",
+        "name_localized": "Italian",
+        "date_added": 0
+      },
+      {
+        "name": "Ukrainian",
+        "name_localized": "Ukrainian",
+        "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
+      },
+      {
+        "name": "Japanese",
+        "name_localized": "Japanese",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6023944
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6023944
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6023944
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6023944
       }
     ]
   },
@@ -88168,6 +88542,109 @@
       {
         "platform": "ps5",
         "modfile_live": 6199384
+      }
+    ]
+  },
+  {
+    "id": 4814459,
+    "game_id": 6715,
+    "name": "AW's Arsenaaaal",
+    "name_id": "aws-equipment-arsenaaaal",
+    "summary": "This is an optional equipment mod for all my 'Class-like' mods. Though OP for standard runs, they're great with difficulty mods. More gear will be added over time, often named after players who helped design them.",
+    "description": "<p>Items are located in the Tutorial Chest. Moreover, Mattis - Mol's sidekick also sells the extra Equipment.<br><br><span style=\"text-decoration:underline;\">Please check the update notes or join our Discord for detailed information.</span><br><br>This is an optional equipment mod for all my 'Class-like' mods. Though OP for standard runs, they're great with difficulty mods. More gear will be added over time, often named after players who helped design them.</p>\n<h3><a title=\"Join Us!\" href=\"https://discord.gg/VWqtFKRp9J\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/discord.png\" alt=\"\" width=\"150\" height=\"50\"></a> <a title=\"Support Us!\" href=\"https://ko-fi.com/alovinghusbandw\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/kofi.png\" alt=\"\" width=\"150\" height=\"50\"> </a><a title=\"Subscribe Us!\" href=\"https://www.youtube.com/@alovinghusbandw\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/ytb.png\" alt=\"\" width=\"150\" height=\"50\"></a></h3>\n<h4>'Class Like' mods:<br><a title=\"[AW's] Lightning Assasssssin\" href=\"https://mod.io/g/baldursgate3/m/lightning-loot1\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Lightning Assasssssin</a><br><a title=\"[AW's] Moon Wattttcher\" href=\"https://mod.io/g/baldursgate3/m/aws-moon-wattttcher\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Moon Wattttcher</a><br><a title=\"[AW's] Dimension Breaaaaker\" href=\"https://mod.io/g/baldursgate3/m/aws-dimension-breaaaaker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Dimension Breaaaaker</a><br><a title=\"[AW's] Noxmongeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-noxmongeeeer\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Noxmongeeeer</a><br><a title=\"[AW's] Hell Walkeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-hell-walker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Hell Walkeeeer</a></h4>\n<h4>Overhaul mods:<br><a title=\"AW's Monk Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-lightning-assasssssin-knight-monk-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Monk Overhaul</a><br><a title=\"AW's Wizard Overhaul\" href=\"https://mod.io/g/baldursgate3/m/awswizardoverhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Wizard Overhaul</a><br><a title=\"AW's Ranger Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-ranger-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Ranger Overhaul</a><br><a title=\"AW's Rogue Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-rogue-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Rogue Overhaul</a><br><a title=\"AW's Barbarian Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-babarian-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Barbarian Overhaul</a></h4>\n<p>Big thanks to @XiphiasRex for creating the '<a title=\"AnimationUnlocker\" href=\"https://mod.io/g/baldursgate3/m/animationunlocker#description\" target=\"_blank\" rel=\"noopener noreferrer\">AnimationUnlocker</a>' mod and the general advices/helps on modding for all the modders.<br>Big thanks to @OhforFuksake's \"Modding With Ohfor - Baldur's Gate 3\" tutorial series. If you are also interested in making mods for BG3, he teaches in a good manner.</p>",
+    "date_added": 1742651181,
+    "date_updated": 1768407843,
+    "date_live": 1742651699,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aws-equipment-arsenaaaal",
+    "submitted_by": {
+      "id": 37506806,
+      "name_id": "alovinghusbandw",
+      "username": "AlovinghusbandW",
+      "profile_url": "https://mod.io/u/alovinghusbandw",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b20a/37506806/crop_100x100/logo.png"
+    },
+    "modfile": {
+      "id": 6494886,
+      "mod_id": 4814459,
+      "version": "1.0.0.46",
+      "filename": "awsarsenal_96c0e657-9b84-c190-70fx.zip",
+      "changelog": null,
+      "date_added": 1750669753,
+      "date_updated": 0,
+      "date_scanned": 1750669953,
+      "filesize": 27632893,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "image_info_14.1.png",
+      "original": "https://image.modcdn.io/mods/575f/4814459/image_info_14.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/575f/4814459/crop_320x180/image_info_14.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/575f/4814459/crop_640x360/image_info_14.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/575f/4814459/crop_1280x720/image_info_14.1.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6494886
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6494886
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6494886
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6494886
       }
     ]
   },
@@ -103345,6 +103822,109 @@
     ]
   },
   {
+    "id": 4963659,
+    "game_id": 6715,
+    "name": "Oath of the Phoenix",
+    "name_id": "oath-of-the-phoenix",
+    "summary": "By some they are called \"Phoenix Knights\", by others they are called \"Hellknights\" - regardless of the name they are brave warriors tempered by their belief in the holy flame.",
+    "description": "<h3><strong>Oath of the Phoenix</strong></h3>\n<p>The Oath of the Phoenix calls to those paladins who rise not only to smite the wicked, but to bring hope from ruin. These warriors are sworn to the sacred flame of rebirth, wielding divine fire as both a purifying blade and a healing balm. In the flickering light of immolation, they find absolution—through sacrifice, through courage, and through flame.</p>\n<p>The first of the Phoenix Knights hailed from the fallen city of <strong>Thalenmere</strong>, a once-glorious stronghold brought low by orcish raiders. Mortally wounded and surrounded, the last surviving knight fell to his knees in prayer—not to a god, but to the ancient flame that legends spoke of: the <strong>Distant Ember</strong>. And from the ashes of despair, it answered. Bathed in sacred fire, the knight rose anew, his soul ignited, and turned the tide alone. His name is lost to time, but his legacy burns eternal.</p>\n<p>Those who swear the Oath of the Phoenix do not fear death—they embrace it as a chapter in the endless cycle. They are knights of brotherhood and flame, who walk beside the wounded and fight on the frontlines with burning hearts.</p>\n<blockquote>\n<p>“Though my flesh may fall and my breath be spent, I shall rise with the dawn and burn with the dusk—reborn, rekindled, relentless.”<br>— Ser Thauren Firewake<br>Phoenix Knight of Thalenmere<br>Half-Elf Paladin</p>\n</blockquote>\n<hr>\n<h3><strong>Tenets of the Phoenix</strong></h3>\n<p><strong>Embrace the Flame.</strong><br>I swear to wield the unyielding power of fire, letting it be both my weapon and my shield. I will not fear its destructive force but instead, channel it to bring justice to the world.</p>\n<p><strong>Destruction for Redemption.</strong><br>I understand that sometimes, destruction is a path to renewal. I will not shy away from purging corruption with cleansing fire, seeking to bring about a rebirth of justice in the wake of chaos.</p>\n<p><strong>Courage in the Inferno.</strong><br>I shall charge into the heart of danger without hesitation, for fear is but a fleeting shadow in the face of my unwavering resolve.</p>\n<p><strong>Rebirth through Sacrifice.</strong><br>I acknowledge that true strength lies in self-sacrifice. I am prepared to lay down my life for the greater good, trusting in the flame to purify and grant me the chance to rise again, stronger than before.</p>\n<hr>\n<h3><strong>Oath Spells</strong></h3>\n<div>\n<div>\n<table class=\"w-fit min-w-(--thread-content-width)\">\n<thead>\n<tr>\n<th>Paladin Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>Burning Hands, Hellish Rebuke</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>Flame Blade, Heat Metal</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>Fireball, Fly</td>\n</tr>\n<tr>\n<td>13th</td>\n<td>Fire Shield, Wall of Fire</td>\n</tr>\n<tr>\n<td>17th</td>\n<td>Flame Strike, Mass Cure Wounds</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div> </div>\n</div>\n</div>\n</div>\n<hr>\n<h3><strong>Channel Oath Features</strong></h3>\n<p><strong>Level 1 — Flame, Lend Me Thine Aid!</strong><br>You summon a Fire Elemental that grows stronger the longer you uphold your oath.</p>\n<p><strong>Level 3 — Flame, Bless Me!</strong><br>You become engulfed in divine flame. You gain resistance to fire and radiant damage, deal bonus fire damage on weapon attacks equal to your Charisma modifier, and gain access to a fire breath weapon, a fiery diving strike, and a flame charge. Lasts 2+ rounds scaling with your Paladin level.</p>\n<p><strong>Level 3 — Flame, Renew Thine Soul!</strong><br>Emit a radiant pulse of fire from your soul. Heal allies for 2d6 + your Charisma modifier. **** 2d6 fire and radiant damage to enemies. Your HP is reduced to 1 as you burn your life force to protect others.</p>\n<hr>\n<h3><strong>Aura of the Eternalflame (Level 7)</strong></h3>\n<p>You radiate warmth and power. Allies in the aura gain Advantage on death saving throws and receive temporary hit points equal to 3 + your Charisma modifier. Enemies within the aura take 1d6 + Charisma modifier fire damage at the end of their turn (half on save).</p>\n<hr>\n<h3><strong>Flame, Grant Me Thy Spirit! (Level 15)</strong></h3>\n<p>You gain resistance to fire and radiant damage and ignore resistance to both types.</p>\n<hr>\n<h3><strong>Flame, Ignite My Very Soul! (Level 20)</strong></h3>\n<p>You unleash your full might, becoming immune to fire and radiant damage. You gain resistance to cold, necrotic, and physical damage. Your attacks and spells **** additional fire damage. When downed, you erupt in flame, restoring full HP and healing nearby allies while burning foes. This state lasts 10 turns.</p>\n<hr>\n<h3><strong>Oathbreaking</strong></h3>\n<p>If you break your oath, you fall to the Oath of Devotion, forced to reclaim your honor through penitence and flame. Though you may be seen as Devotion in dialogue, your soul still burns with the phoenix’s fire—waiting to rise again.</p>",
+    "date_added": 1748188578,
+    "date_updated": 1768407689,
+    "date_live": 1748190504,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/oath-of-the-phoenix",
+    "submitted_by": {
+      "id": 34685775,
+      "name_id": "modiouserauav",
+      "username": "bluejoe11",
+      "profile_url": "https://mod.io/u/modiouserauav",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6400013,
+      "mod_id": 4963659,
+      "version": "1.0.0.3",
+      "filename": "oathofthephoenixa_2e9e87ed-0fb-0hhi.zip",
+      "changelog": null,
+      "date_added": 1748189548,
+      "date_updated": 0,
+      "date_scanned": 1748189698,
+      "filesize": 688879,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "oathphoenix.png",
+      "original": "https://image.modcdn.io/mods/29fe/4963659/oathphoenix.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/29fe/4963659/crop_320x180/oathphoenix.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/29fe/4963659/crop_640x360/oathphoenix.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/29fe/4963659/crop_1280x720/oathphoenix.png"
+    },
+    "tags": [
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6400013
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6400013
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6400013
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6400013
+      }
+    ]
+  },
+  {
     "id": 4963677,
     "game_id": 6715,
     "name": "Bath Before Bed (Clean Camp Nights)",
@@ -104664,6 +105244,119 @@
     ]
   },
   {
+    "id": 4977322,
+    "game_id": 6715,
+    "name": "Oath Of Divine Tempest - Paladin Subclass",
+    "name_id": "oath-of-divine-tempest-paladin-subclass",
+    "summary": "Sworn to the storm, the Oath of the Divine Tempest empowers Paladins to strike with the fury of the skies. Wielding thunder, lightning, and righteous vengeance, these warriors are living conduits of divine storms, delivering swift judgment from above",
+    "description": "<h2>Game Play Style</h2>\n<p>The Oath of the Divine Tempest leans heavily into the Thor-inspired fantasy — combining lightning-infused strikes, spells, and a throwable warhammer. Currently being tested through Act 2, the subclass offers a <strong>high-power fantasy</strong> without being overtuned — it scales well and feels impactful without trivialising encounters. </p>\n<p>That said, it does grant significantly more <strong>ranged flexibility</strong> than the base Paladin, which can feel a bit overtuned in some situations — especially if you take the <strong>Tavern Brawler</strong> feat (and let’s be honest, why wouldn’t you?).</p>\n<p>I’d love to hear how others experience it. While I may tweak a few things over time, this is intended as a <strong>fully realised subclass</strong>, complete with custom spell effects, animations, and full level progression.</p>\n<h4>Modder's Notes:</h4>\n<h4>I've just released some of the Oath of Divine Tempest spells as a standalone mod. If you want to test it out with other classes without needing multi-class, you can download it here: </h4>\n<ul>\n<li><strong><a href=\"https://mod.io/g/baldursgate3/m/stormlords-arsenal-of-lighting-thunder-spells#description\">Stormlord's Arsenal Of Lightning &amp; Thunder Spells</a><br></strong></li>\n</ul>\n<p>If you like and enjoy the Oath of Divine Tempest mod I've created, you might also like trying out some of my other mods:</p>\n<ul>\n<li><strong><a href=\"https://mod.io/g/baldursgate3/m/eternal-cinder-ii-fire-monk-subclass\" target=\"_blank\" rel=\"noopener noreferrer\">Eternal Cinder - Monk Subclass (a firebending-inspired Monk subclass that turns you into a true elemental martial artist, unleashing fire from your fists, feet, and strikes)</a></strong></li>\n<li><strong><a href=\"https://mod.io/g/baldursgate3/m/void-form-feat-for-all-classes\">Void Form: Feat For All Classes (a standalone custom feat that provides a range of interesting power-ups that boost your character and a +1 ability score)</a></strong></li>\n</ul>\n<h2>[New] Level 13-20 Subclass Update</h2>\n<p>I am actively rolling out new updates for the Divine Tempest subclass to provide options to players who use level 13+ mods like Expansion or UnlockLevelCurve. The latest update (1.0.0.28) and previous update add:</p>\n<ul>\n<li>Damage scaling for core class actions (Hurl of Judgement, Stormflash and Strike From Above) and unique cantrips added (Shocking Blade and Stormstriker Slash)</li>\n<li>New Fourth and Fifth level spells (Stormrider and Destructive Wave - Lightning)</li>\n<li>New passives including Charged Storm Rider &amp; Surging Stormforged Rider.</li>\n</ul>\n<p>There are still some updates to make but this latest patch will allow players to continue putting levels into Divine Tempest past level 12.</p>\n<h2>Channel Oath Abilities</h2>\n<p>Stormflash (Lv 1)<br>Vanish in a flash of divine lightning, teleporting up to 9 m with a bonus action. Upon arrival, enemies within 2 m take lightning damage.</p>\n<p>Strike From Above (Lv 3)<br>After hurling your stormforged hammer, unleash a blast of divine lightning with a bonus action. </p>\n<h2>Forged By Storms (Subclass Feature - Lv 7)</h2>\n<p>The storm has become part of you. While this aura is active, you gain:</p>\n<ul>\n<li>Forged By Storms Aura -You are immune to Electric Surfaces and gain Resistance to Lightning damage.</li>\n<li>Charged Storms - Your lightning/thunder-based attacks generate 1 Lightning Charge and may strike your target with a stray bolt of lightning. <em>(10% chance of hit or a 19/20 roll)</em></li>\n<li>Protected From Storms - Allies within 3m are immune to Electric Surfaces and gain Resistance to Lightning damage.</li>\n</ul>\n<h2>Charged Storm Rider &amp; Surging Stormforged Rider (Subclass Feature - Lv 11 and Lv 15)</h2>\n<p>As part of the Level 13-Level 20 update, I've added two new passives that are built around the new Fourth level spell <strong>Stormrider.</strong></p>\n<p>Channel your Lightning Charges to cast Stormrider as a bonus action. Once cast, all lightning charges are consumed.</p>\n<ul>\n<li>\n<ul>\n<li>The level 11 (Charged Storm Rider) passive allows players to cast Stormrider with Level 2 spell slot</li>\n<li>The level 15 (Surging Stormforged Rider) passive allows players to cast Stormrider with Level 1 spell slot</li>\n</ul>\n</li>\n</ul>\n<h2>Unique Oath Spells/Actions</h2>\n<p><strong>Stormforged Warhammer - Class Action (Lv 1)</strong><br>Summon a warhammer forged in the heart of a divine storm. The weapon returns when thrown and deals bonus Lightning damage on impact. (<em>Can cast as a bonus action in-case the weapon gets stuck after being thrown)</em></p>\n<p><strong>Stormforge Infusion - Class Action (Lv 1)</strong><br>Channel storm energy into your weapon. The weapon returns when thrown and deals bonus Lightning damage on impact. (<em>Alternative option to the Stormforged Warhammer. Your weapon of choice will receive the same benefits, except for the progressive scaling to weapon enhancement at higher levels: +1, +2 etc</em><em>)</em></p>\n<p><strong>Shocking Blade - Cantrip (Lv 1)</strong><br>Your weapon surges with storm power. On hit, it applies the Jolted condition (1d4 Lightning damage next turn, cannot make a reaction) and, at higher levels, deals additional Lightning damage. </p>\n<p><strong>Stormstriker Slash - Cantrip (Lv 1)</strong><br>Strike your foe and mark them to be struck by lightning. If the target willingly moves on their turn, they are hit for 1d8 Lightning. At higher levels, the lightning bolt deals additional Lightning damage plus damage on hit. <em>(Essentially Booming Blade but a Lightning-variant and feel)</em></p>\n<p><strong>Hurl of Judgment - Class Action (Lv 1)</strong><br>Throw your Stormforged Warhammer, dealing Bludgeoning damage plus additional Lightning damage. The weapon returns to your hand. (<em>Added to your Class Actions rather than as a Weapon Action so that the action remains on hotbar or radial wheel for controllers)</em></p>\n<p><strong>Hurl of Thunderous Force - Class Action (Lv 1)</strong><br>Throw your Stormforged Warhammer, dealing Bludgeoning damage plus additional Lightning damage to targets within 3m. The weapon returns to your hand and resets on a Short Rest. (<em>Added to your Class Actions rather than as a Weapon Action so that the action remains on hotbar or radial wheel for controllers)</em></p>\n<p><strong>Hurl of Lightning Discharge - Class Action (Lv 3)</strong><br>Throw your Stormforged Warhammer, dealing Bludgeoning damage plus additional Lightning damage. The weapon returns to your hand and resets on a Short Rest.. (<em>Added to your Class Actions rather than as a Weapon Action so that the action remains on hotbar or radial wheel for controllers)</em></p>\n<p><strong>Channel Lightning - Transmutation Spell (Lv 3)</strong><br>Imbue your weapon with storm energy, enhancing each strike with Lightning damage and a chance to trigger a powerful bolt from above. <em>(50% chance of hit or &gt;10+ on a roll)</em></p>\n<p><strong>Howling Gale - Evocation Spell (Lv 3)</strong><br>Unleash a thunderous shockwave from your weapon towards your target (up to 9m), dealing weapon and thunder damage. On a successful hit, you knock them off balance.</p>\n<p><strong>Resonating Armour - Transmutation Spell (Lv 5)</strong><br>Surround yourself with thunder-charged armour. Melee attackers are blasted back, take thunder damage, and may be dazed by the shockwave.</p>\n<p><strong>Stormstrike Smite - Evocation Spell (Lv 5)</strong><br>Surge to a target in a flash of divine lightning and deliver a crushing blow. On hit, deal lightning damage and attempt to stun the target.</p>\n<p><strong>Lightning Vortex - Transmutation Spell (Lv 9)</strong><br>Conjure a raging storm vortex that blinds and slows enemies. Creatures starting or ending their turn inside are struck by stray lightning bolts.</p>\n<p><strong>Thunderous Clap - Evocation Spell (Lv 9) </strong><br>Focus volatile energy on a target and release a deadly shockwave. Target takes thunder damage and is knocked prone on a failed save. Creatures within the blast radius are knocked back and become dazed on a failed save.</p>\n<p><strong>Stormforged Rider - Evocation Spell (Lv 11 - Fourth Level Spell) *requires the Charged Storm Rider passive to cast at level 11-1s*</strong><br>surge towards at target location. Upon arrival, cast down lightning on targets with 3m radius. </p>\n<p><strong>Destructive Wave: Lightning - Evocation Spell (Lv 17 - Fifth Level Spell) </strong><br>Create a shockwave of malevolent thunder and lightning that damages all nearby creatures. On a failed constitution save, creatures are knocked prone.</p>\n<h2>Oath Spells (Always Prepared)</h2>\n<table class=\"table-auto\">\n<tbody>\n<tr>\n<td>\n<h3>Level</h3>\n</td>\n<td style=\"text-align:center;\">\n<h3>Spells</h3>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Level 1</td>\n<td style=\"text-align:center;\"> Stormforged Warhammer, Hurl of Judgment, Hurl of Thunderous Force</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Level 3</td>\n<td style=\"text-align:center;\">Channel Lightning, Howling Gale, Hurl of Lightning Discharge</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Level 5</td>\n<td style=\"text-align:center;\">Stormstrike Smite, Resonating Armour</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Level 9</td>\n<td style=\"text-align:center;\">Lightning Vortex, Thunderous Clap</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Level 11</td>\n<td style=\"text-align:center;\">Stormrider</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Level 17</td>\n<td style=\"text-align:center;\">Destructive Wave: Lightning</td>\n</tr>\n</tbody>\n</table>\n<h2>Tempest Infusion (Cantrip Selector)</h2>\n<table class=\"table-auto\">\n<tbody>\n<tr>\n<td>Cantrips</td>\n<td>Levels</td>\n</tr>\n<tr>\n<td>Shocking Blade, Booming Blade, Stormstrike Slash</td>\n<td>Choose 1 at Levels 1, 5 and 9</td>\n</tr>\n</tbody>\n</table>\n<h2>Additional Paladin Spells (Prepared Spells)</h2>\n<table class=\"table-auto\">\n<tbody>\n<tr>\n<td>\n<h3>Level</h3>\n</td>\n<td>\n<h3>Spells</h3>\n</td>\n</tr>\n<tr>\n<td>Level 3</td>\n<td>Thunderwave, Create or Destroy Water</td>\n</tr>\n<tr>\n<td>Level 5</td>\n<td>Shatter</td>\n</tr>\n<tr>\n<td>Level 9</td>\n<td>Call Lightning, Lightning Bolt</td>\n</tr>\n</tbody>\n</table>\n<h2>Progressive Scaling (Stormforged Warhammer)</h2>\n<table class=\"table-auto\">\n<tbody>\n<tr>\n<td style=\"text-align:center;\"> </td>\n<td>\n<h4>Weapon Enchantment</h4>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">\n<h4>Paladin Lv 3-6</h4>\n</td>\n<td style=\"text-align:center;\">\n<h4>+1</h4>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">\n<h4>Paladin Lv 7-10</h4>\n</td>\n<td style=\"text-align:center;\">\n<h4>+2</h4>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">\n<h4>Paladin Lv 11+</h4>\n</td>\n<td style=\"text-align:center;\">\n<h4>+3</h4>\n</td>\n</tr>\n</tbody>\n</table>\n<h2>Damage Scaling (Paladin LevelMap Values for Spells)</h2>\n<table class=\"table-auto\">\n<tbody>\n<tr>\n<td style=\"text-align:center;\">\n<h4>Spell</h4>\n</td>\n<td style=\"text-align:center;\">Levels 1-2</td>\n<td style=\"text-align:center;\">Levels 3-4</td>\n<td style=\"text-align:center;\">Levels 5-6</td>\n<td style=\"text-align:center;\">Levels 7-9</td>\n<td style=\"text-align:center;\">Levels 10-11</td>\n<td style=\"text-align:center;\">Levels 15+</td>\n<td style=\"text-align:center;\">Levels 19-20</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Hurl of Judgment</td>\n<td style=\"text-align:center;\">2</td>\n<td style=\"text-align:center;\">1d4</td>\n<td style=\"text-align:center;\">1d4</td>\n<td style=\"text-align:center;\">1d6</td>\n<td style=\"text-align:center;\">1d8 (Lv 11+)</td>\n<td style=\"text-align:center;\">1d10</td>\n<td style=\"text-align:center;\">1d12</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Stormflash</td>\n<td style=\"text-align:center;\">1d6</td>\n<td style=\"text-align:center;\">1d6</td>\n<td style=\"text-align:center;\">2d6</td>\n<td style=\"text-align:center;\">2d6</td>\n<td style=\"text-align:center;\">3d6</td>\n<td style=\"text-align:center;\">4d6</td>\n<td style=\"text-align:center;\">5d6</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Strike From Above</td>\n<td style=\"text-align:center;\">-</td>\n<td style=\"text-align:center;\">1d10</td>\n<td style=\"text-align:center;\">2d10</td>\n<td style=\"text-align:center;\">2d10</td>\n<td style=\"text-align:center;\">3d10</td>\n<td style=\"text-align:center;\">4d10</td>\n<td style=\"text-align:center;\">5d10</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Shocking Blade</td>\n<td style=\"text-align:center;\">-</td>\n<td style=\"text-align:center;\">-</td>\n<td style=\"text-align:center;\">1d8</td>\n<td style=\"text-align:center;\">1d8</td>\n<td style=\"text-align:center;\">2d8 (Lv 11+)</td>\n<td style=\"text-align:center;\">3d8</td>\n<td style=\"text-align:center;\">4d8</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Stormstriker Slash</td>\n<td style=\"text-align:center;\"> </td>\n<td style=\"text-align:center;\"> </td>\n<td style=\"text-align:center;\">1d8</td>\n<td style=\"text-align:center;\">1d8</td>\n<td style=\"text-align:center;\">2d8 (Lv 11+)</td>\n<td style=\"text-align:center;\">3d8</td>\n<td style=\"text-align:center;\">4d8</td>\n</tr>\n<tr>\n<td style=\"text-align:center;\">Stormstriker (Lightning Bolt)</td>\n<td style=\"text-align:center;\">1d8</td>\n<td style=\"text-align:center;\">1d8</td>\n<td style=\"text-align:center;\">2d8</td>\n<td style=\"text-align:center;\">2d8</td>\n<td style=\"text-align:center;\">3d8 (Lv 11+)</td>\n<td style=\"text-align:center;\">-</td>\n<td style=\"text-align:center;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+    "date_added": 1748688240,
+    "date_updated": 1768407633,
+    "date_live": 1748707758,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/oath-of-divine-tempest-paladin-subclass",
+    "submitted_by": {
+      "id": 38301555,
+      "name_id": "lekarenator",
+      "username": "LeKarenator",
+      "profile_url": "https://mod.io/u/lekarenator",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6845862,
+      "mod_id": 4977322,
+      "version": "1.0.0.28",
+      "filename": "oathofdivinetempest_bc1f237a-9-gsgl.zip",
+      "changelog": "Patch 1.0.0.28: Lv 13 - 20 Update\n\n- This latest release now provides options for scaling your Divine Tempest subclass past level 12. If you want to access some of the abilities provided in this patch release, you will require either Expansion or UnlockLevelCurve - Level 13-20.\n- Added 2 new spells: Stormrider (Fourth level Spell) and Destructive Wave: Lightning (Fifth level Spell)\n- I've provided an additional Passive learned at level 11 (Charged Storm Rider). This provides a way to cast Stormrider through Lightning Charges, thus granting players who don't use Lv13+ mods a way to use my latest spell, Stormrider.\n- As such, I've added Stormrider as at level 11 rather than level 13. \n- I've also scaled up Hurl of Judgement, Strike From Above and Stormflash up to Lv 20.",
+      "date_added": 1760323596,
+      "date_updated": 0,
+      "date_scanned": 1760323608,
+      "filesize": 4980591,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "divinetempestcover.png",
+      "original": "https://image.modcdn.io/mods/8ce7/4977322/divinetempestcover.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8ce7/4977322/crop_320x180/divinetempestcover.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8ce7/4977322/crop_640x360/divinetempestcover.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8ce7/4977322/crop_1280x720/divinetempestcover.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6845862
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6845862
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6845862
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6845862
+      }
+    ]
+  },
+  {
     "id": 4985426,
     "game_id": 6715,
     "name": "BG3 - Chocolate Edition",
@@ -105379,7 +106072,7 @@
     "summary": "Sword Dancers of Eilistraee",
     "description": "<div><code><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/sdoe.png\" alt=\"\" width=\"600\" height=\"600\"></code></div>\n<p> </p>\n<div> </div>\n<h2><strong>Sword Dancer of Eilistraee</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/sdoe.1.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<div>\n<div>\n<div>The Sword Dancers of Eilistraee are sacred performers, warriors, and spellcasters devoted to the Dark Maiden. Guided by music, moonlight, and divine grace, they wield enchanted blades and inspire allies with their magical songs. Combining bardic spellcraft with ritualistic swordplay, Sword Dancers invoke Eilistraees Moonfire, charm foes with haunting melodies, and defend the innocent through motion and harmony. Whether dancing in silence beneath starlit skies or leading the charge with a shining blade, Sword Dancers are emissaries of beauty, mercy, and retribution</div>\n</div>\n</div>\n<p> </p>\n<h2><strong>Silver Bladedancer</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/sbd.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<p>Blessed by Eilistraee, Silver Bladedancers turn combat into sacred performance, each step deliberate, each strike radiant. Their blades shimmer like moonlight on steel, weaving through enemies in elegant arcs of divine fury. In later levels, their dance quickens into a relentless flurry, allowing up to four strikes in a single motion. Though each successive attack grows fainter and less precise, landing every blow channels the Dark Maiden’s favor, surging divine energy through their form. Swift, graceful, and unyielding, the Silver Bladedancer is both sword and song, a radiant echo of Eilistraee’s wrath in battle.</p>\n<p> </p>\n<p><iframe src=\"https://www.youtube.com/embed/cvbSYXGRLEA\" width=\"560\" height=\"314\"></iframe></p>\n<p> </p>\n<h2><strong>Sword Dancer</strong></h2>\n<div><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/sd.png\" alt=\"\" width=\"180\" height=\"180\"><br>\n<div><br>\n<div>The Sword Dancers of Eilistraee are divine performers who channel the Dark Maidens grace through blade and song. Blending elegant swordplay with lunar magic, they dance across the battlefield, radiant with purpose. As full spellcasters, they draw from the Bard spell list and invoke Channel Divinity to heal, protect, or smite in Eilistraees name. Through spellsinging, a sacred form of vocal magic, they charm foes and enchant allies, turning every battle into a rite of light and sound. Both liturgists and agile duelists, Sword Dancers strike with silvery blades and voices blessed by moonlight, bringing hope to the innocent and ruin to the wicked.</div>\n<div> </div>\n<div> </div>\n<div> </div>\n<div>\n<h2><strong>Darksong Knight</strong></h2>\n</div>\n</div>\n</div>\n<div><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/dsk.png\" alt=\"\" width=\"180\" height=\"180\"></div>\n<div> </div>\n<div>\n<div>Darksong Knights are the paladin order of the Sword Dancers of Eilistraee, warrior devotees who embody the Dark Maidens will through divine swordplay and sacred song. Blending blade mastery with spellsinging, they channel Eilistraees moonlit wrath to smite evil, protect the innocent, and uplift allies. Their strikes shimmer with radiant conviction, each battle a vow, each blow a hymn to the goddess enduring grace. Where the Sword Dancer Spellsings from afar, the Darksong Knight charges into the fray, a blade guided by rhythm and purpose.</div>\n<div> </div>\n<div> </div>\n<hr>\n<div>\n<h2> </h2>\n<h2><strong>Silver Bladedancer Progression</strong></h2>\n<div>This is stricly a dual-wielding class, nothing will work unless you are dual-wielding and using Bladedancer profficient weapons and armor. The main mechanic when you Bladedance has negative effects which reduce your damage and attack rolls the longer you Bladedance but over time will improve as you find better weapons.</div>\n<div> </div>\n<div>You can choose to be reckless and use Encore of Pain removing the attack roll debuff on Bladedance but the cost is dealing damage to yourself with abilities needed to gain Tempo. Note that if you summon Silvered Blades, add damage riding items like Causting Band and others (Basically any adding additional weapon/character damage) it will deal the damage to the target but also to you so it provides high risk/reward. This is required as the class can attack upwards of 5 times in a single round at Level 5.</div>\n<div> </div>\n<div>This is an initial release and I will need to do a full playthrough on Tactician/Honor in order to fully balance it as well as add more Level 13-20 progression. Feedback is welcome ONLY and I mean ONLY if you are playing without difficulty mods and up to Level 12 for now. Thanks and enjoy.</div>\n<h2> </h2>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Cleric of Eilistraee and Bard</li>\n<li>One-Third Spell Caster</li>\n</ul>\n<div>Level 1</div>\n<ul>\n<li>Select Musical Instrument</li>\n<li>Eilistraee's Moonfire</li>\n</ul>\n<div>Level 2</div>\n<ul>\n<li>Select Fighting Style</li>\n<li>Bladedancer</li>\n<li>Eilistraee's Dance</li>\n<li>Channel Divinity charge</li>\n</ul>\n<div>Level 3</div>\n<ul>\n<li>Unlock 1st Level Spells</li>\n<li>Gain 2 Tempo</li>\n<li>Bladedance: Radiant Prelude and Bladedance: Radiant Beat</li>\n<li>Select 2 Bladedance abilities</li>\n<li>Tempo Resurge</li>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n<div>Level 4</div>\n<ul>\n<li>Feat</li>\n<li>Vendetta</li>\n<li>Bladedance: Ascending Echo and Bladedance: Psionic Refrain</li>\n</ul>\n<div>Level 5</div>\n<ul>\n<li>Bladedance: Silver Crescendo and Bladedance: Silver Finale</li>\n<li>Select 1 Bladedance ability</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 6</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 7</div>\n<ul>\n<li>Unlock 2nd Level Spells</li>\n<li>Select 1 Bladedance ability</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 8</div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n<div>Level 9</div>\n<div>\n<ul>\n<li>Gain 1 Tempo</li>\n</ul>\n</div>\n<div>Level 10</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 11</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 12</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 13</div>\n<ul>\n<li>Unlock 3rd Level Spells</li>\n<li>Enhanced Tempo (allows gaining 2 Tempo on damage)</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 14</div>\n<div>\n<ul>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n</div>\n<div>Level 16</div>\n<ul>\n<li>Feat</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 19</div>\n<ul>\n<li>Unlock 4th Level Spells</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 20</div>\n<div>\n<ul>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n<p> </p>\n<hr></div>\n<h2><strong>Sword Dancer Progression</strong></h2>\n<br>\n<div>Sword Dancer has the full Bard spell list, Cleric Cantrips and gains Channel Divinity charges. It will benefit from Mods like Mystras spells and 5th Edition spells or anything that modifies Bard spell list or Cleric cantrips. Spells will be cast using a Musical Instrument if you have one equipped just like a Bard would. It gains Sword Dancer Domain Spells during progression including Spellsong which is powerful enchancements of existing spells or brand new ones like Spellsong: Song of Rapture</div>\n<br><br>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Cleric of Eilistraee and Bard</li>\n<li>Full Spell Caster</li>\n</ul>\n<br><strong>Level 1</strong>\n<ul>\n<li>Unlock 1st Level Spells</li>\n<li>Select Musical Instrument</li>\n<li>Select 4 Spells</li>\n<li>Select 1 Cleric cantrip</li>\n<li>Eilistraee's Moonfire</li>\n<li>Lunar Bolt</li>\n<li>Moonlight Shards</li>\n</ul>\n<div><strong>Level 2</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Select 1 Bard cantrip</li>\n<li>Select Fighting Style</li>\n<li>Eilistraee's Dance</li>\n<li>Channel Divinity charge</li>\n</ul>\n<div><strong>Level 3</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Unlock 2nd Level Spells</li>\n<li>Eilistraee’s Moonlight</li>\n<li>Wardancer</li>\n</ul>\n<div><strong>Level 4</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Cleric cantrip</li>\n<li>Dark Maiden’s Mark</li>\n</ul>\n<div><strong>Level 5</strong></div>\n<ul>\n<li>Unlock 3rd Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Destroy Undead</li>\n<li>Moonlight Sanctuary</li>\n<li>Beacon of Hope</li>\n</ul>\n<div><strong>Level 6</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Extra Attack</li>\n<li>Channel Divinity charge</li>\n</ul>\n<div><strong>Level 7</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Unlock 4th Level Spells</li>\n<li>Select 1 Spellsong</li>\n<li>Freedom of Movement</li>\n</ul>\n<div><strong>Level 8</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 9</strong></div>\n<ul>\n<li>Unlock 5th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 10</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Select 1 Bard cantrip</li>\n</ul>\n<div><strong>Level 11</strong></div>\n<ul>\n<li>Unlock 6th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 12</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 13</strong></div>\n<ul>\n<li>Unlock 7th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 14</strong></div>\n<ul>\n<li>Unlock 7th Level Spells</li>\n<li>Eternal Dance</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 15</strong></div>\n<ul>\n<li>Unlock 8th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 16</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 17</strong></div>\n<ul>\n<li>Unlock 9th Level Spells</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 18</strong></div>\n<div>\n<ul>\n<li>Select 1 Spell</li>\n</ul>\n</div>\n<div><strong>Level 19</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 20</strong></div>\n<div>\n<ul>\n<li>Select 1 Spell</li>\n</ul>\n<p> </p>\n<hr></div>\n<h2> </h2>\n<h2><strong>Darksong Knight Progression</strong></h2>\n<br>\n<div>Darksong Knight is a Paladin of Eilistraee, it cannot wear Heavy Armor or wield Greatswords as it's a Sword Dancer of Eilistraee but due to this gets a Cantrip and Darksong Oath Spells like Eilistraee’s Moonlight and others which provide good AE and ranged damage typical Paladin's lack. Lunar Smite, Improved Lunar Smite are feature wise direct replacements of Divine Smite/Improved Divine Smite and can be used with Extra Attack as well as Reactions.</div>\n<br>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor, Medium Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Paladin of Eilistraee and Bard</li>\n<li>Half Caster</li>\n</ul>\n<br>\n<div><strong>Level 1</strong></div>\n<ul>\n<li>Select Musical Instrument</li>\n<li>Lay on Hands</li>\n<li>Eilistraee's Moonfire</li>\n</ul>\n<div><strong>Level 2</strong></div>\n<ul>\n<li>Unlock 1st Level Spells</li>\n<li>Select Fighting Style</li>\n<li>Lunar Smite, Lunar Smite: Reaction, Lunar Smite Critical: Reaction</li>\n</ul>\n<div><strong>Level 3</strong></div>\n<ul>\n<li>Wardancer</li>\n<li>Divine Health</li>\n<li>Channel Oath charge</li>\n<li>Eilistraee’s Dance</li>\n<li>Moonveil Strike</li>\n<li>Demonbane</li>\n</ul>\n<div><strong>Level 4</strong></div>\n<ul>\n<li>Feat</li>\n<li>Lay on Hands charge</li>\n<li>Dark Maiden’s Mark</li>\n<li>Select 1 Bard cantrip</li>\n</ul>\n<div><strong>Level 5</strong></div>\n<ul>\n<li>Unlock 2nd Level Spells</li>\n<li>Extra Attack</li>\n<li>Eilistraee’s Moonlight</li>\n<li>Lunar Shift</li>\n</ul>\n<div><strong>Level 6</strong></div>\n<div>\n<ul>\n<li>Aura of Protection</li>\n</ul>\n</div>\n<div><strong>Level 7</strong></div>\n<div>\n<ul>\n<li>Aura of Truth</li>\n</ul>\n</div>\n<div><strong>Level 8</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n</div>\n<div><strong>Level 9</strong></div>\n<ul>\n<li>Unlock 3rd Level Spells</li>\n<li>Beacon of Hope</li>\n</ul>\n<div><strong>Level 10</strong></div>\n<ul>\n<li>Lay on Hands charge</li>\n<li>Aura of Courage</li>\n</ul>\n<div><strong>Level 11</strong></div>\n<div>\n<ul>\n<li>Improved Lunar Smite</li>\n</ul>\n</div>\n<div><strong>Level 12</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n</div>\n<div><strong>Level 13</strong></div>\n<ul>\n<li>Unlock 4th Level Spells</li>\n<li>Aura of Purity</li>\n<li>Banish</li>\n</ul>\n<div><strong>Level 16</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n</div>\n<div><strong>Level 17</strong></div>\n<ul>\n<li>Unlock 5th Level Spells</li>\n<li>Bladesong Waltz</li>\n</ul>\n<div><strong>Level 19</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n<p> </p>\n<p>I used the source material located here for inspiration when creating this. Changed some things and re-themed a lot of others: <a title=\"The Dark Maiden beckons: On the Drow goddess Eilistraee and her Faith\" href=\"https://www.dmsguild.com/product/176361\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.dmsguild.com/product/176361</a></p>\n<p> </p>\n<p>Addons:</p>\n<ul>\n<li><a title=\"Feat Every 2 Levels\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee-feat-every-2-levels\" target=\"_blank\" rel=\"noopener noreferrer\">Feat Every 2 Levels</a></li>\n<li><a title=\"Extra Feat at Level 2\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee-extra-feat-level-2\" target=\"_blank\" rel=\"noopener noreferrer\">Extra Feat at Level 2</a></li>\n<li><a title=\"Wisdom variant\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee-wisdom\" target=\"_blank\" rel=\"noopener noreferrer\">Wisdom variant</a></li>\n</ul>\n<p> </p>\n</div>\n</div>\n</div>",
     "date_added": 1748947653,
-    "date_updated": 1767125405,
+    "date_updated": 1768410746,
     "date_live": 1748947653,
     "visible": 1,
     "status": 1,
@@ -105393,15 +106086,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7208877,
+      "id": 7270593,
       "mod_id": 4987480,
-      "version": "1.0.0.75",
-      "filename": "sde_06e7001e-c3ef-228a-1e9f-42-gvbk.zip",
-      "changelog": "Added compatibility for Homebrew Blade Cantrips. Available at Level 1 automatically including Bright Blade and Blue-Frost Blade",
-      "date_added": 1767125349,
+      "version": "1.0.0.76",
+      "filename": "sde_06e7001e-c3ef-228a-1e9f-42-kfkz.zip",
+      "changelog": "Silver Bladedancer\n- Fixed issue with Encore of Pain missing\n- Fixed issue with Final Note requiring bonus action on upcast",
+      "date_added": 1768410680,
       "date_updated": 0,
-      "date_scanned": 1767125382,
-      "filesize": 18082480,
+      "date_scanned": 1768410750,
+      "filesize": 18082601,
       "platforms": [
         {
           "platform": "windows",
@@ -105480,7 +106173,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7208877
+        "modfile_live": 7270593
       }
     ]
   },
@@ -113659,6 +114352,114 @@
     ]
   },
   {
+    "id": 5125248,
+    "game_id": 6715,
+    "name": "Speak With Dead Unlimited",
+    "name_id": "speak-with-dead-unlimited",
+    "summary": "Speak with Dead has no question limit, can communicate with its killer, and even burned corpses can respond.",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/speakwithdeadunlimited_base.png\" alt=\"Speak with Dead Unlimited Mod\" width=\"300\" height=\"200\"></p>\n<p style=\"color:#ffa500;\">By SwissFred</p>\n<p style=\"color:#ffa500;\"><strong>Speak with Dead Unlimited</strong></p>\n<ul style=\"color:#ffa500;\">\n<li>No question limit – ask as many times as you want. Great if you missed an answer.</li>\n<li>Corpses will answer questions, including from their killer.</li>\n<li>Burned, dissolved in acid, or unrecognizable corpses will also respond.</li>\n</ul>\n<p style=\"color:#ffa500;\"><strong>Installation:</strong><br>Install and enable the mod.<br><br><strong>How to use:</strong><br>Unlock spell Speak with Dead , or use an Item that enables it.<br>Mod will then enhance the spell.</p>\n<p style=\"color:#ffa500;\"><strong>Uninstallation:</strong><br>Save, exit, and remove the mod.<br><br><strong>most Corpses</strong> have nothing to say is a Game feature.</p>\n<p style=\"color:#ffa500;\">Select your Statuses has Speak with Dead Unlimited built in<br><a href=\"https://mod.io/g/baldursgate3/m/select-your-statuses#description\">Select Your Statuses ( Individual ) for Baldur's Gate 3 - mod.io</a></p>",
+    "date_added": 1753711398,
+    "date_updated": 1768407254,
+    "date_live": 1753712562,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/speak-with-dead-unlimited",
+    "submitted_by": {
+      "id": 33634988,
+      "name_id": "swissfred57",
+      "username": "SwissFred57",
+      "profile_url": "https://mod.io/u/swissfred57",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
+    },
+    "modfile": {
+      "id": 7020236,
+      "mod_id": 5125248,
+      "version": "1.0.8.16",
+      "filename": "speakwithdeadunlimited_f156d3b-bd4u.zip",
+      "changelog": "Added background visuals to the spells 'Speak with Dead' and 'Speak with Dead (Free Recast)'. Target and Aura Radius are now the same at 12 feet.",
+      "date_added": 1763462017,
+      "date_updated": 0,
+      "date_scanned": 1763462300,
+      "filesize": 17688146,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "speakwithdeadunlimited_title.4.png",
+      "original": "https://image.modcdn.io/mods/b7af/5125248/speakwithdeadunlimited_title.4.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b7af/5125248/crop_320x180/speakwithdeadunlimited_title.4.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b7af/5125248/crop_640x360/speakwithdeadunlimited_title.4.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b7af/5125248/crop_1280x720/speakwithdeadunlimited_title.4.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7020236
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7020236
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7020236
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7020236
+      }
+    ]
+  },
+  {
     "id": 5127105,
     "game_id": 6715,
     "name": "Eyes by Tabatha",
@@ -114476,6 +115277,119 @@
       {
         "platform": "ps5",
         "modfile_live": 6680035
+      }
+    ]
+  },
+  {
+    "id": 5172473,
+    "game_id": 6715,
+    "name": "Tusk Evolved",
+    "name_id": "tusk-evolved",
+    "summary": "That's right. The boar that's always wiggling and snorting in the Emerald Grove can now be summoned and recruited to camp! Experience his evolution from frustrated boar to armored Hellsboar and maybe keep Halsin's promise along the way.",
+    "description": "<p>That's right. The boar that's always wiggling and snorting in the Emerald Grove. Halsin's excited boar, <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/3/33/Boar_Companion_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Tusk\" target=\"_blank\" rel=\"noopener noreferrer\">Tusk</a></span>, can now be summoned and recruited to camp! Experience his evolution from frustrated boar to armored Hellsboar and maybe keep Halsin's promise along the way.</p>\n<p>This uses the same foundation that the rest of the Evolved Summons Series mods use. For more information about everything added in an Evolved mod, visit: <a title=\"Evolved Series\" href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">https://mod.io/g/baldursgate3/c/evolved-series</a></p>\n<hr>\n<h2>Recruitment</h2>\n<p>First, you'll need Speak With Animals. If you talk to him before finding out that Halsin is missing, the option to recruit him won't appear. You'll need to first get that information which you can get in several ways in this area. The easiest is to talk to Nettie and start the \"Rescue the Druid Halsin\" quest. Now talking to Tusk will present the option:</p>\n<blockquote>\n<p>Tusk: <em>\"Where's Halsin? He promised me a mate!\"</em></p>\n<p>Player: <em>\"I'm not sure. Do you want to help me find him?\"</em></p>\n</blockquote>\n<p>He'll then snort, run and disappear leaving you with an item in your inventory (a tusk named 'Summon Tusk') that adds the spell to summon him.</p>\n<p>If Halsin is already at camp, you'll instead be presented with:</p>\n<blockquote>\n<p>Tusk: <em>\"Where's Halsin? He promised me a mate!\"</em></p>\n<p>Player: <em>\"He's in my camp. Want to come with us?\"</em></p>\n</blockquote>\n<p>And the same thing will happen. If you can't find him after you've completed \"Rescue the Druid Halsin\", he moves to the area above the main gate near the war horn.</p>\n<p><em><strong>A word of caution:</strong> If you bring Tusk with you to the wolf pens and side with the goblins, Tusk will be unsummoned and replaced with the NPC and it will side with Halsin.</em></p>\n<h3>New in 1.0.3.0</h3>\n<p>If Tusk hasn't been recruited by the time Halsin becomes recruitable in act 2, Halsin will get the item to summon Tusk. This works even if loading the mod for the first time in act 3. This will allow Tusk to be added to the team on existing saves where the chance to speak with Tusk in act 1 was missed.</p>\n<hr>\n<h2>Progression</h2>\n<p>Tusk largely follows the same path that the Ranger's Companion does, but at a smoother climb and with earlier access to Kick Up Muck. Level by level, it increases either it's STR by 1 (odd levels) or it's CON by 1 (even levels starting at 6), eventually matching the level 12 Ranger boar's stats but without the Ranger passives and a bit fewer <span style=\"color:#49cbc1;\">hit points</span> (though it continues to scale beyond 12 if those levels are unlocked). The rage is a blend of the Berserker Barbarian class and the regular boar rage with some added nuance.</p>\n<p>Because Tusk is basically a better Ranger's Companion, it shares the same summon stack, so you can only have either Tusk or a Ranger's Companion summoned at the same time. Tusk will receive Prey's Scent when summoned by Beast Master Rangers.</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 1</h3>\n<p>Proficiency with STR and CON saving throws.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/8e/Prone_Condition_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Immunity to Stinking Cloud, Grease, Mud, and Deep Water surfaces/terrain.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/b/b7/Wild_Shape_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Silvanus Guide Us <em><sup>Passive</sup></em> - Adds Halsin's Spellcasting Ability Modifier to Tusk's attack rolls and saving throws. It doesn't matter where Halsin is or if he's in wild shape. He just needs to be somewhere in the game and not permanently defeated. When Halsin becomes recruitable, additional information is added that states that if the summoner of Tusk is Halsin, his Spellcasting Ability Modifier is added twice to attack rolls and saving throws. When Halsin restores <span style=\"color:#49cbc1;\">hit points</span> for Tusk as his summoner, he restores additional <span style=\"color:#49cbc1;\">hit points</span> equal to his Spellcasting Ability Modifier. I originally set the modifier to Wisdom, but I didn't want to make people choose Wisdom-based classes for Halsin if they didn't want that.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Goodberry Enthusiast <em><sup>Passive</sup></em> - Eating a Goodberry will restore an additional <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/87/D4_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d4 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span>.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/9/92/Lightly_Armoured_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Lightly Armored <em><sup>Passive</sup></em> - AC increased by 1. Total of 11 AC, same as the regular boar, but this way keeps his base AC at 10 like a player.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Tusk_Attack_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Tusk_Attack_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Tusk Attack</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li><span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/2b/D6_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d6 + Strength Modifier <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\">Slashing damage</span></li>\n<li>The differences between the regular and this one are:\n<ul>\n<li>Works with Primal Strike.</li>\n<li>Against Prone targets, this inflicts <span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/0d/D10_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d10 + Strength Modifier <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\">Slashing damage</span> instead.</li>\n<li>Targets only characters or items, preventing accidental attacks against air or the ground.</li>\n</ul>\n</li>\n</ul>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Rush_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Rush</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li><span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/2b/D6_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d6 + Strength Modifier <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\">Slashing damage</span></li>\n<li>The differences between the regular and this one are:\n<ul>\n<li>Works with Primal Strike.</li>\n<li>If targets are already Prone, they are trampled by this attack and receive an additional <span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/3/31/D4_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d4 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7d/Bludgeoning_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\"> Bludgeoning damage</span>.</li>\n<li>Saving Throw checks your DC instead of the flat 11.</li>\n<li>No longer targets characters that are already defeated.</li>\n</ul>\n</li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 3</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/1/12/Kick_Up_Muck_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Kick_Up_Muck\" target=\"_blank\" rel=\"noopener noreferrer\">Kick Up Muck</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">) - Unlocked here early, but it has a <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span> cooldown. The cooldown changes and eventually goes away as you level up.</p>\n<ul>\n<li>At level 6 (level 10 if max level is 20), it changes to <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Per Battle</span>.</li>\n<li>At level 11 (level 18 if max level is 20), it has no cooldown.</li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 5</h3>\n<p>(<em>Level 8 on max level 20)</em><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/05/Moderately_Armoured_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Moderately Armored <em><sup>Passive</sup></em> - AC increased by 5. This also adds the first boar armor to Tusk. Replaces Lightly Armored.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/3/36/Rage_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Rage_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Rage</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Instead of adding Rage Points and removing the cooldown (like with the owlbear cub), I kept the <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Per Battle</span> cooldown since the boar depends so heavily on rage for damage. The 1d6 damage on his attacks never scales higher, but the rage and amount of attacks per turn does.</li>\n<li>The vanilla version of this rage doesn't state that it also adds 1d4 bonus damage to attacks on top of the 2-3 for rage. I'm guessing that Enlarged was combined with Rage to create the boar's version of rage, but the tooltips never reflected that. I have added that to tooltips and the combat log states the source of the bonus damage as well (as seen in the images).</li>\n<li>When you use this action, you restore your bonus action and get 3 turns of Momentum.</li>\n<li>Each time you damage a character with an attack while raging, you get 2 turns of Momentum.</li>\n</ul>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/78/Frenzied_Strike_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Frenzied_Strike_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Frenzied Strike</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Same as Tusk Attack, but usable with a bonus action.</li>\n<li>The vanilla version of the boar's Frenzied Strike does not add -1 to attack rolls each time it's used like the Berserker Barbarian version, but this one does, just a bit differently.\n<ul>\n<li>Each time you land a hit with Frenzied Strike, you receive 1 stack of Frenzied Strain.</li>\n<li>When you miss <em><strong>any</strong></em> attack, you lose 1 stack of Frenzied Strain.</li>\n<li>All stacks of Frenzied Strain are removed when rage ends.</li>\n</ul>\n</li>\n</ul>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/78/Frenzied_Strike_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Extra Frenzied Strike <em><sup>Passive</sup></em> - You can make an additional attack using Frenzied Strike after using it once in a turn. This is added instead of Extra Attack at this level. Total possible attacks per turn: 1 main, 2 Frenzied (Rage).</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Goodberry Glutton <em><sup>Passive</sup></em> - Same as Goodberry Enthusiast, but you also gain 1 Goodberry Remittance charge (up to 3) for each Goodberry Fruit you consume.</p>\n<ul>\n<li><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Goodberry Remittance (Condition) - Gain +1 to attack rolls, difficulty class, and saving throws for each charge. All charges are removed the next time your rage ends.</li>\n<li>The Goodberry spell has been tweaked to allow targeting Tusk (summons are usually not targetable). This will add the Goodberry Fruit to his inventory and hotbar. You can also just drop them on the ground and he can consume them that way too. If Tusk has Goodberry Fruit in his inventory when he is dismissed/defeated, they'll be transferred to Tusk's summoner's inventory.</li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 6</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7d/Primal_Strike_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Primal Strike <em><sup>Passive</sup></em> - Attacks count as magical.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/22/Land%27s_Stride_Difficult_Terrain.webp\" alt=\"\" width=\"21\" height=\"21\"> Land's Stride <em><sup>Passive</sup></em> - Difficult terrain no longer slows you down.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/d/d1/Create_Water_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Create \"Water\" (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Create a puddle of \"water\" in a 3m radius around you.</li>\n<li><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span></li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 7</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/b/bf/Exceptional_Training_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Exceptional Training <em><sup>Passive</sup></em> - You can Dash, Disengage, Hide, or Help with a bonus action if you have no actions left.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/4e/Feral_Instinct_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Feral Instinct <em><sup>Passive</sup></em> - Gain +3 to initiative and can no longer be surprised.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7a/Grease_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Grease (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Create a grease surface in a 3m radius around you.</li>\n<li><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span></li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 8</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/9/9f/Nauseous_Condition_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Stinking Cloud (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Create a cloud of gas in a 3m radius around you so pungent it prevents creatures within it from taking actions.</li>\n<li><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span></li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 10</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/b/bd/Nature%27s_Ward_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Nature's Ward <em><sup>Passive</sup></em> - You can't be Charmed or Frightened by elementals and fey. Disease and poison also no longer affect you.</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 11</h3>\n<p>(<em>Level 18 on max level 20) </em><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/2a/Heavily_Armoured_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Heavily Armored <em><sup>Passive</sup></em> - AC increased by 7. STR increased by 1. You also unlock Tusk's second armor (I made it silver instead of the default gold). Replaces Moderately Armored.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Extra Attack <em><sup>Passive</sup></em> - You can make an additional main attack after using an attack. Total possible attacks per turn: 2 main, 2 Frenzied (Rage).</p>\n<hr>\n<h2>13-20 (If Capable)</h2>\n<p>Odd levels continue gaining +1 STR and even levels continue gaining +1 CON.</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 15</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/78/Frenzied_Strike_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Improved Extra Frenzied Strike <em><sup>Passive</sup></em> - You can make two additional attacks with Frenzied Strike after using it. Total possible attacks per turn: 2 main, 3 Frenzied (Rage).</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 19</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Improved Extra Attack <em><sup>Passive</sup></em> - You can make two additional attacks after making an attack. Total possible attacks per turn: 3 main, 3 Frenzied (Rage).</p>\n<hr>\n<h2>Evolution</h2>\n<p>Just like Us Evolved, using an item will trigger Tusk's enhanced abilities. This allows the player to choose when or if they want the stronger version.</p>\n<p>You can either drop a Soul Coin on the ground and have Tusk consume it (it'll look like he's eating it), or throw it at him (just make sure he has a decent amount of <span style=\"color:#49cbc1;\">hit points</span>). After a few seconds, you'll get an overhead message \"Hellsboar Unlocked\". Tusk won't change appearance to a Hellsboar unless he uses Hellsboar Fury while he's enraged.</p>\n<p>You instantly gain:</p>\n<ul>\n<li><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/0d/Darkvision_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Darkvision <em><sup>Passive</sup></em></li>\n<li>+3 bonus Movement Speed</li>\n<li>+4 Intelligence</li>\n<li><span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/02/Fire_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Resistance</span> and <span class=\"tw-text-nowrap\" style=\"color:#44bb00;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/0b/Poison_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Poison Resistance</span></li>\n</ul>\n<p>That puts you at around the same stats as a regular <a title=\"Hellsboar\" href=\"https://bg3.wiki/wiki/Hellsboar\" target=\"_blank\" rel=\"noopener noreferrer\">Hellsboar</a>.</p>\n<p><span class=\"tw-flex tw-justify-center\"><img src=\"https://i.postimg.cc/sg8vq2tT/tuskhellsboar.gif\" alt=\"Tusk Hellsboar\" width=\"640\" height=\"480\"></span></p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Generic_Fire_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Hellsboar Fury <em><sup>Interrupt</sup></em> - Once per <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span> when you rage, use a reaction to take the form of a Hellsboar and gain Blazing Hide and Infernal Touch.</p>\n<ul>\n<li>Infernal Touch: Adds <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/9/96/D6_Fire.png\" alt=\"\" width=\"22\" height=\"21\"> 1d6 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/84/Fire_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\"> Fire damage</span> to melee attacks and you ignore <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/02/Fire_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Resistance</span> on targets unless they are immune.</li>\n<li>Blazing Hide: Attacks that hit you may leave the attacker Burning for 3 turns. DC 13 DEX to save (regular Hellsboar version has no save). You gain <span class=\"tw-text-nowrap\" style=\"color:#3399cc;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/49/Cold_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Cold Resistance</span> and your <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/02/Fire_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Resistance</span> becomes <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7e/Fire_Immunity.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Immunity</span>. When you use Rush, all targets in your path must make a DC 13 DEX save or they receive Burning for 2 turns.</li>\n</ul>\n<p>This will also complete an added background goal which is completable by Karlach. If she's not in the party, the goal gets completed the next time she joins.</p>\n<ul>\n<li>Sharing is Raging - Have Tusk consume a soul coin and unlock Infernal Fury.</li>\n</ul>\n<hr>\n<h2>Halsin's Promise</h2>\n<p>If a boar from a Beast Master Ranger is summoned and placed next to Tusk while no players or humanoids are within 30m of them and not currently controlled, Tusk will permanently receive <em><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/cb/Lunar_Mend_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Animalistic Vitality</span> - Restores <span style=\"color:#49cbc1;\">hit points</span> each turn during combat when Tusk is missing hit points.</em> The amount of <span style=\"color:#49cbc1;\">hit points</span> restored depends on the boar that was summoned:</p>\n<ul>\n<li>Level 1-4 boar: <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/87/D4_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d4 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span></li>\n<li>Level 5-10 boar: <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/74/D6_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d6 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span></li>\n<li>Level 11+ boar: <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/ce/D8_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d8 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span></li>\n</ul>\n<p>You don't need to get the lesser ones if you're already at a higher level. Only the strongest buff will be applied.</p>\n<p>You can also get the 1d8 version by having Tusk stand next to the Pig in the Rivington barn. Players still need to be more than 30m away and not controlling Tusk, but humanoids are okay since Rivington is packed with them.</p>\n<p>The easiest way to do this is to just detach Tusk and the other boar from the summoner and then walk away with the party while the two boars get to know each other.</p>\n<p>Tusk will receive a condition named \"Happy\" if all went well. You'll see Animalistic Vitality on his list of passives.</p>\n<p>This will also complete an added background goal completable by Outlander backgrounds. If no Outlander background characters are in the party, the goal gets completed the next time one joins.</p>\n<ul>\n<li>Grinning Tusk to Tusk - Fulfill Halsin's promise to Tusk by finding him a mate.</li>\n</ul>\n<hr>\n<h2>Other Extras</h2>\n<p>If you get BOOOAL's Blessing while Tusk is with you, he will get it as well.</p>\n<hr>\n<p>You can speak to Tusk at any time, but his dialog is pretty limited. In camp, you can request to get the tusk that allows summoning him if you lost it.</p>\n<p><strong>If at any point Halsin is declared as permanently defeated in the game, Tusk will no longer be summonable and will leave the camp.</strong></p>\n<hr>\n<h2>FAQs</h2>\n<p><strong>1.</strong><em> \"Will this mod work with this other mod that also makes changes to the same summon?\"</em></p>\n<ul>\n<li>Probably not.</li>\n</ul>\n<p><strong>2.</strong> <em>\"Will this mod be released on console?\"</em></p>\n<ul>\n<li>Unless otherwise stated in the description, any mods I publish are always submitted for console approval.</li>\n</ul>\n<p><strong>3.</strong> <em>\"Will you be making an all-in-one version?\"</em></p>\n<ul>\n<li>Absolutely, but I want to finish adding all of the planned evolved mods first since it will take a decent amount of time to combine them all into one.</li>\n</ul>\n<p><strong>4.</strong> <em>\"When will you publish the all-in-one version?\"</em></p>\n<ul>\n<li>To keep expectations low, assume it won't arrive until late 2026.</li>\n</ul>\n<p><strong>5.</strong> <em>\"Can you create a <strong>[character]</strong> Evolved?\"</em></p>\n<ul>\n<li>Maybe. Even if I don't always reply to the suggestions, I do always read and consider them.</li>\n</ul>\n<p><strong>6.</strong> <em>\"Can you tell us what else you're working on?\"</em></p>\n<p><img src=\"https://i.postimg.cc/L8ZVg5Yd/withers-no.webp\" alt=\"No\" width=\"204\" height=\"192\"></p>\n<hr>\n<p>If you like this mod, try the rest of the <a href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">Evolved Series</a>!</p>\n<hr>\n<p><a title=\"Exaen @ Ko-Fi\" href=\"https://ko-fi.com/exaen\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.postimg.cc/zBPFJmjt/support-me-on-kofi.webp\" alt=\"Support Exaen on Ko-Fi\" width=\"198\" height=\"40\"></a></p>",
+    "date_added": 1755351565,
+    "date_updated": 1768408189,
+    "date_live": 1755390717,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/tusk-evolved",
+    "submitted_by": {
+      "id": 34665057,
+      "name_id": "exaen",
+      "username": "Exaen",
+      "profile_url": "https://mod.io/u/exaen",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a366/34665057/crop_100x100/100.png"
+    },
+    "modfile": {
+      "id": 7241971,
+      "mod_id": 5172473,
+      "version": "1.1.0.0",
+      "filename": "tuskevolved_5e6b6d6f-b866-513d-h6yg.zip",
+      "changelog": "feat: tusk is now summonable alongside quothe. he will still get unsummoned if another ranger companion is summoned by the same player.\nfeat: added the death saving throws passive.\nfeat: visual effects and sounds were updated for a few actions.\nfeat: camp visibility logic updated to match the latest in the evolved framework.\nfeat: character portraits for the two armored variants were added.\nfeat: shove added as a common action.\nfeat: using boar charge on targets that are already prone will now do double damage instead of a bonus 1d4 bludgeoning.\nfeat: eye color on the two armored variants updated to match tusk's actual eye color.",
+      "date_added": 1767739117,
+      "date_updated": 0,
+      "date_scanned": 1767739217,
+      "filesize": 11232214,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/5a25/5172473/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5a25/5172473/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5a25/5172473/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5a25/5172473/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "Halsin",
+        "name_localized": "Halsin",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 6830212
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6830212
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6830212
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7241971
       }
     ]
   },
@@ -116356,6 +117270,212 @@
       {
         "platform": "ps5",
         "modfile_live": 6762471
+      }
+    ]
+  },
+  {
+    "id": 5237042,
+    "game_id": 6715,
+    "name": "Book Club With Gale",
+    "name_id": "ht-book-club-with-gale",
+    "summary": "Gale reacts when you sit by him in camp.",
+    "description": "<div><strong><span style=\"font-size:xx-large;\">I do enjoy our conversations. What do you need?</span></strong></div>\n<div><span style=\"font-size:xx-large;\"><span style=\"font-size:medium;\">Gale reacts when you sit with him in camp. Hope you brought enough reading material. 🪑<br></span></span></div>\n<div> </div>\n<div><iframe src=\"https://www.youtube.com/embed/ZABRDHHssT8\" width=\"560\" height=\"314\"></iframe></div>\n<p><br><br></p>\n<div>📖📖📖</div>\n<p><br><br><span style=\"font-size:x-large;\"><strong>Mod features</strong></span><br><span style=\"font-size:medium;\">This mod places a stool in Gale's camp spot and gives Gale over 50 reactions when you sit on it. His greetings depend on your relationship with him:</span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Partnered, after boat scene</span></li>\n<li><span style=\"font-size:medium;\">Partnered</span></li>\n<li><span style=\"font-size:medium;\">Dating</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Medium (30+) approval</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Neutral (-10 to 29) approval</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Low (-30 to -11) approval</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Extremely low approval </span></li>\n<li><span style=\"font-size:medium;\">Ex-Partnered</span></li>\n</ul>\n<p> </p>\n<p><strong><span style=\"font-size:large;\"><em>Example lines:</em></span></strong></p>\n<div><span style=\"font-size:medium;\"><strong>Partnered, after boat scene</strong></span>\n<div>\n<ul>\n<li><span style=\"font-size:medium;\">Anything I can do for you - consider it most enthusiastically done.</span></li>\n<li><span style=\"font-size:medium;\">My time is yours. What do you need?</span></li>\n<li><span style=\"font-size:medium;\">Some pillow talk.</span></li>\n<li><span style=\"font-size:medium;\">Yes, my love?</span></li>\n</ul>\n<br><strong><span style=\"font-size:medium;\">Partnered</span></strong>\n<ul>\n<li><span style=\"font-size:medium;\">A word, my dear.</span></li>\n<li><span style=\"font-size:medium;\">A heart-to-heart.</span></li>\n<li><span style=\"font-size:medium;\">My time is yours. What do you need?</span></li>\n<li><span style=\"font-size:medium;\">Whatever you need, you have only to ask.</span></li>\n</ul>\n<span style=\"font-size:medium;\"><br><strong>Dating</strong></span>\n<ul>\n<li>I do enjoy our conversations. What do you need?</li>\n<li>My pleasure.</li>\n<li>Always a delight to speak with you. What can I do?</li>\n<li>Tell me - what can I do for you?</li>\n<li>Gladly.</li>\n</ul>\n<span style=\"font-size:medium;\"><br><strong>Medium</strong></span>\n<ul>\n<li>Ah! There you are.</li>\n<li>An excellent choice.</li>\n<li>A little discourse.</li>\n<li>A word, if you please.</li>\n<li>Certainly.</li>\n</ul>\n<span style=\"font-size:medium;\"><br><strong>Super low approval</strong></span>\n<ul>\n<li>A waste of my talents.</li>\n<li>Don't get too close.</li>\n<li>How bothersome.</li>\n<li>How tedious.</li>\n<li>No.</li>\n</ul>\n<span style=\"font-size:medium;\"><strong><br></strong><strong>Ex-partner</strong></span>\n<ul>\n<li>Yes. What is it?</li>\n<li>You need something of me?</li>\n<li>What do you need?</li>\n<li>You remembered where to find me, then?</li>\n</ul>\n<br><em>Note: All lines are repurposed existing in-game content and <strong>not</strong> AI.</em></div>\n</div>",
+    "date_added": 1757908207,
+    "date_updated": 1768407347,
+    "date_live": 1757949743,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ht-book-club-with-gale",
+    "submitted_by": {
+      "id": 38571961,
+      "name_id": "hyperspacetowel",
+      "username": "HyperspaceTowel",
+      "profile_url": "https://mod.io/u/hyperspacetowel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5701/38571961/crop_100x100/hyperspacetowel.jpg"
+    },
+    "modfile": {
+      "id": 6773608,
+      "mod_id": 5237042,
+      "version": "1.0.0.11",
+      "filename": "book-club-with-gale_87cbd5af-3-h9rb.zip",
+      "changelog": null,
+      "date_added": 1757908225,
+      "date_updated": 0,
+      "date_scanned": 1757908569,
+      "filesize": 18625027,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "bookclubwithgale-thumb2.png",
+      "original": "https://image.modcdn.io/mods/4936/5237042/bookclubwithgale-thumb2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4936/5237042/crop_320x180/bookclubwithgale-thumb2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4936/5237042/crop_640x360/bookclubwithgale-thumb2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4936/5237042/crop_1280x720/bookclubwithgale-thumb2.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6773608
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6773608
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6773608
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6773608
+      }
+    ]
+  },
+  {
+    "id": 5237050,
+    "game_id": 6715,
+    "name": "Book Club With Gale: MEME Edition",
+    "name_id": "ht-book-club-with-gale-meme-edition",
+    "summary": "\"Mystra.\" \"The Orb.\" \"Karsus.\" Gale reacts ONLY with Gale-isms when you sit by him in camp.",
+    "description": "<p>This is an <strong>optional</strong> add-on for<strong> <a href=\"https://mod.io/g/baldursgate3/m/ht-book-club-with-gale#description\">Book Club With Gale</a> </strong>and requires the base mod to work. </p>\n<p>When enabled, Gale will only dispense Galeisms like \"The orb.\" and \"The Weave.\" when you sit on his stool in camp.</p>",
+    "date_added": 1757908678,
+    "date_updated": 1768407420,
+    "date_live": 1757965165,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ht-book-club-with-gale-meme-edition",
+    "submitted_by": {
+      "id": 38571961,
+      "name_id": "hyperspacetowel",
+      "username": "HyperspaceTowel",
+      "profile_url": "https://mod.io/u/hyperspacetowel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5701/38571961/crop_100x100/hyperspacetowel.jpg"
+    },
+    "modfile": {
+      "id": 6773630,
+      "mod_id": 5237050,
+      "version": "1.0.0.3",
+      "filename": "ht_bookclubwithgale_meme_efc42-9eoy.zip",
+      "changelog": null,
+      "date_added": 1757908714,
+      "date_updated": 0,
+      "date_scanned": 1757908946,
+      "filesize": 696233,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/7204/5237050/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7204/5237050/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7204/5237050/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7204/5237050/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6773630
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6773630
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6773630
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6773630
       }
     ]
   },
@@ -119363,7 +120483,7 @@
     "name": "Fade's Assorted Treasure Expansion",
     "name_id": "fades-assorted-treasure-expansion",
     "summary": "Expand your adventure with FATE, the follow-up to Fade's Equipment Distribution. Discover thematic gear placed directly in the overworld for environmental storytelling and find the new Platinum Coin currency scattered throughout your journey.",
-    "description": "<p>Fade's Assorted Treasure Expansion (FATE) is the thematic follow-up to the popular \"Fade's Equipment Distribution (FED).\" While FED focused on populating the world with diverse class specific gear found in containers or held by NPCs, FATE shifts the focus to environmental storytelling and open-world discovery.</p>\n<p>This expansion introduces new items placed directly in the overworld, meaning they exist outside of standard containers. Instead of simply looting a chest, you will find these treasures carefully positioned to blend seamlessly into the game world. Each piece of equipment is designed with its specific location in mind, rewarding players who explore every corner of the map with immersive, narrative-driven loot.</p>\n<p>New Currency: Platinum Coins. FATE also introduces a new way to build your fortune—Platinum Coins! These rare coins are scattered throughout the game and hold a value of <strong>10 Gold Coins</strong> each, offering a high-value reward for the keen-eyed adventurer.</p>\n<p>Adds a few new items with custom models, this includes Quivers. (The quivers are dyable).</p>\n<p><strong>Current Status: </strong>Please take note, this is<strong> </strong>currently in early development and I would like to achieve roughly 100 items. This currently features a collection of 43 new items, with the majority to be found within Act 1 and 2.</p>\n<p>Chest containing all items UUID: f9f556a4-722a-4830-846d-c0c05ed817c1</p>\n<p>List of all items - <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vS3CrkBIJ3JCWKTv4HO8KdovET9S333CquaphuuwIvEyQ_EPNg9OADoyb-WROfKhkFkO9TmNWujPzBL/pubhtml\"><strong>Link</strong></a></p>\n<h4><br>FAQ:</h4>\n<p><br><strong>Q:</strong> Does this requires Fade's Equipment Distribution - FED?<br><strong>A:</strong> FED or FED AIO is required to get the Common Quiver from vendors, otherwise it isn't required.<br><br><strong>Q:</strong> Will any mods conflict with this?<br><strong>A:</strong> I haven't thoroughly tested this, but I believe it should be compatible with any mod as long as that mod doesn't modify a map. This may also conflict with a few locations with AMP/REL, as it does add items to very few containers/chests.<br><br><br>Huge shout out to <a href=\"https://mod.io/g/baldursgate3/u/nikjima\">Nikjima</a> for helping me understand how to import custom models, and to <a href=\"https://www.nexusmods.com/profile/kharneth?gameId=3474\">kharneth</a> for the use of the model assets.</p>\n<p><br><br></p>\n<p style=\"text-align:center;\">Buy me a coffee 💜</p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul</a></p>",
+    "description": "<p>Fade's Assorted Treasure Expansion (FATE) is the thematic follow-up to the popular \"Fade's Equipment Distribution (FED).\" While FED focused on populating the world with diverse class specific gear found in containers or held by NPCs, FATE shifts the focus to environmental storytelling and open-world discovery.</p>\n<p>This expansion introduces new items placed directly in the overworld, meaning they exist outside of standard containers. Instead of simply looting a chest, you will find these treasures carefully positioned to blend seamlessly into the game world. Each piece of equipment is designed with its specific location in mind, rewarding players who explore every corner of the map with immersive, narrative-driven loot.</p>\n<p>New Currency: Platinum Coins. FATE also introduces a new way to build your fortune—Platinum Coins! These rare coins are scattered throughout the game and hold a value of <strong>10 Gold Coins</strong> each, offering a high-value reward for the keen-eyed adventurer.</p>\n<p>Adds a few new items with custom models, this includes Quivers. (The quivers are dyable).</p>\n<p><strong>Current Status: </strong>Please take note, this is<strong> </strong>currently in early development and I would like to achieve roughly 100 items. This currently features a collection of 65 new items, with the majority to be found within Act 1 and 2.</p>\n<p>Chest containing all items UUID: f9f556a4-722a-4830-846d-c0c05ed817c1</p>\n<p>List of all items - <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vS3CrkBIJ3JCWKTv4HO8KdovET9S333CquaphuuwIvEyQ_EPNg9OADoyb-WROfKhkFkO9TmNWujPzBL/pubhtml\"><strong>Link</strong></a></p>\n<h4><br>FAQ:</h4>\n<p><br><strong>Q:</strong> Does this requires Fade's Equipment Distribution - FED?<br><strong>A:</strong> FED or FED AIO is required to get the Common Quiver from vendors, otherwise it isn't required.<br><br><strong>Q:</strong> Will any mods conflict with this?<br><strong>A:</strong> I haven't thoroughly tested this, but I believe it should be compatible with any mod as long as that mod doesn't modify a map. This may also conflict with a few locations with AMP/REL, as it does add items to very few containers/chests.<br><br><br>Huge shout out to <a href=\"https://mod.io/g/baldursgate3/u/nikjima\">Nikjima</a> for helping me understand how to import custom models, and to <a href=\"https://www.nexusmods.com/profile/kharneth?gameId=3474\">kharneth</a> for the use of the model assets.</p>\n<p><br><br></p>\n<p style=\"text-align:center;\">Buy me a coffee 💜</p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul</a></p>",
     "date_added": 1764391970,
     "date_updated": 1766677358,
     "date_live": 1764391970,
