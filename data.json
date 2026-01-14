@@ -41232,7 +41232,7 @@
       "mod_id": 4366097,
       "version": "1.0.1.32",
       "filename": "commonerclass_b2062ef2-a44f-7f-cnhu.zip",
-      "changelog": "- Commoners can now expend Grit Dice to boost any saving throws they make, not just attack.\n- Old Reliable has to be a quarterstaff, club, dagger *or* a weapon proficiency you picked up through your subclass. Accordingly, Town Guards can now pick up militia training in weapons that have racial proficiency in.\n- Grit Die and Know-How Charges no longer use generic resource icons.\n- Old Reliable status should be a little less clingy when you applying different variants of it to different weapons.\n- Add a \"Remove Old Reliable\" ability.\n- Fix an issue where Gumption interrupts could all disappear, or apply to any melee weapon attack regardless of weapon.\n- Improve some tooltips and make a few changes for compatibility here-and-there.",
+      "changelog": "- Commoners can now expend Grit Dice to boost failed saving throws, rather than just failed attacks.\n- Old Reliable has to be a quarterstaff, club, dagger *or* a weapon proficiency you picked up through your subclass. Accordingly, Town Guards can now pick up militia training in weapons they have racial proficiency in.\n- Grit Die and Know-How Charges no longer use generic resource icons.\n- Old Reliable status should be a little less clingy when you applying different variants of it to different weapons.\n- Add a \"Remove Old Reliable\" ability.\n- Fix an issue where Gumption interrupts could all disappear, or apply to any melee weapon attack regardless of weapon.\n- Improve some tooltips and make a few changes for compatibility here-and-there.",
       "date_added": 1768427338,
       "date_updated": 0,
       "date_scanned": 1768427386,
