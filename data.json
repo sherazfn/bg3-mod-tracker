@@ -29162,6 +29162,104 @@
     ]
   },
   {
+    "id": 4339603,
+    "game_id": 6715,
+    "name": "+1 Warlock Invocation",
+    "name_id": "warlockinvocation",
+    "summary": "Now you can pick 3 invocations (instead of 2) at warlocks lvl2",
+    "description": "",
+    "date_added": 1726354470,
+    "date_updated": 1768406672,
+    "date_live": 1726388688,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/warlockinvocation",
+    "submitted_by": {
+      "id": 35162477,
+      "name_id": "imdarksinn",
+      "username": "ImDarkSinn",
+      "profile_url": "https://mod.io/u/imdarksinn",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 5570494,
+      "mod_id": 4339603,
+      "version": "1.0.0.2",
+      "filename": "warlockinvocation_0b380496-6df-lubv.zip",
+      "changelog": null,
+      "date_added": 1726354471,
+      "date_updated": 0,
+      "date_scanned": 1726354614,
+      "filesize": 6862,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/d0b8/4339603/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d0b8/4339603/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d0b8/4339603/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d0b8/4339603/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5570494
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5570494
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5570494
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5570494
+      }
+    ]
+  },
+  {
     "id": 4340092,
     "game_id": 6715,
     "name": "The Staff of Orcus",
@@ -54394,6 +54492,124 @@
     ]
   },
   {
+    "id": 4407425,
+    "game_id": 6715,
+    "name": "No Crest for Dragonborn",
+    "name_id": "dgb-no-crest",
+    "summary": "Adds No Crest option to All Vanillas",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<hr>\n<h2>No Crest for Dragonborn</h2>\n<p>Adds No Crest option to All Vanillas</p>\n<hr>\n<h2><strong>Extra</strong></h2>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/vjle6j\"><strong>Full Dragonborn Collection</strong></a></h3>\n<h2><a href=\"https://next.nexusmods.com/baldursgate3/collections/vjle6j\"><img src=\"https://i.imgur.com/7CpDImO.png\" alt=\"\" width=\"1200\" height=\"135\"></a></h2>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1728771178,
+    "date_updated": 1768406795,
+    "date_live": 1728771652,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dgb-no-crest",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 6278390,
+      "mod_id": 4407425,
+      "version": "1.0.0.3",
+      "filename": "dgb_no_crest_e665cae5-687a-0cf-7eas.zip",
+      "changelog": "Removed ImpUI from dependency",
+      "date_added": 1744785061,
+      "date_updated": 0,
+      "date_scanned": 1744785191,
+      "filesize": 7076522,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/1a2b/4407425/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/1a2b/4407425/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/1a2b/4407425/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/1a2b/4407425/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6278390
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6278390
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6278390
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6278390
+      }
+    ]
+  },
+  {
     "id": 4407986,
     "game_id": 6715,
     "name": "John Zyxx's Infernal Fire Dice Set",
@@ -62135,6 +62351,109 @@
     ]
   },
   {
+    "id": 4442463,
+    "game_id": 6715,
+    "name": "Wanderer - v2.0",
+    "name_id": "wanderer",
+    "summary": "Wanderer is a completely custom class engineered from the ground-up. It is an Intelligence half caster designed to create engaging gameplay while retaining a unique niche.",
+    "description": "<h2>v2.0 MAJOR UPDATE </h2>\n<h3>Changes are summarized in the \"Patch Notes\" section! If you're updating, you must respec at Withers for the class to function properly!</h3>\n<h2>Overview</h2>\n<p>Wanderer is a completely custom class that took hundreds of hours to create. It's based on a custom class I wrote for 5e as a fun side project, but it has been heavily modified to match the way BG3 plays. Wanderer is an Intelligence half-caster designed around intertwining magic and weaponry, with careful attention paid to avoid stepping on Paladin's or Ranger's toes. Wanderer is supposed to be balanced, it is not a class made to make the game easier, though it's also not a challenge-mode class. Wanderer creates a focus on paying attention to the schools of magic the player uses through the schools empowering different abilities in unique ways, each way is associated heavily with the corresponding school. The class is intended to feel reminiscent of the style of play Wizard has, i.e. a heavy focus on spells and decision making. <br><br>Wanderer has tons of all-new effects made from the ground up; each new spell has at least one unique effect, usually multiple. In addition to ~20 new actions/mechanics (they work like spells but many of them are not technically spells) available to the base class, the two subclasses have a variety of custom spells, too. <br><br>As of right now, there are two subclasses, Heritage of the Storm and Heritage of Chaos. Storm Heritage is based around movement and positioning while the Chaos Heritage is themed around wild magic. For right now, Storm Heritage is slightly recommended as Chaos is still in need of minor polishing and more wild magic effects.</p>\n<h2>Class Features</h2>\n<h3>Proficiencies</h3>\n<p><strong>Armor: </strong>Light Armor, Medium Armor </p>\n<p><strong>Weapons: </strong>Simple Weapons, Scimitars, Rapiers, Shortswords, Longswords, Glaives, Hand Crossbows.</p>\n<p><strong>Saving Throws: </strong>Constitution, Intelligence</p>\n<h3>1st level</h3>\n<p><span style=\"text-decoration:underline;\"><strong>Latent Arcana</strong></span><strong> </strong>-&gt;<strong> </strong>Choose 2 from a list of 8 unique spells that have their own resource requirement. Casting any Latent Arcana also gives an Orb of Invocation from the corresponding school. </p>\n<p><strong><span style=\"text-decoration:underline;\">Invoke</span> </strong>-&gt; Strike with magic as though it were a melee weapon attack using Orbs of Invocation as fuel. </p>\n<p>Invoke:</p>\n<p><img src=\"https://i.imgur.com/sZ2TI6C.gif\" alt=\"\"></p>\n<p>The Necromancy Latent Arcana:</p>\n<p><img src=\"https://i.imgur.com/BGRXibm.gif\" alt=\"\"></p>\n<h3>2nd Level</h3>\n<p><span style=\"text-decoration:underline;\"><strong>Orbs of Invocation</strong></span> -&gt; Every spell you cast creates an additional effect that depends on the spell's school of magic.</p>\n<p><strong><span style=\"text-decoration:underline;\">Orb Recharge</span></strong><strong> </strong>-&gt;<strong> </strong>Use a bonus action and a spell slot to gain an Orb of Invocation immediately. This is meant to give a bit more flexibility to how the player uses their spell slots, it is not meant to be a primary option as it gives no additional benefit like a normal spell would. <strong><br></strong></p>\n<p><strong>Active: </strong><span style=\"text-decoration:underline;\">Latent Arcana Recharge</span> -&gt; Spend a spell slot to gain one use of Latent Arcana for each level of the spent slot. </p>\n<p><span style=\"text-decoration:underline;\"><strong>1st Level Spells</strong></span><strong> </strong>-&gt; You gain two 1st level spell slots. </p>\n<p>This effect occurs when you cast Evocation spells:</p>\n<p><img src=\"https://i.imgur.com/sHbHspL.gif\" alt=\"\"></p>\n<h3>3rd Level</h3>\n<h4><strong>Subclass: </strong>Heritage of the Storm or Heritage of Chaos</h4>\n<h3>4th Level</h3>\n<p><strong>Ability Score Improvement</strong></p>\n<h3>5th Level</h3>\n<p><img src=\"https://i.imgur.com/dSU12WF.gif\" alt=\"\"></p>\n<p><span style=\"text-decoration:underline;\"><strong>Invoke Empowerment</strong></span> -&gt; Modify the way Invoke works in one of four completely unique ways. All versions have the same damage stats but create unique area of effects, each have their own positives and negatives.</p>\n<p><strong>Active: </strong><span style=\"text-decoration:underline;\">Imbue Weapon</span> -&gt; Spend a spell slot and bonus action as part of one of your attacks when you take the attack action. If you hit, you gain the Imbued status. While you are Imbued you can cast any action-cost spell at no resource cost. Casting any spell consumes your status and applies the Invoke empowerment of the corresponding school from that spell.</p>\n<p><strong>Passive:</strong> <span style=\"text-decoration:underline;\">Mystic Strikes</span> -&gt; Once per round, deal an additional 1d10 Force damage against the first target you hit with an attack. </p>\n<p><span style=\"text-decoration:underline;\"><strong>2nd Level Spells</strong></span><strong> </strong>-&gt; You gain two 2nd level spell slots. </p>\n<h3>6th Level</h3>\n<h4>Heritage Subclass Feature</h4>\n<h3>7th Level</h3>\n<p><span style=\"text-decoration:underline;\"><strong>New Latent Arcana Spell</strong></span></p>\n<h3>8th Level</h3>\n<p><strong>Ability Score Improvement</strong></p>\n<h3>9th Level</h3>\n<p><span style=\"text-decoration:underline;\"><strong>3rd Level Spells</strong></span><strong> </strong>-&gt; You gain two 3rd level spell slots. </p>\n<h3>10th Level</h3>\n<p><strong>Passive</strong><strong>: </strong><span style=\"text-decoration:underline;\">Intellect Break</span> -&gt; Add your Intelligence modifier to attack rolls.</p>\n<p><span style=\"text-decoration:underline;\"><strong>New Latent Arcana Spell</strong></span></p>\n<h3>11th Level</h3>\n<h4>Heritage Subclass Feature</h4>\n<h3>12th Level</h3>\n<p><strong>Ability Score Improvement</strong></p>\n<h2>Subclasses</h2>\n<h3>Heritage of Chaos</h3>\n<h3>3rd Level</h3>\n<p><strong>Active</strong><strong>: </strong><span style=\"text-decoration:underline;\">Chaos Strike</span> -&gt; Strike a foe with advantage once per combat in exchange for rolling on the Chaos Magic table.</p>\n<h3>6th Level</h3>\n<p><strong>Action</strong><strong>:</strong> <span style=\"text-decoration:underline;\">Luck Manipulation</span> -&gt; When you or an ally gets hit by a critical attack, you can force the attacker to reroll. If you do, you can force an allied attack of your choice to be a critical hit. You can use this feature once per short rest.</p>\n<h3>11th Level</h3>\n<p><strong>Passive: </strong><span style=\"text-decoration:underline;\">Chaotic Perfection</span> -&gt; You gain immunity to psychic damage and advantage on saving throws against spells.</p>\n<h3>Heritage of the Storm</h3>\n<h3>3rd Level</h3>\n<p><strong>Passive:</strong> <span style=\"text-decoration:underline;\">Storm Surge</span> -&gt; During your first turn of combat, you gain 3m extra movement speed and can jump without using a bonus action once. Additionally, you are immune to fall damage until the end of your turn.</p>\n<p><strong>Passive:</strong> Storm Jump -&gt; Toggleable passive that increases the movement cost of jumping in exchange for dealing damage and knocking creatures away. The amount of knockback and damage scale with Wanderer level.</p>\n<p><img src=\"https://i.imgur.com/3bRnGT1.gif\" alt=\"\"></p>\n<h3>6th Level</h3>\n<p><strong>Active</strong><strong>:</strong> <span style=\"text-decoration:underline;\">Wind Sphere</span> -&gt; Once per short rest, you can create a small spherical storm on command. The sphere has a radius of 3m. It lasts for two turns and pushes all non-allied creatures outside the sphere if they fail a strength saving throw against your spell save dc. Additionally, attacks against allies within the sphere have disadvantage. The sphere is treated as difficult terrain for all creatures.</p>\n<h3>11th Level</h3>\n<p><strong>Active: </strong><span style=\"text-decoration:underline;\">Lightning Blast</span> -&gt; Once per long rest, you can strike with immense lightning that deals a great amount of damage and paralyzes all who fail a dexterity saving throw against your spell save DC. Lightning Blast has a radius of 5m.</p>\n<h4><span style=\"font-size:large;\"><strong>Patch Notes:</strong></span></h4>\n<h3><strong>2.0 Major Changes</strong></h3>\n<p><strong>Completely overhauled the first 5 levels of the class and nearly all fundamental features. </strong></p>\n<p><strong>New Major Feature</strong></p>\n<p>Starting at 2nd level, Wanderers add an additional effect to any spell they cast as long as it normally uses a spell slot to cast. These effects only occur while in combat so that they don't create weird situations with friendly npcs. All leveled spells cast give an Orb of Invocation regardless of if you're in combat, though ritual spells are excluded.</p>\n<p>- Because of this, there are now 8 new effects accessible to all Wanderers. Each new effect is listed on the description of Orb of Invocation's new passive.</p>\n<p><strong>Invoke Changes</strong></p>\n<p>- Invoke now only gains additional damage from Orbs of Invocation instead of applying unique effects, but you can have up to 8 Orbs of Invocation at a time. </p>\n<p>- Each Orb increases Invoke's damage by 1d10 and are obtained by casting both spells and Latent Arcanas. There is an Orb for each School of Magic, and you can only have one Orb from each school at any time. </p>\n<p>- Orbs serve no function outside of increasing Invoke's damage. This is so the class retains simplicity and better versatility. </p>\n<p>- Invoke now gains an increase to hit from both your primary attack modifier (Strength/Dexterity) <em>and</em> Intelligence. </p>\n<p>- Invoke's damage is equal to your Intelligence modifier + 1d10 for every Orb of Invocation.</p>\n<p>- Upon reaching 5th level, you gain access to one of four new versions of Invoke. All four have the same damage and properties, but they each add an element of AOE to the spell. Each have their positives and negatives!</p>\n<p><strong>Latent Arcana Changes</strong></p>\n<p>- Latent Arcanas are now initially gained at 1st level while spells aren't obtained until 2nd level. This change was made so that the class feels more based around its spell-like abilities rather than the spells themselves. </p>\n<p>- You now gain less overall access to Latent Arcana to offset other improvements to the system. You now start with 2 at 1st level and have 4 total by 12th level. </p>\n<p>- Some Latent Arcanas have been improved while others were nerfed. Latent Illusion, in particular, was nerfed so that it's hopefully no longer the objectively best choice.</p>\n<p>- Divination's Latent Arcana has been completely remade. It now uses a bonus action to decrease the number you need to land a critical hit by 5 until the end of your turn. This works with all attack rolls, including Invoke.</p>\n<p><strong>Other General Changes</strong></p>\n<p>- Extra attack has been completely removed. It has been replaced with a new feature called Mystic Strikes, which adds an additional 1d10 Force damage to your attacks once per turn. This change, while significantly less powerful than extra attack, was made to offset other major improvements the class has been given. </p>\n<p>- The spell list has been slightly expanded to provide more options to the player. </p>\n<p>- Traveling Armor has been removed. </p>\n<p><strong>Subclasses</strong></p>\n<p>- The Squirrel found using the Chaos subclass' Chaos magic now has a surprise for those unfortunate enough to summon it.</p>\n<p>- General interactions for the Storm Subclass' Storm Jump have been improved to be more consistent.</p>\n<h4> </h4>\n<h4>1.21</h4>\n<p>- Modified some small stuff and fixed some animations. Also added resource icons for Latent Arcana, no more confusing red stars! For now, the custom resource icons just reuse an existing one, I'll be added completely custom icons in a future update. </p>\n<p>- Prepared some mechanics for a major overhaul coming in the next update.</p>\n<h4><span style=\"font-size:medium;\">1.2 Major Update<strong><br></strong></span></h4>\n<h4>Balance Changes</h4>\n<p>- Latent Arcana Buff: Latent Arcana spells that require an attack no longer require a bonus action to cast. This change was made to alleviate the issue of the class being extremely slow to build its strength. Now, you can cast a fully-empowered Invoke in one turn, provided you have the resources to manage it. (I will be playtesting this further to properly evaluate the balance of it)</p>\n<p>- Invoke's cast range has been improved from 12m to 18m to compensate for the lack of high ground range extension.</p>\n<p>- Invoke's Evocation empowerment has been buffed so that it scales like a d8 cantrip. </p>\n<p>- Storm Heritage's Jump has been improved so that it requires 4m of movement instead of 6m. </p>\n<p>- Storm Heritage's Jump now gains extra range from the Wanderer's Intelligence modifier. </p>\n<p>- Storm Heritage's Jump now deals slightly more damage and launches enemies slightly further. It also no longer hits allies.</p>\n<h4>Misc Changes</h4>\n<p>- Bunch of random back-end bug fixes, mostly stuff that wouldn't really be noticeable in normal gameplay if you weren't looking for it. </p>\n<p>- Reworded various tooltips that had either spelling errors or were out of date. </p>\n<p>- Added an extended description for each of the 8 Invoke empowerments, it can be found in the Invoke Empowerment passive's description. </p>\n<p>- Gave Wanderer the Wizard tag so that players will have at least some dialogue options. I plan on adding my own tag system eventually, but it is <em>a lot</em> of work. </p>\n<p>- Made Invoke's prepare animation look a bit better. </p>\n<p>- Recreated subclass icons entirely. They look way better!</p>\n<h4><span style=\"font-size:medium;\"><strong>1.1</strong></span></h4>\n<p><span style=\"font-size:medium;\">- Polished effects and animations for features from the first few levels of the class and subclasses<br>- Added 8 new effects to the Chaos subclass' wild magic<br>- Reworked, improved, and fixed the rest of the wild magic effects</span></p>\n<h4><span style=\"font-size:medium;\"><strong>1.02</strong></span></h4>\n<p><span style=\"font-size:medium;\">- Added new passive to the Storm subclass<br>- Slightly buffed Invoke's damage at later levels<br>- Fixed a few tooltip bugs <br>- Moderately improved some of the Wanderer Gift options, all four options should seem appealing now<br>- Changed the starting armor. It is still has the same stats, it just looks a bit more fitting for the class now.</span></p>\n<h4><span style=\"font-size:medium;\"><strong>1.01</strong></span></h4>\n<p><span style=\"font-size:medium;\">- Fixed proficiencies and spell slots not showing in character creation and level up menus. </span></p>\n<h2> </h2>\n<h2><strong><span style=\"font-size:large;\">Future Content</span></strong></h2>\n<p>I am currently making a 3rd subclass and I will eventually create a proper trailer video, one that properly shows what the class can do. If you like what you see here, please let me know either in the comment section here or by direct messaging me. Thank you for taking the time to read this!<br><br>I'm also in the process of making: <br>- Tag system for dialogue options<br>- 5th Wanderer gift option that creates a completely unique familiar.</p>",
+    "date_added": 1729912255,
+    "date_updated": 1768406643,
+    "date_live": 1729920499,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wanderer",
+    "submitted_by": {
+      "id": 2477401,
+      "name_id": "terryberrier",
+      "username": "Terryberrier",
+      "profile_url": "https://mod.io/u/terryberrier",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6134586,
+      "mod_id": 4442463,
+      "version": "2.0.0.9",
+      "filename": "class_wanderer_be055456-26e8-f-ceto.zip",
+      "changelog": "Major 2.0 Update with total overhaul for levels 1-5. See description for details.",
+      "date_added": 1740690184,
+      "date_updated": 0,
+      "date_scanned": 1740690204,
+      "filesize": 13330606,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "imbueweaponthumbnailmodio.png",
+      "original": "https://image.modcdn.io/mods/51bf/4442463/imbueweaponthumbnailmodio.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/51bf/4442463/crop_320x180/imbueweaponthumbnailmodio.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/51bf/4442463/crop_640x360/imbueweaponthumbnailmodio.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/51bf/4442463/crop_1280x720/imbueweaponthumbnailmodio.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6134586
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6134586
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6134586
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6134586
+      }
+    ]
+  },
+  {
     "id": 4443057,
     "game_id": 6715,
     "name": "Origin Mirror Unlock",
@@ -64914,6 +65233,129 @@
       {
         "platform": "ps5",
         "modfile_live": 6277487
+      }
+    ]
+  },
+  {
+    "id": 4456956,
+    "game_id": 6715,
+    "name": "Slayer Assets Rathgor - Dark Urge Dragonborn CC",
+    "name_id": "slayer-assets-rathgor-dark-urge-dragonborn-cc",
+    "summary": "Adds Slayer CrestTops, Jaw for heads from Rathgor mod",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/b1tiUoSJafs?t=3s&amp;ab_channel=AkELkA\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Slayer Assets - Dark Urge Dragonborn CC pack</span></h4>\n<h4><strong>Pack includes CrestTops, Jaws for heads from <a href=\"https://mod.io/g/baldursgate3/m/rathgor-reforged-head-dark-urge-dragonborn-cc\">Rathgor - Reforged head - Dark Urge Dragonborn CC</a></strong> mod</h4>\n<p> </p>\n<p><strong>Slayer consumes everything - the body and soul of the host </strong>- which is why I incorporated elements of it into this pack</p>\n<p><strong>For a Slayer-ish appearance, use the Dragonborn color: Black 4</strong></p>\n<p> </p>\n<p>All head assets have broken var (left and right)</p>\n<p>The spikes on Crest, Jaw and Tail have two different material approaches - one based purely on Dragonborn material and the other on Horns material (Horns Tab). Go wild with it!</p>\n<p> </p>\n<h2>Spikes coloring</h2>\n<p>Spikes colors trough Horns tab</p>\n<p>You need to select assets (crest, jaw, tail) marked \"Horns\" in the name </p>\n<p><iframe src=\"https://www.youtube.com/embed/4a252K46X74?si=OY_wMubKxOki8kW5\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>Extra</h2>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1162\"><strong>All Extra Assets Avaliable to Rathgor</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/6ygpdg\"><strong>Rathgor Dragonborn Collection</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">Rathgor and All assets from other packs in Vortex collection</p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:transparent;color:#ffffff;font-family:Roboto, sans-serif;\" href=\"https://next.nexusmods.com/baldursgate3/collections/6ygpdg\"><img src=\"https://i.imgur.com/uQsJXWw.png\" alt=\"uQsJXWw.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1730473954,
+    "date_updated": 1768406590,
+    "date_live": 1730477098,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/slayer-assets-rathgor-dark-urge-dragonborn-cc",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 6278175,
+      "mod_id": 4456956,
+      "version": "1.0.0.6",
+      "filename": "slayer_assets_rathgor_62a82780-1hnr.zip",
+      "changelog": "Removed ImpUI from dependency",
+      "date_added": 1744777011,
+      "date_updated": 0,
+      "date_scanned": 1744777028,
+      "filesize": 7596885,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "slayer_assets_rath_bannercopy.1.png",
+      "original": "https://image.modcdn.io/mods/a6af/4456956/slayer_assets_rath_bannercopy.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a6af/4456956/crop_320x180/slayer_assets_rath_bannercopy.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a6af/4456956/crop_640x360/slayer_assets_rath_bannercopy.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a6af/4456956/crop_1280x720/slayer_assets_rath_bannercopy.1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6278175
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6278175
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6278175
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6278175
       }
     ]
   },
@@ -86663,6 +87105,104 @@
     ]
   },
   {
+    "id": 4792597,
+    "game_id": 6715,
+    "name": "Sniper Class Extra Feats",
+    "name_id": "sniper-class-extra-feats",
+    "summary": "Adds Feats every 2 Levels to the Sniper Class.",
+    "description": "<p>Adds Feats every 2 Levels to the Sniper Class.<br><a href=\"https://mod.io/g/baldursgate3/m/sniper-class\" target=\"_blank\" rel=\"noopener noreferrer\">https://mod.io/g/baldursgate3/m/sniper-class</a></p>",
+    "date_added": 1741908562,
+    "date_updated": 1768406754,
+    "date_live": 1741908691,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sniper-class-extra-feats",
+    "submitted_by": {
+      "id": 27805811,
+      "name_id": "eclip5ex",
+      "username": "Eclip5e_",
+      "profile_url": "https://mod.io/u/eclip5ex",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/852c/27805811/crop_100x100/eclipse_round.png"
+    },
+    "modfile": {
+      "id": 6176042,
+      "mod_id": 4792597,
+      "version": "1.0.0.1",
+      "filename": "sniperclassfeats_c0a1fc08-9c3e-jc8q.zip",
+      "changelog": null,
+      "date_added": 1741908574,
+      "date_updated": 0,
+      "date_scanned": 1741908579,
+      "filesize": 1728787,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/4712/4792597/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4712/4792597/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4712/4792597/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4712/4792597/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6176042
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6176042
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6176042
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6176042
+      }
+    ]
+  },
+  {
     "id": 4793119,
     "game_id": 6715,
     "name": "Moon - Head Preset",
@@ -89174,6 +89714,109 @@
       {
         "platform": "ps5",
         "modfile_live": 6227094
+      }
+    ]
+  },
+  {
+    "id": 4835471,
+    "game_id": 6715,
+    "name": "Mol's Glow Up",
+    "name_id": "mols-glow-up",
+    "summary": "Mol has a new outfit in Act 3.",
+    "description": "<p><strong><span style=\"font-size:medium;\">Mol’s Glow Up</span></strong><em><br><span style=\"font-size:small;\">Mol’s in the big leagues now, and she’s dressing the part.</span></em><span style=\"font-size:small;\"><br><br>Now that Mol has joined the Guild, she's changed out of her old torn clothes.<br><strong>What's Changed:</strong> Mol has a new Act 3 outfit</span><span style=\"font-size:medium;\"><br></span></p>\n<p><span style=\"font-size:medium;\"><strong><em><span style=\"font-size:small;\"><span style=\"font-size:medium;\">UPDATE: Improvements and Bugfixes<br></span></span></em></strong><span style=\"font-size:small;\">If you give Mol's eyepatch back to her, she will no longer revert to her act 1 appearance. She will now wear both her new outfit and eyepatch (and she's dyed it to match her new outfit).<br>Mol's vanilla portrait icon is missing the glow in her eye, giving her corpse-like appearance. She now has an updated, more life-like portrait.</span></span></p>",
+    "date_added": 1743373438,
+    "date_updated": 1768406989,
+    "date_live": 1743373685,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/mols-glow-up",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 6305564,
+      "mod_id": 4835471,
+      "version": "2.0.0.14",
+      "filename": "mol_restyled_0f9677f5-113e-c70-6ejf.zip",
+      "changelog": "Regenerated Osiris Scripts (possible fix for people unable to load mods with Osiris scripts)",
+      "date_added": 1745477909,
+      "date_updated": 0,
+      "date_scanned": 1745478192,
+      "filesize": 18418541,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "moltitle.4.png",
+      "original": "https://image.modcdn.io/mods/d668/4835471/moltitle.4.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d668/4835471/crop_320x180/moltitle.4.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d668/4835471/crop_640x360/moltitle.4.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d668/4835471/crop_1280x720/moltitle.4.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6305564
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6305564
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6305564
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6305564
       }
     ]
   },
@@ -102702,6 +103345,109 @@
     ]
   },
   {
+    "id": 4963677,
+    "game_id": 6715,
+    "name": "Bath Before Bed (Clean Camp Nights)",
+    "name_id": "bath-before-bed-clean-camp-nights",
+    "summary": "This mod automatically cleans your whole party and camp when End the Day is selected and you transition to nighttime. It also adds a cantrip to the main character/avatar called Grime Begone which will clean your current party.",
+    "description": "<p>This mod cleans you on successfully ending the day and transitioning to nighttime. And you get a cantrip called Grime Begone that will remove your active party's dirt buildup any time. The cantrip will be automatically added to your hotbar. You can also find it in your spellsheet under the Common tab.</p>\n<p>Tired of ending the day all bloody only for a romantic cutscene to play while covered in blood? Tired of trying to remember to soap everyone individually to prevent this from happening? No more! No more wondering why your camp clothes are dirty when you weren't even wearing them during the fight! No more awkward nighttime conversations drenched in the blood of your enemies! Take your bath <em>before</em> slipping into your casual clothes! You will also still get cleaned after long rest (vanilla behavior). Clean in the evening and clean in the morning!</p>\n<p>This mod uses an independent script and does not conflict with any other mods, as far as I know. It is tested and working with Camp Night Notifications.</p>\n<p><span style=\"text-decoration:underline;\"><em><strong>KNOWN ISSUES:</strong></em></span></p>\n<ul>\n<li>If you dismiss a party member, and attempt to clean/rest before they have despawned while walking to camp, they will not be cleaned.</li>\n<li>After a certain major quest in Act 1, transitioning to night when talking to the quest character does not remove dirt. Please use the cantrip before speaking to them if you want to be clean. (IYKYK, but even if you don't the dialogue will make it very obvious talking to them will transition to night.)</li>\n</ul>",
+    "date_added": 1748189249,
+    "date_updated": 1768406704,
+    "date_live": 1748197019,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/bath-before-bed-clean-camp-nights",
+    "submitted_by": {
+      "id": 45905279,
+      "name_id": "kelocena",
+      "username": "Kelocena",
+      "profile_url": "https://mod.io/u/kelocena",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/ab36/45905279/crop_100x100/3d1b2bf2f51bfcb85b33cd80251bece.jpg"
+    },
+    "modfile": {
+      "id": 6536774,
+      "mod_id": 4963677,
+      "version": "1.0.2.15",
+      "filename": "bathbeforebed_ed6b20cb-e078-d0-0e8u.zip",
+      "changelog": null,
+      "date_added": 1751686726,
+      "date_updated": 0,
+      "date_scanned": 1751686740,
+      "filesize": 2669193,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "bathtime2.2.png",
+      "original": "https://image.modcdn.io/mods/17e7/4963677/bathtime2.2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/17e7/4963677/crop_320x180/bathtime2.2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/17e7/4963677/crop_640x360/bathtime2.2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/17e7/4963677/crop_1280x720/bathtime2.2.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6536774
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6536774
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6536774
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6536774
+      }
+    ]
+  },
+  {
     "id": 4966064,
     "game_id": 6715,
     "name": "Mizora's Human Form Restored - Complete Immersion",
@@ -105747,6 +106493,104 @@
       {
         "platform": "ps5",
         "modfile_live": 6474474
+      }
+    ]
+  },
+  {
+    "id": 5009598,
+    "game_id": 6715,
+    "name": "Auto Digger Unbalanced",
+    "name_id": "auto-digger",
+    "summary": "Auto Digger By SFR magically unearths buried treasure chests no shovel needed, no hands getting dirty. Buried Mounds are always successfully revealed.",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/autodigger_title2.png\" alt=\"\" width=\"300\" height=\"169\"></p>\n<p><strong>Auto Digger unbalanced</strong><br><em>By SwissFred</em></p>\n<p style=\"color:#cc6600;\">Are you tired of digging up <strong>treasure chests</strong> from <strong>hidden mounds</strong>, grabbing a shovel, and getting your hands dirty?<br><strong>Are you an adventurer or a gardener?</strong></p>\n<p style=\"color:#cc6600;\"><strong>Then this mod is for you!</strong></p>\n<p><strong>Main Features:</strong><br><span style=\"color:#cc6600;\">-- Reveals <strong>hidden</strong> buried treasure chests<br>-- Survival checks on hidden chests <strong>always succeed</strong><br>-- <strong>No need for shovels</strong><br>-- Chests are magically dug up and ready to loot</span></p>\n<p><strong>Installing:</strong><br><span style=\"color:#cc6600;\">Install and enable the mod.</span></p>\n<p><strong>Uninstalling:</strong><br><span style=\"color:#cc6600;\">Uninstall the mod or disable it.<br><br>if you need a balanced version use Auto Digger Balanced.</span></p>\n<p> </p>\n<p> </p>",
+    "date_added": 1749755868,
+    "date_updated": 1768407052,
+    "date_live": 1749757800,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/auto-digger",
+    "submitted_by": {
+      "id": 33634988,
+      "name_id": "swissfred57",
+      "username": "SwissFred57",
+      "profile_url": "https://mod.io/u/swissfred57",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
+    },
+    "modfile": {
+      "id": 7251275,
+      "mod_id": 5009598,
+      "version": "2.1.8.0",
+      "filename": "autodigger_7eaa3d33-be8f-2964-3jrq.zip",
+      "changelog": "New version: Added compatibility with mods that place items in buried chests and improved the detection of hidden mounds.",
+      "date_added": 1767986337,
+      "date_updated": 0,
+      "date_scanned": 1767986659,
+      "filesize": 17566559,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "autodigger_titleunbalanced-smal.png",
+      "original": "https://image.modcdn.io/mods/cc95/5009598/autodigger_titleunbalanced-smal.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/cc95/5009598/crop_320x180/autodigger_titleunbalanced-smal.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/cc95/5009598/crop_640x360/autodigger_titleunbalanced-smal.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/cc95/5009598/crop_1280x720/autodigger_titleunbalanced-smal.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 6570829
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6570829
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6570829
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7251275
       }
     ]
   },
@@ -112589,6 +113433,114 @@
     ]
   },
   {
+    "id": 5119123,
+    "game_id": 6715,
+    "name": "Car Wildshape",
+    "name_id": "car-wildshape",
+    "summary": "Gives the ability to any player character to turn into a car. You can also be a car as a playable race which is funny but ruins the cinematics. Cars get access to a few unique spells.",
+    "description": "<p>Gives the ability to any player character to turn into a car. You can also be a car as a playable race which is funny but ruins the cinematics. Cars get access to a few unique spells.</p>",
+    "date_added": 1753487557,
+    "date_updated": 1768406826,
+    "date_live": 1753487872,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/car-wildshape",
+    "submitted_by": {
+      "id": 48279520,
+      "name_id": "wa-rouk",
+      "username": "wa_rouk",
+      "profile_url": "https://mod.io/u/wa-rouk",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f997/48279520/crop_100x100/armina_icon_big.png"
+    },
+    "modfile": {
+      "id": 7132406,
+      "mod_id": 5119123,
+      "version": "1.1.0.0",
+      "filename": "car_610395f4-8c95-414e-283f-28-bg0u.zip",
+      "changelog": "- Removal of Shader Files (BSHD files), now allowing console port\n- New debug spell to dismiss the car wildshape on Halsin or Minthara, which could soft lock the game",
+      "date_added": 1765553009,
+      "date_updated": 0,
+      "date_scanned": 1765553270,
+      "filesize": 160761652,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/68c3/5119123/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/68c3/5119123/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/68c3/5119123/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/68c3/5119123/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7132406
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7132406
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7132406
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7132406
+      }
+    ]
+  },
+  {
     "id": 5120428,
     "game_id": 6715,
     "name": "Bloodspun Head Presets",
@@ -118846,6 +119798,214 @@
       {
         "platform": "ps5",
         "modfile_live": 7100664
+      }
+    ]
+  },
+  {
+    "id": 5586528,
+    "game_id": 6715,
+    "name": "CL_Winter Wonderland",
+    "name_id": "cl-winterwonderland",
+    "summary": "You'll be comfy cozy all winter long in this collection! 12 Armours, 7 Hats, 6 Gloves, 4 Boots, 3 Cloaks, and 2 dyes made for all bodies and fully dyeable.",
+    "description": "<div style=\"text-align:center;\"><span style=\"color:#7dc2ff;\"><span style=\"font-size:x-large;\"><strong>Walkin' in a Winter Wonderland - a Winter themed mod for all bodies</strong></span></span></div>\n<p><br><br></p>\n<div style=\"text-align:center;\"><span style=\"color:#9cd0ff;\"><span style=\"font-family:'Courier New';\"><span style=\"font-size:medium;\">Please endorse the mod if you like the mod!</span></span></span></div>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Update!</strong></span></blockquote>\n<p> </p>\n<ul>\n<li><span style=\"font-size:medium;\">Added a look! Well, a variation on a look: the long padded armor now has a version without the shirt under it..</span></li>\n<li><span style=\"font-size:medium;\">I fiddled a bit with the lvl 10 buff so that hopefully now when combat ends, all of its effects end. Including the light.</span></li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Things to keep in mind...</strong></span></blockquote>\n<p> </p>\n<ul>\n<li><span style=\"font-size:medium;\">This is winter-themed set, so no skimpies here. Sorry, y'all; I don't want anyone freezing because of me.</span></li>\n<li><span style=\"font-size:medium;\">The looks are mostly consistent throughout, except femme bt1 (tall and short) have different trousers for look 2 than bt3 and all masc bodies.</span></li>\n<li><span style=\"font-size:medium;\">I included 2 dyes that follow the 2 different color schemes in the mod because very few dyes give you WHITE FUR! So for all your white fur needs...</span></li>\n<li><span style=\"font-size:medium;\">Stats are caster-focused, but not class specific. They focus on cold, not class.</span></li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Mod Includes...</strong></span></blockquote>\n<p> </p>\n<ul>\n<li><span style=\"font-size:medium;\">12 armours</span></li>\n<li><span style=\"font-size:medium;\">7 hats (including 1 scarf!)</span></li>\n<li><span style=\"font-size:medium;\">6 pairs of gloves</span></li>\n<li><span style=\"font-size:medium;\">4 pairs of boots</span></li>\n<li><span style=\"font-size:medium;\">3 cloaks</span></li>\n<li><span style=\"font-size:medium;\">2 dyes</span></li>\n</ul>\n<p><br><br>Fully dyeable and fits all bodies!<br><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Some great companion mods...</strong></span></blockquote>\n<p> </p>\n<ul>\n<li><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/circle-of-winter#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">Circle of Winter Druid Subclass</span></a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/16976\"><span style=\"color:#d6e9ff;\">Frozen Sorcery Sorcerer Subclass</span></a>, and <a href=\"https://mod.io/g/baldursgate3/m/winter-walker#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">Winter Walker Ranger Subclass</span></a> by Havsglimt</span></li>\n<li><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/frostdomain#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">Frost Domain - Cleric Subclass</span></a> and <a href=\"https://mod.io/g/baldursgate3/m/frostpaladin#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">Oath of the Frozen Wilds - Paladin Subclass</span></a> by GIGeorge</span></li>\n<li><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/college-of-winter-spirit-bard-ice-themed#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">College of Winter Spirit - Ice Mage Holiday Bard</span></a> by jasondunna</span></li>\n<li><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/winter-elves#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">Winter Elves</span></a> by Xabra</span></li>\n<li><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/mourning-frost-tweaks#description\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color:#d6e9ff;\">Mourning Frost Tweaks</span></a> by chizfreak</span></li>\n</ul>\n<p><br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~<br><br><br>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper and Helsik (The Devil's Fee) in act 3. If you’ve already visited one (or more) of these merchants before you install the mod, it won’t show up in their inventory until after a long rest or two. Or three.<br><br><br>You shouldn't have any issue loading this mod mid-game, but never try to UNload clothing/equipment mods if they're already in your and/or a merchant's inventory.<br><br></p>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\"><strong><span style=\"color:#7dc2ff;\">S</span><span style=\"color:#82c4ff;\">p</span><span style=\"color:#87c6ff;\">e</span><span style=\"color:#8cc9ff;\">c</span><span style=\"color:#92cbff;\">i</span><span style=\"color:#97cdff;\">a</span><span style=\"color:#9cd0ff;\">l</span> <span style=\"color:#a7d4ff;\">T</span><span style=\"color:#acd7ff;\">h</span><span style=\"color:#b1d9ff;\">a</span><span style=\"color:#b6dbff;\">n</span><span style=\"color:#bcdeff;\">k</span><span style=\"color:#c1e0ff;\">s</span> <span style=\"color:#cbe5ff;\">t</span><span style=\"color:#d1e7ff;\">o</span><span style=\"color:#d6e9ff;\">.</span><span style=\"color:#dbecff;\">.</span><span style=\"color:#e0eeff;\">.</span></strong><br><br><span style=\"color:#82c4ff;\">The kind members of the BG3 Modding Community discord</span><br><span style=\"color:#97cdff;\">Astra for the cmty coin and patreon banner!</span><br><span style=\"color:#bcdeff;\">The Tavern enablers (you know what you did.)</span><br><span style=\"color:#cbe5ff;\">Kat, Jess, Sam, Vak, and Lili for the pics</span><br><span style=\"color:#dbecff;\">Jerinski for the mod page guide</span></span></div>\n<p><br><br><br><br><br></p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/copperleaves\"><img src=\"https://i.imgur.com/XRa3ZXF.png\" alt=\"XRa3ZXF.png\"></a></div>\n<p><br><br><br></p>\n<div style=\"text-align:center;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/edit/patreon.com/copperleaves\"><img src=\"https://i.imgur.com/ybvY6E3.png\" alt=\"ybvY6E3.png\"></a></div>\n<p><br><br><br></p>\n<div style=\"text-align:center;\"><img src=\"https://i.imgur.com/2VCL13a.png\" alt=\"2VCL13a.png\"></div>",
+    "date_added": 1765985580,
+    "date_updated": 1768406939,
+    "date_live": 1765985580,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/cl-winterwonderland",
+    "submitted_by": {
+      "id": 33602659,
+      "name_id": "mcw717",
+      "username": "copperleaves",
+      "profile_url": "https://mod.io/u/mcw717",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/7007/33602659/crop_100x100/img_1774.jpeg"
+    },
+    "modfile": {
+      "id": 7266625,
+      "mod_id": 5586528,
+      "version": "1.0.0.23",
+      "filename": "cl_icewizard_a373f6c5-395c-7f5-1ugq.zip",
+      "changelog": "Enlarged the aura radius for the Group Skate ability",
+      "date_added": 1768286376,
+      "date_updated": 0,
+      "date_scanned": 1768286727,
+      "filesize": 122495521,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "img_6880.png",
+      "original": "https://image.modcdn.io/mods/fc04/5586528/img_6880.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/fc04/5586528/crop_320x180/img_6880.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/fc04/5586528/crop_640x360/img_6880.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/fc04/5586528/crop_1280x720/img_6880.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dyes",
+        "name_localized": "Dyes",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "Wizard",
+        "name_localized": "Wizard",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7213846
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7213846
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7213846
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7266625
       }
     ]
   }
