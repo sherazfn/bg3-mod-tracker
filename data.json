@@ -11521,7 +11521,7 @@
     "summary": "Adds 6 haunted-themed custom music VFX to performances, a combat performance aura and various new instrument textures and glowmaps.",
     "description": "<h2><span style=\"font-size:x-large;\">What is the Haunted Instruments Mod?</span></h2>\n<p>Blood, haunting and phantasm thematic excuses for custom VFX, spells, textures and glowmaps.<br>Here's a headline summary of what's included in this mod:</p>\n<ul>\n<li>6 custom VFX, 1 for each performable song.</li>\n<li>15 haunted violin texture and toggle-able glowmap variants with optional lighting boosts.</li>\n<li>2 custom lute textures (1 fully dyeable), 2 custom flute textures.</li>\n<li>Perform music in combat with an aura that increases in power for each combat round music is sustained.</li>\n<li>Haunted Instrument varnish - use this to apply the \"Haunted\" effects to any vanilla or custom instrument.</li>\n<li>Inherits all the music performance QoL features of its dependent mod, Ember's Lute, such as toggle-able music tracks by instrument type, auto-performing with companions.</li>\n</ul>\n<h2><span style=\"font-size:x-large;\">A Quick Note on Compatibility</span></h2>\n<p>This mod does not change the vanilla music performances. Its custom music performances, instrument toggles and spell effects are only triggered when you either equip one of its instruments, or use the instrument varnishes. It's just a design approach and there are pros and cons. Pro is it should be compatible with most other mods, and happily co-exist alongside other music mods. Con, music performance functionality added by another music mod will probably not work on the custom instruments in this mod (but should be fine with vanilla instruments).  </p>\n<h2><span style=\"font-size:x-large;\">Adding and Removing This Mod</span></h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom instruments, spells and statuses, it cannot be removed mid-game without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2><span style=\"font-size:x-large;\">Console Players</span></h2>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. All of the features of this mod can be quickly accessed via the pink Summon Instruments scroll that was dropped into your inventory. If you have lost or destroyed this scroll, it can be re-purchased from vendors in all 3 acts (Druid's Grove, Last Light Inn and Chromatic Scale).</p>\n<h2><span style=\"font-size:x-large;\">FAQ</span></h2>\n<ul>\n<li><strong>Q: Do I need another mod to grant musical proficiency without spending a Feat?</strong></li>\n<li>A: Not necessary, these are magical custom instruments that grant musical proficiency when they are equipped.</li>\n</ul>\n<ul>\n<li><strong>Q: Do I need the Divinity Song Pack DLC to use this mod?</strong></li>\n<li>A: It is not a requirement for this mod. If you have the DLC, you will be able to perform the 3 extra songs on the custom instruments with the custom VFX. If you do not have the DLC, then you will be able to perform the standard 3 songs. The custom \"Weeping Dawn\" performance is available regardless of whether the DLC is present or not.</li>\n</ul>\n<ul>\n<li><strong>Q: I have a specific question or feedback on the combat performance aura and mechanics.</strong></li>\n<li>A: I welcome feedback on the aura. Check out this article from the nexus page which describes in a bit more detail how it works: <a href=\"https://www.nexusmods.com/baldursgate3/articles/853\">Combat Music Aura - Bloody Siphoning</a></li>\n</ul>\n<ul>\n<li><strong>Q: (PC Only) Do the instruments in this mod work with Transmog?</strong></li>\n<li>A: At this point in time, version 2 of the music mod instruments use custom tags which is not supported by <a href=\"https://www.nexusmods.com/baldursgate3/mods/2922?tab=description\">Transmog</a>. I will be uploading a patch in the future that works around this, although it will only be available via Nexus due to the script extender external dependency requirement.</li>\n</ul>\n<ul>\n<li><strong>Q: I've noticed that crowds do not gather when I perform music, is this a bug?</strong></li>\n<li>A: Yes, but not caused by this mod or its dependencies. This issue can also present in-game as music performances on vanilla (un-modded) instruments being interrupted. The most likely cause of missing crowd reactions or interrupted music on vanilla instruments is another mod which is regularly applying a status to your performer. The custom statuses used by this mod are designed to avoid that common issue, which is why music performances on custom instruments from this mod are typically unaffected by the interruptions. I'm looking into a way to make the crowd reactions more resilient to accidental breakages by other mods as well.</li>\n</ul>\n<ul>\n<li><strong>Q: I see missing icons (question marks) or the game crashes when I equip an instrument.</strong></li>\n<li>A: Both of these are usually symptomatic of either a missing dependency, Ember's Lute (crash on equip), or a reversed load order (missing icons). To resolve the revered load order, you can disable and then re-enable this mod in the in-game Mod Manager.</li>\n</ul>\n<ul>\n<li><strong>Q: I get a stuck blue arrow when trying to update the mod, or a locked error is thrown.</strong></li>\n<li>A: Update issues are sometimes due to BG3 becoming out-of-sync with mod.io and the fix is usually to unsubscribe and re-subscribe. You may need to first disable the mod, then exit and re-launch BG3 before unsubscribing in the Mod Manager. See this article for a bit more information: <a href=\"https://www.nexusmods.com/baldursgate3/articles/1033\">Stuck Blue Arrows</a></li>\n</ul>",
     "date_added": 1725511787,
-    "date_updated": 1763854344,
+    "date_updated": 1768478357,
     "date_live": 1725513145,
     "visible": 1,
     "status": 1,
@@ -11551,15 +11551,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -11614,19 +11614,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7042958
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6532662
+        "modfile_live": 7042958
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6532662
+        "modfile_live": 7042958
       },
       {
         "platform": "ps5",
-        "modfile_live": 6532662
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7042958
       }
     ]
@@ -13663,7 +13663,7 @@
     "summary": "Celestial themed music performance VFX, lyre and flute textures and visual effects, equippable wings and in-combat music performance.",
     "description": "<p><img src=\"https://i.imgur.com/qK8f2GT.png\" alt=\"\" width=\"800\" height=\"125\"></p>\n<p><img src=\"https://i.imgur.com/mnUFsCy.png\" alt=\"\" width=\"800\" height=\"450\"></p>\n<h2>What is the Celestial Instruments Mod?</h2>\n<p>Divine and corrupted celestial thematic excuses for custom VFX, spells, textures and glowmaps.<br>Here's a headline summary of what's included in this mod:</p>\n<ul>\n<li>1 divine lyre and 1 divine flute with custom textures and lighting visual options</li>\n<li>1 corrupted lyre and 1 corrupted flute with custom texture, dyable</li>\n<li>1 custom lute with the ability to summon the divine music ensemble, <em>The Wight Smites</em></li>\n<li>6 \"divine celestial\" music performance VFX </li>\n<li>3 \"corrupted\" music performance VFX</li>\n<li>2 sets of equippable wings (use underwear slot), each with a selection of visual wingfx options</li>\n<li>1 set of underwear (check the Miscellaneous Container) that adds spell containers which can play various custom visual effects from this mod (just for fun - note that visual effects on your character do not persist in dialogs and cutscenes)</li>\n<li>2 in-combat music performance auras (Divine and Corrupted variants)</li>\n</ul>\n<p>This mod inherits (from Ember's Lute):</p>\n<ul>\n<li>Play complete music songs solo with instrument helper summons (can be toggled off - check Passives)</li>\n<li>Conduct music mid-performance with instrument silence toggles (check Passives)</li>\n<li>Auto-perform music with instrument sprites, musical ensembles or with party companions</li>\n<li>VFX on music performances varies by instrument theme, and can also be toggled on or off completely (check Passives)</li>\n</ul>\n<h2>Patch 8</h2>\n<p>The following versions of the music mods are tested and working on patch 8:</p>\n<h4>Ember's Lute</h4>\n<ul>\n<li>2.2.1.0 +</li>\n<li>2.2.0.4 (also compatible with patch 7)</li>\n</ul>\n<h4>Ember's Lute Haunted Instruments</h4>\n<ul>\n<li>2.2.1.0 +</li>\n<li>2.2.0.3 (also compatible with patch 7)</li>\n</ul>\n<h4>Ember's Lute Celestial Instruments</h4>\n<ul>\n<li>2.2.1.0 +</li>\n<li>2.2.0.3 (also compatible with patch 7)</li>\n</ul>\n<h2>A General Note on Compatibility</h2>\n<p>This mod does not change the vanilla music performances. Its custom music performances, instrument toggles and spell effects are only triggered when you either equip one of its instruments, or use the instrument varnishes. It's just a design approach and there are pros and cons. Pro is it should be compatible with most other mods, and happily co-exist alongside other music mods. Con, music performance functionality added by another music mod will probably not work on the custom instruments in this mod (but should be fine with vanilla instruments).  </p>\n<h2>Adding and Removing This Mod</h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom instruments, spells and statuses, it cannot be removed mid-game without pre-requisite in-game steps to fully erase the custom items. For PC players, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2>FAQ</h2>\n<ul>\n<li><strong>Q: Do I need another mod to grant musical proficiency without spending a Feat?</strong></li>\n<li>A: Not necessary, these are magical custom instruments that grant musical proficiency when they are equipped.</li>\n</ul>\n<ul>\n<li><strong>Q: Do I need the Divinity Song Pack DLC to use this mod?</strong></li>\n<li>A: It is not a requirement for this mod. If you have the DLC, you will be able to perform the 3 extra songs on the custom instruments with the custom VFX. If you do not have the DLC, then you will be able to perform the standard 3 songs. The custom \"Weeping Dawn\" performance is available regardless of whether the DLC is present or not.</li>\n</ul>\n<ul>\n<li><strong>Q: I have a specific question or feedback on the combat performance aura and mechanics.</strong></li>\n<li>A: I welcome feedback. The best place to engage is the Nexus home page for this mod.</li>\n</ul>\n<ul>\n<li><strong>Q: (PC Only) Do the instruments in this mod work with Transmog?</strong></li>\n<li>A: At this point in time, version 2 of the music mod instruments use custom tags which is not supported by <a href=\"https://www.nexusmods.com/baldursgate3/mods/2922?tab=description\">Transmog</a>. I will be uploading a patch in the future that works around this, although it will only be available via Nexus due to the script extender external dependency requirement.</li>\n</ul>\n<ul>\n<li><strong>Q: I've noticed that crowds do not gather when I perform music, is this a bug?</strong></li>\n<li>A: Yes, but not caused by this mod or its dependencies. This issue can also present in-game as music performances on vanilla (un-modded) instruments being interrupted. The most likely cause of missing crowd reactions or interrupted music on vanilla instruments is another mod which is regularly applying a status to your performer. The custom statuses used by this mod are designed to avoid that common issue, which is why music performances on custom instruments from this mod are typically unaffected by the interruptions. I'm looking into a way to make the crowd reactions more resilient to accidental breakages by other mods as well.</li>\n</ul>\n<ul>\n<li><strong>Q: I see missing icons (question marks) or the game crashes when I equip an instrument.</strong></li>\n<li>A: Both of these are usually symptomatic of either a missing dependency, Ember's Lute (crash on equip), or a reversed load order (missing icons). To resolve the revered load order, you can disable and then re-enable this mod in the in-game Mod Manager.</li>\n</ul>\n<ul>\n<li><strong>Q: I get a stuck blue arrow when trying to update the mod, or a locked error is thrown.</strong></li>\n<li>A: Update issues are sometimes due to BG3 becoming out-of-sync with mod.io and the fix is usually to unsubscribe and re-subscribe. You may need to first disable the mod, then exit and re-launch BG3 before unsubscribing in the Mod Manager. See this article for a bit more information: <a href=\"https://www.nexusmods.com/baldursgate3/articles/1033\">Stuck Blue Arrows</a></li>\n</ul>",
     "date_added": 1725585999,
-    "date_updated": 1763854396,
+    "date_updated": 1768478311,
     "date_live": 1727431572,
     "visible": 1,
     "status": 1,
@@ -13693,15 +13693,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -13756,19 +13756,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7043000
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6569485
+        "modfile_live": 7043000
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6569485
+        "modfile_live": 7043000
       },
       {
         "platform": "ps5",
-        "modfile_live": 6569485
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7043000
       }
     ]
@@ -55725,7 +55725,7 @@
     "summary": "* A full spell theft and transmog system!",
     "description": "<p style=\"text-align:center;\">Be anyone. Learn any spell. Transmog Items.<br>Over 100+ different character options, and you can choose more as you play!<br><br></p>\n<div style=\"text-align:center;\"><span style=\"color:#ffff00;font-size:large;\">Have you ever seen a really cool NPC and wanted to BE that NPC? <br>Or really, really wanted to go deep in the whole RP scene? <br>Have you ever wanted to play a TRUE Doppelganger, or a thief that can wear faces?<br>Have you ever seen a spell cast by another party member, or NPC, and wished you could cast it? <br><br>Go --&gt; <a href=\"https://docs.google.com/document/d/1dodmId5y0is2RNnrTlpgkoEnoYanei17KAg07kDmya4/\">HERE</a> &lt;-- for instructions!</span></div>\n<p><br>** With the ability to store forms, as well as ~100 pre-saved forms to choose from!<br>** With a Makeover! ability that allows you to change the visual of NPCs! See my article link above for details **<br>** For those playing non-human characters, I made <a href=\"https://mod.io/g/baldursgate3/m/alignment-and-species-reactions#description\">this mod</a> specifically for you! **<br><br>* This mod allows you to steal your targets entire identity, and also give others the ability to do so<br>- This includes: tags, name, appearance, buffs, and some spells<br>- This also includes spells cast on you (may not include AoE spells)<br>- Works on corpses, so you can murder someone, hide their body, and take their place (should not affect the story, RP purposes only)<br><br>* <span style=\"color:#ffff00;\">TO USE</span>: Put on the ring. Cast the spell. To reclaim your identity, click Reclaim Identity.<br>- To add or remove Identity Theft from a companion/summon that is NOT using the ring, cast Identification Theft Training on it. This spell performs both functions.<br>* You will be able to steal your targets next cast spell for up to TEN turns (60 seconds). The stolen spell is permanent.<br>* Stolen spells retain their requirements, which means any spell requiring special conditions will be unusable.<br>* Toggle on the Mental Fatigue passive to add damage-on-learning.<br>* Use Steal Identity on yourself to reapply your most recent stolen form if you were forcibly removed from it. This ONLY works if the form is available on that map. Does not work for pre-saved forms.<br><br>- The <span style=\"color:#ffff00;\">Orb</span> is meant for those not wanting to use the ring, but still wanting the Spell Thief abilities.<br>- Toggle on the Observe and Learn passive (Orb in inventory or Ring equipped) to be able to automatically learn one spell per fight.<br><br>-- Wildshaping into a creature marks it as a Wildshape for recall purposes. If you save that form (cannot save while Wildshaped), then recall it, it will Wildshape you again.<br>-- To mark a Wildshape form as not-Wildshape, use Wild Shape: Remove on the target. Recalling that form will transform you normally.<br>-- To re-mark a form as Wildshape, simply cast the Wild Shape ability on it again.<strong><br><br></strong>Note: You cannot transform into a child if the <a href=\"https://mod.io/g/baldursgate3/m/child-protective-services#description\">CPS (Activator)</a> passive is toggled off. This is automatically turned on, so shouldn't even be noticed by most of you.<strong><br><br>If you prefer <a href=\"https://mod.io/g/baldursgate3/m/true-doppelganger2#description\">race</a> and <a href=\"https://mod.io/g/baldursgate3/m/spell-thief#description\">subclass</a> mods, try these out instead.<br><br>** Additional functions **<br><br></strong><span style=\"color:#ffff00;\">Item transmogs:<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">-- There are two options for use;<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">---- &gt; Equip the item you wish to transmog and cast the appropriate spell on the item you wish it to look like. This will change your equipped item’s look.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">OR<br>---- &gt; Equip the item you wish to transmog and cast the appropriate spell on the character that is wearing the item you wish to copy.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">– You MUST use the Equip Item spell on your xmogged item if you drop it. Xmogging an item makes it impossible to click-equip or right-click equip.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">-- To remove a transmog, cast the Remove Xmog spell on the item. This only works on items with the Transmogrified status.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ff0000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">– THIS IS IMPORTANT!! SAVE and RELOAD your game OR toggle your vanity slot on/off to apply the new visuals</span><br>** Notes: <br>- xmogging armor when the stolen armor would not normally fit a character may cause visual issues, such as Githyanki Plate Mail. If this happens, simply remove the xmog.<br>- the text for xmogged items will turn grey. These items retain their statuses, abilities, and damage. Removing an xmog will return the item to normal.<br>- xmogs do not show in cutscenes for some reason, but do show in Photo Mode.<br><br><span style=\"color:#ffff00;\">Makeover!</span> ability that allows you to turn any NPC into a form you have Recalled onto yourself.<br>-- To cast YOUR form on another NPC, you must have the Makeover Mirror in your inventory. It is available on some vendors (Arron, Harper QMaster and Sticky)<br>-- To cast another form on a NPC, you must first Revert a saved form onto yourself or use one of the Other Forms on yourself, then cast Makeover! on the NPC (without the mirror in your inventory!).<br>-- To return a NPC to normal, recast Makeover! on them.<br><br>- <span style=\"color:#ffff00;\">Summon: Super-Special Spell and Ability Removal Skull</span> and cast the spell you wish to remove.<br>-- Only works for stolen spells, does not work for spells obtained via progression!<br>-- Will kill itself once you cast a stolen spell.<br><br>- <span style=\"color:#ffff00;\">Wheel of Faces</span><br>-- 2 versions: Humanoid and Non-Humanoid<br>-- Summon the Wheel of Faces and spin! It will turn you into a random form based on the wheel you chose from those available in the map you are on or maps you have previously visited.<br>-- Currently available for PC only. Due to the mod only recently being released for consoles I want to leave Larian alone for a bit.<br><br>MOD LIMITATIONS:<br>- <strong>Due to guidelines involving children and mods, the ability to transform into a child character has been removed.</strong><br>- You cannot learn spells that have containers, such as Command and Bestow Curse.<br>- You cannot use a spell or ability you have learned if that spell or ability requires special statuses or passives, such as some Honor Mode spells.<br>- The item xmog will not show in cutscenes. I believe cutscenes load the base template and ignore any transforms.</p>",
     "date_added": 1729008224,
-    "date_updated": 1763907779,
+    "date_updated": 1768477632,
     "date_live": 1729008592,
     "visible": 1,
     "status": 1,
@@ -55755,15 +55755,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -55973,19 +55973,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7046904
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6863118
+        "modfile_live": 7046904
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6863118
+        "modfile_live": 7046904
       },
       {
         "platform": "ps5",
-        "modfile_live": 6863118
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7046904
       }
     ]
@@ -66853,7 +66853,7 @@
     "summary": "Consolidation of all Barbarian subclasses from the 5th Edition DnD official source material and Critical Role. Includes RAW Reckless Attack mechanics.",
     "description": "<p>Subclasses: Ancestral Guardian, Battlerager, Beast, Juggernaut (Tal'Dorei Reborn), Storm Herald, Zealot. Everything has been implemented faithful to the source material and close to 100% Rules as Written.</p>\n<p>Any Script Extender functionality that was used in the Nexus versions has been removed and will cause some abilities to work differently, noted below.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/sumradagnoth\" rel=\"nofollow\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"\"></a></p>\n<p><img style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:medium;\" src=\"https://i.imgur.com/ZcxF62r.png\" alt=\"ZcxF62r.png\"><br><br></p>\n<h3>Path of the Ancestral Guardian</h3>\n<p><em>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</em></p>\n<h3><strong><a title=\"Ancestral Guardian Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1316\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Battlerager</h3>\n<p><em>Known as Kuldjargh (literally \"axe idiot\") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Battlerager Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1317\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Beast</h3>\n<p><em>Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Beast Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1318\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<p> </p>\n<h3>Path of the Juggernaut</h3>\n<p><em>Barbarians who follow the Path of the Juggernaut stand so resolutely that none can deter them, and they swing their weapons with such force that all who stand against them are flung aside. In might and in spirit, juggernauts are immovable object and unstoppable force all at once.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Juggernaut Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1319\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Juggernaut</h3>\n<p><em>Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Storm Herald Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1320\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Zealot</h3>\n<p><em>Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Zealot Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1321\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<p><strong><br><em><a style=\"background-color:transparent;font-weight:500;\" href=\"https://mod.io/u/sumradagnoth/\"><img src=\"https://i.imgur.com/VeEiEB1.png\" alt=\"VeEiEB1.png\"></a></em></strong></p>",
     "date_added": 1730812475,
-    "date_updated": 1764343698,
+    "date_updated": 1768478262,
     "date_live": 1730815687,
     "visible": 1,
     "status": 1,
@@ -66883,15 +66883,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -66936,19 +66936,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7074399
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6873040
+        "modfile_live": 7074399
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6873040
+        "modfile_live": 7074399
       },
       {
         "platform": "ps5",
-        "modfile_live": 6873040
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7074399
       }
     ]
@@ -71931,7 +71931,7 @@
     "summary": "Consolidation of all Monk subclasses from the 5th Edition DnD official source material.",
     "description": "<p>Subclasses: Way of the Ascendant Dragon, Way of the Astral Self, Way of the Kensei, Way of the Long Death, Way of Mercy, Way of the Sun Soul. Everything has been implemented faithful to the source material and close to 100% Rules as Written.</p>\n<p>You will need some Level 20 unlock mod to advance beyond 12th level as a Monk.</p>\n<p><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\">Any Script Extender functionality that was used in the Nexus versions has been removed and will cause some abilities to work differently, noted below.</span></p>\n<p><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\"> </span></p>\n<p><a href=\"https://ko-fi.com/sumradagnoth\" rel=\"nofollow\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"\"></a></p>\n<p><img style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:medium;\" src=\"https://i.imgur.com/ZcxF62r.png\" alt=\"ZcxF62r.png\"><br><br></p>\n<h3>Way of the Ascendant Dragon</h3>\n<div></div>\n<p><em>The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.</em></p>\n<h3><strong><a title=\"Ascendant Dragon Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1369\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p><strong>Changes from Nexus</strong><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">:  </span></p>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">There is no way to do true damage conversion without Script Extender, so I have redone it with a janky workaround</span>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">Unarmed strike damage is converted to your Draconic Energy type based on the toggle you have active</span></li>\n<li>The damage from the original base unarmed attack is made 0 (you will see this in the combat log) and then rerolled using the converted damage type</li>\n<li>Damage riders are still attached to the original unarmed attack damage and not the new damage roll</li>\n<li>Keep the interrupt \"Ask\" disabled or Flurry of Blows will not convert properly</li>\n</ul>\n</li>\n</ul>\n<h3><strong> </strong></h3>\n<h3>Way of the Astral Self</h3>\n<div></div>\n<p><em>A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Astral Self Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1370\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p><strong>Changes from Nexus</strong><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">:  </span></p>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">There is no way to do true damage conversion without Script Extender, so I have redone it with a janky workaround</span>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">Unarmed strike damage is converted to your Force when your Astral Arms toggle is active</span></li>\n<li>The damage from the original base unarmed attack is made 0 (you will see this in the combat log) and then rerolled using the converted damage type</li>\n<li>Damage riders are still attached to the original unarmed attack damage and not the new damage roll</li>\n<li>Keep the interrupt \"Ask\" disabled or Flurry of Blows will not convert properly</li>\n</ul>\n</li>\n<li>If your Wisdom is higher than Dex/Str it will be used for attacks with the Astral Arms\n<ul>\n<li>The combat log will get ugly with the calculation and but it is correct<br><br><br></li>\n</ul>\n</li>\n</ul>\n<h3>Way of the Kensei</h3>\n<div></div>\n<p><em>Monks of the Way of the Kensei train relentlessly with their weapons, to the point that the weapon becomes like an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons. </em><em>A kensei sees a weapon much in the same way a calligrapher or a painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.</em></p>\n<h3><strong><a title=\"Kensei Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1371\">Full Implementation Details and Mechanics</a></strong></h3>\n<h3><strong> </strong></h3>\n<h3>Way of the Long Death</h3>\n<div></div>\n<p><em>Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Long Death Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1372\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<h3> </h3>\n<h3>Way of Mercy</h3>\n<div></div>\n<p><em>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy. </em><em>Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies. </em><em>The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Mercy Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1373\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<h3><strong> </strong></h3>\n<h3>Way of the Sun Soul</h3>\n<div></div>\n<p><em>Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Sun Soul Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1374\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<p> </p>\n<p><strong><em><a style=\"background-color:transparent;font-weight:500;\" href=\"https://next.nexusmods.com/profile/sumradagnoth8/mods\"><img src=\"https://i.imgur.com/VeEiEB1.png\" alt=\"VeEiEB1.png\"></a></em></strong></p>",
     "date_added": 1732668445,
-    "date_updated": 1764345530,
+    "date_updated": 1768475672,
     "date_live": 1732669999,
     "visible": 1,
     "status": 1,
@@ -71961,15 +71961,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -72009,19 +72009,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7074552
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6646735
+        "modfile_live": 7074552
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6646735
+        "modfile_live": 7074552
       },
       {
         "platform": "ps5",
-        "modfile_live": 6646735
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7074552
       }
     ]
@@ -75634,7 +75634,7 @@
     "summary": "Turn BG3 into an unpredictable \"Roguelike\". Face enemies that randomly evolve into powerful \"Goldmembers,\" survive the onslaught, and wield forbidden equipment. Featuring new bosses, unique items, and dynamic difficulty with fun content!",
     "description": "<p><strong>Bring the Chaos Back to the Sword Coast</strong></p>\n<p>If you’ve rolled credits but aren’t ready to leave Faerûn, <em>Rise of the Goldmembers</em> injects a fresh layer of unpredictability and challenge into the main campaign. This isn’t just a stat boost; it’s an overhaul that adds roguelike elements and random encounters to keep even veteran players on their toes.</p>\n<p><strong>What to Expect:</strong></p>\n<ul>\n<li>\n<p><strong>The Goldmembers:</strong> Golden enemies now randomly spawn during battles. Defeating them isn't just for glory, they drop unique resources and loot essential for your progression.</p>\n</li>\n<li>\n<p><strong>Roguelike Mechanics:</strong> Random variables ensure that no two battles play out exactly the same. You’ll need to adapt on the fly.</p>\n</li>\n<li>\n<p><strong>New Power Systems:</strong> Master the new <strong>Golden Momentum</strong> action resource to unleash fresh<strong> new abilities </strong>for all your characters.</p>\n</li>\n<li>\n<p><strong>New Gear &amp; Crafting:</strong> Hunt down Elite Goldmember Vendors for rare valuables or visit the Great Forge to craft an all-new weapon.</p>\n</li>\n<li>\n<p><strong>Fresh Content:</strong> Tackle new bosses, endure challenge trials, and experience an expanded story layer.</p>\n</li>\n</ul>\n<p><strong>Installation Note:</strong> While this works with other mods and fits into the regular campaign structure, a <strong>New Game</strong> is highly recommended to experience the full flow of the new mechanics.<span style=\"text-decoration:underline;\"><strong> You must talk to Goldmund who is the golden NPC at the starting room at Nautilus! You get all the options for gameplay also after leaving the first room of nautilus. Do not skip nautilus with other mods.</strong></span></p>\n<hr>\n<p><strong>Join the Hunt on Discord</strong> The mod doesn't end at the game menu. </p>\n<ul>\n<li>\n<p><strong>Leave Your Mark:</strong> High-ranking bounty hunters can be immortalized in the mod (e.g., designing a custom boss).</p>\n</li>\n<li>\n<p><strong>Compete:</strong> Climb the leaderboards and earn unique Discord roles</p>\n</li>\n<li>\n<p><strong>Secrets:</strong> Find item location guides and community tips.<br><br><a href=\"https://discord.gg/NtPmC62jFa\" target=\"_blank\" rel=\"noopener noreferrer\">https://discord.gg/NtPmC62jFa</a></p>\n</li>\n</ul>\n<hr>\n<h4><strong>New Faction: Goldmembers</strong></h4>\n<p>Encounter the <strong>Goldmember Elites</strong> vendors throughout your journey. These figures sell valuable items, and test your worthiness. They hold the key to the golden power – if you prove yourself, perhaps you too can rise to their ranks. Turn against them and be ready for a awesome battle. They drop their valuable weapons if you beat them but the codexes can be only bought. </p>\n<hr>\n<h4><strong>Dynamic and Challenging Battles</strong></h4>\n<ul>\n<li><strong>Goldmembers in Combat</strong>: Enemies in battles will <span style=\"text-decoration:underline;\">randomly</span> turn into Goldmembers, revealing their true self and  wielding unique powers that keep you on your toes. Every fight becomes unpredictable and thrilling.</li>\n<li><strong>Scaling:</strong> Enemies have more health. And you have new powers to tackle that.</li>\n<li><strong>Random Enemy Buffs</strong>: No two battles are alike! Enemies receive random buffs from a pool of over 100 buffs, ensuring each encounter feels fresh and demands strategic thinking.</li>\n<li><strong>New Spells and Resources (Optional)</strong>: Acquire the <em>Codex of Gilded Gateway</em> early in the game to learn powerful new spells. These abilities consume <strong>Golden Momentum</strong>, a new resource that adds tactical depth to your gameplay.</li>\n<li><strong>Enrage timers: </strong>All enemies spawn with a enrage timer (Final Fury) with a random turns left! Enemies get extra action each round after Final Fury timer runs out.</li>\n<li><strong>Vulnerabilities: </strong>Along with Goldmembers added powers they have new weaknesses. They will always randomly get one vulnerability on random element/physical skill. Try to capitalize on those weaknesses!</li>\n<li><strong>The Gilded Trials:</strong> You will encounter the Gilded Trials on each act where you get a chance to proof your worth to Goldmund and earn items not available in the normal game.</li>\n<li><strong>New Bosses and Bounties: </strong>New Act bosses around the world with new item rewards and you can complete bounties in Discord if you kill them and show a video of it. Bounties completely optional.</li>\n</ul>\n<p><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/buffs.png\" alt=\"\" width=\"442\" height=\"23\"><br><br></p>\n<hr>\n<p><strong> </strong></p>\n<h4><strong>New Mechanic: The Gilded Gateway and Gilded Compendium</strong></h4>\n<p>You learn Gilded Gateway spells and  Gilded Compendium spell to gain more power for your characters! You need to find Codex' around the world that unlocks those spells for your use. Afterwards the  Gilded gateway codex is consumed at the beginning of the game you can acquire spells that use a new action resource: Golden Momentum.<br><br>The Gilded Gateway spells are learned at the beginning of the game but you need to find the Codices to use them. You find more powerful Codices as you progress.</p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/gg1.png\" alt=\"\" width=\"191\" height=\"102\"><br><br><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/gg2.png\" alt=\"\" width=\"443\" height=\"154\"><br><strong>Gilded Gateway Guide<br></strong></p>\n<p><strong>1. Meet Goldmund</strong>:</p>\n<ul>\n<li>In the Nautiloid, speak to Goldmund to receive <strong>10 Codices of Gilded Gateway</strong>.</li>\n</ul>\n<p><strong>2. Consume the Codex</strong>:</p>\n<ul>\n<li>Use a Codex to unlock the <strong>Gilded Gateway and Gilded Compendium</strong> spells, which will appear in your action bar. <strong>You also get the Golden Momentum action resource to your character by consuming the codex.</strong></li>\n</ul>\n<p><strong>3. Access New Spells</strong>:</p>\n<ul>\n<li>When you cast the <strong>Gilded Gateway</strong> spell container, you'll see <strong>3 different categories</strong> of spells, each offering a selection of powerful abilities or utility. These spells will use a new action resource called <strong>Golden Momentum</strong>.</li>\n<li>When cast the <strong>Gilded Compendium </strong>spell container, you'll see many spells that you can pick and choose to learn as you wish, as long as you have the materials to learn them. You'll need to acquire Goldbars and Codecies around to world to unlock the spells. Consume a Shimmer Codex or Master's Tome to unlock Exalted or Gilded knowledge to be able to learn a spell.</li>\n<li>You need to find and consume the required items before the spells have any effect! You see the requirements on the spells tooltip.</li>\n<li>You can use <strong>ONE Golden Momentum</strong> per turn during each battle.</li>\n</ul>\n<p><strong>4. Choose Your Spell</strong>:</p>\n<ul>\n<li>Upon casting a Gilded Gateway spell, you’ll be presented with <strong>two random spells</strong> from the selected category. Pick one, and it will be <strong>permanently added</strong> to your character’s spell list.</li>\n<li>From then on, you can cast this spell anytime by using <strong>Golden Momentum</strong>.</li>\n</ul>\n<p><br>Enjoy unlocking powerful new abilities and enhancing your gameplay with the Gilded Gateway!</p>\n<p><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/screenshot2024-12-18100401.png\" alt=\"\" width=\"448\" height=\"296\"></p>\n<p> </p>\n<p>You can acquire some codexes by killing Bosses around the world!</p>\n<p> </p>\n<hr>\n<h4><strong>New Loot and Rewards</strong></h4>\n<ul>\n<li><strong>Rare and Legendary Items</strong>: Discover new Rare, Very Rare, and Legendary items hidden within quests, events, and battles with Goldmember Elites. Each piece of loot holds the potential to transform your gameplay. There are completely new items and items that are unavailable at the game currently so I've activated some of those as rewards.</li>\n<li><strong>Elite Encounters</strong>: Goldmember Elites not only challenge you but also offer valuable wares and secrets</li>\n<li>Act 1 and Act 2 has their own specific Goldmember Elites who sell valuables including the Eternal Manuscript. They are asking for huge amounts for their weapons. The elites are very powerful enemies and winning them in a battle wont be easy, but alternate way of getting their weapons. Keep in mind that the codex wont drop if you kill them</li>\n</ul>\n<p> </p>\n<hr>\n<p> </p>\n<p><strong>Patch 1.0.1.63</strong><br><br><strong>New Feature: Lustral Gold<br><br></strong>This is a new consumable that you can find from enemies and bosses around the world. It will give you a random status buff from a pool of over 150 buffs and you can have a maximum of 3 buffs per character. </p>\n<p>1st use: Grants 1 random magical buff (100% success). <br>2nd use: 50% chance to gain a second buff, 50% chance to lose all Lustrous Gold buffs. <br>3rd use: 25% chance to gain a third buff, 75% chance to lose all Lustrous Gold buffs. <br>This introduces a risk-vs-reward system. Players can now gamble for power or lose everything to overindulgence.<br><br><strong>Patch 1.0.1.31<br><br></strong><strong>New Difficulty Mode: Endless Suffering</strong> <span class=\"emojiContainer__75abc emojiContainerClickable__75abc\"><br><br></span>  New game mode designed to challenge you in new ways. This is very difficult game mode and keep in mind that there will most likely be some bugs that come from this. At the start of the game right after first room in nautilus you get to choose if you want to enable<strong> ENDLESS SUFFERING</strong></p>\n<p> <br>-All bosses will spawn a duplicate.</p>\n<p>-All enemies will have a new status effect \"Endless Sufferin\". The pain of endless suffering empowers the creature giving the following: The number needed to roll Critical Hits is reduced by 7, +4 bonus to Attack Rolls and Spell Save DC, +2 to all Ability Saving Throws and Max HP is increased based on level.</p>\n<p> -All enemies gain a bunch of new passives that activate at 50% HP</p>\n<p>-All enemies gain Misty Step</p>\n<p>-All enemies gain Devils Sight</p>\n<p>-All enemies gain one extra random Buff </p>\n<p>-All enemies will come back to life with 1 HP after dying.</p>\n<p>-Healing potions apply a bone chill for 3 turns, preventing all healing effects</p>\n<p>-Enemis have a chance to stun on damage, chance to frighten on attack and chance to silence on attack DC 3 INT</p>\n<p> </p>\n<h4>Patch: 1.0.1.27!</h4>\n<h3><strong>New Feature: Tablets of Ascension</strong></h3>\n<p>Unlock the <strong>true potential</strong> of your spells with <strong>Tablets of Ascension!</strong> These rare and powerful relics allow you to <strong>enhance, mutate, or even completely alter</strong> your Gilded and Exalted spells, creating <strong>new mechanics, wild synergies, and tactical advantages.</strong></p>\n<p>Each Tablet upgrades a specific spell, replacing it with a <strong>modified version</strong>—sometimes stronger, sometimes unpredictable. <strong>Gain extra projectiles, trigger chain effects, steal concentration, disrupt enemy actions, or even empower your entire party with new reactive abilities.</strong></p>\n<p>Tablets can be <strong>discovered in hidden locations, looted from powerful foes, or earned through special trials.</strong> Find them, use them wisely, and reshape your magic like never before!</p>\n<p> </p>\n<hr>\n<h4> </h4>\n<p> </p>\n<p><br>                       <img src=\"https://image.modcdn.io/members/eb14/34670575/profile/screenshot2024-12-14192011.png\" alt=\"\" width=\"421\" height=\"362\">      <img src=\"https://image.modcdn.io/members/eb14/34670575/profile/screenshot2024-12-18102905.png\" alt=\"\" height=\"580\"></p>\n<p><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/unicorncloak.png\" alt=\"\" width=\"500\" height=\"281\"><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/furyoftaloslocationandpic.png\" alt=\"\" width=\"470\" height=\"256\"></p>\n<p><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/kethericshammer.png\" alt=\"\" width=\"376\" height=\"609\"><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/tormentorstrail.png\" alt=\"\" width=\"376\" height=\"324\"><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/helios.png\" alt=\"\" width=\"466\" height=\"696\"></p>\n<hr>\n<p><strong>The Emperor’s Lust Mechanic (Optional Hardmode)<br></strong>At the start of game you get to choose if you want to play with or without this mechanic. Walk out of the first room in nautilus and you get the options to choose.<strong><br></strong></p>\n<p>The Emperor’s gaze has fallen upon the Goldmembers, and his standards have skyrocketed. To maintain his favor, you must apply <strong>Beauty Kit: Snail Essences </strong>collected from defeated Goldmembers. This new mechanic ties your fate to the Emperor’s whims:</p>\n<p> </p>\n<ul>\n<li><strong>The Price of Rest</strong>: Each rest reduces your <strong>Emperor’s Lust</strong> stacks. Rest too often, and the Emperor may decide your beauty has faded… along with your life. Balance your need for rest with the Emperor's demands or risk his wrath.</li>\n<li><strong>Optional Easymode: </strong>If you choose to play the \"Easymode\" then the Rest mechanics stay normal and you don't get the Emperor's Lust buff at all. There is a choice on whatever style your prefer to play.</li>\n</ul>\n<hr>\n<h4><strong>Revamped Slap Mechanic</strong></h4>\n<p>Sometimes, a slap solves everything. The <strong>Slap</strong> action now packs more punch and can be used on allies for comedic and strategic effect. A well-timed slap might just save the day or provide some much-needed humor in your golden quest.</p>\n<p><img src=\"https://image.modcdn.io/members/eb14/34670575/profile/screenshot2024-12-18103505.png\" alt=\"\" width=\"1068\" height=\"202\"></p>\n<p><em>Really it's just so you can push your friends to lava.</em></p>\n<hr>\n<h4><strong>The Lore of the Goldmembers</strong></h4>\n<p>For ages, the <strong>Gilded Order</strong> has hoarded the power of the <strong>Goldmembers</strong>, a secretive faction capable of wielding incredible golden magic. But treachery is afoot. The rogue trickster, <strong>Goldmund</strong>, has stolen the <em>Codex of Gilded Power</em> and gifted it to you. These ancient spells are now yours to command, but at what cost? The Gilded Order won’t sit idly by. Can you trust Goldmund, or will his gift lead you to ruin? The fate of the Goldmembers hangs in the balance.</p>\n<p> </p>\n<hr>\n<p><strong>Other changes:</strong></p>\n<ul>\n<li>Carry weight has been increased.</li>\n<li>You get gold drops from Goldmembers that increase with monster level. You need gold for new vendors.</li>\n<li>New Weapon at the Great Forge.</li>\n<li>Permanent Long Jump, Feather Fall out of combat to all party members. And Longstrider in combat.</li>\n<li>Roguelike elements</li>\n<li>Difficulty increase</li>\n<li>Other quality of life elements</li>\n</ul>\n<p> </p>\n<h4><strong>PS. Not all of the story is ready, I will be adding more on time! And more content!<br>If you want to talk about the mod in general or tell about bugs you can join:<br><br>https://discord.gg/ksr6Jqw2X2<br><br><br>TIPS:</strong></h4>\n<p><strong><br>1. </strong>Speak to Goldmund and Eat the Book at *** start of *** game to gain access to Gilded Gateway and Gilded Compendium Spells!<strong><br>2. </strong>Your host character has the Emperor's Lust debuff at the beginning of the game. Only that character will have it and you need to keep it up with Beauty Kit: Snail Essences looted from the Goldmembers around the world. This mechanic is to remove the need to collect Camp supplies! You can also disable this mode at the start of the game when leaving the first room in nautilus. One time choice.<strong><br></strong>3. I suggest Tactician or Honour mode if you are up for the challenge! And the game is balanced to be difficult but doable without any other mods<br><strong>4. Works very well with other mods that add to the game. This integrates seamlessly with other encounters and content.<br><br><br>If you like the mod you can support me here.<br><br>https://ko-fi.com/itsmewaldo<br><br></strong></p>",
     "date_added": 1734201468,
-    "date_updated": 1768418422,
+    "date_updated": 1768478285,
     "date_live": 1734254354,
     "visible": 1,
     "status": 1,
@@ -75813,15 +75813,15 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 6755462
+        "modfile_live": 7174014
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6755462
+        "modfile_live": 7174014
       },
       {
         "platform": "ps5",
-        "modfile_live": 6755462
+        "modfile_live": 7174014
       },
       {
         "platform": "windows",
@@ -116400,7 +116400,7 @@
     "summary": "This mod adds a new pair of boots that grant the Relentless Avenger passive from Oath of Vengeance Paladin. If you hit an enemy with an Opportunity Attack, your movement speed increases by 4.5m / 15ft on your next turn.",
     "description": "<p>This mod adds a new pair of boots that grant the <a title=\"Relentless Avenger\" href=\"https://bg3.wiki/wiki/Relentless_Avenger\">Relentless Avenger</a> passive from Oath of Vengeance Paladin. Purchase from Quartermaster Talli in Act 2.</p>\n<p> </p>\n<p>Relentless Avenger: If you hit an enemy with an <a class=\"mw-redirect\" title=\"Attack of Opportunity\" href=\"https://bg3.wiki/wiki/Attack_of_Opportunity\">Opportunity Attack</a>, your <a class=\"mw-redirect\" title=\"Movement Speed\" href=\"https://bg3.wiki/wiki/Movement_Speed\">movement speed</a> increases by 4.5 m / 15 ft on your next turn.</p>\n<p> </p>\n<p>I recommend trying this on a character using Polearm Master and Sentinel! Pairs great with the <a title=\"Halberd of Vigilance\" href=\"https://bg3.wiki/wiki/Halberd_of_Vigilance\">Halberd of Vigilance!</a></p>\n<p> </p>\n<p>Check out some of my recent work:</p>\n<p><a title=\"Sharran Crossbow Buff\" href=\"https://mod.io/g/baldursgate3/m/sharran-crossbow-buff#description\">Sharran Crossbow Buff</a></p>\n<p><a title=\"Savage Shots + Savage Shooter\" href=\"https://mod.io/g/baldursgate3/m/savage-shots-savage-shooter#description\">Savage Shots + Savage Shooter</a></p>\n<p><a title=\"Sword of Screams Buff\" href=\"https://mod.io/g/baldursgate3/m/sword-of-screams-buff#description\">Sword of Screams Buff</a></p>\n<p><a title=\"Amulet of Restoration Buff\" href=\"https://mod.io/g/baldursgate3/m/amulet-of-restoration-buff#description\">Amulet of Restoration Buff</a></p>\n<p><a title=\"Ritual Dagger of Shar Buff\" href=\"https://mod.io/g/baldursgate3/m/ritual-dagger-of-shar-buff#description\">Ritual Dagger of Shar Buff</a></p>\n<p><a title=\"More Drakethroat Elements\" href=\"https://mod.io/g/baldursgate3/m/moredrakethroatelements1#description\">More Drakethroat Elements</a></p>\n<p><a title=\"Divine Strike: Radiant - Light Cleric\" href=\"https://mod.io/g/baldursgate3/m/divine-strike-radiant-light-cleric1#description\">Divine Strike: Radiant - Light Cleric</a></p>\n<p><a title=\"Dragonborn Glaive Proficiency\" href=\"https://mod.io/g/baldursgate3/m/glaiveproficiencydragonborn#description\">Dragonborn Glaive Proficiency</a></p>\n<p><a title=\"Warding Flare Cloak\" href=\"https://mod.io/g/baldursgate3/m/warding-flare-cloak#description\">Warding Flare Cloak</a></p>",
     "date_added": 1756673737,
-    "date_updated": 1763767923,
+    "date_updated": 1768478376,
     "date_live": 1756676262,
     "visible": 1,
     "status": 1,
@@ -116430,15 +116430,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -116478,19 +116478,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7035706
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6733075
+        "modfile_live": 7035706
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6733075
+        "modfile_live": 7035706
       },
       {
         "platform": "ps5",
-        "modfile_live": 6733075
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7035706
       }
     ]
