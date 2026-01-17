@@ -76292,7 +76292,7 @@
       "mod_id": 4561805,
       "version": "4.2.2.1",
       "filename": "itembugfix_010e73d5-9342-e528-005u.zip",
-      "changelog": "- Helldusk Boots 'Infernal Evasion' reaction \"Infernal Resistance\" now correctly functions with spells that include both an attack roll and a saving throw\n- Transmutation school 'Shapechanger' can now correctly attack with 'Beak Attack'\n- Transmuter's Stone: Darkvision range description is now correctly 12m\n- Quarterstaff 'Topple' is now correctly flagged as a default weapon action\n- Staff of the Emperor 'Imperial Retaliation' now correctly functions on non-spell saving throws\n- 'Bite' from bats now correctly apply \"Weakening Infection\"\n-- Description of \"Weakening Infection\" corrected\n- Arcane Trickster now correctly has Shadow Blade as an Enchantment/Illusion school spell option at level 7",
+      "changelog": "- Helldusk Boots 'Infernal Evasion' reaction \"Infernal Resistance\" now correctly functions with spells that include both an attack roll and a saving throw\n- Transmutation school 'Shapechanger' can now correctly attack with 'Beak Attack'\n- Transmuter's Stone: Darkvision range description is now correctly 12m\n- Quarterstaff 'Topple' is now correctly flagged as a default weapon action\n- Staff of the Emperor 'Imperial Retaliation' now correctly functions on non-spell saving throws\n- 'Bite' from bats now correctly applies \"Weakening Infection\"\n-- Description of \"Weakening Infection\" corrected\n- Arcane Trickster now correctly has Shadow Blade as an Enchantment/Illusion school spell option at level 7",
       "date_added": 1768624544,
       "date_updated": 0,
       "date_scanned": 1768624551,
