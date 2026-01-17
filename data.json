@@ -76271,10 +76271,10 @@
     "game_id": 6715,
     "name": "Item and Spell Bug Fixes",
     "name_id": "item-and-spell-bug-fixes",
-    "summary": "The unofficial community bug fix mod - Over 900 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and more) as they are discovered.",
-    "description": "<p>The unofficial community bug fix mod - <strong>Over 900 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p><strong>Items: 358 changed<br>Attacks/Spells/Conditions: 387 changed<br>Classes/Feats/Passives/Reactions: 197 changed</strong></p>\n<p>The changelog has now exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a><br>(<a href=\"https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub\">https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub</a>)</p>\n<p>Updates on Tuesdays and Fridays</p>",
+    "summary": "The unofficial community bug fix mod - Over 900 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
+    "description": "<p>The unofficial community bug fix mod - <strong>Over 900 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p><strong>Items: 360 changed<br>Attacks/Spells/Conditions: 387 changed<br>Classes/Feats/Passives/Reactions: 199 changed</strong></p>\n<p>The changelog has now exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a><br>(<a href=\"https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub\">https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub</a>)</p>\n<p>Updates on Tuesdays and Fridays</p>",
     "date_added": 1734434091,
-    "date_updated": 1768364003,
+    "date_updated": 1768624582,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -76288,15 +76288,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7269420,
+      "id": 7279682,
       "mod_id": 4561805,
-      "version": "4.2.1.1",
-      "filename": "itembugfix_010e73d5-9342-e528-9fqp.zip",
-      "changelog": "- DRS has been returned to non-Honour Mode difficulties; DRS changes are now strictly reserved for Honour mode\n- Ranged versions of Banishing Smite and Branding Smite now correctly lose DRS in Honour mode\n- Sobering Realisation now correctly works with items such as Braindrain Gloves in Honour mode\n- Wood Woad 'Magic Club' now correctly deals Magical damage\n- Githyanki Psionics: Jump no longer displays a Ritual tag despite being usable only once per Long Rest\n- Githyanki Psionics: Mage Hand now correctly has the same refreshing Invisibility that Mage Hand Legerdemain has again (was broken from changes made in this mod long ago)\n- Mage Hands no longer have Opportunity Attack as they lack the Reaction point necessary to use it\n- Apostle of Myrkul is now correctly immune to Stuns",
-      "date_added": 1768363984,
+      "version": "4.2.2.1",
+      "filename": "itembugfix_010e73d5-9342-e528-005u.zip",
+      "changelog": "- Helldusk Boots 'Infernal Evasion' reaction \"Infernal Resistance\" now correctly functions with spells that include both an attack roll and a saving throw\n- Transmutation school 'Shapechanger' can now correctly attack with 'Beak Attack'\n- Transmuter's Stone: Darkvision range description is now correctly 12m\n- Quarterstaff 'Topple' is now correctly flagged as a default weapon action\n- Staff of the Emperor 'Imperial Retaliation' now correctly functions on non-spell saving throws\n- 'Bite' from bats now correctly apply \"Weakening Infection\"\n-- Description of \"Weakening Infection\" corrected\n- Arcane Trickster now correctly has Shadow Blade as an Enchantment/Illusion school spell option at level 7",
+      "date_added": 1768624544,
       "date_updated": 0,
-      "date_scanned": 1768363992,
-      "filesize": 502573,
+      "date_scanned": 1768624551,
+      "filesize": 503958,
       "platforms": [
         {
           "platform": "windows",
@@ -76390,7 +76390,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7269420
+        "modfile_live": 7279682
       }
     ]
   },
