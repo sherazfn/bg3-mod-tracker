@@ -116927,9 +116927,9 @@
     "name": "Spartan Warrior Set",
     "name_id": "spartan-warrior-set",
     "summary": "Spartan armor + weapon set. Available as armor or camp clothing and as weapon or instrument. Fully dyeable including the weapons. Supports BT 1/2/3/4 and Githyanki 1.",
-    "description": "<p>Spartan armor + weapon set. Available as armor or camp clothing and as weapon or instrument<br>Fully dyeable, including the weapons and shield<br>Supports BT 1/2/3/4 and Githyanki 1<br>the visible shield should work with Shield Master feat this time</p>\n<h4>Special Thanks to Morgana Evelyn for making this mod possible!</h4>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p><a href=\"https://www.cgtrader.com/3d-models/character/fantasy-character/spartan-hoplite-game-ready\">Spartan Hoplite</a> model by RyanReos<br>Meshes and textures have been modified</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>Spartan armor + weapon set. Available as armor or camp clothing and as weapon or instrument<br>Fully dyeable, including the weapons and shield<br>Supports BT 1/2/3/4 and Githyanki 1<br>the visible shield should work with Shield Master feat this time</p>\n<p>Show off some abs and kick some ***</p>\n<ha>special Thanks to Morgana Evelyn for making this mod possible!</h4>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p><a href=\"https://www.cgtrader.com/3d-models/character/fantasy-character/spartan-hoplite-game-ready\">Spartan Hoplite</a> model by RyanReos<br><a href=\"https://www.cgtrader.com/3d-models/military/armor/greek-armor-f2e1060d-1de3-4691-ac79-aef7720c0dfc\">Greek Armor</a> model by olexandr-kozachok<br>Meshes and textures have been modified</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1757173451,
-    "date_updated": 1764868268,
+    "date_updated": 1768741550,
     "date_live": 1757174039,
     "visible": 1,
     "status": 1,
@@ -116943,15 +116943,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6871852,
+      "id": 7286285,
       "mod_id": 5219033,
-      "version": "1.0.0.6",
-      "filename": "sprtnarmr_dc350aa5-ddc0-5d9a-0-6aq7.zip",
-      "changelog": "- added a night version of body (shoulderless) and boots",
-      "date_added": 1761271057,
+      "version": "1.0.0.7",
+      "filename": "sprtnarmr_dc350aa5-ddc0-5d9a-0-8xqb.zip",
+      "changelog": "- added a full breastplate variant",
+      "date_added": 1768740804,
       "date_updated": 0,
-      "date_scanned": 1761271150,
-      "filesize": 54830209,
+      "date_scanned": 1768740950,
+      "filesize": 69957710,
       "platforms": [
         {
           "platform": "windows",
@@ -116959,15 +116959,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -117047,10 +117047,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6871852
-      },
-      {
         "platform": "mac",
         "modfile_live": 6871852
       },
@@ -117061,6 +117057,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6871852
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7286285
       }
     ]
   },
