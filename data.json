@@ -38407,7 +38407,7 @@
     "summary": "Replaces ability presets for all vanilla classes, within the 27-pt limit. Replaces default elf cantrip, brings jaheira/minsc closer to their canon stats, and gives vanilla males reasonable Str scores. Changes CC presets, but you can adjust those.",
     "description": "<p>This is a quick and dirty mod replacing ability presets for all vanilla classes, within the 27-pt limit:</p>\n<ul>\n<li>Brings jaheira/minsc (somewhat) closer to their canon stats</li>\n<li>Gives vanilla males reasonable Str scores (Astarion/Wyll/Halsin are stronger, Gale remains the same)</li>\n<li>Gives clerics higher Dex so Shadowheart actually feels like the stealth operative she's supposed to be</li>\n<li>Gives cloaks, hoods and hats to most origins (so they dress a tad cooler than the terminally bland clothing they start with)</li>\n<li>Replaces the elves' default cantrip from firebolt to minor illusion</li>\n</ul>\n<p>These changes become the default for all race and class presets, but you can of course adjust the defaults on character creation.</p>\n<p><strong>UPDATE: </strong>Now includes NPC and Summon fixes!</p>\n<ul>\n<li><strong>Sights of the Seelie </strong>spell actually summons a Seelie Eladrin</li>\n<li>The <strong>Deva</strong> planar ally stats are closer to its PnP version</li>\n<li><strong>Aylin </strong>and <strong>Isobel </strong>switch to actually helping you, and you can now summon either or both via the Spear of Selune</li>\n</ul>\n<p>Thanks for downloading!</p>",
     "date_added": 1727167085,
-    "date_updated": 1747992659,
+    "date_updated": 1768875394,
     "date_live": 1727167728,
     "visible": 1,
     "status": 1,
@@ -38421,31 +38421,23 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/9686/35414053/crop_100x100/d6547f23b7297af4b4ab328d071b7b7.jpg"
     },
     "modfile": {
-      "id": 6351457,
+      "id": 7294568,
       "mod_id": 4359956,
-      "version": "1.0.0.8",
-      "filename": "minscjaheiracorrect_dc0a5082-8-aava.zip",
-      "changelog": "fixed aylin summon",
-      "date_added": 1746836075,
+      "version": "1.0.0.9",
+      "filename": "minscjaheiracorrect_dc0a5082-8-2b10.zip",
+      "changelog": "Fixed the archfey summon",
+      "date_added": 1768875349,
       "date_updated": 0,
-      "date_scanned": 1746836094,
-      "filesize": 1406494,
+      "date_scanned": 1768875357,
+      "filesize": 1406518,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
         },
         {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -38570,10 +38562,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6351457
-      },
-      {
         "platform": "mac",
         "modfile_live": 6351457
       },
@@ -38584,6 +38572,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6351457
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7294568
       }
     ]
   },
