@@ -91161,7 +91161,7 @@
     "summary": "Places all of the items from my equipment mods in the Camp Chest.",
     "description": "<p><em>Fade's Camp Chest</em> provides a convenient way to access all items from my equipment mods directly within your camp chest. This mod is a <strong>dependency</strong>: you must have the equipment mods installed for the items to be available. (Note: For the items to appear in the Camp Chest, you need to have the equipment mods installed prior to having this mod, otherwise they will not appear mid-playthrough.). Items are spawned once per player, ensuring each player receives their own set.<br><br>Also includes a chest for <a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a><br><br><strong>Best added at the start of a new game, when adding mid-playthrough not all items appear in the camp chest.</strong><br><br>List of Error codes and solutions - <a href=\"https://docs.google.com/spreadsheets/d/1FvgMFwXHoFloE0jpVGC9fNyGsr-AcNn74KBP5UI6EXM/edit?gid=0#gid=0\">Link</a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a></p>",
     "date_added": 1743545767,
-    "date_updated": 1765056285,
+    "date_updated": 1769124324,
     "date_live": 1743545767,
     "visible": 1,
     "status": 1,
@@ -91175,15 +91175,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7112293,
+      "id": 7304231,
       "mod_id": 4838986,
-      "version": "1.0.0.2",
-      "filename": "xfed_campchest_caa82196-33c8-6-e1lg.zip",
-      "changelog": "• Added compatibility for \"Fade's Assorted Treasure Expansion\".",
-      "date_added": 1765056246,
+      "version": "1.0.0.3",
+      "filename": "xfed_campchest_caa82196-33c8-6-3bsh.zip",
+      "changelog": "Updated so the version number shows an update to the mod, allowing you to update the mod in the mod manager.",
+      "date_added": 1769124254,
       "date_updated": 0,
-      "date_scanned": 1765056256,
-      "filesize": 868201,
+      "date_scanned": 1769124263,
+      "filesize": 868199,
       "platforms": [
         {
           "platform": "windows",
@@ -91257,7 +91257,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7112293
+        "modfile_live": 7304231
       }
     ]
   },
