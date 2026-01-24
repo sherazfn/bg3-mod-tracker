@@ -1,0 +1,226 @@
+name: Test Workflow Changes
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "test-workflow"
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    outputs:
+      data_changed: ${{ steps.check.outputs.data_changed }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate dummy data.json
+        run: |
+          cat > data.json << 'EOF'
+          [
+            {
+              "id": 9999991,
+              "game_id": 6715,
+              "name": "Test Mod 1",
+              "name_id": "test-mod-1",
+              "summary": "This is a test mod for workflow testing",
+              "description": "<p>Test description</p>",
+              "date_added": 1737763200,
+              "date_updated": 1737763200,
+              "date_live": 1737763200,
+              "visible": 1,
+              "status": 1,
+              "dependencies": false,
+              "profile_url": "https://mod.io/g/baldursgate3/m/test-mod-1",
+              "submitted_by": {
+                "id": 12345,
+                "name_id": "testuser",
+                "username": "TestUser",
+                "profile_url": "https://mod.io/u/testuser",
+                "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+              },
+              "modfile": {
+                "id": 9999991,
+                "mod_id": 9999991,
+                "version": "1.0.0.0",
+                "filename": "test_mod_1.zip",
+                "changelog": "Initial release",
+                "date_added": 1737763200,
+                "date_updated": 0,
+                "date_scanned": 1737763200,
+                "filesize": 1000,
+                "platforms": [
+                  {
+                    "platform": "ps5",
+                    "status": 1,
+                    "modfile_live": 1
+                  }
+                ]
+              },
+              "logo": null,
+              "tags": [],
+              "platforms": [
+                {
+                  "platform": "ps5",
+                  "status": 1,
+                  "modfile_live": 1
+                }
+              ]
+            },
+            {
+              "id": 9999992,
+              "game_id": 6715,
+              "name": "Test Mod 2",
+              "name_id": "test-mod-2",
+              "summary": "Another test mod",
+              "description": "<p>Another test description</p>",
+              "date_added": 1737763300,
+              "date_updated": 1737763300,
+              "date_live": 1737763300,
+              "visible": 1,
+              "status": 1,
+              "dependencies": false,
+              "profile_url": "https://mod.io/g/baldursgate3/m/test-mod-2",
+              "submitted_by": {
+                "id": 12346,
+                "name_id": "testuser2",
+                "username": "TestUser2",
+                "profile_url": "https://mod.io/u/testuser2",
+                "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+              },
+              "modfile": {
+                "id": 9999992,
+                "mod_id": 9999992,
+                "version": "1.0.0.0",
+                "filename": "test_mod_2.zip",
+                "changelog": "Initial release",
+                "date_added": 1737763300,
+                "date_updated": 0,
+                "date_scanned": 1737763300,
+                "filesize": 2000,
+                "platforms": [
+                  {
+                    "platform": "ps5",
+                    "status": 1,
+                    "modfile_live": 1
+                  }
+                ]
+              },
+              "logo": null,
+              "tags": [],
+              "platforms": [
+                {
+                  "platform": "ps5",
+                  "status": 1,
+                  "modfile_live": 1
+                }
+              ]
+            }
+          ]
+          EOF
+          echo "Generated dummy data.json with $(jq 'length' data.json) items"
+
+      - name: Check for changes and upload artifact
+        id: check
+        run: |
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+            echo "data_changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected!"
+            echo "data_changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload data.json artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: data.json
+          path: data.json
+          retention-days: 1
+
+  update-changelog:
+    needs: scrape
+    runs-on: ubuntu-latest
+    outputs:
+      html_changed: ${{ steps.commit.outputs.html_changed }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Full history needed for git-history
+          ref: main
+
+      - name: Download data.json artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: data.json
+          path: .
+
+      - name: Verify artifact download
+        run: |
+          if [ ! -f data.json ]; then
+            echo "ERROR: data.json artifact not found!"
+            exit 1
+          fi
+          echo "Artifact downloaded successfully. File size: $(du -h data.json | cut -f1)"
+          echo "Number of items: $(jq 'length' data.json)"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install git-history
+
+      - name: Run update_history script
+        run: python -m scripts.update_history
+
+      - name: Run generate_html script
+        run: python -m scripts.generate_html
+
+      - name: Delete temp mods.db
+        run: rm -f mods.db
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Stage both data.json and index.html
+          git add data.json index.html
+
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+            echo "html_changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected! Committing..."
+            git commit -m "Test: Update changelog HTML and data [TEST]"
+            
+            # Pull latest changes before pushing to avoid conflicts
+            git pull --rebase origin main
+            
+            git push
+            echo "html_changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Test summary
+        run: |
+          echo "## Test Results" >> $GITHUB_STEP_SUMMARY
+          echo "- Artifact upload/download: ✅ Success" >> $GITHUB_STEP_SUMMARY
+          echo "- Git-history processing: ✅ Success" >> $GITHUB_STEP_SUMMARY
+          echo "- HTML generation: ✅ Success" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.commit.outputs.html_changed }}" == "true" ]; then
+            echo "- Commit created: ✅ Yes (expected)" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- Commit created: ⚠️ No (no changes detected)" >> $GITHUB_STEP_SUMMARY
+          fi
