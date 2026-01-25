@@ -81662,7 +81662,7 @@
     "summary": "Create new equipment that combines the appearance and stats of different items.",
     "description": "<p>This mod gives every player character a spell with three options for transmogrifying equipment. Place a compatible item on the ground and target it with one of these spells to create a new piece of equipment that combines its appearance or stats with the item that is currently equipped in that slot (if any).</p>\n<p>For example, if Karlach has the Bonespike Garb equipped but you'd prefer her to look like she's wearing heavy armour, you can put Plate Armour on the ground and cast <strong>Transmogrify: Take Appearance</strong> on it. Karlach will then create and automatically equip a new item with the stats of Bonespike Garb and the appearance of Plate Armour.</p>\n<p>Or, if you want her to have the stats from Cloak of Protection without the appearance of wearing a cloak at all, unequip everything from that slot and then cast <strong>Transmogrify: Take Stats</strong> on the Cloak of Protection to create an invisible version of it.</p>\n<p>When you're done with a piece of transmogrified equipment, put it on the ground and cast <strong>Transmogrify: Dismiss</strong> on it.</p>\n<h3>Limited Compatibility</h3>\n<p>There is currently NO support for transmogrifying weapons, shields, and underwear.</p>\n<p>Modded equipment can only be transmogrified if someone specifically makes it compatible with this mod. Some might be compatible by default, but most will probably require a mod dependency that you also have to download in order to transmogrify that equipment. You can search for mods that start with \"Transmogrify\" or check one of the pinned comments on this mod's webpage to find some compatible mods.</p>\n<p>The equipment that <em>is</em> directly supported by Transmogrification Lite is all of the clothes / armour, headwear, gloves, boots, cloaks, camp clothes, and camp shoes for players in the base game, as well as some inaccessible / cut items.</p>\n<p>Mods that just give you equipment that's already supported, such as <a href=\"https://mod.io/g/baldursgate3/m/all-camp-clothes-and-dyes\">All Camp Clothes and Dyes</a> by KatLix and the equipment boxes in <a href=\"https://mod.io/g/baldursgate3/m/cheaters-ring\">Cheaters Spell Scroll</a> by Xelphos, should be compatible by default.</p>\n<p>Because this mod does not override any resources, I don't think there should be direct conflicts with other mods that could cause crashes, etc. However, it has to recreate a lot of fundamental equipment behavior, and so there are MANY possible ways that transmogrifications might not work as expected with other mods. If you discover an indirect conflict like this, feel free to let me know about it, but keep in mind that I can't support every mod interaction and I may choose not to support it. I've released a guide about how to extend this mod (linked below) so that everyone is free to add their own support for the things they care about.</p>\n<h3>Other Limitations</h3>\n<p>Developing this mod using only the official toolkit required a lot of workarounds, which limits what it can do. In addition to the limited compatibility with modded equipment, there are a few other important things to know:</p>\n<p>1. Tooltips for transmogrified items can display general information about an item, but they cannot recreate its original detailed description. For example, it might say that an item is Heavy Armour that reduces damage and unlocks a spell, but it cannot say how much / what type of damage is reduced or what the spell is (see the mod images for examples). I recommend keeping the original item in the character's inventory to easily reference the details of what it does.</p>\n<p>2. The game system for calculating a character's AC doesn't understand transmogrified equipment, so this mod has to recreate a lot of the calculations, which can get pretty convoluted. If another mod adds a spell similar to Mage Armour that changes a character's base AC, or if it adds a feature similar to Unarmoured Defense that adds another ability score modifier to a character's AC, they will probably have an incorrect AC when wearing transmogrified equipment. Again, this would have to be fixed with an extension to this mod.</p>\n<p>3. I can't apply the correct debuffs for wearing transmogrified armour that a character isn't proficient with, so instead it will be automatically unequipped and a pop-up message will explain what happened.</p>\n<p>4. Cooldowns for spells granted by transmogrified equipment are not always enforced by the game, so this mod might have to forcibly interrupt an attempt to cast a spell again before it should be. If so, a pop-up message will explain what happened.</p>\n<h3>Additional Details (optional)</h3>\n<p>In my testing, this mod is safe to add to preexisting saves. I don't recommend trying to remove it from saves, but if you do, at least dismiss every transmogrification first.</p>\n<p>I have not experienced any unusual game slowdowns when testing this mod, but it's possible that using too many transmogrification extensions for large armor mods could impact the game's performance. A good rule of thumb is to not enable extensions for armor mods that you don't plan to transmogrify, as well as dismissing transmogrified items when you're done with them instead of sending them to camp.</p>\n<p>This mod should not inherently alter game balance, but it can definitely be exploited to do so. The primary limit I've put on exploiting this mod is that most equipment can only have one copy of its stats being used at a time. That is, if you only have one Plate Armour +2, then only one character can equip the original or a transmogrification using its stats at a time. If you have two of them, then you can create and use a second transmogrification from the second copy of it. (Note: Appearance is not restricted in any way. Even for truly unique armors like Helldusk Armour, you can have the entire party equip transmogrifications with its appearance at the same time.)</p>\n<p>I can't duplicate the debuffs to a barbarian's rage when they're wearing transmogrified heavy armor, so this mod has to end their rage instead. To avoid punishing players who don't know this, the mod will refund the resources used to rage if they shouldn't have been able to do so.</p>\n<p>You can only transmogrify your armor to have the appearance of camp clothes - you cannot do the opposite and transmogrify your camp clothes to have the appearance of armor.</p>\n<h3>Extending This Mod</h3>\n<p>Want to make more modded equipment compatible with Transmogrification Lite? I've written a detailed guide on the process that you can read here: <a href=\"https://mod.io/g/baldursgate3/r/how-to-extend-transmogrification-lite\">https://mod.io/g/baldursgate3/r/how-to-extend-transmogrification-lite</a></p>\n<p>If you make an extension to this mod, or make an equipment mod that's compatible by default, then I encourage you to reply to one of the pinned comments to let us know about it!</p>",
     "date_added": 1736807934,
-    "date_updated": 1757344813,
+    "date_updated": 1769370406,
     "date_live": 1736811120,
     "visible": 1,
     "status": 1,
@@ -81676,30 +81676,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/c344/35043001/crop_100x100/window-iced-over.1.jpg"
     },
     "modfile": {
-      "id": 6725848,
+      "id": 7318268,
       "mod_id": 4644924,
-      "version": "1.0.5.3",
-      "filename": "ww_transmogrificationlite_8b3a-i3z2.zip",
-      "changelog": "1. Added support for the variant of metallic boots sold by Dammon\n2. Added icon for generic transmogrification bonuses seen in die rolls\n3. Added more tools for dependencies to use (explained in newly-released guide)\n4. Transmogrify spells cannot target weapons anymore for improved clarity that they're not supported\n5. Disabled enforcement of spell cooldowns only for the original item (cooldowns will still be enforced for transmogrifications, which is what could be used to break game balance)\n6. Disabled system to refund dyes because it didn't work well with reusable dye mods and it's outside the core scope of this mod",
-      "date_added": 1756508613,
+      "version": "1.0.6.31",
+      "filename": "ww_transmogrificationlite_8b3a-8xkh.zip",
+      "changelog": "Improved compatibility with the following mods:\n1. \"Arcane Vanguard\" by Saethos (added support for calculating transmog AC with \"Read The Enemy\" feature)\n2. \"Commoner Class ...\" by TheWailingBard (added support for calculating transmog AC with \"Rough and Ready\" feature)\n3. \"Mind Weaver Class\" by zx10rx (added support for calculating transmog AC with \"Iceforged\", \"Mind Over Matter\", and \"Student of War\" features; also added support for transmog armor handling \"Arcane Shield\" spell; for technical reasons did NOT add built-in support for transmogrifying the starting equipment)\n4. \"Mystra's Spells\" by randomkilla (connected \"Catnap\" spell with transmog ability cooldown system)\n5. \"PixellBytes' Tactician Enhanced\" by PixellBytes (fixed Bards not being able to use the \"Perform\" action when both mods are enabled)\n6. \"Poverty Domain\" by TheWailingBard (added support for calculating transmog AC with \"Mantle of Poverty\" feature)\n7. \"The Guardian - A Fighter Subclass\" by TheWailingBard (added support for calculating transmog AC with \"Warrior Smith\" feature)\n8. \"The Zephyr - A Martial Class ...\" by TheWailingBard (added support for calculating transmog AC with \"Sinuous Defense\" feature)\n9. \"Warmage Class ...\" by TheWailingBard (added support for calculating transmog AC with \"Cloak of Feathers\", \"Intercept Technique\", and \"Resistive\" features)\n10. \"Way of Steel - An Armoured Monk\" by TheWailingBard (added support for calculating transmog AC with \"Awakened Steel\" feature; also added support for transmog armor with \"Iron Fist\" and \"Iron Discipline\" features)\n\nGeneral improvements:\n1. Fixed Unarmoured Movement when wearing only transmogrified armor\n2. Added popup message that explains what happened when an invalid Barbarian Rage is refunded\n3. Added more tools for dependencies to use",
+      "date_added": 1769369572,
       "date_updated": 0,
-      "date_scanned": 1756508653,
-      "filesize": 641678,
+      "date_scanned": 1769369579,
+      "filesize": 653424,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -81755,10 +81743,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6725848
-      },
-      {
         "platform": "mac",
         "modfile_live": 6725848
       },
@@ -81769,6 +81753,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6725848
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7318268
       }
     ]
   },
