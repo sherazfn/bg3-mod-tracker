@@ -54608,6 +54608,129 @@
     ]
   },
   {
+    "id": 4406607,
+    "game_id": 6715,
+    "name": "Reforged Assets DMH - Dark Urge Dragonborn CC",
+    "name_id": "reforged-assets-dmh",
+    "summary": "Adds Reforged CrestTops, Chin for heads from Durge's mangled head mod",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p style=\"font-weight:400;\"><iframe src=\"https://www.youtube.com/embed/lk10OWz5akY\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">DMH Reforged Assets </span></h4>\n<p>The \"Reforged Assets\" pack - extension for my <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/10343\">Rathgor - Reforged head</a> </strong>mod</p>\n<p>Appearance inspired by hellish/abyssal creatures, Avernus machinery and armor elements tied to the Dark Urge's past</p>\n<p> </p>\n<h3><strong>Pack includes CrestTops, Chin for heads from </strong><a href=\"https://mod.io/g/baldursgate3/m/durges-mangled-head\">Durge's mangled head - Dark Urge Dragonborn CC</a> mod</h3>\n<p>Black or light iron and clean variation</p>\n<p>You could choose the broken half - assets have left and right variations</p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p>Toolkit version of Reforged Assets DMH works with toolkit versions of Reforged Assets and DMH </p>\n<hr>\n<h2>Extra</h2>\n<h3><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1161\">All Extra Assets Avaliable to DMH</a></strong></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><strong><span style=\"font-family:Arial;\">DMH Dragonborn Collection</span></strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\"><span style=\"font-family:Arial;\">DMH and All assets from other packs in Vortex collection</span></p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:#444444;font-family:Arial;\" href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><img src=\"https://i.imgur.com/P41Ov9j.png\" alt=\"P41Ov9j.png\"></a></p>\n<hr>\n<p>This mod also exist as<br><strong><span style=\"font-size:x-large;\">All in One in </span><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><span style=\"font-size:x-large;\">Clansong - Speaking Dragonborns CC Heads</span></a><br></strong>so, you do not need Reforged Assets DMH - Dark Urge Dragonborn CC if you have Clansong mod<br><br><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767201270-1731952165.png\" alt=\"19947-1767201270-1731952165.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1728756297,
+    "date_updated": 1769535264,
+    "date_live": 1728757758,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/reforged-assets-dmh",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 6277330,
+      "mod_id": 4406607,
+      "version": "1.0.0.9",
+      "filename": "rathgor-reforged_assets_dmh_ad-6ujr.zip",
+      "changelog": "Removed ImpUI from dependency",
+      "date_added": 1744754133,
+      "date_updated": 0,
+      "date_scanned": 1744754139,
+      "filesize": 996542,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/7c26/4406607/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7c26/4406607/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7c26/4406607/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7c26/4406607/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6277330
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6277330
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6277330
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6277330
+      }
+    ]
+  },
+  {
     "id": 4407068,
     "game_id": 6715,
     "name": "Duskblade",
@@ -55360,6 +55483,99 @@
       {
         "platform": "ps5",
         "modfile_live": 5664512
+      }
+    ]
+  },
+  {
+    "id": 4408359,
+    "game_id": 6715,
+    "name": "John Zyxx's Ghost Fire Dice Set",
+    "name_id": "john-zyxxs-ghost-fire-dice-set",
+    "summary": "This mod adds the Ghost Fire dice set to your collection.",
+    "description": "<p>This mod adds the Ghost Fire dice set to your collection.</p>\n<p> </p>\n<p>Please check all of my mods from the <em><strong>Planar Fires Collection</strong></em></p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/john-zyxxs-infernal-fire-dice-set\">Infernal Fire</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/john-zyxxs-faerie-fire-dice-set\">Faerie Fire</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/john-zyxxs-eldritch-fire-dice-set\">Eldritch Fire</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/john-zyxxs-ghost-fire-dice-set\">Ghost Fire</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/john-zyxxs-sacred-fire-dice-set\">Sacred Fire</a></li>\n</ul>",
+    "date_added": 1728794722,
+    "date_updated": 1769534943,
+    "date_live": 1728796545,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/john-zyxxs-ghost-fire-dice-set",
+    "submitted_by": {
+      "id": 37226770,
+      "name_id": "johnzyxx",
+      "username": "JohnZyxx",
+      "profile_url": "https://mod.io/u/johnzyxx",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f810/37226770/crop_100x100/image_2024-10-13_011016820.png"
+    },
+    "modfile": {
+      "id": 5664508,
+      "mod_id": 4408359,
+      "version": "1.0.0.4",
+      "filename": "ghostfire_8d3f6b3d-c9a9-cd20-1-a7dx.zip",
+      "changelog": null,
+      "date_added": 1728795442,
+      "date_updated": 0,
+      "date_scanned": 1728795522,
+      "filesize": 76134689,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/b533/4408359/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b533/4408359/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b533/4408359/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b533/4408359/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5664508
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5664508
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5664508
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5664508
       }
     ]
   },
@@ -80280,6 +80496,114 @@
     ]
   },
   {
+    "id": 4630927,
+    "game_id": 6715,
+    "name": "Secret Scrolls - Unlocked!",
+    "name_id": "secretscrollsunlocked",
+    "summary": "Allows all scrolls to be learned by classes that can scribe scrolls. Thus, should work with mods that enable other classes to learn from scrolls.",
+    "description": "<p>Allows all scrolls to be learned by classes that can scribe scrolls. Thus, should work with mods that enable other classes to learn from scrolls.</p>",
+    "date_added": 1736390071,
+    "date_updated": 1769534467,
+    "date_live": 1736390112,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/secretscrollsunlocked",
+    "submitted_by": {
+      "id": 4505465,
+      "name_id": "darkcharl",
+      "username": "darkcharl",
+      "profile_url": "https://mod.io/u/darkcharl",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/124b/4505465/crop_100x100/3968287d97eabc620c6254a0775e5ba.jpg"
+    },
+    "modfile": {
+      "id": 5960002,
+      "mod_id": 4630927,
+      "version": "0.0.0.2",
+      "filename": "secretscrollsunlocked_be88e768-7kjs.zip",
+      "changelog": null,
+      "date_added": 1736390078,
+      "date_updated": 0,
+      "date_scanned": 1736390082,
+      "filesize": 486752,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/fbdb/4630927/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/fbdb/4630927/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/fbdb/4630927/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/fbdb/4630927/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5960002
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5960002
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5960002
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5960002
+      }
+    ]
+  },
+  {
     "id": 4632378,
     "game_id": 6715,
     "name": "War Dancer Class",
@@ -84131,6 +84455,11 @@
       {
         "name": "Just Testing",
         "name_localized": "Just Testing",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
         "date_added": 0
       },
       {
@@ -91486,6 +91815,104 @@
     ]
   },
   {
+    "id": 4839609,
+    "game_id": 6715,
+    "name": "Aylin Restyled",
+    "name_id": "aylin-restyled",
+    "summary": "Aylin's face is clean, she has a new hairstyle and a new prison outfit.",
+    "description": "<p><span style=\"font-size:medium;\"><span style=\"font-size:small;\">Aylin has a new prison outfit, and her face is no longer dirty. The kintsugi on her face is gold now, it was more dull coloured before. She has a new hairstyles for both her prison appearance and for when she's in armour (when she takes her helmet off).</span></span></p>",
+    "date_added": 1743577044,
+    "date_updated": 1769534539,
+    "date_live": 1743577261,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aylin-restyled",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 6417576,
+      "mod_id": 4839609,
+      "version": "1.0.1.3",
+      "filename": "dame_aylin_restyle_cfdfcdb7-9c-jmce.zip",
+      "changelog": "Removed stubborn dirt and blood from initial appearance.",
+      "date_added": 1748656494,
+      "date_updated": 0,
+      "date_scanned": 1748656715,
+      "filesize": 4454698,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "aylintitle.png",
+      "original": "https://image.modcdn.io/mods/87a8/4839609/aylintitle.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/87a8/4839609/crop_320x180/aylintitle.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/87a8/4839609/crop_640x360/aylintitle.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/87a8/4839609/crop_1280x720/aylintitle.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6417576
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6417576
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6417576
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6417576
+      }
+    ]
+  },
+  {
     "id": 4841081,
     "game_id": 6715,
     "name": "Poesielibre's Rogue Armor",
@@ -93400,6 +93827,139 @@
       {
         "platform": "ps5",
         "modfile_live": 6315546
+      }
+    ]
+  },
+  {
+    "id": 4864327,
+    "game_id": 6715,
+    "name": "Wrongway Elemental Weapons",
+    "name_id": "wrongway-elemental-weapons",
+    "summary": "This mod contains ninety-six types of items. Twelve ranged weapons, fifty-four melee weapons, six shields, six torches, twelve instruments, and six utility items.",
+    "description": "<p>This mod contains <span style=\"text-decoration:underline;\"><strong>one-hundred-and-two</strong></span> types of items.</p>\n<ul>\n<li>Twelve <strong>ranged </strong>weapons,</li>\n<li>six <strong>giant </strong>weapons,</li>\n<li>twelve <strong>longreach </strong>weapons,</li>\n<li>twelve <strong>greatswords</strong>,</li>\n<li>twelve <strong>longswords</strong>,</li>\n<li>twelve <strong>shortswords</strong>,</li>\n<li>six <strong>\"titan grip\"</strong> weapons,</li>\n<li>six <strong>shields</strong>,</li>\n<li>six <strong>torches</strong>,</li>\n<li>twelve <strong>instruments</strong>,</li>\n<li>six starter <strong>utility items</strong>. </li>\n</ul>\n<p> </p>\n<p><em>Search \"<strong>Wrongway</strong>\" for any of my other mods.</em></p>\n<ul>\n<li><em><strong>Wrongway Elemental Clothes</strong> (lots of class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Feats</strong> (lots of elemental damage and ability boost feats)</em></li>\n<li><em><strong>Wrongway Elemental Jewelry</strong> (lots of elemental damage and class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Starter Bag</strong> (lots of resource goodies)</em></li>\n<li><em><strong>Wrongway Elemental Weapons</strong> (lots of elemental damage weapons)</em></li>\n<li><em><strong>Wrongway Lite Clothes</strong> (few camp clothes)</em></li>\n<li><em><strong>Wrongway Lite Jewelry</strong> (few ability boost jewelry)</em></li>\n<li><em><strong>Wrongway Lite Starter Bag</strong> (few resource goodies)</em></li>\n<li><em><strong>Wrongway Lite Weapons</strong> (few damage boost weapons)</em></li>\n</ul>",
+    "date_added": 1744460982,
+    "date_updated": 1769534220,
+    "date_live": 1744461849,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wrongway-elemental-weapons",
+    "submitted_by": {
+      "id": 44991874,
+      "name_id": "wrongwayfelldown",
+      "username": "WrongwayFelldown",
+      "profile_url": "https://mod.io/u/wrongwayfelldown",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2e10/44991874/crop_100x100/1000003178.png"
+    },
+    "modfile": {
+      "id": 7225166,
+      "mod_id": 4864327,
+      "version": "2.0.0.3",
+      "filename": "wrongway_elemental_weapons_d04-fki7.zip",
+      "changelog": null,
+      "date_added": 1767421947,
+      "date_updated": 0,
+      "date_scanned": 1767421955,
+      "filesize": 455968,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2025-05-06161555.jpg",
+      "original": "https://image.modcdn.io/mods/1919/4864327/screenshot2025-05-06161555.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/1919/4864327/crop_320x180/screenshot2025-05-06161555.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/1919/4864327/crop_640x360/screenshot2025-05-06161555.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/1919/4864327/crop_1280x720/screenshot2025-05-06161555.jpg"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7225166
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7225166
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7225166
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7225166
       }
     ]
   },
@@ -102101,6 +102661,104 @@
     ]
   },
   {
+    "id": 4927846,
+    "game_id": 6715,
+    "name": "Double Spell Slots (by umiart)",
+    "name_id": "double-spell-slots",
+    "summary": "Gain double spell slots and double warlock spell slots. Only vanilla classes.",
+    "description": "<p>Gain double spell slots and double warlock spell slots. Only vanilla classes.</p>\n<p>Fixed other mods that provide double spell slots.</p>\n<p> </p>\n<p>Uncompatible with other mods that change Spell Slot count, talent frequencies or default progression of classes.</p>",
+    "date_added": 1746841171,
+    "date_updated": 1769535062,
+    "date_live": 1746841382,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/double-spell-slots",
+    "submitted_by": {
+      "id": 46325218,
+      "name_id": "umiart",
+      "username": "UmiArt",
+      "profile_url": "https://mod.io/u/umiart",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6351679,
+      "mod_id": 4927846,
+      "version": "1.0.0.1",
+      "filename": "umi_more_spellslots_0bdec8cc-d-emjf.zip",
+      "changelog": null,
+      "date_added": 1746841179,
+      "date_updated": 0,
+      "date_scanned": 1746841186,
+      "filesize": 150681,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/4f3e/4927846/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4f3e/4927846/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4f3e/4927846/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4f3e/4927846/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6351679
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6351679
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6351679
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6351679
+      }
+    ]
+  },
+  {
     "id": 4928649,
     "game_id": 6715,
     "name": "Iron Throne Rescue Extended",
@@ -105541,6 +106199,99 @@
       {
         "platform": "ps5",
         "modfile_live": 6415339
+      }
+    ]
+  },
+  {
+    "id": 4966621,
+    "game_id": 6715,
+    "name": "Red Witch Addon - Dawnstar's Telekinetic Spells",
+    "name_id": "redwitchaddon",
+    "summary": "Adds Dawnstar's Telekinetic Spells to Red Witch spell lists",
+    "description": "<p>Adds the amazing Dawnstar's Telekinetic Spells to Red Witch spell lists, which are an excellent fit thematically.</p>\n<p>Red Witch main file and Telekinetic Spells mod required</p>",
+    "date_added": 1748282479,
+    "date_updated": 1769535012,
+    "date_live": 1748308835,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/redwitchaddon",
+    "submitted_by": {
+      "id": 46038426,
+      "name_id": "sadika1",
+      "username": "SadikaShihar",
+      "profile_url": "https://mod.io/u/sadika1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/1af3/46038426/crop_100x100/b8a29b8a88a954ec02dc1510b847198.jpg"
+    },
+    "modfile": {
+      "id": 6403877,
+      "mod_id": 4966621,
+      "version": "1.0.0.2",
+      "filename": "redwitchaddon_39c37c95-8898-5b-7mjn.zip",
+      "changelog": null,
+      "date_added": 1748282485,
+      "date_updated": 0,
+      "date_scanned": 1748282499,
+      "filesize": 1531918,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "redwitch_640x360.png",
+      "original": "https://image.modcdn.io/mods/8190/4966621/redwitch_640x360.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8190/4966621/crop_320x180/redwitch_640x360.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8190/4966621/crop_640x360/redwitch_640x360.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8190/4966621/crop_1280x720/redwitch_640x360.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6403877
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6403877
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6403877
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6403877
       }
     ]
   },
@@ -112101,6 +112852,149 @@
     ]
   },
   {
+    "id": 5069480,
+    "game_id": 6715,
+    "name": "ZXY - FleshForge - Dragonborn CC Body Selector",
+    "name_id": "clawstep-dragonborn-body-selector",
+    "summary": "Adds extra Clawstep body variants, scars, tails, metal details. Lets Dragonborn party members use different-looking bodies within the same type, each granting unique abilities. Moves Glow Ink settings into the Horns tab.",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/T1aYNLdv9-8?si=_7mInP30OWdNvlbR\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>Need help?</h2>\n<p>Open the mod page (<strong><a href=\"https://mod.io/g/baldursgate3/m/clawstep-dragonborn-body-selector#description\">ModIO</a></strong>, <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392\">Nexus</a></strong> or <a href=\"https://baldursgate3.game/mods#/m/clawstep-dragonborn-body-selector\"><strong>BG3 official site</strong></a>) and click <strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> link<br>More details can be found at the end of the description of every one of my mods<br>Don’t skip the <strong>ATTENTION</strong> section in the description - it’s important</p>\n<hr>\n<h2>FleshForge - Dragonborn CC Body Selector<br>DIGITIGRADE</h2>\n<p><br><strong>If you are looking for PLANTIGRADE (human-like legs) BODY SELECTOR -<br>use <a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dragonborn-cc-body-selector-vanilla#description\">FleshForge - Body Selector - Plantigrade</a> INSTEAD OF THIS ONE</strong><br><br><span style=\"font-size:medium;\"><strong>✧ </strong><strong>Custom bodies within the same body type<br></strong>Now you can select different bodyes for all of your Dragonborn companions or in co-op<br>Fit both male and female<strong><br><br>✧ Made with respect to attachment zones - heads, tails, private parts, and <a href=\"https://www.nexusmods.com/baldursgate3/mods/14473\">Skybound</a>/<a href=\"https://www.nexusmods.com/baldursgate3/mods/15086\">Dark Soar wings</a><br></strong>Everything that fits the vanilla body through default attachment zones fits seamlessly<br>Wings from my mods also align properly<strong><br></strong></span></p>\n<p>If you are wondering why both scars touching belly and have burns I have 2 hints for you: Kressa and brine tied to Dark Urge past</p>\n<h2><span style=\"font-size:medium;\"><strong><br>✧ Bodies grant <strong>unique abilities</strong>, letting you choose not just how you look, but how you fight</strong></span></h2>\n<p><span style=\"font-size:medium;\"><strong>Clawstep</strong> - No ability<br></span><span style=\"font-size:medium;\"><img src=\"https://i.ibb.co/Ngp6JYyD/DGB-CS-Body-Selector-A-Clawstep.png\" alt=\"\" width=\"256\" height=\"256\"><br><strong>Raptor claw</strong> - Raptor Kick passive<br>Bludgeoning and slashing damage, inflicts bleeding for 2 turns<br><img src=\"https://i.ibb.co/Kx5gbVKt/DGB-CS-Body-Selector-A-Raptor.png\" alt=\"\" width=\"256\" height=\"256\"><br></span><span style=\"font-size:medium;\"><strong>Clawstep</strong> with shorter claws and <strong>3 Talons </strong>- agility types<br>Grant Speed of Claws passive -dash as a bonus action<br></span><span style=\"font-size:medium;\"><img src=\"https://i.ibb.co/ZzTVT0SV/DGB-CS-Body-Selector-A-Short-Claw.png\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/SDNLypKP/DGB-CS-Body-Selector-A-3-Talons.png\" alt=\"\" width=\"256\" height=\"256\"></span><span style=\"font-size:medium;\"><br><strong>Outer and Inner Sickle </strong>- Sickle Kick passive <br>Bludgeoning and piercing damage, inflicts bleeding for 2 turns<br></span><span style=\"font-size:medium;\"><img src=\"https://i.ibb.co/6cj8yLgR/DGB-CS-Body-Selector-A-Sickle-B.png\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/sDRbL4d/DGB-CS-Body-Selector-A-Sickle-A.png\" alt=\"\" width=\"256\" height=\"256\"><br><br></span><span style=\"font-size:medium;\"><strong>✧ Every body has texture variations</strong></span></p>\n<p><span style=\"font-size:medium;\"><strong>Clean - d</strong></span><span style=\"font-size:medium;\">efault scales<br></span><span style=\"font-size:medium;\"><strong>Large burns with lasserations        Small burns with lasserations         Stripes and dots</strong><br><img src=\"https://i.ibb.co/zWD7MQSr/DGB-CS-Body-Selector-A-Clawstep-Scars-Burns.png\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/whfKVDsD/DGB-CS-Body-Selector-A-Clawstep-Scars-B.png\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/rjtFm10/DGB-CS-Body-Selector-A-Clawstep-Stripes-A.png\" alt=\"\" width=\"256\" height=\"256\"><br><strong>Large burns with lasserations         Scars with Ritual Circle</strong><br>and Tattoo<br><img src=\"https://i.ibb.co/whtXqZKD/DGB-CS-Body-Selector-A-Clawstep-Scars-Burns-Tattoo-KAD.png\" alt=\"DGB-CS-Body-Selector-A-Clawstep-Scars-Burns-Tattoo-KAD.png\"><img src=\"https://i.ibb.co/gM3N2QrL/DGB-CS-Body-Selector-A-Clawstep-Scars-Astarion.png\" alt=\"\" width=\"256\" height=\"256\"><br><br></span><span style=\"font-size:medium;\"><strong>✧ Spine assets</strong></span></p>\n<p><span style=\"font-size:medium;\"><strong>Clean spine                                               Lasseration with burns                      Lasserations</strong><br></span><span style=\"font-size:medium;\"><img src=\"https://i.ibb.co/pvQkyzdj/DGB-CS-Body-Selector-A-Spine-Clear.png\" alt=\"\" width=\"256\" height=\"256\"><img style=\"font-size:medium;\" src=\"https://i.ibb.co/wh4GkWNG/DGB-CS-Body-Selector-A-Spine-Scars-Claw.png\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/pr9382dc/DGB-CS-Body-Selector-A-Spine-Scars-Claw-B.png\" alt=\"\" width=\"256\" height=\"256\"><br><strong>Ritual Circle                                                    Metal details                                   Spine Stripes</strong><br><img src=\"https://i.ibb.co/0bwMRsS/DGB-CS-Body-Selector-A-Spine-Scars-Astarion-A.png\" alt=\"\"><img src=\"https://i.ibb.co/JWb08Htp/DGB-CS-Body-Selector-A-Spine-Decor-Metal-KAD.png\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/1G6fb37d/DGB-CS-Body-Selector-A-Spine-Stripes.png\" alt=\"DGB-CS-Body-Selector-A-Spine-Stripes.png\"></span><span style=\"font-size:medium;\"><br><br></span></p>\n<p><span style=\"font-size:medium;\"><strong>✧ Tails</strong></span></p>\n<p><span style=\"font-size:medium;\"><strong>Long and short Tail A<br>with Tattoo </strong></span></p>\n<p><span style=\"font-size:medium;\"><img src=\"https://i.ibb.co/wZfbwCy3/DGB-CS-Body-Selector-A-Tail-A-Long-Tattoo-KAD.png\" alt=\"\" width=\"256\" height=\"256\"><br></span></p>\n<p><span style=\"font-size:medium;\"><strong>✧ Contains same male body texture fixes as my <a href=\"https://mod.io/g/baldursgate3/m/dgb-texture-fix-akelka#description\">Seam Mender</a></strong><br><br><strong>✧ Adds \"None\" option to private parts<br></strong><br><strong>✧ Physics<br></strong>Custom body cloth collision - 2 types (for Raptor Claw)<br><br><strong>✧ Moves Glow Ink assets to horns tab<br></strong>Assets fit all bodies presented in the mod</span></p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p><strong>Do not delete mid-playthrough if your character currently has an ability from this mod.<br>Some slippers and sandals does not fit to Raptor and 3 Talon paws, extra boots you could find in <a href=\"https://www.nexusmods.com/baldursgate3/mods/16546\" rel=\"nofollow\"><span style=\"font-size:medium;\">Lost Shipment</span></a><br></strong></p>\n<h2>If you see body gone = you had something in Facial Hair (aka Beard) tab selected - just go to the mirror and select the body<br><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19392/19392-1769358937-1291627623.png\" alt=\"\" width=\"1200\" height=\"1080\"></h2>\n<p>Bodies don’t work with custom subraces that use custom Character Visuals (they require a <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392\">patches</a></strong>- if you want to make one, <span style=\"font-size:small;\"><a href=\"https://www.nexusmods.com/baldursgate3/articles/1589\" rel=\"nofollow\"><strong>HERE</strong></a> tutorial</span>).  More <strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1590\">about modded subraces here</a></strong><br>Spine decor, however, works for all.<br><br>NOT compatible <strong>for body</strong> with mods like  <a href=\"https://www.nexusmods.com/baldursgate3/mods/2754\"><strong>UTAV</strong></a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/16325\"><strong>KAVT</strong></a>, or <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/16955\">Character Creation Overhaul</a></strong> etc, since they edit the same files. <br><strong>If you need them for something (not a dragonborn body)</strong>, <br><strong>keep the Fleshforge/Clawstep higher priority in load order accordingly (meaning if you have 100 mods, this one should be 101st or near there, not 1st).<br><br>Keep this mod like this in general, in case something overrides chars visuals - example in the <span style=\"font-size:small;\"><a href=\"https://www.nexusmods.com/baldursgate3/articles/1050\" rel=\"nofollow\">Mod Order for multiple mods</a></span></strong></p>\n<hr>\n<p><strong><span style=\"font-size:x-large;\">Dragonborn Subrace Modder, Race Modder</span></strong><br><span style=\"font-size:medium;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1589\">HERE</a></strong> tutorial about patching custom subraces to Fleshforge</span></p>\n<p><strong><span style=\"font-size:x-large;\">Modder-armorist/tailor,</span></strong><br><span style=\"font-size:medium;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1402\">HERE</a></strong> <strong>files, addon and tutorial</strong> to help you resize your armor to Clawstep body</span></p>\n<hr>\n<h2><strong>Extra</strong></h2>\n<p><br><a href=\"https://mod.io/g/baldursgate3/m/lost-shipment-equipment-for-clawstep#description\"><span style=\"font-size:large;\"><strong>Lost Shipment - </strong></span><strong><span style=\"font-size:large;\">Equipment for Clawstep</span></strong></a><br><strong>Chest full of Armor, Boots, Camp Cloth, Underwear etc<br></strong>Lost Shipment from Chaos Forge added to Player Chest.<br>Also appears in Tutorial Chest for early access (and experimentation!)</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/lost-shipment-equipment-for-clawstep#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/16546/16546-1747078851-1014449189.png\" alt=\"\" width=\"1200\" height=\"1200\"></a></p>\n<p><span style=\"font-size:x-large;\"><strong>Armor mod with patch for Clawstep</strong></span><br><strong><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/12716?tab=files\" rel=\"nofollow\">Doom plate armor (from Lineage 2)</a></span></strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/295424\" rel=\"nofollow\">Akumu22</a>  - you'll need one of 2 files for you choosing:<br>Clawstep - Dragonborn body Addon<br>Clawstep - Dragonborn body Addon - With Breast</p>\n<p><a href=\"https://www.nexusmods.com/baldursgate3/mods/12716?tab=files\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/16384/16384-1756194787-1011823794.png\" alt=\"\" width=\"1200\" height=\"1200\"></a></p>\n<p><a href=\"https://www.nexusmods.com/baldursgate3/mods/12716?tab=files\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/16384/16384-1747712205-2018911978.png\" alt=\"\" width=\"1200\" height=\"1200\"></a></p>\n<hr>\n<p><strong><span style=\"font-size:x-large;\">Subrace Compatability PATCHES</span></strong><br><strong><span style=\"font-size:large;\"><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-platinum-dragonborn-patch#description\">FleshForge - Platinum Dragonborn - Patch</a><br></span></strong><span style=\"font-size:large;\"><span style=\"font-size:small;\">Compatability patch to ChizFreak's</span></span><strong><span style=\"font-size:large;\"><span style=\"font-size:small;\"> </span></span><span style=\"font-size:large;\"><span style=\"font-size:small;\"><a href=\"https://mod.io/g/baldursgate3/m/platinum-dragonborn#description\" rel=\"nofollow\">A Platinum Dragonborn </a><br></span></span><span style=\"font-size:large;\"><span style=\"font-size:small;\">Same file for Plantigrade and Digitigrade versions<br><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-platinum-dragonborn-patch#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19392/19392-1769294497-980353082.png\" alt=\"\" width=\"1200\" height=\"1080\"></a><br></span></span></strong></p>\n<p><strong><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dgb-subraces-gem-dgb-patch#description\"><span style=\"font-size:large;\">FleshForge - DGB Subraces - Gem Dragonborn - Patch</span></a></strong><br>Compatability patch to metadile's <a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\"><strong>Dragonborn Subraces: Gem Dragonborns</strong></a><br><strong><span style=\"font-size:large;\"><span style=\"font-size:small;\">Same file for Plantigrade and Digitigrade versions<br><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dgb-subraces-gem-dgb-patch#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19392/19392-1769296925-363701133.png\" alt=\"\" width=\"1200\" height=\"1080\"></a></span></span></strong><br><br></p>\n<p><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\"><strong>FleshForge - Diamon's Mystic Manual - Patch</strong></a> </span><span style=\"font-size:small;\">in Optional files (Nexus)<br>Compatability patch to<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a><br><span style=\"font-size:large;\"><span style=\"font-size:small;\">Same file for Plantigrade and Digitigrade versions</span></span></strong></span><br><span style=\"font-family:Arial;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/2116/2116-1694425774-213802438.png\" alt=\"2116-1694425774-213802438.png\"></a></span></p>\n<p><strong><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\">FleshForge - Fizbans Treasury of Dragons - Patch</a></span> </strong><span style=\"font-size:small;\">in Optional files (Nexus)</span><strong><br></strong>Compatability patch to KiderionLykon's (Original autor is 3XC4L1B3R)<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready</a><br>Same file for Plantigrade and Digitigrade versions</strong><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/12177/12177-1726315227-1161417992.png\" alt=\"12177-1726315227-1161417992.png\"></a><br><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\">FleshForge - Dragonborn Enhanced - Patch</a></span> <span style=\"font-size:small;\">in Optional files (Nexus)</span></strong><strong><br>Compatability patch to NateSheltry's (Original autor is 3XC4L1B3R) <a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8</a> (Version: 1.6.1)<br><span style=\"font-size:large;\"><span style=\"font-size:small;\">Same file for Plantigrade and Digitigrade versions</span></span><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\"><img src=\"https://i.ibb.co/1f6cvRsF/image.png\" alt=\"image.png\"></a><br></strong></p>\n<hr>\n<p><strong><a href=\"https://mod.io/g/baldursgate3/m/glow-ink-body-tattoo-hair-tab-clawstep#description\"><span style=\"font-size:large;\">Glow Ink - Body Tattoo - Hair Tab - Clawstep</span></a> </strong><span style=\"font-size:small;\">- Optional file of GlowInk Clawstep</span><br><strong>DO NOT use 2 Glow Inks from different tabs at once on the same character or you’ll get a blinking bug.</strong><br>Made so you can CHOOSE the tab if using other mods with Glow Ink, not to layer or stack them.<br>Glow Ink shader hates overlapping or even being near another decal with a similar shader, so no, a 2nd decal with a different size will not fix that problem. That has been tested.<br>This is exactly the reason why, in the default mod and Fleshforge, Glow Ink exists in one tab only.<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392\">FleshForge</a> does not move this one anywhere, so u could use Glow Ink and Horns from other mods</p>\n<p><strong>I will not push this one to consoles or merge into Default GlowInk, as I deem it too destructive and confusing for the average player</strong><a href=\"https://mod.io/g/baldursgate3/m/glow-ink-body-tattoo-hair-tab-clawstep#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/16855/16855-1762276279-505612192.png\" alt=\"16855-1762276279-505612192.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2><strong><span style=\"font-size:x-large;\">Thanks</span></strong></h2>\n<p><span class=\"headerText_c19a55\"><span class=\"username_c19a55 usernameColorOnName_c19a55 desaturateUserColors__41f68 clickable_c19a55\"><strong><a href=\"https://mod.io/g/baldursgate3/u/padme4000\">Padme4000</a> </strong>for Osiris tutorial<strong><br>XiphiasRex</strong> for DynamicAnimationTag pointers<br><strong>MaxStrengthWizard</strong>  for help with passives</span></span></p>\n<p><strong><span style=\"font-size:large;\">For patch permissions</span></strong><br><span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\"><strong>ChizFreak</strong></a> for permission to patch <a href=\"https://mod.io/g/baldursgate3/m/platinum-dragonborn#description\">A Platinum Dragonborn</a> and make tutorial based on it<br><strong><a href=\"https://mod.io/g/baldursgate3/u/metadile\">metadile_</a> </strong>-  </span><a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\"><span style=\"font-family:Arial;\">Dragonborn Subraces: Gem Dragonborns</span></a><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/users/19603604\">Backburner26</a> </strong>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/users/5616499\">KiderionLykon</a></strong> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready</a><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/users/12649990\">NateSheltry</a></strong> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8</a></p>\n<h3><strong>Wall of Heroes</strong></h3>\n<p>With every name added, the Wall of Heroes grows stronger<br>Today, we honor <a href=\"https://www.patreon.com/profile/creators?u=88898883\"><strong>Gentle Giant Cosplay</strong></a>, <strong><a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=171315578\">KoboldicOddities</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=60000792\">N00b</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=46327378\">Roe</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=141908783\">Raine</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=127424387\">Oliver</a></strong><br>whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!</p>\n<h3><br><strong>Echoing Acknowledgement </strong></h3>\n<p> to <strong><a href=\"https://www.patreon.com/user?u=91343650\">Wamp</a>, <a href=\"https://www.patreon.com/user?u=3855703\">luna</a>, <a href=\"https://www.patreon.com/user?u=23485532\">Merven</a>, <a href=\"https://www.patreon.com/user?u=68343342\">Funzo</a>, <a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a>, <a href=\"https://www.patreon.com/user?u=94228860\">Anne Mac Adams</a>, <a href=\"https://www.patreon.com/user?u=816124\">Asyrin</a> you are tentacular!</strong></p>\n<p><a href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1751733376,
+    "date_updated": 1769535559,
+    "date_live": 1761533572,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/clawstep-dragonborn-body-selector",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 7316618,
+      "mod_id": 5069480,
+      "version": "1.0.0.24",
+      "filename": "dgb_body_akelka_extra_a_27cfc9-f2px.zip",
+      "changelog": "Overrides \"No Attachment\" and \"AkElkA tech button\" from the \"Dragonborn Extra Tabs - Horns and Hair\" mod in the Facial Hair (Beard) tab as a fail-safe for people who like to select these buttons and then get shocked that the body “disappeared”, without checking the description or the mod images\nWould not help from ppl who have extra mods for Beard Tab and select something there, but better then nothing",
+      "date_added": 1769351190,
+      "date_updated": 0,
+      "date_scanned": 1769351242,
+      "filesize": 267597843,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "body_selector_1_720x.png",
+      "original": "https://image.modcdn.io/mods/268f/5069480/body_selector_1_720x.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/268f/5069480/crop_320x180/body_selector_1_720x.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/268f/5069480/crop_640x360/body_selector_1_720x.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/268f/5069480/crop_1280x720/body_selector_1_720x.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Piercings",
+        "name_localized": "Piercings",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7242637
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7242637
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7242637
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7316618
+      }
+    ]
+  },
+  {
     "id": 5070104,
     "game_id": 6715,
     "name": "Flame Blade VFX Replacer",
@@ -117787,6 +118681,104 @@
     ]
   },
   {
+    "id": 5194680,
+    "game_id": 6715,
+    "name": "Automated-Combat",
+    "name_id": "automated-combat",
+    "summary": "Select per-follower if they should take their turns automatically in combat, or if you would like to control them manually. DISCLAIMER: It is recommended to always control at least one of your party members (your character or your companions)",
+    "description": "<p>This mod now also works on existing saves!</p>\n<p>Ever get overwhelmed by choices in combat? Ever feel dumber than the games AI? Tired of feeling responsible for Shadowheart getting downed? Then this is  the mod for you!</p>\n<h3>DISCLAIMER: It is recommended to always control at least one of your party members (your character or your companions)</h3>\n<p>This mod adds a toggleable passive that allows you to choose for each character in your party whether or not you want them to be taken over by AI during combat. This works on all follower types.</p>",
+    "date_added": 1756159720,
+    "date_updated": 1769534331,
+    "date_live": 1756159720,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/automated-combat",
+    "submitted_by": {
+      "id": 11361099,
+      "name_id": "quickkrueger",
+      "username": "Quickkrueger",
+      "profile_url": "https://mod.io/u/quickkrueger",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/aa7e/11361099/crop_100x100/74eeb40b38de910be6430cf2030c38d.jpg"
+    },
+    "modfile": {
+      "id": 6719167,
+      "mod_id": 5194680,
+      "version": "1.0.0.9",
+      "filename": "automated-companion-combat_38c-6it2.zip",
+      "changelog": "The passive is now added when the mod is loaded into an existing save.",
+      "date_added": 1756327717,
+      "date_updated": 0,
+      "date_scanned": 1756327782,
+      "filesize": 19171231,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/12e9/5194680/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/12e9/5194680/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/12e9/5194680/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/12e9/5194680/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Accessibility",
+        "name_localized": "Accessibility",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6719167
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6719167
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6719167
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6719167
+      }
+    ]
+  },
+  {
     "id": 5207817,
     "game_id": 6715,
     "name": "Relentless Avenger Boots",
@@ -120448,6 +121440,129 @@
     ]
   },
   {
+    "id": 5325973,
+    "game_id": 6715,
+    "name": "Ezuneo's Face Horns and Feathers",
+    "name_id": "ezuneos-face-horns-and-feathers",
+    "summary": "Adds draconic style horns attached to temple, cheeks, and jaw areas of the face in CC menu. For all races and body types.",
+    "description": "<p style=\"text-align:center;\"><span style=\"font-size:xx-large;\">🐲<strong><u>About</u></strong>🐲</span><br><br>This mod adds the following options to character customization menu:<br>⭐ 1 Set of draconic styled horns at forehead<br>⭐ 7 Sets of horns at the face temple/cheek areas<br>⭐ 9 Sets of horns at the cheek/jaw areas of the head<br>⭐ 1 Set of feathers at the top, sides, and jaw areas (+split dye variation)<br><br>⭐ All the options are available in available in Horns, Beard, Crest, Jaw, and Chin slots so you can mix and match! ⭐<br>Available for all humanoid races and body types!<br><br><br><strong><span style=\"font-size:large;\">🎨<u>Colours</u>🎨</span></strong><br>★ All horns are tintable with horn &amp; horn tip colours.<br>★ Feathers follow tav's hair &amp; hair highlights colours.<br>★ This mod also adds vanilla horn colour options to all races.<strong><br></strong><br><strong><br><span style=\"font-size:large;\">⚠️ <u>Known ️Issues</u> ⚠️<br></span></strong>✧ The face horns are autosnap so it's not perfect and can clip through heads that have bigger jaw shape.<br>✧ Like hair, they are not made to work with dragonborns but they still appear in the CC menu due to how the mod is built in toolkit.</p>\n<p> </p>\n<p style=\"text-align:center;\"><span style=\"font-size:medium;\">⭐ Support me on <a href=\"https://ko-fi.com/ezuwhal\" rel=\"nofollow\">ko-fi</a> or <a href=\"https://www.patreon.com/c/ezuneo\" rel=\"nofollow\">Patreon</a> ⭐<br></span><span style=\"font-size:small;\">I post WIPs, updates, and upcoming mods previews on my Patreon!</span><span style=\"font-size:medium;\"><br></span></p>\n<p style=\"text-align:center;\"> </p>",
+    "date_added": 1762012214,
+    "date_updated": 1769534381,
+    "date_live": 1762014672,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ezuneos-face-horns-and-feathers",
+    "submitted_by": {
+      "id": 45264710,
+      "name_id": "ezuneo",
+      "username": "ezuneo",
+      "profile_url": "https://mod.io/u/ezuneo",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e25b/45264710/crop_100x100/felis-icon1.png"
+    },
+    "modfile": {
+      "id": 6895465,
+      "mod_id": 5325973,
+      "version": "1.1.0.7",
+      "filename": "ezn_facehorns_6ce5b0cc-9478-90-g85p.zip",
+      "changelog": null,
+      "date_added": 1762014819,
+      "date_updated": 0,
+      "date_scanned": 1762014865,
+      "filesize": 27589952,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ee28/5325973/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ee28/5325973/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ee28/5325973/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ee28/5325973/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Horns",
+        "name_localized": "Horns",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6895465
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6895465
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6895465
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6895465
+      }
+    ]
+  },
+  {
     "id": 5327835,
     "game_id": 6715,
     "name": "Axi &amp; Cay's Cute Couple Poses",
@@ -122786,6 +123901,134 @@
       {
         "platform": "ps5",
         "modfile_live": 7271090
+      }
+    ]
+  },
+  {
+    "id": 5538756,
+    "game_id": 6715,
+    "name": "Clansong - Speaking Dragonborns CC Heads",
+    "name_id": "clansong-speaking-dragonborns-cc-heads",
+    "summary": "Adds Dragonborn heads adjusted for Guardians/Companions - with updated face movement",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/22CO4NEKQvk?si=1-T-hKVpT6aK5T0k\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p><strong>Set Animation Level of Detail on High<br>You need to select heads , marked with HUMAN SKULL in CC. ONLY this ones work with animations for \"Normies\"<br><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1768476847-1133840503.png\" alt=\"\" width=\"1200\" height=\"1200\"><br>Mod still WIP</strong></p>\n<hr>\n<h2>Clansong - Speaking Dragonborns CC Heads</h2>\n<p>Adds Dragonborn heads adjusted for humanoid animations - with updated face movement so they talk properly when used as a Companion or Guardian.<br>Icons for heads, compatable with the animations marked with human skull<br><br><strong>REQUIRES ANOTHER MOD TO USE ON COMPANIONS OR GUARDIAN<br></strong>This mod does not by itself turn Companions or the Guardian into Dragonborn.<strong><br>You must use <strong>a companion edit, override, or Dragonborn Guardian mod</strong> (examples listed below) to apply these heads to them</strong></p>\n<h3><strong>Companions</strong></h3>\n<p><strong>To change any Companion on Dragonborn you have OPTIONS:</strong><br><strong>✧ </strong>Use <a href=\"https://www.nexusmods.com/baldursgate3/users/69959758\">Eralyne</a>'s <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a></strong>. <br>Just use \"Resculpt\" spell, select Dragonborn and one of heads, marked with human skull<br><strong>✧ </strong>Or use <a href=\"https://mod.io/g/baldursgate3/u/adriant1978\">adriant1978</a>'s <strong><a href=\"https://mod.io/g/baldursgate3/m/customcompanionslite#description\">CustomCompanionsLite</a></strong> (mod avaliable for all platforms) or <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/4928\">Full Custom Companions (Hirelings) </a></strong>mod,<br>select Dragonborn and one of heads, marked with human skull<br><strong>✧</strong> You could use <strong>identity theft mod</strong> - <strong><a href=\"https://mod.io/g/baldursgate3/m/ring-of-identity-theft-doppelganger-ring#description\">Transmogs and Spelltheft</a></strong> to copy the look on companion from hireling or tav/durge (mod avaliable for all platforms)<br><strong>✧</strong> Or use <strong>my own overrides</strong> (you could mix it with <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\"><strong>Appearance Edit Enhanced</strong></a> together for instance) - <br><strong>BELOW in the description links to my PRESETS. THIS ONES ARE FULL OVERRIDES, BODY TOO</strong><br><strong>✧</strong> Or just <strong>shapeshift</strong> companion into female Dragonborn<br><strong>If ppl shapeshift into female dragonborn - they becoming one with the Clansong's Vexa's head, so they speak normally<br><br>IF YOU KNOW <span style=\"text-decoration:underline;\">MORE</span> WAYS TO MAKE NON-DRAGONBORN COMPANION/HIRELING DRAGONBORN - FEEL FREE TO SHARE WITH OTHERS<br>How to make ANY companion Dragonborn with Clansong (example video)<br><iframe src=\"https://www.youtube.com/embed/_MtFHyfHYi8\" width=\"560\" height=\"314\"></iframe><br></strong></p>\n<h3>Guardians</h3>\n<p>To use Dragonborn as Guardian use one of Dragonborn Guardian mods such as:  <br><strong>✧</strong> <a href=\"https://www.nexusmods.com/baldursgate3/users/121922323\">Trips</a>'s <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/4521\">Whispers of the Guardian - Dragonborn Guardian</a></strong> or<br><strong>✧ </strong><a href=\"https://mod.io/g/baldursgate3/u/cheek\">Cheek</a>'s <strong><a href=\"https://mod.io/g/baldursgate3/m/i-dream-of-dragonborn#description\">I Dream of Dragonborn</a><br></strong>Select Dragonborn and one of heads, marked with human skull<br><iframe src=\"https://www.youtube.com/embed/nE3uQ-DFim4\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Female heads </strong></h2>\n<h3><strong>Vexa</strong></h3>\n<p>Heads remade for \"normies\" animation.<br>Vexa is specifically weighted to Karlach’s adjusted armature and her Range of Motion (ROM), so she moves best as Karlach. <br>She works decently on other companions and guardian too, just not as good - keep that in mind.</p>\n<h3><br><strong>All head assets of mine included</strong></h3>\n<p>Here how to play around with coloorable ones</p>\n<p><iframe src=\"https://www.youtube.com/embed/4a252K46X74?si=OY_wMubKxOki8kW5\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Contains \"All in One\" of </strong></h2>\n<p><strong>✧ <a href=\"https://mod.io/g/baldursgate3/m/dmh-assets-vexa-dragonborn-cc#description\">DMH Assets Vexa - Dark Urge Dragonborn CC </a></strong><br><strong>✧<a href=\"https://mod.io/g/baldursgate3/m/slayer-assets-dmh-dark-urge-dragonborn-cc#description\"> </a><a href=\"https://mod.io/g/baldursgate3/m/slayer-assets-dmh-dark-urge-dragonborn-cc#description\">Slayer Assets DMH - Dark Urge Dragonborn CC </a></strong><br><strong>✧<a href=\"https://mod.io/g/baldursgate3/m/seadragon-assets-dmh-dragonborn-cc#description\"> </a><a href=\"https://mod.io/g/baldursgate3/m/seadragon-assets-dmh-dragonborn-cc#description\">Seadragon Assets DMH - Dragonborn CC </a></strong><br><strong>✧ <a href=\"https://mod.io/g/baldursgate3/m/seadragon-assets-vexa-dragonborn-cc#description\">Seadragon Assets Vexa - Dragonborn CC </a></strong><br><strong>✧ <a href=\"https://mod.io/g/baldursgate3/m/reforged-assets-dmh#description\">Reforged Assets DMH - Dark Urge Dragonborn CC </a></strong><br><strong>✧ <a href=\"https://mod.io/g/baldursgate3/m/reforged-assets-vexa-dark-urge-dragonborn-cc#description\">Reforged Assets Vexa - Dark Urge Dragonborn CC </a></strong><br><strong>✧ <a href=\"https://mod.io/g/baldursgate3/m/crystal-crown-dmh-gem-dragonborn-cc#description\">Crystal Crown DMH - Gem Dragonborn CC </a></strong><br><strong>✧ <a href=\"https://mod.io/g/baldursgate3/m/crystal-crown-vexa-gem-dragonborn-cc#description\">Crystal Crown Vexa - Gem Dragonborn CC  </a></strong><br><br><strong>With Clansong this small mods no longer requered </strong></p>\n<hr>\n<h2>Some Advise</h2>\n<p>Males and Strong Females are the closest match to the female Dragonborn body type (Karlach, Astarion, Gale, Wyll). <br>Strong Males are closer to the male Dragonborn body (Halsin, Minsc).<br>So you’ll get fewer mismatched cutscenes with those body types. <br>The heads work even if you resculpt Shadowheart or Minthara - just don’t expect hugs (and everything else) to line up properly.</p>\n<p>If you turn male companions into female Dragonborn, there are several voice-over mods for that on Nexus.<br>For instance <a href=\"https://www.nexusmods.com/baldursgate3/users/477206\">arkien</a>'s <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/2652?tab=files\">Voice Swap</a></strong> mods</p>\n<p>This is a head mod, not a body mod, so don't expect to fix body misalignments from it.</p>\n<p><strong><span style=\"font-size:x-large;\">Mods used on screenshots:</span><br></strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/20339?tab=posts&amp;BH=6\" rel=\"nofollow\"><strong>a Spark of Achievement</strong> </a>by <a href=\"https://www.nexusmods.com/baldursgate3/users/162648593\" rel=\"nofollow\">RottingMothball</a><br><a href=\"https://www.nexusmods.com/baldursgate3/users/69959758\" rel=\"nofollow\">Eralyne</a>'s <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\" rel=\"nofollow\"><strong>Appearance Edit Enhanced</strong><br></a><a href=\"https://mod.io/g/baldursgate3/u/cheek\" rel=\"nofollow\">Cheek</a>'s <a href=\"https://mod.io/g/baldursgate3/m/i-dream-of-dragonborn#description\" rel=\"nofollow\"><strong>I Dream of Dragonborn</strong><br></a>and number of my own mods obviously</p>\n<hr>\n<h2>Drawbacks</h2>\n<p>Warning - kisses don’t work with Dragonborn heads right now. The maw is too long, and I’m still figuring out how to handle it.<br>Piercings won’t work either, since the selectable options are Dragonborn’s but the armature is Human’s/Hybrid</p>\n<hr>\n<h2><strong>EXTRA</strong></h2>\n<p><strong><span style=\"font-size:x-large;\">BODY SELECTORS</span><br><span style=\"font-size:small;\">If you want to give companions/guardian unique bodies, different from your Tav/Durge or other way around, here some mods:</span><br><br><span style=\"font-size:medium;\">DIGITIGRADE</span><br><a href=\"https://mod.io/g/baldursgate3/m/clawstep-dragonborn-body-selector#description\"><span style=\"font-size:medium;\">FleshForge - Dragonborn CC Body Selector - Digitigrade</span></a><br><a href=\"https://mod.io/g/baldursgate3/m/glow-ink-body-tattoo-clawstep-dragonborn-cc#description\">Glow Ink - Body Tattoo - Clawstep - Dragonborn CC</a><br><br><span style=\"font-size:medium;\">PLANTIGRADE</span><br><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dragonborn-cc-body-selector-vanilla#description\">FleshForge - Dragonborn CC Body Selector - Plantigrade</a><br></span></strong><strong><span style=\"font-size:medium;\"><a href=\"https://mod.io/g/baldursgate3/m/glow-ink-body-tattoo-vanilla-dragonborn-cc#description\">Glow Ink - Body Tattoo - Vanilla - Dragonborn CC</a><br><br></span>Do NOT use plantigrade and digitigrade mods together</strong></p>\n<hr>\n<h2><strong><span style=\"font-size:x-large;\">COMPANION PRESETS</span></strong><br><br><a href=\"https://mod.io/g/baldursgate3/m/karlach-as-dragonborn-companion-replacer#description\">Clansong - Karlach as Red Dragonborn BT1</a></h2>\n<p>Optional file of <strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\">Clansong</a><br>Makes Karlach BT1 Red Dragonborn<br>DIGITIGRADE BODY</strong><br><a href=\"https://mod.io/g/baldursgate3/m/karlach-as-dragonborn-companion-replacer#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767014128-53174580.png\" alt=\"\" width=\"1200\" height=\"1200\"></a></p>\n<h2><strong><a href=\"https://mod.io/g/baldursgate3/m/astarion-as-dragonborn-companion-replacer#description\">Clansong - Astarion as Ruby Dragonborn BT1</a></strong></h2>\n<p>Optional file of <strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\">Clansong</a><br>Changes Astarion to BT1 Dragonborn<br>DIGITIGRADE BODY</strong><a href=\"https://mod.io/g/baldursgate3/m/astarion-as-dragonborn-companion-replacer#description\"><img src=\"https://image.modcdn.io/mods/8e38/5577293/clansongastarionasdragonbornbt1.1.png\" alt=\"\" width=\"1200\" height=\"1200\"></a></p>\n<hr>\n<h2>PC players only:</h2>\n<h3><strong>Pathes</strong></h3>\n<p><strong>✧ </strong><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/353?tab=files\">P4 </a></strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/353?tab=files\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Patches_for_VFX_Heads </strong></a> - restores <strong><a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/9702/9702-1720125941-456130912.png\" target=\"_blank\" rel=\"noopener noreferrer\">VFX for speak with dead</a> </strong>and some evil and Dark Urge related eye VFX <br><strong>✧ </strong><strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-astarion-as-ruby-dragonborn-bt1-subrace#description\">Clansong - Astarion BT1 - Ruby SUBRACE PATCH  </a></strong>Optional file of <strong>Clansong - Astarion as Ruby Dragonborn BT1</strong>. Links Clansong - Astarion as Ruby Dragonborn BT1 to metadile_ \"Dragonborn Subraces: Gem Dragonborns\"<br><strong>✧ </strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/19947?tab=files\"><strong>Clansong - Astarion BT1 - AEE RESCULPT PATCH</strong></a> Optional file of<strong> Clansong - Astarion as Ruby Dragonborn BT1. </strong><strong>Use ONLY if you have <a href=\"https://www.nexusmods.com/baldursgate3/users/69959758\">Eralyne</a>'s <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a> AND will be Resculpting Astarion!<br>✧ <a href=\"https://www.nexusmods.com/baldursgate3/mods/19947?tab=files\">EotB Patch Clansong</a> - EOTB patch - allows you to use <a href=\"https://www.nexusmods.com/baldursgate3/mods/315?tab=description\">Eyes of the Beholder</a> and any eye presets that depend on it. Also Includes EotB Patch DMH and EotB Patch Vexa as AIO<br></strong></p>\n<h4><a href=\"https://www.nexusmods.com/baldursgate3/mods/19947?tab=description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Instalation instructions with examples here</strong></a></h4>\n<p><a href=\"https://www.nexusmods.com/baldursgate3/mods/19947?tab=files\"><strong><span class=\"imgWrap\"><img src=\"https://i.ibb.co/dwz9PxF4/Eotb-copy1-copy.png\" alt=\"Eotb-copy1-copy.png\"></span></strong></a></p>\n<hr>\n<h2>For Modders</h2>\n<p>My weight-painting addons, like <strong>Blend Addon - Vertex Group Filter</strong> and <strong>Blend Addon - Mirror Bones / Mesh / Weights</strong><br>were created for <strong><a href=\"https://mod.io/g/baldursgate3/m/dragonborn-children-akelka#description\">Dragonborn Hatchlings</a></strong> and Clansong. You can find them in <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/19475?tab=description\">AkELkA’s Tools</a></strong> on Nexus<br><br>You are welcome to use mod as dependency and create companion-override or origin mods. <br>If you have mod-hammering related questions reach me on <strong><a href=\"https://www.patreon.com/c/AkELkA\">Patreon</a></strong> or in Discord - <a href=\"https://discord.gg/eqdH5GwNCY\"><strong>Molten Mug</strong></a> <strong>/</strong> <strong>CMTY/ Down by the River/ Larian Studious </strong>and number of other severs</p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2><strong>Thanks</strong></h2>\n<p><strong><a href=\"https://www.patreon.com/profile/creators?u=36705674\">Lenster</a></strong><strong> for assisting with <a href=\"https://www.nexusmods.com/baldursgate3/mods/19475\">tools and addons</a></strong></p>\n<h3><strong>Wall of Heroes</strong></h3>\n<p>With every name added, the Wall of Heroes grows stronger<br>Today, we honor <a href=\"https://www.patreon.com/profile/creators?u=88898883\"><strong>Gentle Giant Cosplay</strong></a>, <strong><a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=171315578\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">KoboldicOddities</span></a>, <a href=\"https://www.patreon.com/user?u=60000792\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">N00b</span></a> , <a href=\"https://www.patreon.com/user?u=141908783\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Raine</span></a>, <a href=\"https://www.patreon.com/user?u=46327378\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Roe</span></a>, <a href=\"https://www.patreon.com/user?u=127424387\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Oliver</span></a>,  <a href=\"https://www.patreon.com/user?u=61745837\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">DarthRevan</span></a>, <a href=\"https://www.patreon.com/user?u=137743434\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Liam Quinn</span></a></strong>, <a href=\"https://www.patreon.com/user?u=29561792\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\"><strong>SmugFly</strong></span></a>, <strong><a href=\"https://www.patreon.com/user?u=191148959\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Erzebet</span></a></strong> whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!</p>\n<h3><br><strong>Echoing Acknowledgement </strong></h3>\n<p><strong>to <span class=\"sc-iqseJM dwFhbt\"><a href=\"https://www.patreon.com/user?u=91343650\" target=\"_blank\" rel=\"noopener noreferrer\">Wamp</a></span>, <a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a></strong><strong>, <a href=\"https://www.patreon.com/user?u=23485532\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Merven</span></a>, <a href=\"https://www.patreon.com/user?u=3855703\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">luna</span></a>,  <a href=\"https://www.patreon.com/user?u=816124\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Asyrin</span></a>, <a href=\"https://www.patreon.com/user?u=22487138\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Pinkie Pain</span></a> , <span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\"><a href=\"https://www.patreon.com/user?u=94228860\" target=\"_blank\" rel=\"noopener noreferrer\">Director Isard</a></span> you are tentacular!</strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1764708271,
+    "date_updated": 1769535380,
+    "date_live": 1766983776,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 7213118,
+      "mod_id": 5538756,
+      "version": "1.0.0.18",
+      "filename": "dgb_npc_heads_hum_weights_akel-dzem.zip",
+      "changelog": "fix for Honey topaz Jaw for Clansong's Vexa",
+      "date_added": 1767207871,
+      "date_updated": 0,
+      "date_scanned": 1767207908,
+      "filesize": 22083154,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "clansong2psdcopy1.png",
+      "original": "https://image.modcdn.io/mods/b3c8/5538756/clansong2psdcopy1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b3c8/5538756/crop_320x180/clansong2psdcopy1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b3c8/5538756/crop_640x360/clansong2psdcopy1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b3c8/5538756/crop_1280x720/clansong2psdcopy1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7213118
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7213118
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7213118
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7213118
       }
     ]
   },
