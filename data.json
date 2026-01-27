@@ -104852,7 +104852,7 @@
     "summary": "A lightning based longsword + the Warden armor set. Gives you access to 3 lightning spells and 1 aura.",
     "description": "<p>A paladin longsword + armor set with 3 spells and 1 toggleable aura</p>\n<p> <br>Commissioned by OrioneXV<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Paladin Longsword mesh by Efarys: https://skfb.ly/6TtHO<br>licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Mesh and textures modified.</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1747935809,
-    "date_updated": 1769427169,
+    "date_updated": 1769539003,
     "date_live": 1747936153,
     "visible": 1,
     "status": 1,
@@ -104866,15 +104866,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7321364,
+      "id": 7326650,
       "mod_id": 4955962,
-      "version": "1.0.0.8",
-      "filename": "temiswrd_22fe70ad-c877-9aec-13-cnyt.zip",
-      "changelog": "- added a v2 version of Temi",
-      "date_added": 1769427120,
+      "version": "1.0.0.9",
+      "filename": "temiswrd_22fe70ad-c877-9aec-13-a3js.zip",
+      "changelog": "- fixed aura of warden staying on character even when the helmet is removed",
+      "date_added": 1769538953,
       "date_updated": 0,
-      "date_scanned": 1769427345,
-      "filesize": 7827257,
+      "date_scanned": 1769538969,
+      "filesize": 7827445,
       "platforms": [
         {
           "platform": "windows",
@@ -105008,7 +105008,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7321364
+        "modfile_live": 7326650
       }
     ]
   },
