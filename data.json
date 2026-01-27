@@ -121249,6 +121249,144 @@
     ]
   },
   {
+    "id": 5435689,
+    "game_id": 6715,
+    "name": "Twilight Elegy",
+    "name_id": "obsc-twilight-elegy",
+    "summary": "Add box with Twilight Elegy armour.",
+    "description": "<p>Hello Petals!<br><br></p>\n<p>Twilight Elegy contains:</p>\n<ul>\n<li>Suit (in 3 variants)</li>\n<li>Gloves</li>\n<li>Boots</li>\n<li>Camp clothes and boots</li>\n</ul>\n<p>Fully dyeable, has physics, has stats.<br>Compatible with BT1 and BT3 humanlike.</p>\n<p>You can find the box with it:</p>\n<ul>\n<li>Tutorial Chest</li>\n<li>Act 1 Arron</li>\n<li>Act 2 Talli</li>\n<li>Act 3 Popper the Business Lord</li>\n</ul>\n<p>Enjoy &lt;3</p>",
+    "date_added": 1763162123,
+    "date_updated": 1769533811,
+    "date_live": 1763162123,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/obsc-twilight-elegy",
+    "submitted_by": {
+      "id": 37020298,
+      "name_id": "obscen1ty",
+      "username": "Obscen1ty",
+      "profile_url": "https://mod.io/u/obscen1ty",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/585b/37020298/crop_100x100/pfp.png"
+    },
+    "modfile": {
+      "id": 6995290,
+      "mod_id": 5435689,
+      "version": "1.0.0.4",
+      "filename": "obsc_twilight_elegy_fb863618-3-0j05.zip",
+      "changelog": null,
+      "date_added": 1763162141,
+      "date_updated": 0,
+      "date_scanned": 1763162228,
+      "filesize": 50390958,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/f1ba/5435689/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f1ba/5435689/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f1ba/5435689/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f1ba/5435689/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6995290
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6995290
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6995290
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6995290
+      }
+    ]
+  },
+  {
     "id": 5463110,
     "game_id": 6715,
     "name": "Book of Rogues - 5e Rogue Subclasses",
