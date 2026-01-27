@@ -60428,7 +60428,7 @@
     "summary": "Embrace the power of your fallen foes with the Path of the Skull Collector. Bind yourself to the skulls of mighty warriors, harnessing their unique abilities. WIP",
     "description": "<p style=\"text-align:center;\"><strong>TUTORIAL CHEST ADDON RELEASED!<br></strong><strong><a href=\"https://mod.io/g/baldursgate3/m/path-of-the-skull-collector-tutorial-chest\">Path of the Skull Collector - Tutorial Chest</a></strong><br><a href=\"https://mod.io/g/baldursgate3/m/path-of-the-skull-collector-tutorial-chest\">https://mod.io/g/baldursgate3/m/path-of-the-skull-collector-tutorial-chest</a></p>\n<p>Please view the homepage/Nexus link for updates!  <br>Link: https://www.nexusmods.com/baldursgate3/mods/13249</p>\n<p> </p>\n<h2><span style=\"text-decoration:underline;\"><strong>Path of the Skull Collector - Barbarian Subclass Mod</strong></span></h2>\n<p><br>Embrace the power of your fallen foes with the Path of the Skull Collector, a highly customizable subclass for the Barbarian in Baldur's Gate 3. As a Skull Collector, you can gather and bind yourself to the skulls of mighty warriors, harnessing their strength, unique abilities, and spells. These bonds last until your next long rest and grant a variety of custom passives and powers tied to the fallen champions.<br><br>As you progress, you unlock the ability to bind with multiple skulls simultaneously, offering near-endless combinations of buffs, spells, and playstyles. By level 12, you can bind up to four skulls at once, making you adaptable to any challenge the game throws your way. This mod features over 150 custom/modified abilities, including 38 unique skulls and binding skills, 41 custom/modified passives, 13 custom summonable creatures, and a crafting path to produce the Skull Collector's own weapon of power.<br><br><span style=\"font-size:large;\"><strong>Collect Skulls from Fallen Opponents</strong></span><br>To begin your collection, you must first defeat your enemies and collect their skulls from their bodies. Once you have a skull and have a soul-binding charge from the Barbarian Skull Collector subclass, you can right-click on the collected skulls in your inventory and 'bind' with them to enhance your abilities.  You may bind with multiple skulls equal to your soul binding charges.  Charges will be further unlocked as you reach certain levels in the subclass.<br><br><span style=\"font-size:large;\"><strong>Discover Power Combos</strong></span><br>One of the most exciting aspects of the Path of the Skull Collector is the endless potential for customization and creative gameplay. With the ability to bind up to four skulls and access over 150 custom abilities, the potential for game-breaking combinations is huge—and we encourage you to find them! Whether it's through multiclassing, synergizing skull powers with unique gear, or discovering overpowered skill combos, the possibilities are yours to explore.<br><br><strong><span style=\"font-size:large;\">Multiclassing Madness</span></strong><br>Experiment with combinations across different classes to unlock powerful synergies. Can you find the most devastating skull-binding combination that turns you into an unstoppable force?<br><br><strong><span style=\"font-size:large;\">Item Synergies</span></strong><br>Mix and match items, spells, and passives to create a build that is uniquely your own, finding unexpected and fun ways to use the power of your bound skulls. We welcome players to push the boundaries, test out these combinations, and let us know what works (or what breaks!). Don’t hesitate to share your discoveries with the community—whether it’s a particularly fun or overpowered build!<br><br><strong><span style=\"font-size:large;\">Feedback and Bug Reports Encouraged</span></strong><br>This mod is a living project, and your feedback is crucial to its growth. If you encounter any bugs or issues, please report them! We also welcome any suggestions for balance tweaks, additional features, or ideas to enhance gameplay. Whether you’re a casual player or a dedicated min-maxer, your input helps shape the future of the mod.<br><br><strong><span style=\"font-size:large;\">Mod Compatibility</span></strong><br>I am currently not aware of any incompatibilities with other mods.  This mod does overwrite some of the root templates for various bosses/NPCs and may run into some issues in others that have done the same.<br><br><br><br><strong><u><span style=\"font-size:x-large;\">Author's Notes and Class Progression/Spoilers Ahead!!!</span><br></u></strong>The class breakdown and drop locations will be included below for those who are looking to plan ahead.<br><br><br><br><strong><u><span style=\"font-size:large;\">Author's Notes</span><br></u></strong>I am in the process of play testing a full run with the subclass to help balance test the class.  I am intending the class to have a bit of an edge (a heavy edge?) over the core barbarian subclasses. As mentioned above, please report anything you feel is over/under tuned. I am anticipating some imbalance through the first several iteration of Skull Collector as we iron out the finer details. Below is my stretch list of known issues and features I would eventually like to add.  <br><br><strong>List of Potential Future Features:</strong><br><strong><span style=\"font-size:small;\"><u>Primary Goals (within current skillset)</u></span></strong></p>\n<ul>\n<li>[Polish] Rework of Skull Collector Class Description/Initial selection screen to create a similar experience to core subclasses.</li>\n<li>[Polish] Add custom icons and visual models for skulls, crafting items, and weapons.</li>\n<li>[Content] Additional Skulls/Skillsets.</li>\n<li>[QOL] Add a custom bag to auto collect skulls in to reduce inventory clutter.</li>\n</ul>\n<p><br>Extended Goals (outside current skillset)</p>\n<ul>\n<li>[Polish] Create or upgrade visual FX for custom skills.</li>\n<li>[Compatibility] Remove the overwrite features on existing NPCs and create an Osiris-based drop system for mobs without existing TreasureTables.</li>\n<li>[QOL] Create custom containers (ie. Command having multiple spells) for each Skull to reduce hotbar clutter.</li>\n<li>[QOL] Filter Skull skillsets into Barbarian tab instead of General tab on the hotbar.</li>\n</ul>\n<p>*I have tried various methods to implement the QOL changes above, but none have succeeded. The research continues.<span style=\"font-family:Roboto, sans-serif;font-size:small;\"><br></span><br><strong><u><span style=\"font-size:x-large;\">Subclass Features &amp; Progression Path</span></u></strong><br><span style=\"font-family:Roboto, sans-serif;font-size:small;\">*Soul Collector has a spellcasting modifier based on Constitution.</span></p>\n<p>Subclass begins with 1 Soul Essence, 2 Infernal Ember, and 1 Spectral Flame. <br>Additional 1 Soul Essence, 2 Infernal Embers, and 1 Spectral Flame charges will be added at levels 5, 8, and 12. <br><br><strong><span style=\"font-size:medium;\">Level 3</span></strong><br>Soul Charge 1, Speak with the Dead, Collecting Skulls – Begin collecting your first skulls and connect with the spirits of the departed.</p>\n<p>Soul Reaver Passive: Restores 1 Infernal Ember on a killing blow.<br><br><strong><span style=\"font-size:medium;\">Level 4</span></strong><br>Soul Perception – Gain a +2 bonus to attack rolls, initiative, and perception, sharpening your battle instincts.<br><br><strong><span style=\"font-size:medium;\">Level 5</span></strong><br>Soul Charge 2 – Increase the number of skulls you can bind simultaneously, enhancing your flexibility in combat.<br><br><strong><span style=\"font-size:medium;\">Level 6</span></strong><br>Wound Closure – Auto-stabilize when downed, ensuring you rise again even in dire situations.<br><br><strong><span style=\"font-size:medium;\">Level 7</span></strong><br>Wraith's Retaliation – Gain an extra reaction to counterattack with a vengeful strike, fueled by the spirits you've collected.<br><strong><br></strong><strong><span style=\"font-size:medium;\">Level 8</span></strong><br>Soul Charge 3 – Further enhance your skull-binding potential, opening new strategic options in battle.<br><br><strong><span style=\"font-size:medium;\">Level 9</span></strong><br>Spirit of the Warrior – If you miss with a weapon attack, you gain an immediate second attack, ensuring you never back down in the heat of combat.<br><br><strong><span style=\"font-size:medium;\">Level 10</span></strong><br>Vengeful Shadows – Perform opportunity attacks when enemies move into your range, striking with deadly precision.<br><br><strong><span style=\"font-size:medium;\">Level 11</span></strong><br>Spectral Fury – Whenever an enemy targets you with an attack, gain 2 wrath, allowing you to harness the fury of your foes.<br><br><strong><span style=\"font-size:medium;\">Level 12</span></strong><br>Soul Charge 4 – Maximize your power by binding up to four skulls, granting you unprecedented flexibility and dominance in battle.<br><br><br><strong><u><span style=\"font-size:x-large;\">List of Boss Drops [UUIDs] - [GUID]<br></span></u></strong><br><strong><span style=\"font-size:large;\">Act 1 </span></strong><br><u><span style=\"font-size:medium;\">Tutorial<br></span></u>Tutorial Chest - Castaway [SkullCollector_WilsonSkull] [1367de0a-4210-4d10-a3dd-9d95ebf681d9]<br>      *<em>Non-combat companion</em><br>Tutorial Chest - Glowing Skull [SkullCollector_TutorialSkull] [72ac6a57-1445-4b9d-bc57-8be7389763ab]<br>      *<em>One time use for Zhalk Fight</em><br>Zhalk - [SkullCollector_ZhalkSkull] [6c49804a-746e-43ac-bfac-0d323359e70a]</p>\n<p><span style=\"text-decoration:underline;\">Chapel<br></span>Haseid - Clergy [SkullCollector_HaseidSkull1] [c20e9525-e762-48c9-9515-3b3d5748ba37]<br>Haseid - Monk [SkullCollector_HaseidSkull2] [e97c9313-636f-4f40-9faf-e30198ba92af]<span style=\"text-decoration:underline;\"><br><br>Raid on Emerald Grove</span><br>Za'krug - [SkullCollector_ZakrugSkull] [39673c84-504f-42ca-8983-2b1a9b58c927]<br><span style=\"text-decoration:underline;\"><br></span><u>Forest</u><br>Owlbear - [SkullCollector_OwlbearSkull] - [29955323-d491-4d15-8195-29f177d87c34]<br>Phase Spider Queen - [SkullCollector_PhaseSpiderSkull] - [13ab6a7b-8f98-4644-846b-790e221beb56]<br>Various Ogres (Lump's companions, Buthir, et al) - [SkullCollector_OgreSkull] - [de7d0e80-5bcc-49e4-91da-7705b35679f2]<br><br><u>Goblin Camp</u><br>Dror Ragzlin - [SkullCollector_DrorRagzlinSkull] - [0c7a4d88-5bf2-4514-91cd-854a75ef1bd5]<br>Priestess *** - [SkullCollector_PriestessGutSkull] - [cf368f06-1dad-49b3-9d32-a9ee94b9c560]<br>Goblin Beastmaster - [SkullCollector_BeastmasterSkull] - [5fff3f2b-2b94-406b-a808-c673e59b217a]<br><br><u>Plains</u><br>Flind - [SkullCollector_FlindSkull] - [56de56be-b0cf-4d6c-8ade-d37d742f5d70]<br>Anders - [SkullCollector_AndersSkull] - [2c68b473-7ce7-42fb-8838-314d7364c9aa]<br><br><u>Underdark<br></u>Bulette - [SkullCollector_BuletteSkull] - [162d3621-f954-46cf-9eb3-1ebe983cd531]<br>Grym - [SkullCollector_GrymSkull] - [2862c3d8-02f8-44b0-897d-b295709c2346]<br>Bernard - [SkullCollector_BernardSkull] - [f7282892-f4a7-4eb6-b1a9-4a5c6ba8ad92]<br><br><u>Creche</u><br>Varsh Ko'kuu (Hatchery) - [SkullCollector_SarthSkull] - [62d8d2bd-575e-423e-a413-05744d3d4992]<br>Ch'r'ai W'wargaz - [SkullCollector_ChraiSkull] - [0c4ef9c2-a5b5-4c85-9ca2-8b4df7521891]<br><br><br><strong><span style=\"font-size:large;\">Act 2 </span></strong><br><u>Overworld</u><br>Kar'niss - [SkullCollector_Karniss] - [b3316db5-49f4-4108-8804-234172bce7fa]<br>Thisobald Thorm - [SkullCollector_ThisobaldSkull] - [f0c5d019-7105-4e2f-9761-2826c31735bc]<br>Gerringothe Thorm - [SkullCollector_GerringotheSkull] [<em>See Nexus Page-Mod.io is censoring this UUID</em>]<br>Malus Thorm - [SkullCollector_MalusSkull] - [e49e36ed-b18b-4c34-9a84-15f3120db3e0]<br>Marcus - [SkullCollector_MarcusSkull] - [3e64b403-5e9f-45b7-8d63-cce59ea7229c]<br>Shambling Mound - [SkullCollector_ShamblingMoundSkull] - [7d7bf038-1390-4640-a76b-aac4826ae2c3]<br>Ch'r'ai Tska'an - [SkullCollector_TskaanSkull] - [d6ed4981-2d0d-4a2b-875f-d819780e2cfa]<br><br><span style=\"text-decoration:underline;\">Gauntlet of Shar</span><br>Balthazar - [SkullCollector_BalthazarSkull] - [1a7c589a-10cd-4f15-b988-c4967112f1fd]<br>Yurgir - [SkullCollector_YurgirSkull] - [5b2a76ff-6533-4ee0-8f53-b2d188c8398d]<br><br><span style=\"text-decoration:underline;\">Moonrise</span><br>Z'rell - [SkullCollector_ZrellSkull] - [804e8e24-ef27-4926-8de7-a64606b8119b]<br>Ketheric Thorm - [SkullCollector_KethericSkull] - [777ccbde-7e19-4b0a-9622-3aa38ceed282]<br><br><br><strong><span style=\"font-size:large;\">Act 3 </span></strong><br><span style=\"text-decoration:underline;\">Vendor</span><br>Sold by Elfsong Tavern Barkeep - [SkullCollector_IceSkull] - [0ccecb2d-bd71-4fe8-879a-be5be2396c49]<br>Sold by trader in The Guild - [SkullCollector_KeeneSkull] - [1f68e570-cdf2-44c5-86ea-da985332bbc0]<br><br><span style=\"text-decoration:underline;\">Lower City</span><br>Aelis Siryasius - [SkullCollector_AelisSkull] - [1d9a4cde-7b11-4b78-8ccb-d35851ffdbaa]<br>Har'rak - [SkullCollector_HarrakSkull] - [14b4e32c-b635-447a-aa77-f1a3fa4d6c38]<br>Lorroakan - [SkullCollector_LorroakanSkull] - [9201ce60-3e57-4168-b21f-e89dda1b1aa8]<br><br><span style=\"text-decoration:underline;\">Steel Watch Foundry</span><br>Steel Watcher Titan - [SkullCollector_WatcherSkull] - [b717a577-596a-4ab5-bcb6-318803b3af68]<br><br><span style=\"text-decoration:underline;\">Wyrm Rock Fortress</span><br>Ansur - [SkullCollector_AnsurSkull] - [cf39417a-5708-4af7-83c1-76598dd8a267]<br>Gortash - [SkullCollector_GortashSkull] - [6fa2bc5e-0980-4675-adc7-db7ece10a5d8]<br><br><span style=\"text-decoration:underline;\">House of Hope</span><br>Raphael - [SkullCollector_RaphaelSkull] - [d3654e23-84f2-4746-a554-9fd7260fbc5f]<br><br><span style=\"text-decoration:underline;\">Murder Tribunal/Bhaal Temple</span><br>Sarevok - [SkullCollector_SarevokSkull] - [d082c25b-9a81-4680-89f9-b8aeef08cbbf]<br>Orin - [SkullCollector_OrinSkull] - [f37922bf-96fa-4009-bde2-721f303972e3]<br><br><span style=\"text-decoration:underline;\">Origin</span><br>Viconia - [SkullCollector_ViconiaSkull] - [f59ca57f-f20b-40d1-99eb-f5ad15c103ae]<br>Cazador - [SkullCollector_CazadorSkull] - [3ea28338-2c0f-4a24-92e2-da5eecf6d1b3]<br><br><br><strong>Crafting Materials/Weapons</strong><br><br><span style=\"text-decoration:underline;\"><strong>Skullbringer Crafting Tree</strong></span><br><br><span style=\"text-decoration:underline;\">Tier 0</span><br>Unnamed Axe = Sturdy Leg Bone [Bulette, use as base/top option] + Dimly Flickering Skull [Beastmaster, not Binding Skull] + Rusty Bronze Ingot [Anders]</p>\n<p><br><span style=\"text-decoration:underline;\">Tier 1</span><br>Wraithslayer = Unnamed Axe + Grym Metal/Malus Essence<br>*Different weapon variants depending on which is applied first.<br><br><span style=\"text-decoration:underline;\">Tier 2</span><br>Soulreaver (Base) = Wraithslayer + Ketheric Essence<br>Soulreaver (Upgraded)= Soulreaver + Orin or Gortash Essence<br>*Different weapon variants depending on which is applied first.<br><br><span style=\"text-decoration:underline;\">Tier 3</span><br>Skullbringer = Soulreaver + Orin or Gortash (Pending what is applied first)<br><br><br><span style=\"text-decoration:underline;\">Act 1</span><br>Anders - Rusty Bronze Ingot [SC_SkullBringerBlade_Combine] - [c6e951ff-29b7-4557-8fb6-05b638ed848a]<br>Beastmaster - Dimly Flickering Skull [SC_SkullBringerSkull_Combine] - [d6389c2d-11b9-4ca5-8472-94060da10654]<br>Bulette - Sturdy Leg Bone [SC_SkullBringerHandle_Combine] - [304dcb46-827a-4e8b-af1a-8544d09603b2]<br>Grym - Adamantine Ingot [SC_SkullBringer_Combine_Grym] - [37509a5c-5a3f-4d6e-8369-fed448377804]<br><br><span style=\"text-decoration:underline;\">Act 2</span><br>Malus Thorm - Essence of Malus [SC_SkullBringer_Combine_Malus] - [8482ada1-19ee-4c4e-8b16-2c73ad260980]<br>Ketheric Thorm - Essence of Ketheric [SC_SkullBringer_Combine_Ketheric] - [3f730ea3-7245-4c47-bc6f-9b72422cc0bf]<br><br><span style=\"text-decoration:underline;\">Act 3</span><br>Orin - Essence of Orin [SC_SkullBringer_Combine_Orin] - [e73e3656-bc44-40f1-84e6-e3c19aba8965]<br>Gortash - Essence of Gortash [SC_SkullBringer_Combine_Gortash] - [423a566e-6b4b-41d8-b920-78021f0bf74a]<br><br><span style=\"text-decoration:underline;\">Skullbringer UUIDs [Root Template ID]</span><br>SC_TheUnnamedAxe - [SC_WPN_SkullBringer_0] - [217481e7-7497-4c07-8f65-8b93125b7892]<br>SC_WraithslayerA - [SC_WPN_SkullBringer_1A] - [910d54aa-2771-4d13-a4b9-776f79e7d5bd]<br>SC_WraithslayerB - [SC_WPN_SkullBringer_1B] - [8ce707fe-f3d6-4820-abdd-404135b8ae3d]<br>SC_WraithslayerC - [SC_WPN_SkullBringer_1C] - [06313c76-5d4d-4699-b433-119259c4f795]<br>SC_SoulreaverA - [SC_WPN_SkullBringer_2A] - [ee578a4f-4872-4267-8abb-b2374d630999]<br>SC_SoulreaverB - [SC_WPN_SkullBringer_2B] - [fca9f53a-eb1d-4802-a4d7-8a4e1b89278c]<br>SC_SoulreaverC - [SC_WPN_SkullBringer_2C] - [f795bc0f-d429-4818-af01-987afea2aa42]<br>SC_SkullBringer - [SC_WPN_SkullBringer_3] - [855198bb-b05f-4452-a0c2-a632ee7b1d17]</p>",
     "date_added": 1729550817,
-    "date_updated": 1766881944,
+    "date_updated": 1769522730,
     "date_live": 1729808188,
     "visible": 1,
     "status": 1,
@@ -60458,15 +60458,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -60516,19 +60516,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7196089
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6404113
+        "modfile_live": 7196089
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6404113
+        "modfile_live": 7196089
       },
       {
         "platform": "ps5",
-        "modfile_live": 6404113
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7196089
       }
     ]
@@ -61563,7 +61563,7 @@
     "summary": "Adds 30 new items curated for Ranger, 10 items per Act. Includes 3 new ranger companions bound by items.",
     "description": "<p>Sharpen your arrows and strengthen your bond with nature's creatures with Beast and Bow: Ranger Equipment. This comprehensive mod is tailor-made for Rangers, offering a curated collection of gear designed to elevate your mastery of both bow and beast. Whether you prefer to strike from afar with pinpoint accuracy or fight alongside your loyal animal companion, Beast and Bow provides the tools to excel in any situation. This mod is designed to seamlessly integrate with the game's existing mechanics, ensuring a balanced and rewarding experience for all players. Help refine the hunt! Share your feedback and suggestions to ensure Beast and Bow reaches its full potential, empowering Rangers everywhere to become true guardians of the wild.</p>\n<p>- Each Act adds 10 items curated for Ranger<br>- 3 New beast companions that grow with your Ranger level - <a href=\"https://www.nexusmods.com/baldursgate3/articles/972\">See Articles on Nexus</a><br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/12016\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/LbifDUV\">Act 1</a>, <a href=\"https://imgur.com/a/D0At1QD\">Act 2</a>, <a href=\"https://imgur.com/LbifDUV\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1729624492,
-    "date_updated": 1768568644,
+    "date_updated": 1769522612,
     "date_live": 1730475897,
     "visible": 1,
     "status": 1,
@@ -61593,15 +61593,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -61661,19 +61661,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7276455
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6862728
+        "modfile_live": 7276455
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6862728
+        "modfile_live": 7276455
       },
       {
         "platform": "ps5",
-        "modfile_live": 6862728
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7276455
       }
     ]
@@ -61922,7 +61922,7 @@
     "summary": "Take your oath, don your gear, smite smite smite! The life of a Paladin. Might as well do it in a suit of armor fit for the Big d*mn Hero that you are! SCALES with your level, multiple pieces for mixing and matching, fully dyeable, all bodies!",
     "description": "<center>\n<h2>Big d*mn Heroes, Sir</h2>\n</center>\n<p> </p>\n<p style=\"text-align:center;\">A set for your Paladin of any race and body type.</p>\n<center>\n<h4>All pieces scale with level, fully explained in each piece's description.</h4>\n</center>\n<p style=\"text-align:center;\">Make sure you un-equip and re-equip at the appropriate levels!</p>\n<blockquote>\n<h2>UPDATE</h2>\n</blockquote>\n<ul>\n<li>Completely updated for patch 8! No more random nudity</li>\n<li>Added the starting armours for all 4 Oaths</li>\n<li>The \"skimpy\" infernal armour is now available for all bodies</li>\n<li>Swapped out the endgame trousers on bodies where there was a big gap, so that'll be a little different.</li>\n<li>Changed the stats on the boots (see pics)</li>\n</ul>\n<p> </p>\n<blockquote>\n<h2>Set includes</h2>\n</blockquote>\n<ul>\n<li>16 armours</li>\n<li>9 boots</li>\n<li>9 gloves</li>\n<li>6 cloaks</li>\n<li>7 hats</li>\n</ul>\n<p>Be prepared to smite in style! Available in the tutorial chest, from Dammon in Act 1, the Moonrise Bugbear in Act 2, and Popper in Act 3.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/P5P217AKKL\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi4.png?v=6\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"30\"></a></p>",
     "date_added": 1729720383,
-    "date_updated": 1766719637,
+    "date_updated": 1769522696,
     "date_live": 1729723541,
     "visible": 1,
     "status": 1,
@@ -61952,15 +61952,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -62070,19 +62070,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7187570
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5881144
+        "modfile_live": 7187570
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5881144
+        "modfile_live": 7187570
       },
       {
         "platform": "ps5",
-        "modfile_live": 5881144
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7187570
       }
     ]
@@ -83302,7 +83302,7 @@
     "summary": "Brings a Frost Domain Cleric Subclass to Baldur's Gate 3, complete with its own arsenal of thematic subclass features, visual effects, and Channel Divinity abilities to allow you to freeze and destroy your enemies.",
     "description": "<h2><a href=\"https://mod.io/g/baldursgate3/m/icebard#description\">College of Winter's Wail</a> is now LIVE!</h2>\n<p> </p>\n<h2><strong><span style=\"font-size:xx-large;\">UPDATE 2.0.0.38 - Level 20 Support!</span></strong></h2>\n<ul>\n<li>New subclass feature, reworked VFX, etc. Details below :)</li>\n<li>Note:  A level 20 mod is required to level past level 12 such as <a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve#description\">Unlock Level Curve</a></li>\n</ul>\n<p>Huge thank you to <a href=\"https://www.tumblr.com/baelthi-vp?source=share\">Baelthi</a>, Lemon cake, and satanfish for taking the time to capture the incredible photos here!!!</p>\n<hr>\n<h2><strong>Proficiencies</strong></h2>\n<ul>\n<li>Martial Weapons</li>\n<li>Heavy Armor</li>\n</ul>\n<h2>Domain Spells</h2>\n<ol>\n<li>Armour of Agathys, Ice Knife</li>\n<li>Misty Step, Chilling Gust</li>\n<li>Sleet Storm, Slow</li>\n<li>Fire Shield: Chill, Ice Storm</li>\n<li>Cone of Cold, Hold Monster</li>\n</ol>\n<h2>Subclass Features</h2>\n<h3>Level 1 Subclass Features</h3>\n<h4>Winter's Embrace</h4>\n<p>You learn two cold cantrips of your choice.  These count as Cleric cantrips for you and do not count against the number of cantrips you can learn.  In addition, at level 11 Otiluke's Freezing Sphere and  Wall of Ice are added to your list of available spells.</p>\n<h4>Glacial Ward</h4>\n<p>When an enemy attacks you or an ally within 9m you can use your reaction to summon a divine-empowered barrier of freezing energy.  The ward absorbs incoming damage up to Level + Wisdom Modifier and then immediately dissipates.</p>\n<h3>Level 2</h3>\n<h4>Channel Divinity: Freezing Smite</h4>\n<p>Channel your divine power to unleash a chilling strike.  Targets must succeed a Constitution Saving Throw or be instantly Frozen in place.  Uses your Wisdom Modifier for attack rolls.</p>\n<h3>Level 6 Subclass Feature</h3>\n<h4>Heart of the Everfrost</h4>\n<p>Your mastery of the cold grants you enhanced abilities. Your cold spells and abilities overcome Resistance to cold damage, and you cannot fall Prone while traversing icy terrain.</p>\n<h4>Channel Divinity: Arctic Tempest</h4>\n<p>With a surge of divine power you unleash a blinding storm of snow and ice, Chilling enemies and hindering their movement. Deals 3d8 + Wisdom Modifier Cold damage per turn.</p>\n<h3>Level 8 Subclass Feature</h3>\n<h4>Blessed Strikes</h4>\n<p>You can select one of the following:</p>\n<ul>\n<li>Divine Strike: Cold</li>\n<li>Potent Spellcasting</li>\n</ul>\n<h3>Level 17 Subclass Feature</h3>\n<h4>Wrath of the Glaciers</h4>\n<p>Channel the inexorable force of the glaciers into your magic: when you cast a Frost Domain cold spell, you may expend <strong>Glacial Fragments</strong> equal to the spell's level to empower it.  Empowered spells always deal full damage regardless of saving throws.</p>\n<p><strong>Glacial Fragments - </strong>Shards of divine ice crystalize within you, fueling your most devastating magic. You have a number of Glacial Fragments equal to your Wisdom modifier per short rest.</p>\n<hr>\n<p><span style=\"font-size:x-large;\"><strong><span style=\"font-family:Verdana;\">Credits and Thanks</span></strong><br></span><span style=\"font-size:large;\"><strong>I can’t thank everyone enough who helped me with everything from icons to capturing incredible photos for me to share to helping me solve issues with various features!! </strong><br></span><br><span style=\"font-size:large;\"><strong>In-Game Photos</strong></span><br>Thank you to everyone from the <a href=\"https://discord.gg/gumE6CUVnc\">Faerun Fashionistas</a> Discord who captured the ABSOLUTELY STUNNING photos you see above:<br><br><strong><a href=\"https://www.tumblr.com/baelthi-vp?source=share\">Baelthi</a> - Photos with BT4 Tiefling Male</strong></p>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/3483\">Extra Gear</a> by pooteeweet</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/frostpaladin#description\">Oath of the Frozen Wilds</a> by GIGeorge</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/8681\">Kylin's Horns</a> by Kylin3</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2067\">Trip's Accessory Collection</a> by Trips</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Astralities' Hair Color Supplement</a> by Astralities</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/12868\">Crazy Color Pack</a></li>\n</ul>\n<p><strong><br>satanfish </strong>-<strong> Photos with female Elf/Half-Elf</strong></p>\n<ul>\n<li><a href=\"https://www.patreon.com/posts/pk-salon-wip-139355462\">PK's Hair Salon</a> by PseudoKociara</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/7812\">Baldurian Beauty</a> by Sithembile</li>\n<li><a href=\"https://www.patreon.com/posts/sindel-female-1-138315616\">Sindel</a> and <a href=\"https://www.nexusmods.com/baldursgate3/mods/15393\">Extra Shields</a> by Badwitch69</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/17679\">Myky's Accessories</a> by Myky24</li>\n<li><a href=\"https://www.patreon.com/posts/update-gear-mod-138312783\">Etheirys Armoury</a> by Luminiari</li>\n</ul>\n<p><strong><br>Lemon cake</strong> - <strong>Photos with BT2 female Tiefling:</strong></p>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\">Hijimare Hairs</a> by Hijimare</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/1226\">Horns of Thedas</a> by Ereshes</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/205\">New CC Presets</a> by Toarie</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/8534\">Sublime Skin Tones</a> &amp; <a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Hair Colour Mixer</a> by Astralities</li>\n<li><a href=\"https://www.patreon.com/posts/dragon-dress-112305215\">Dragon Dress</a> by Tepkunset</li>\n<li><a href=\"https://www.patreon.com/posts/royal-knight-set-112663684\">Royal Knight Set</a> &amp; Piercings/Earrings by Badwitch69</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/87\">Basket Full of Equipment</a> by AnteMaxx</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/226\">Selune Staff</a> by Toarie</li>\n</ul>\n<p><br><span style=\"font-size:large;\"><strong>Icons and Inspiration</strong><br></span>Huge thanks to <a href=\"https://next.nexusmods.com/profile/TheCeruleanWitch\">TheCeruleanWitch</a> for the awesome subclass icon!<br><br>Also thank you to everyone's homebrew materials and mods that inspired me, especially <a href=\"https://www.reddit.com/r/DnDHomebrew/comments/u8m2t7/champions_of_the_frozen_north_a_compendium_on_the/\">Champions of the Frozen North.</a></p>\n<h2>Subclass Design</h2>\n<p>Huge thanks to <a href=\"https://mod.io/g/baldursgate3/u/xiphiasrex\">XiphiasRex</a> for helping me understand and fix the animation issues.</p>",
     "date_added": 1738047056,
-    "date_updated": 1766780412,
+    "date_updated": 1769522713,
     "date_live": 1738073789,
     "visible": 1,
     "status": 1,
@@ -83332,15 +83332,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -83395,19 +83395,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7190230
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6819101
+        "modfile_live": 7190230
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6819101
+        "modfile_live": 7190230
       },
       {
         "platform": "ps5",
-        "modfile_live": 6819101
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7190230
       }
     ]
@@ -89111,7 +89111,7 @@
     "summary": "Followers of the Spider Queen, rejoice! A set designed especially for Death Clerics of Lolth that includes 3 robes, 3 gloves, 3 hats, shoes, a cloak, 2 rings, an amulet, a mace, and 2 shields. Fully dye-able, fits all bodies, stats scale with level!",
     "description": "<h2><span style=\"color:#efefef;\"><strong>Agh! A spider!</strong></span><strong><br><span style=\"font-size:large;\">- Me when I see a spider</span></strong></h2>\n<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\">Spider Queen Gear - a mod created for Clerics of Lolth! Commissioned and shared with all of you.</div>\n<p> </p>\n<div style=\"text-align:center;\"><span style=\"color:#00ffff;\"><span style=\"font-size:large;\"><strong>All pieces scale with level as explained in each piece's description.</strong></span></span><br><br>All skills will show from level 1, but they won’t work until the appropriate level. Make sure to un-equip and re-equip to activate the bonuses!</div>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Things to keep in mind...</strong></span></blockquote>\n<ul>\n<li>The chest stats are for <strong>Death Clerics</strong> but of course anyone can wear them.</li>\n<li>The jewelry and shields can ONLY be equipped by worshipers of Lolth. Not just Lolth-sworn Drow; she has to be your deity.</li>\n<li>Only body type 1 has three different robes; everyone else gets the same robe 3 times.</li>\n<li>The crown and hood are only available for body types 1 and 2.</li>\n<li>The fancy boots are only available for body type 1; everyone else has lace-up boots.</li>\n<li>The cuffed gloves are only available for body type 1; everyone else gets 2 pairs of the same gloves.</li>\n<li>I've added a modesty patch under the skirt to cover your bits and pieces, however...</li>\n<li>If that's not enough coverage, I've included a chest of undies and matching trousers. No stats, just underwear.</li>\n<li>If you choose to wear the trousers, they will clip through your camp clothes. Several mods include modular \"just shirt\" options, including my own <a href=\"https://www.nexusmods.com/baldursgate3/mods/14081\">Magic and Might Mage Gear</a>.</li>\n<li>Un-equip and re-equip at the appropriate levels to ensure all bonuses are working correctly.</li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Set includes...</strong></span></blockquote>\n<ul>\n<li>3 Robes</li>\n<li>3 Hats</li>\n<li>2 Gloves</li>\n<li>1 pair of boots</li>\n<li>1 Cloak</li>\n<li>2 Rings</li>\n<li>1 Amulet</li>\n<li>1 Mace</li>\n<li>2 Shields</li>\n</ul>\n<p><br><br><br>Fully dyable, and made to fit all body types...for the most part.<br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~<br><br><br>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper and Helsik (The Devil's Fee) in act 3. If you’ve already visited one (or more) of these merchants before you install the mod, it won’t show up in their inventory until after a long rest or two. Or three.<br><br><br>You shouldn't have any issue loading this mod mid-game, but never try to UNload clothing/equipment mods if they're already in your and/or a merchant's inventory.<br><br><span style=\"font-size:large;\"><strong>Special shout-out to the bg3 Modders CMTY and also mod.io user flowergarden for the jewelry inspo with her cool ass <a href=\"https://mod.io/g/baldursgate3/m/rings-of-lolth\">Rings of Lolth</a> mod.</strong></span><br><br><br><a href=\"https://ko-fi.com/copperleaves\"><img src=\"https://i.imgur.com/XRa3ZXF.png\" alt=\"XRa3ZXF.png\"></a><br><br><br>Check out my other gear mods for Barbarian, Bard, Cleric, Druid, Fighter, Mage, Paladin, and Rogue!<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13571\">Neil's Bangin' Bard Gear VOLUME 2</a> (recommended)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\">Neil's Bangin' Bard Gear VOLUME 1</a> (outdated)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\">Rage Queen Barbarian Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14875\">Instruments of Darkness - Dark Cleric Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13774\">The Inconstant Moon - Shar and Selune Cleric Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/15154\">Leaves of Grass - Druid Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14165\">Grim Visag'd War - Fighter Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14081\">Magic and Might - Mage Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13219\">Big...Darn Heroes Paladin Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13435\">Dastardly Accoutrements - Rogue Gear</a></p>",
     "date_added": 1742374704,
-    "date_updated": 1766964282,
+    "date_updated": 1769522826,
     "date_live": 1742445357,
     "visible": 1,
     "status": 1,
@@ -89141,15 +89141,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -89254,19 +89254,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7200401
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6526559
+        "modfile_live": 7200401
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6526559
+        "modfile_live": 7200401
       },
       {
         "platform": "ps5",
-        "modfile_live": 6526559
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7200401
       }
     ]
@@ -98187,7 +98187,7 @@
     "summary": "Add monk and patch 8 subclass spell animations to base player body types",
     "description": "<h2>Note this is for other modders to use additional animations in their mods</h2>\n<h4>Background</h4>\n<p>The monk class and many of the patch 8 sub-classes use animations that are unmapped in the base player body types.  The game uses Dynamic Animation Tags (DAT) to add animation sets for particular classes.  You can create a passive/status to apply the DAT, but in my testing that does not work for spells only base animations.  In patch 7 you could kinda get things working using a NPC monk DAT, but I don't think that worked for all body types.  With patch 8 there was a whole batch of new animations, so the issue only grew.</p>\n<h4>My Approach</h4>\n<p>I added the missing animations to the fewest base animation sets I could that would provide fallback animations for all base game player body types.  Where possible I avoided overriding already mapped animations, but there were some cases that the base animation sets appeared to have incorrect mappings that likely never caused issues due to the DAT overriding it.</p>\n<h4>What this means</h4>\n<p>If you include this mod as a dependency, it should allow use of all monk/patch 8 subclass ability animations for any base game player body type without needing a custom DAT or having levels in the specific class.  I tried to touch as few animation sets as possible, but it is still an override.  If other mods override the same animation sets, it will conflict.</p>\n<h4>How you can help</h4>\n<p>There were a few thousand animations added across body types and equipment set, and while I tested many many things, I could have missed something.  If you see an animation not playing or playing incorrectly, let me know so I can fix it.</p>\n<p> </p>\n<h3>Additional animations</h3>\n<ul>\n<li>\n<h4>Vampire Bite</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Cancel</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Dash</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Vampire unarmed swipe attack</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_Claw_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Dash</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Cancel</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Gale God Spells</h4>\n<ul>\n<li>\n<p><code>SPL_GOD_01_Prepare</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_01_Loop</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_01_Cancel</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Evaporate_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Evaporate_01_Recover</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Tressymize_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Tressymize_01_Recover</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_PartyTime_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_PartyTime_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Deathbringer Assault (Orin and Sarevok)</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_Orin_DeathbringerAssault_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Orin_DeathbringerAssault_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Orin_DeathbringerAssault_01_Recover</code></p>\n</li>\n<li>Note there is only 1 shortname for both Orin and Sarevok's versions</li>\n<li>The animation that plays is based on equipped weapons, basically dual wielding will use Orin's version, <em>everything</em> else will use Sarevok's</li>\n<li>Orin's animation has 7 cast events in it and Sarevok's has 4</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>\n<h4>Githyanki Specific Animations</h4>\n<ul>\n<li>\n<p><code>SPL_Psionic_Buff_01_Prepare</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_AstralKnowledge_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_AstralKnowledge_01_Recover</code></p>\n</li>\n<li>\n<p><code>SPL_Psionic_Buff_01_Loop</code></p>\n</li>\n<li>\n<p><code>SPL_Psionic_Buff_01_Cancel</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_FormOfDread_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_FormOfDread_01_Recover</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Recover</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Dash</code></p>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<h3>Updates</h3>\n<p>4/28/25 - v1.0.0.2: Added mappings for Boot of the Giants and Elemental Cleaver<br>5/19/25 - v1.0.1.0: Correcting mappings for swashbuckler animations for various weapon sets<br>5/25/25 - v1.0.1.1: Added fall-backs for animation subsets<br>5/31/25 - v1.0.2.0: Added more subset fall-backs and vampire animations<br>6/4/25 - v1.0.3.0: Matching standard smite animations to paladin set<br>10/26/25 - v1.0.4.1: Added Gale God and Deathbringer Assault animations<br>12/11/25 - v1.0.5.2: Added Githyanki Astral Knowledge animations<br>12/15/25 - v1.0.5.3: Added Githyanki Mindsteal Tempest and Form of Dread animations<br>12/20/25 - v1.0.5.4: Added pole arm sneak attack animations for dancing breeze</p>",
     "date_added": 1745466162,
-    "date_updated": 1766269770,
+    "date_updated": 1769522638,
     "date_live": 1745467345,
     "visible": 1,
     "status": 1,
@@ -98217,15 +98217,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -98305,19 +98305,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7164537
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6881679
+        "modfile_live": 7164537
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6881679
+        "modfile_live": 7164537
       },
       {
         "platform": "ps5",
-        "modfile_live": 6881679
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7164537
       }
     ]
@@ -101586,7 +101586,7 @@
     "summary": "Fixes the healing/bleeding contradiction in Blood Sorcery. New Anticoagulant Blood passive automatically reapplies Bleeding when it ends while in combat.",
     "description": "<p>This patch is built with deep respect and admiration for the brilliant <strong><a href=\"https://mod.io/g/baldursgate3/m/blood-sorcery-a-sorcerer-subclass\" target=\"_blank\" rel=\"noopener noreferrer\">Blood Sorcery</a></strong> subclass created by <strong><a href=\"https://mod.io/g/baldursgate3/u/sturm1212\" target=\"_blank\" rel=\"noopener noreferrer\">Sturm</a></strong>.<br>This synergy fix <strong>humbly</strong> aims to enhance that experience, preserving its core vision while smoothing out a mechanical contradiction to unlock even more strategic potential for Blood Sorcerers.<br><br>If you wish to use <strong><a href=\"https://mod.io/g/baldursgate3/m/blood-sorcery-a-sorcerer-subclass\" target=\"_blank\" rel=\"noopener noreferrer\">Blood Sorcery</a></strong> spells with a Necromancy Wizard, checkout my other mod <a href=\"https://mod.io/g/baldursgate3/m/anticoagulantbloodnecromancywizard\" target=\"_blank\" rel=\"noopener noreferrer\">Anticoagulant Blood for Necromancy Wizard</a><br><br><strong>Blood Sorcery</strong> encourages a high-risk, high-reward playstyle by fuelling your magic with your own life force. Many of your spells may cost HP, and to stay alive, you’re incentivized to heal mid-combat using spells or items like <a href=\"https://bg3.wiki/wiki/Woe\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Woe</strong></a> and <strong><a href=\"https://bg3.wiki/wiki/Ring_of_Regeneration\" target=\"_blank\" rel=\"noopener noreferrer\">Ring of Regeneration</a></strong>. At Level 6, you gain <strong>Blood Vitality</strong>, which heals you when standing on blood surfaces, further encouraging healing during combat.<br>However, a core class mechanic revolves around having the <strong>Bleeding</strong> status effect, as many <strong>Blood Sorcery</strong> features and spells provide <strong>Advantage</strong> or bonus effects when you're <strong>Bleeding</strong>. Unfortunately, healing automatically removes Bleeding, creating a gameplay contradiction: healing to survive cancels the very condition that empowers your abilities.<br>This often forces you to reapply Bleeding manually using abilities like <strong>Blood Sacrifice</strong>, typically costing a bonus action every turn, which competes with other critical class tools like <strong>Quickened Spell</strong>.</p>\n<p>This mod fixes that synergy issue by introducing a new Level 1 Passive:</p>\n<p><strong>Anticoagulant Blood</strong><br><em>During combat, when Bleeding ends, it is immediately reapplied.</em><br><br></p>\n<p>With <strong>Anticoagulant Blood</strong> active, you can heal freely without breaking your momentum:</p>\n<ul>\n<li><strong>During combat</strong>, when <strong>Bleeding</strong> ends for any reason, it is immediately reapplied.</li>\n</ul>\n<p> </p>\n<p>Like the mod? <a href=\"https://www.buymeacoffee.com/valarvictrix\" target=\"_blank\" rel=\"noopener noreferrer\">Buy me a coffee</a></p>\n<p><img src=\"https://image.modcdn.io/members/9345/43759790/profile/qr-code.png\" alt=\"Buy me a coffee QR code\" width=\"200\" height=\"200\"></p>\n<p> </p>",
     "date_added": 1746503805,
-    "date_updated": 1766468671,
+    "date_updated": 1769522675,
     "date_live": 1746506875,
     "visible": 1,
     "status": 1,
@@ -101616,15 +101616,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -101664,19 +101664,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7175585
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6359710
+        "modfile_live": 7175585
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6359710
+        "modfile_live": 7175585
       },
       {
         "platform": "ps5",
-        "modfile_live": 6359710
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7175585
       }
     ]
@@ -122107,7 +122107,7 @@
     "summary": "Axianaa, Alida, Alyona, Aufelle, Bambi, Berry, Cay, Daniela, Echo, Em, HastursQueen, Giggle Goblin, LittleHouseofImagination, LillaTroll, MaryMeeee, Meep Megan Meep, Munchy, Nuage, Rakor, Sol, StargazingVolcano, Thysbe, Volitio",
     "description": "<h2><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:xx-large;\">Adds 660 poses and 47 expressions to photo mode. A collab by the posers of the <a href=\"https://discord.gg/fashionistas\">Faerûn Fashionistas Discord Server</a>.<br></span><br><span style=\"font-size:medium;\">The FF Mega Pose Pack is a collab by: <a href=\"https://next.nexusmods.com/profile/axianaa?gameId=3474\">Axianaa</a> · <a href=\"https://www.nexusmods.com/users/5890289\">Alida</a> · Alyona · <a href=\"https://www.nexusmods.com/baldursgate3/users/198440987\">Aufelle</a> · <a href=\"https://next.nexusmods.com/profile/bambi009?gameId=3474\">Bambi</a> · <a href=\"https://next.nexusmods.com/profile/BerrySemifreddo?gameId=3474\">Berry</a> · <a href=\"https://www.nexusmods.com/profile/fateseekercay\">Cay</a> · Daniela · <a href=\"https://next.nexusmods.com/profile/ECH020?gameId=3474\">Echo</a> · <a href=\"https://next.nexusmods.com/profile/emsthings?gameId=3474\">Em</a> · Goblin · <a href=\"https://next.nexusmods.com/profile/HastursQueen?gameId=3474\">Hasturs Queen</a> · <a href=\"https://next.nexusmods.com/profile/littlehouseofimagination?gameId=3474\">House</a> · Lilla · <a href=\"https://next.nexusmods.com/profile/Marymeeee?gameId=3474\">Mary</a> · <a href=\"https://www.nexusmods.com/users/228396921\">Megan</a> · <a href=\"https://next.nexusmods.com/profile/MunchyInTechnicolor?gameId=3474\">Munchy</a> · <a href=\"https://next.nexusmods.com/profile/Nuage12?gameId=3474\">Nuage</a> · <a href=\"https://next.nexusmods.com/profile/rakor?gameId=3474\">Rakor</a> · <a href=\"https://www.nexusmods.com/baldursgate3/users/129975028\">Sol</a> · <a href=\"https://next.nexusmods.com/profile/Petrigrof99\">StargazingVolcano</a> · </span><a href=\"https://www.nexusmods.com/profile/Volitio/mods?gameId=3474\"><span style=\"font-size:medium;\">Volitio</span></a><a href=\"https://www.nexusmods.com/profile/Volitio/mods?gameId=3474\"><br></a></span></h2>\n<hr>\n<h2><span style=\"font-family:'Trebuchet MS';\"><br><span style=\"font-size:medium;\"><em>This pack includes all poses from the following public pose packs: <br></em><br></span></span></h2>\n<ul>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19288\">Axi &amp; Cay's Cute Couple Poses</a> (QSAT: AxiCay_Couple) - 30 couple poses (BT1/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19473\">Axi &amp; Cay's Hand-Holding Poses</a> (QSAT: AxiCay_HH) - 20 couple poses (BT1/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19618\">Axi &amp; Cay's LADS Poses</a> (QSAT: AxiCay_LADS) - 9 couple poses (BT1/BT2); 11 solo poses (BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19474\">Axi &amp; Cay's Meme Poses</a> (QSAT: AxiCay_Meme) - 4 couple poses (BT1/BT2, BT2/BT2, BT2/BT3); 6 solo poses (BT1, BT2, BT3, BT4).</span></span></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/20188\">Axi &amp; Cay's Storytelling Pose Sets</a> (QSAT: AxiCay_Storytelling) - 18 couple poses (BT1/BT2) in sets of 2 - 3.</li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19934\">Big and Small Poses</a> (QSAT: Munchy) - 12 couple poses (BT2/BT4).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19859\">Blood and Roses Pose Pack</a> (QSAT: BloodRoses) - 10 couple poses (BT1/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19943\">BT2 Couple Poses</a> (QSAT: BT2Couple) - 10 couple poses (BT2/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">Child of Bhaal (QSAT: ChildBhaal) - 12 solo poses (BT1); 2 couple poses (BT1/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19956\">The Countess</a> (QSAT: SOL) - 15 solo poses (BT1), 6 couple poses (BT1/BT2), 3 couple poses (BT1/BT4), 1 couple pose (BT2/BT3) </span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgatee/mods/1ggog\">c*nty Poses</a> (QSAT: MRY) - 10 solo poses (BT2). <em>Found in FF Solo Poses (BT2).</em></span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/20320\">Devoted</a> (QSAT: MRY) - 15 couple poses (BT1/BT2).</span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19864\">Elegant Poses for BT2</a> (QSAT: HQ) - 20 solo poses (BT2). <em>Found in FF Solo Poses (BT2).</em></span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/18617\">Em's Pose Pack (EP)</a> (QSAT: EPP) - 9 solo poses fitted for BT1 and BT2. <em>Found in FF Solo Poses (BT1).</em></span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">Eternal (QSAT: Goblin_Eternal) - 16 couple poses (BT1/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19865\">JoJo Couple Poses</a> (QSAT: JoJo) - 4 couple poses (BT2/BT3).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19690\">JoJo's Bizarre Poses Vol.1</a> (QSAT: Berry) - 20 solo poses (BT1, BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19490\">Life of a Faerunian Girl</a> (QSAT: LittleHouse_Life) - 14 solo poses (BT1). <em>Found in FF Solo Poses (BT1).</em></span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19961\">Little Mirror of Expressions</a> (QSAT: House_EMOTE) - 47 facial expressions.</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19593\">Music of the Night</a> (QSAT: MOTN) - 8 couple poses (BT1/BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">Quiet Moment (QSAT: QuietMoment) - 4 couple poses (BT1/BT2). <em>Found in FF Couple Poses.</em></span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19557\">Solo Poses BT1</a> (QSAT: MRY) - 10 solo poses for BT1. <em>Found in FF Solo Poses (BT1).</em></span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19727\">Three Wise Monkeys Poses</a> (QSAT: VOLITIO) - 3 solo poses (BT1) and 3 solo poses (BT2).</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19968\">Volo's Guide to Couple Poses</a> (QSAT: VoloPoses) - 13 couple poses (BT1/BT2).</span></span></li>\n</ul>\n<h2><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><em>It also includes an additional 149 poses currently exclusive to this pack:<br></em></span><br></span></h2>\n<ul>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">9 poses by Axianaa (QSAT: Axi) </span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">32 poses by Alida (QSAT: Alida)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">35 poses by Alyona (QSAT: Alyona)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">7 poses by Cay (QSAT: CayPoses)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">9 poses by Daniela (QSAT: Daniela)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">12 poses by Echo (QSAT: Echo)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">10 poses by Megan (QSAT: Megan)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">6 poses by StargazingVolcano (QSAT: SV)</span></span></li>\n<li><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\">29 poses from the Sad Boy Hour collab by Alida/Alyona/Daniela/Megan/Rakor (QSAT: SBH)</span></span></li>\n</ul>\n<h2><span style=\"font-family:'Trebuchet MS';\"><span style=\"font-size:medium;\"><br><em>This pack is SFW; you can find the <a href=\"https://www.nexusmods.com/baldursgate3/mods/20030\">FF Mega Pose Pack NSFW Add-on here</a> (standalone file with patch).</em></span><em><br></em></span></h2>\n<hr>\n<h2><span style=\"font-family:'Trebuchet MS';\"><br><span style=\"font-size:medium;\">You will need to use <a href=\"https://www.nexusmods.com/baldursgate3/mods/17737\">QSAT</a> to find these poses if this is not the only pose mod in your load order. (Including if you have any of the individual pose mods in this pack in your load order.) You can safely remove all of the pose packs included in this pack and just use this one. If you do not remove them, the poses will be duplicated in QSAT (but will still work). QSAT search words are in parentheses.<br></span><strong><br><span style=\"font-size:large;\">How to use QSAT to find custom poses (and how to use Lighty Lights to snap couples poses):<br></span><br></strong><iframe src=\"https://www.youtube.com/embed/o5NYgMnK3fc\" width=\"640\" height=\"480\" frameborder=\"0\"></iframe><br></span></h2>\n<hr>\n<h2><span style=\"font-family:'Trebuchet MS';\"><em><br><span style=\"font-size:medium;\">Special Thanks:</span></em><span style=\"font-size:medium;\"> <a href=\"https://next.nexusmods.com/profile/Kit?gameId=3474\">kit</a> for the rig · <a href=\"https://next.nexusmods.com/profile/rakor?gameId=3474\">rakor</a> for QSAT and Lighty Lights · everyone at the <a href=\"https://discord.gg/fashionistas\">Faerûn Fashionistas Discord Server</a></span></span></h2>",
     "date_added": 1764178014,
-    "date_updated": 1768928064,
+    "date_updated": 1769522858,
     "date_live": 1764199450,
     "visible": 1,
     "status": 1,
@@ -122137,15 +122137,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
