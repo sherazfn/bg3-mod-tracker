@@ -51778,6 +51778,94 @@
     ]
   },
   {
+    "id": 4398865,
+    "game_id": 6715,
+    "name": "Marble Dice",
+    "name_id": "marble-dice-skin",
+    "summary": "May your adventures be marble-ous! This be the result of wanting a dice made out of marble. Took me 2 days. Enjoy!",
+    "description": "<p>Heyo fellow gamers!<br>I modeled this die in Blender and tried my best to recreate each frame with motion blur.<br><br>In case you never changed your dice before: you can only change the skin in a skill check through the icon in the bottom left corner.<br><em>Please note that there's a limit for the dice skins, so if you have quite a few of them and this one won't show up, you might want to reduce the number of active skins.</em></p>\n<p>Also, let's pretend the numeration of the patches makes total sense, the auto-incrementation was having a field day with my inexperience with the toolkit.</p>\n<p>If you like my marble dice, consider buying me a <a title=\"Ko-Fi-Link\" href=\"https://ko-fi.com/publicstupidity\" target=\"_blank\" rel=\"noopener noreferrer\">Ko-Fi</a>! 😊</p>\n<p><a style=\"color:#e1b894;\" href=\"https://ko-fi.com/U7U2V5GDK\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi5.png?v=3\" alt=\"Buy Me a Coffee at ko-fi.com\"></a></p>\n<pre> </pre>",
+    "date_added": 1728470284,
+    "date_updated": 1769525649,
+    "date_live": 1728470284,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/marble-dice-skin",
+    "submitted_by": {
+      "id": 36076302,
+      "name_id": "publicstupidity",
+      "username": "publicStupidity",
+      "profile_url": "https://mod.io/u/publicstupidity",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/bff7/36076302/crop_100x100/d7c34afaddd29793966453c0db55746.jpg"
+    },
+    "modfile": {
+      "id": 7325983,
+      "mod_id": 4398865,
+      "version": "1.0.0.14",
+      "filename": "marbledice_9a9e6b27-11fc-3ede-2ehw.zip",
+      "changelog": null,
+      "date_added": 1769525074,
+      "date_updated": 0,
+      "date_scanned": 1769525376,
+      "filesize": 26523008,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/52c8/4398865/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/52c8/4398865/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/52c8/4398865/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/52c8/4398865/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 5650751
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5650751
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5650751
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7325983
+      }
+    ]
+  },
+  {
     "id": 4399245,
     "game_id": 6715,
     "name": "Extra Mithral Ore",
