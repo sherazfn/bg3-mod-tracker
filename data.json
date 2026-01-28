@@ -93595,7 +93595,7 @@
     "summary": "This mod contains ninety-six types of items. Twelve ranged weapons, fifty-four melee weapons, six shields, six torches, twelve instruments, and six utility items.",
     "description": "<p>This mod contains <span style=\"text-decoration:underline;\"><strong>one-hundred-and-two</strong></span> types of items.</p>\n<ul>\n<li>Twelve <strong>ranged </strong>weapons,</li>\n<li>six <strong>giant </strong>weapons,</li>\n<li>twelve <strong>longreach </strong>weapons,</li>\n<li>twelve <strong>greatswords</strong>,</li>\n<li>twelve <strong>longswords</strong>,</li>\n<li>twelve <strong>shortswords</strong>,</li>\n<li>six <strong>\"titan grip\"</strong> weapons,</li>\n<li>six <strong>shields</strong>,</li>\n<li>six <strong>torches</strong>,</li>\n<li>twelve <strong>instruments</strong>,</li>\n<li>six starter <strong>utility items</strong>. </li>\n</ul>\n<p> </p>\n<p><em>Search \"<strong>Wrongway</strong>\" for any of my other mods.</em></p>\n<ul>\n<li><em><strong>Wrongway Elemental Clothes</strong> (lots of class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Feats</strong> (lots of elemental damage and ability boost feats)</em></li>\n<li><em><strong>Wrongway Elemental Jewelry</strong> (lots of elemental damage and class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Starter Bag</strong> (lots of resource goodies)</em></li>\n<li><em><strong>Wrongway Elemental Weapons</strong> (lots of elemental damage weapons)</em></li>\n<li><em><strong>Wrongway Lite Clothes</strong> (few camp clothes)</em></li>\n<li><em><strong>Wrongway Lite Jewelry</strong> (few ability boost jewelry)</em></li>\n<li><em><strong>Wrongway Lite Starter Bag</strong> (few resource goodies)</em></li>\n<li><em><strong>Wrongway Lite Weapons</strong> (few damage boost weapons)</em></li>\n</ul>",
     "date_added": 1744460982,
-    "date_updated": 1769534220,
+    "date_updated": 1769590395,
     "date_live": 1744461849,
     "visible": 1,
     "status": 1,
@@ -93609,15 +93609,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2e10/44991874/crop_100x100/1000003178.png"
     },
     "modfile": {
-      "id": 7225166,
+      "id": 7329175,
       "mod_id": 4864327,
-      "version": "2.0.0.3",
-      "filename": "wrongway_elemental_weapons_d04-fki7.zip",
-      "changelog": null,
-      "date_added": 1767421947,
+      "version": "2.0.0.4",
+      "filename": "wrongway_elemental_weapons_d04-7rpv.zip",
+      "changelog": "Corrected Warlock Instrument.",
+      "date_added": 1769590366,
       "date_updated": 0,
-      "date_scanned": 1767421955,
-      "filesize": 455968,
+      "date_scanned": 1769590378,
+      "filesize": 455978,
       "platforms": [
         {
           "platform": "windows",
@@ -93625,15 +93625,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -93703,10 +93703,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7225166
-      },
-      {
         "platform": "mac",
         "modfile_live": 7225166
       },
@@ -93717,6 +93713,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7225166
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7329175
       }
     ]
   },
