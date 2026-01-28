@@ -40908,7 +40908,7 @@
     "summary": "Brings the College of Dance Bard Subclass from the new DnD Player's Handbook 2024. The College of Dance practice a way of being in harmony with the whirling movements of the cosmos that flow through all creation, emphasizing agility, speed and grace.",
     "description": "<p style=\"text-align:center;\"><em><span style=\"color:#ff0000;\">I dedicate this mod to my girlfriend who asked me if I could make it for her.</span></em></p>\n<hr>\n<p> </p>\n<p>Brings College of Dance, a new Bard Subclass from the new DnD Player's Handbook 2024 recently published, to Baldur's Gate 3. New passives, abilities, reactions, with new icons, new visual effects and more. This mod implements ALL features from the new Subclass and its feature complete.</p>\n<p>College of Dance Bards practice a way of being in harmony with the whirling movements of the cosmos that flow through all creation, from the movements of the celestial bodies to the motions of even the smallest creature. They emphasize agility, speed and grace and their application for dancing not only for social settings but also for live combat.</p>\n<p>I'm excited to finally release this mod after all the work it took, hope you all enjoy playing with it!</p>\n<h2>List of Features:</h2>\n<ul>\n<li>New Bard Subclass unlocked at level 3: College of Dance</li>\n<li>College of Dance Bards unlock several new subclass features unique to them, with new custom icons and new spell visual effects:\n<ul>\n<li><span style=\"text-decoration:underline;\"><strong>AT LEVEL 3:</strong></span>\n<ul>\n<li><strong>Dance Virtuoso:</strong> gain Advantage on Performance Checks and gain the new ability <strong>Perform Dance (you can Dance any of the Bard Songs or Dance without music; if Dancing a Bard Song then the music of your equipped instrument will play while you Dance)</strong>:<br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/dancevirtuosonew.png\" alt=\"\" width=\"400\" height=\"208\"></li>\n<li><strong>Dance of Death: Dextrous Attacks.</strong> Your Unarmed Attacks scale with Dexterity for Attack and Damage rolls if your Dexterity is higher than your Strength.<br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/danceofdeath1.png\" alt=\"\" width=\"400\" height=\"250\"><br><br></li>\n<li><strong>Dance of Death: Unarmed Damage. </strong>Your Unarmed Attack becomes <strong>Bardic Unarmed Attack</strong>. Its damage scales with your Bardic Inspiration die.<br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/danceofdeathcorrected.png\" alt=\"\" width=\"400\" height=\"268\"><br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/bardicunarmedattack3.png\" alt=\"\" width=\"400\" height=\"222\"><br><br></li>\n<li><strong>Defensive Footwork:</strong><br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/defensivefootwork.png\" alt=\"\" width=\"400\" height=\"222\"><br><br></li>\n<li><strong>Agile Strikes: </strong><strong>after using Bardic Inspiration in Combat, you gain the ability to perform one free Bardic Unarmed Kick Attack, with a new icon and Kick Animation! </strong><strong>Note: this Free Attack is Temporary spell and as such appears on the Temporary section of the Hotbar (saying this in case you are using mods like Better Hotbar 2 that requires you do a process before you can see the Temproary section of the Hotbar; unmodded Hotbar does not have this issue).</strong><br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/agilestrikeskickpassive.png\" alt=\"\" width=\"400\" height=\"286\"><br><br></li>\n</ul>\n</li>\n<li><span style=\"text-decoration:underline;\"><strong>AT LEVEL 5:<br></strong></span>\n<ul>\n<li><strong>Damage of Dance of Death: Unarmed Strikes increased to 1d8.<br></strong></li>\n</ul>\n</li>\n<li><span style=\"text-decoration:underline;\"><strong>AT LEVEL 6:<br><br></strong></span>\n<ul>\n<li><strong>Inspiring Movement: Note: the ability to buff an ally is a Temporary spell and as such appears on the Temporary section of the Hotbar </strong><strong>(saying this in case you are using mods like Better Hotbar 2 that requires you do a process before you can see the Temproary section of the Hotbar; unmodded Hotbar does not have this issue).</strong><br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/inspiringmovement.png\" alt=\"\" width=\"400\" height=\"407\"><br><br></li>\n<li><strong>Tandem Footwork:</strong><br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/tandemfootwork.1.png\" alt=\"\" width=\"400\" height=\"362\"><br><br></li>\n</ul>\n</li>\n<li><span style=\"text-decoration:underline;\"><strong>AT LEVEL 10:</strong></span>\n<ul>\n<li><strong>Damage of Dance of Death: Unarmed Strikes increased to 1d10.</strong><br><br></li>\n<li><strong>Improved Tandem Footwork (increased Initiative bonus):<br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/tandemfootworkimproved.1.png\" alt=\"\" width=\"400\" height=\"409\"><br><br></strong></li>\n</ul>\n</li>\n<li><span style=\"text-decoration:underline;\"><strong>AT LEVEL 12:</strong></span><br>\n<ul>\n<li><strong>Leading Evasion:</strong><br><br><img src=\"https://image.modcdn.io/mods/a8fe/4365084/leadingevasion.png\" alt=\"\" width=\"400\" height=\"392\"><br><br></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<hr>\n<p> </p>\n<p><span style=\"color:#b4a7d6;\"><span style=\"font-size:x-large;\">Troubleshooting</span></span><br><br></p>\n<ul>\n<li><strong>Dance of Death: Unarmed Damage</strong> is a toggleable passive and can be turned on or off whenever you want, it is toggled on by default. If you don't see it on the Passives section of your Hotbar just look for it on your Spellbook and drag it to the Hotbar from there.</li>\n<li>If for any reason your Unarmed Attack doesn't get automatically changed to the new <strong>Bardic Unarmed Attack</strong> (you can easily tell because it has a pink icon), just attack the air once and toggle its passive (<strong>Dance of Death: Unarmed Damage</strong>) off and on and it will fix itself.</li>\n<li>If for any reason your Unarmed Attacks' Attack Rolls are not scaling with Dexterity as they should, <strong>equipping or un-equipping a weapon</strong> will make it fix itself.</li>\n<li>On your combat Log you may see ''Negate Strength Modifier'' next to ''Strength Modifier'', this is just a quirk of the implementation that I couldn't visually hide. Worry not, Strength is not actually counting towards your Unarmed Attack Rolls if your Dexterity is higher than your Strength.</li>\n<li>The Agile Strikes: Free Unarmed Attack and the Inspiring Movement: Ally abilities are of the Temporary category, which means when you fulfill the conditions to use them they will automatically unlock and appear on the Temporary section of your Hotbar. Some mods, like <a href=\"https://www.nexusmods.com/baldursgate3/mods/2417\">Better Hotbar 2</a>, require you to perform certain actions before the Temporary section becomes visible (in that mod's case, there is GIF in its page showing what to do). Make sure you do that if you use such a mod so you don't end up confused why you can't see the special temporary abilities!</li>\n<li>If you encounter any issues please post a comment describing the exact steps to reproduce it along with any pertinent information about similar or related mods you may be using.</li>\n<li>If you can't see other Bard subclasses other than this one while multiclassing, read the Disclaimer at the top of this description page.</li>\n</ul>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1727423379,
-    "date_updated": 1745319942,
+    "date_updated": 1769572728,
     "date_live": 1727506796,
     "visible": 1,
     "status": 1,
@@ -40922,15 +40922,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
     },
     "modfile": {
-      "id": 6277878,
+      "id": 7328645,
       "mod_id": 4365084,
-      "version": "3.0.1.28",
-      "filename": "collegeofdancephb2024_442d5b05-4qhb.zip",
-      "changelog": "Added Patch 8 Compatibility. Multiclassing bug should be fixed now.",
-      "date_added": 1744767486,
+      "version": "3.0.2.29",
+      "filename": "collegeofdancephb2024_442d5b05-2omv.zip",
+      "changelog": "Fixed some statuses incorrectly being removed on death.",
+      "date_added": 1769572709,
       "date_updated": 0,
-      "date_scanned": 1744767498,
-      "filesize": 4755875,
+      "date_scanned": 1769572747,
+      "filesize": 22175280,
       "platforms": [
         {
           "platform": "windows",
@@ -40938,15 +40938,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -40991,10 +40991,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6277878
-      },
-      {
         "platform": "mac",
         "modfile_live": 6277878
       },
@@ -41005,6 +41001,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6277878
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7328645
       }
     ]
   },
