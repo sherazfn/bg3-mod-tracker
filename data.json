@@ -98616,10 +98616,10 @@
     "game_id": 6715,
     "name": "Ninja Girl + Deathbringer Assault Sai",
     "name_id": "ninja-girl-set",
-    "summary": "A ninja girl set that provides minimal protections.",
-    "description": "<p>A ninja girl outfit that provides minimal protections.</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1, 3 and githyanki 1<br>fully dyeable</p>\n<p><strong>Update 1.0.0.5:</strong> added support for githyanki 1 and added Sai weapon<br>The sai allows you to cast Deathbringer Assault, cause it's fun. Of course, it's not as OP as orin's version, but it deals true damage and will not stack with most damage buff like infernal metal gloves</p>\n<p> </p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Outfit mesh by DshGames: https://skfb.ly/6RsDY <br>Sai Blade mesh by Pablo88: https://skfb.ly/o6w9Z<br>licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Mesh and textures modified.<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "summary": "2 ninja girl sets that provides minimal protections.",
+    "description": "<p>2 ninja girl outfit sets that provides minimal protections.</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1, 3 and githyanki 1<br>fully dyeable, including the weapons</p>\n<p><strong>Update 1.0.0.13:</strong> added the Ninja Twin set, a War Fan weapon for the Princess set, full tiefling bt1 support and some minor tweaks and buff</p>\n<p><strong>Update 1.0.0.5:</strong> added support for githyanki 1 and added Sai weapon<br>The sai allows you to cast Deathbringer Assault, cause it's fun. Of course, it's not as OP as orin's version, but it deals true damage and will not stack with most damage buff like infernal metal gloves</p>\n<p> </p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Ninja <a href=\"https://sketchfab.com/3d-models/kitana-mk11-in-mk9-suit-e4305dd16079455885ba8c57cbf297c3\">Set 1</a> and <a href=\"https://sketchfab.com/3d-models/mileena-figure-e5b12f30d2834460a1509c677534a2f0\">Set 2</a> mesh by DshGames<br><a href=\"https://sketchfab.com/3d-models/sai-0ba3fb11a46a487bb7a3c5f4cb984e1b\">Sai Blade</a> mesh by Pablo88<br>licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Mesh and textures modified.<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1745354888,
-    "date_updated": 1754470696,
+    "date_updated": 1769696339,
     "date_live": 1745355168,
     "visible": 1,
     "status": 1,
@@ -98633,15 +98633,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6418406,
+      "id": 7333382,
       "mod_id": 4890691,
-      "version": "1.0.0.10",
-      "filename": "njngrl_69163b1b-04cc-35e0-6d01-debk.zip",
-      "changelog": "- fixed more issues with the knocks not working on some story doors",
-      "date_added": 1748682320,
+      "version": "1.0.0.13",
+      "filename": "njngrl_69163b1b-04cc-35e0-6d01-ao1f.zip",
+      "changelog": "- added the Ninja Twin set (bt1/3/gty1)\n- added a Queen body version for the Ninja Princess set\n- added full support for tiefling bt1 for both clothing set\n- added a War Fan weapon\n- changed the default color of the Ninja Princess Set\n- minor tweaks and buff to the body armour",
+      "date_added": 1769696297,
       "date_updated": 0,
-      "date_scanned": 1748682336,
-      "filesize": 7636012,
+      "date_scanned": 0,
+      "filesize": 26845518,
       "platforms": [
         {
           "platform": "windows",
@@ -98649,24 +98649,24 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
     "logo": {
-      "filename": "mod_publish_logo.png",
-      "original": "https://image.modcdn.io/mods/5dc1/4890691/mod_publish_logo.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/5dc1/4890691/crop_320x180/mod_publish_logo.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/5dc1/4890691/crop_640x360/mod_publish_logo.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/5dc1/4890691/crop_1280x720/mod_publish_logo.png"
+      "filename": "thumbnails2.png",
+      "original": "https://image.modcdn.io/mods/5dc1/4890691/thumbnails2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5dc1/4890691/crop_320x180/thumbnails2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5dc1/4890691/crop_640x360/thumbnails2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5dc1/4890691/crop_1280x720/thumbnails2.png"
     },
     "tags": [
       {
@@ -98682,6 +98682,16 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
         "date_added": 0
       },
       {
@@ -98727,10 +98737,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6418406
-      },
-      {
         "platform": "mac",
         "modfile_live": 6418406
       },
@@ -98741,6 +98747,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6418406
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7333382
       }
     ]
   },
@@ -105659,109 +105669,6 @@
       {
         "platform": "ps5",
         "modfile_live": 6631064
-      }
-    ]
-  },
-  {
-    "id": 4963659,
-    "game_id": 6715,
-    "name": "Oath of the Phoenix",
-    "name_id": "oath-of-the-phoenix",
-    "summary": "By some they are called \"Phoenix Knights\", by others they are called \"Hellknights\" - regardless of the name they are brave warriors tempered by their belief in the holy flame.",
-    "description": "<h3><strong>Oath of the Phoenix</strong></h3>\n<p>The Oath of the Phoenix calls to those paladins who rise not only to smite the wicked, but to bring hope from ruin. These warriors are sworn to the sacred flame of rebirth, wielding divine fire as both a purifying blade and a healing balm. In the flickering light of immolation, they find absolution—through sacrifice, through courage, and through flame.</p>\n<p>The first of the Phoenix Knights hailed from the fallen city of <strong>Thalenmere</strong>, a once-glorious stronghold brought low by orcish raiders. Mortally wounded and surrounded, the last surviving knight fell to his knees in prayer—not to a god, but to the ancient flame that legends spoke of: the <strong>Distant Ember</strong>. And from the ashes of despair, it answered. Bathed in sacred fire, the knight rose anew, his soul ignited, and turned the tide alone. His name is lost to time, but his legacy burns eternal.</p>\n<p>Those who swear the Oath of the Phoenix do not fear death—they embrace it as a chapter in the endless cycle. They are knights of brotherhood and flame, who walk beside the wounded and fight on the frontlines with burning hearts.</p>\n<blockquote>\n<p>“Though my flesh may fall and my breath be spent, I shall rise with the dawn and burn with the dusk—reborn, rekindled, relentless.”<br>— Ser Thauren Firewake<br>Phoenix Knight of Thalenmere<br>Half-Elf Paladin</p>\n</blockquote>\n<hr>\n<h3><strong>Tenets of the Phoenix</strong></h3>\n<p><strong>Embrace the Flame.</strong><br>I swear to wield the unyielding power of fire, letting it be both my weapon and my shield. I will not fear its destructive force but instead, channel it to bring justice to the world.</p>\n<p><strong>Destruction for Redemption.</strong><br>I understand that sometimes, destruction is a path to renewal. I will not shy away from purging corruption with cleansing fire, seeking to bring about a rebirth of justice in the wake of chaos.</p>\n<p><strong>Courage in the Inferno.</strong><br>I shall charge into the heart of danger without hesitation, for fear is but a fleeting shadow in the face of my unwavering resolve.</p>\n<p><strong>Rebirth through Sacrifice.</strong><br>I acknowledge that true strength lies in self-sacrifice. I am prepared to lay down my life for the greater good, trusting in the flame to purify and grant me the chance to rise again, stronger than before.</p>\n<hr>\n<h3><strong>Oath Spells</strong></h3>\n<div>\n<div>\n<table class=\"w-fit min-w-(--thread-content-width)\">\n<thead>\n<tr>\n<th>Paladin Level</th>\n<th>Spells</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>Burning Hands, Hellish Rebuke</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>Flame Blade, Heat Metal</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>Fireball, Fly</td>\n</tr>\n<tr>\n<td>13th</td>\n<td>Fire Shield, Wall of Fire</td>\n</tr>\n<tr>\n<td>17th</td>\n<td>Flame Strike, Mass Cure Wounds</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div> </div>\n</div>\n</div>\n</div>\n<hr>\n<h3><strong>Channel Oath Features</strong></h3>\n<p><strong>Level 1 — Flame, Lend Me Thine Aid!</strong><br>You summon a Fire Elemental that grows stronger the longer you uphold your oath.</p>\n<p><strong>Level 3 — Flame, Bless Me!</strong><br>You become engulfed in divine flame. You gain resistance to fire and radiant damage, deal bonus fire damage on weapon attacks equal to your Charisma modifier, and gain access to a fire breath weapon, a fiery diving strike, and a flame charge. Lasts 2+ rounds scaling with your Paladin level.</p>\n<p><strong>Level 3 — Flame, Renew Thine Soul!</strong><br>Emit a radiant pulse of fire from your soul. Heal allies for 2d6 + your Charisma modifier. **** 2d6 fire and radiant damage to enemies. Your HP is reduced to 1 as you burn your life force to protect others.</p>\n<hr>\n<h3><strong>Aura of the Eternalflame (Level 7)</strong></h3>\n<p>You radiate warmth and power. Allies in the aura gain Advantage on death saving throws and receive temporary hit points equal to 3 + your Charisma modifier. Enemies within the aura take 1d6 + Charisma modifier fire damage at the end of their turn (half on save).</p>\n<hr>\n<h3><strong>Flame, Grant Me Thy Spirit! (Level 15)</strong></h3>\n<p>You gain resistance to fire and radiant damage and ignore resistance to both types.</p>\n<hr>\n<h3><strong>Flame, Ignite My Very Soul! (Level 20)</strong></h3>\n<p>You unleash your full might, becoming immune to fire and radiant damage. You gain resistance to cold, necrotic, and physical damage. Your attacks and spells **** additional fire damage. When downed, you erupt in flame, restoring full HP and healing nearby allies while burning foes. This state lasts 10 turns.</p>\n<hr>\n<h3><strong>Oathbreaking</strong></h3>\n<p>If you break your oath, you fall to the Oath of Devotion, forced to reclaim your honor through penitence and flame. Though you may be seen as Devotion in dialogue, your soul still burns with the phoenix’s fire—waiting to rise again.</p>",
-    "date_added": 1748188578,
-    "date_updated": 1768407689,
-    "date_live": 1748190504,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/oath-of-the-phoenix",
-    "submitted_by": {
-      "id": 34685775,
-      "name_id": "modiouserauav",
-      "username": "bluejoe11",
-      "profile_url": "https://mod.io/u/modiouserauav",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
-    },
-    "modfile": {
-      "id": 6400013,
-      "mod_id": 4963659,
-      "version": "1.0.0.3",
-      "filename": "oathofthephoenixa_2e9e87ed-0fb-0hhi.zip",
-      "changelog": null,
-      "date_added": 1748189548,
-      "date_updated": 0,
-      "date_scanned": 1748189698,
-      "filesize": 688879,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "oathphoenix.png",
-      "original": "https://image.modcdn.io/mods/29fe/4963659/oathphoenix.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/29fe/4963659/crop_320x180/oathphoenix.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/29fe/4963659/crop_640x360/oathphoenix.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/29fe/4963659/crop_1280x720/oathphoenix.png"
-    },
-    "tags": [
-      {
-        "name": "Subclasses",
-        "name_localized": "Subclasses",
-        "date_added": 0
-      },
-      {
-        "name": "Patch 8 Tested",
-        "name_localized": "Patch 8 Tested",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Paladin",
-        "name_localized": "Paladin",
-        "date_added": 0
-      },
-      {
-        "name": "English",
-        "name_localized": "English",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 6400013
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 6400013
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 6400013
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 6400013
       }
     ]
   },
