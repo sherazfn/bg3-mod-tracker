@@ -60750,6 +60750,99 @@
     ]
   },
   {
+    "id": 4433686,
+    "game_id": 6715,
+    "name": "Customize Origins",
+    "name_id": "customize-origins",
+    "summary": "Customize all your favorite starting Origin characters at character creation. Change Hair, Eyes, Skin, Tattoo, Scars, Class without having to go to the Mirror or Withers. ***, Race Still locked along with Backgrounds.",
+    "description": "<p>Customize Origins:<br><br></p>\n<p>Customize your Origin character Hair, Eyes, Class, Scars, Hair Color, Skin Color, Tattoo and Piercings. Still locked Face, Race and Backgrounds. Was asked many times for this with my Dark Urge Origin mods and decided to try a basic one for Origins.</p>\n<p><br>Gives some variation and still works with Hair mods, etc..</p>\n<p>Will likely add this to my Dark Urge Origin mods by the end of the week as it was a good suggestion from people to build this.</p>",
+    "date_added": 1729554447,
+    "date_updated": 1769705046,
+    "date_live": 1729554725,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/customize-origins",
+    "submitted_by": {
+      "id": 34619746,
+      "name_id": "lord-president",
+      "username": "Lord_President",
+      "profile_url": "https://mod.io/u/lord-president",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3893/34619746/crop_100x100/20240324081940_1.jpg"
+    },
+    "modfile": {
+      "id": 5724077,
+      "mod_id": 4433686,
+      "version": "1.0.0.9",
+      "filename": "customize_origins_167b50b2-98f-0ax1.zip",
+      "changelog": "Updated this version to allow the Astarion Origin to work with Vampire Origin so that he can become a Full Vampire, if you have that mod installed. Otherwise, no changes to the mod.",
+      "date_added": 1730242243,
+      "date_updated": 0,
+      "date_scanned": 1730242248,
+      "filesize": 1520140,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ffd1/4433686/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ffd1/4433686/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ffd1/4433686/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ffd1/4433686/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5724077
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5724077
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5724077
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5724077
+      }
+    ]
+  },
+  {
     "id": 4433889,
     "game_id": 6715,
     "name": "Tasha's Additional Barbarian Features",
@@ -60967,6 +61060,129 @@
       {
         "platform": "ps5",
         "modfile_live": 6352109
+      }
+    ]
+  },
+  {
+    "id": 4434020,
+    "game_id": 6715,
+    "name": "DMH Assets Pearl- Dark Urge Dragonborn CC",
+    "name_id": "dmh-assets-pearl-gem-dragonborn-cc",
+    "summary": "Adds DMH assets to Pearl heads",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/xfBG4TGpcT8\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Durge's mangled head (DMH) Assets for Pearl</span></h4>\n<h3><strong>Pack includes CrestTops, Jaws, Chin for heads from  </strong><span style=\"font-size:16.38px;\"><strong><a href=\"https://mod.io/g/baldursgate3/m/pearl-seadragon-dragonborn-cc\" target=\"_blank\" rel=\"noopener noreferrer\">Pearl - Seadragon</a></strong> mod</span></h3>\n<hr>\n<h2>Extra</h2>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1160\"><strong>All Extra Assets Avaliable to Pearl</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/zykoge\"><strong>Pearl Dragonborn Collection</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">Pearl and All assets from other packs in Vortex collection</p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:transparent;color:#ffffff;font-family:Roboto, sans-serif;\" href=\"https://next.nexusmods.com/baldursgate3/collections/zykoge\"><img src=\"https://i.imgur.com/IoNFK65.png\" alt=\"IoNFK65.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1729567473,
+    "date_updated": 1769704850,
+    "date_live": 1729567954,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dmh-assets-pearl-gem-dragonborn-cc",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 6379104,
+      "mod_id": 4434020,
+      "version": "1.0.0.5",
+      "filename": "dmh_pearl_a27c9903-5a2d-0444-4-isfr.zip",
+      "changelog": null,
+      "date_added": 1747595031,
+      "date_updated": 0,
+      "date_scanned": 1747595046,
+      "filesize": 4671971,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/45b6/4434020/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/45b6/4434020/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/45b6/4434020/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/45b6/4434020/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6379104
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6379104
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6379104
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6379104
       }
     ]
   },
@@ -64741,6 +64957,129 @@
       {
         "platform": "windows",
         "modfile_live": 7147440
+      }
+    ]
+  },
+  {
+    "id": 4450874,
+    "game_id": 6715,
+    "name": "Thor Class",
+    "name_id": "thor-class1",
+    "summary": "Feel Like a God",
+    "description": "<h2><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-weight:300;background-color:#444444;font-size:xx-large;\">Thor Class<br></span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:1apx;font-weight:eoo;background-color:#aaaaaa;\">*cleric/paladin type:</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Heavy armor proficient (no light or medium)</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Proficiency with hammers</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Bonus action Grasp/Water cantrips</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">4 Long Rest Divine Buffs</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">All vanilla Lightning spells</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Added several custom Lightning spells</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Fast Hands at lvl 3</span><br><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:1apx;font-weight:eoo;background-color:#aaaaaa;\">*subclasses:</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">-Throwing Thor (Berserk)</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Proficiency with simple and martial weapons</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl3- Rage</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl5- Extra attack</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl8- Improved Critical, +1 Bonus action</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl11- Improved Extra attack</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">-Thor Light &amp; Thunder (Sorcerer)</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Proficiency with simple weapons</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Proficiency with light and medium armor</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl3- 1 Metamagic skill + Skill of storm</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl5- 1 Metamagic skill</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl8- 1 Metamagic skill + 1 reaction</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl11- 1 Metamagic skill + 1 action</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">-Tank Thor (Warlock)</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Proficiency with simple and martial weapons</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl3- Improved Critical + Pact bond</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl5- Improved pact</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl8- Divine Health + Hunters Prey</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">lvl11- Brutal Critical + 1 action</span><br><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:1apx;font-weight:eoo;background-color:#aaaaaa;\">*equipment:</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">-Custom weapons:</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Find a copy of custom weapons on tutorial chest</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Mjolnir - Light Hammer</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Stormbreaker - Warhammer</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Posseidon - Thunderous spear</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">-Starter set:</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">This extra free equipment will be given only if you start the game as Thor Class</span><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Heavy illicid carapace</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Healing ring</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Electrocution immunity ring</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Necklace of Elemental Augmentation</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Lightning Charge Boots</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Reverberation set</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Thor Comfy sandals</span><br><br><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">~~~UPDATED~~~</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:1apx;font-weight:eoo;background-color:#aaaaaa;\">*compatible with 13-20 levels mod</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Added levels from 13 to 20</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Several new spells and skills for new levels</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Bonus action + reaction at level 19</span><br><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Extra action at level 20</span></h2>\n<p> </p>\n<h2><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">~KNOWN ISSUES~</span></h2>\n<h2><span style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:14px;font-weight:300;background-color:#444444;\">Multiclass into sorc/warlock/barbarian is not possible if you choose the corresponding subclass.</span></h2>",
+    "date_added": 1730162293,
+    "date_updated": 1769705110,
+    "date_live": 1730162509,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/thor-class1",
+    "submitted_by": {
+      "id": 10249679,
+      "name_id": "laredson",
+      "username": "laredson",
+      "profile_url": "https://mod.io/u/laredson",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/1536/10249679/crop_100x100/a6030eed880b8dbf9db3a3a0bd591cf.jpg"
+    },
+    "modfile": {
+      "id": 5788421,
+      "mod_id": 4450874,
+      "version": "1.0.0.84",
+      "filename": "thor_class_603ff431-8318-3295-2was.zip",
+      "changelog": "Added levels from 13 to 20\nSeveral new spells for new levels\nBonus action + reaction at level 19\nExtra action at level 20",
+      "date_added": 1732090042,
+      "date_updated": 0,
+      "date_scanned": 1732090249,
+      "filesize": 1792856,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/950d/4450874/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/950d/4450874/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/950d/4450874/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/950d/4450874/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5788421
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5788421
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5788421
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5788421
       }
     ]
   },
@@ -89222,6 +89561,119 @@
     ]
   },
   {
+    "id": 4805916,
+    "game_id": 6715,
+    "name": "No Divine Smite for Oathbreakers",
+    "name_id": "no-divine-smite-for-oathbreakers",
+    "summary": "Removes and blocks Divine Smite for Oathbreaker Paladins. Intended to be used with my Unholy Smite mod.",
+    "description": "<p>Removes and blocks Divine Smite for Oathbreaker Paladins. Intended to be used with my <a href=\"https://mod.io/g/baldursgate3/m/unholy-smite\">Unholy Smite for Oathbreakers</a> mod.</p>\n<p>The Reactions for Divine Smite are removed and the basic Divine Smite spell while not removed for technical reasons is blocked if you are an Oathbreaker so you can't use it.</p>\n<p>Ideally this should be loaded after all other paladin mods (except my Unholy Smite mod, that one should after this).</p>\n<p>This is part of my<strong> <span style=\"text-decoration:underline;\">Oathbreaker Mod Collection</span></strong><span style=\"text-decoration:underline;\">,</span> they all work independently but work great together:</p>\n<ol>\n<li><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite\">Unholy Smite for Oathbreakers</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/improved-unholy-smite\">Improved Unholy Smite for Oathbreakers</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/aura-of-hate-fix\">Aura of Hate Fix</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/no-divine-smite-for-oathbreakers\">No Divine Smite for Oathbreakers</a></li>\n</ol>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>",
+    "date_added": 1742323262,
+    "date_updated": 1769704956,
+    "date_live": 1742323486,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/no-divine-smite-for-oathbreakers",
+    "submitted_by": {
+      "id": 1135184,
+      "name_id": "chizfreak",
+      "username": "ChizFreak",
+      "profile_url": "https://mod.io/u/chizfreak",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
+    },
+    "modfile": {
+      "id": 6314506,
+      "mod_id": 4805916,
+      "version": "5.0.0.13",
+      "filename": "removedivinesmitefromoathbreak-1ogf.zip",
+      "changelog": "Fixed Divine Smite Reactions still being able to be used by Oathbreakers.",
+      "date_added": 1745723196,
+      "date_updated": 0,
+      "date_scanned": 1745723202,
+      "filesize": 811694,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/cfc6/4805916/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/cfc6/4805916/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/cfc6/4805916/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/cfc6/4805916/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6314506
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6314506
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6314506
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6314506
+      }
+    ]
+  },
+  {
     "id": 4806030,
     "game_id": 6715,
     "name": "Daemys - Head Preset",
@@ -93832,6 +94284,139 @@
       {
         "platform": "ps5",
         "modfile_live": 6315546
+      }
+    ]
+  },
+  {
+    "id": 4864314,
+    "game_id": 6715,
+    "name": "Wrongway Elemental Jewelry",
+    "name_id": "wrongway-elemental-jewelry",
+    "summary": "This mod contains thirty pieces of jewelry. Six amulets, ten elemental damage rings, twelve class rings, and two situational rings.",
+    "description": "<p>This mod contains <span style=\"text-decoration:underline;\"><strong>thirty</strong></span> pieces of jewelry.</p>\n<ul>\n<li>Six <strong>amulets </strong>that enhance damage types,</li>\n<li>ten <strong>elemental damage rings </strong>of different variations,</li>\n<li>twelve <strong>class rings</strong> that boosts stats, and</li>\n<li>two <strong>situational rings</strong> that do... a lot.</li>\n</ul>\n<p> </p>\n<p><em>Search \"<strong>Wrongway</strong>\" for any of my other mods.</em></p>\n<ul>\n<li><em><strong>Wrongway Elemental Clothes</strong> (lots of class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Feats</strong> (lots of elemental damage and ability boost feats)</em></li>\n<li><em><strong>Wrongway Elemental Jewelry</strong> (lots of elemental damage and class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Starter Bag</strong> (lots of resource goodies)</em></li>\n<li><em><strong>Wrongway Elemental Weapons</strong> (lots of elemental damage weapons)</em></li>\n<li><em><strong>Wrongway Lite Clothes</strong> (few camp clothes)</em></li>\n<li><em><strong>Wrongway Lite Jewelry</strong> (few ability boost jewelry)</em></li>\n<li><em><strong>Wrongway Lite Starter Bag</strong> (few resource goodies)</em></li>\n<li><em><strong>Wrongway Lite Weapons</strong> (few damage boost weapons)</em></li>\n</ul>",
+    "date_added": 1744460675,
+    "date_updated": 1769705144,
+    "date_live": 1744461990,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wrongway-elemental-jewelry",
+    "submitted_by": {
+      "id": 44991874,
+      "name_id": "wrongwayfelldown",
+      "username": "WrongwayFelldown",
+      "profile_url": "https://mod.io/u/wrongwayfelldown",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2e10/44991874/crop_100x100/1000003178.png"
+    },
+    "modfile": {
+      "id": 7225149,
+      "mod_id": 4864314,
+      "version": "1.0.0.11",
+      "filename": "wrongway_elemental_jewelry_116-6jmr.zip",
+      "changelog": null,
+      "date_added": 1767421645,
+      "date_updated": 0,
+      "date_scanned": 1767421654,
+      "filesize": 480254,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2025-05-06155228.jpg",
+      "original": "https://image.modcdn.io/mods/0264/4864314/screenshot2025-05-06155228.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0264/4864314/crop_320x180/screenshot2025-05-06155228.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0264/4864314/crop_640x360/screenshot2025-05-06155228.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0264/4864314/crop_1280x720/screenshot2025-05-06155228.jpg"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7225149
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7225149
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7225149
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7225149
       }
     ]
   },
@@ -120270,6 +120855,149 @@
     ]
   },
   {
+    "id": 5248434,
+    "game_id": 6715,
+    "name": "Aurora Head",
+    "name_id": "aurorahead",
+    "summary": "Aurora head. She has both normal and cat eyes. For standard body type. Races include: Half-Elf, Elf, Drow, Gnome, Githyanki and Tiefling.",
+    "description": "<h2>Aurora Head Mod</h2>\n<p style=\"font-size:0.95rem;\"><em>“Her eyes hold the quiet light of the northern sky.”</em></p>\n<hr>\n<p><strong>About</strong></p>\n<p>This is <strong>Aurora</strong>. She’s currently available for the following races (alphabetical):<br><strong>Drow, Elf, Githyanki, Gnome, Half-Elf, Human, and Tiefling</strong>.</p>\n<ul>\n<li>Each head includes both <strong>regular</strong> and <strong>cat-eye</strong> versions.</li>\n<li>For <strong>Drow, Elf, and Half-Elf</strong>, there is a <strong>pinpoint eye</strong> variant with slightly smaller ears.</li>\n<li>I reduced the length of the lashes for a subtler look; <strong>normal lash versions</strong> are still available for <strong>Elf, Drow, Tiefling, Human, and Half-Elf</strong>.</li>\n</ul>\n<p>I wanted Aurora’s look to capture the quiet strength and beauty of <em>Michelle Pfeiffer in Ladyhawke</em> — maybe I should have named her <em>Isabeau d'Anjou</em>.</p>\n<p>My plan is to expand Aurora to include all races and strong body types over time; this will take a while.</p>\n<p>If you like this head, please consider sharing screenshots of your Tavs — I love seeing what others create.</p>\n<hr>",
+    "date_added": 1758427389,
+    "date_updated": 1769705003,
+    "date_live": 1758427593,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aurorahead",
+    "submitted_by": {
+      "id": 34781963,
+      "name_id": "kuranosh",
+      "username": "Tabble_Dabble",
+      "profile_url": "https://mod.io/u/kuranosh",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a259/34781963/crop_100x100/tabbledabble_none_53800eb7-5615.png"
+    },
+    "modfile": {
+      "id": 7029412,
+      "mod_id": 5248434,
+      "version": "1.0.0.14",
+      "filename": "aurorahead_2c2f44a9-6990-9c9e-7tso.zip",
+      "changelog": "Fixed Githyanki skin spots.",
+      "date_added": 1763659289,
+      "date_updated": 0,
+      "date_scanned": 1763659395,
+      "filesize": 69801374,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "20251021212157_1.png",
+      "original": "https://image.modcdn.io/mods/4649/5248434/20251021212157_1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4649/5248434/crop_320x180/20251021212157_1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4649/5248434/crop_640x360/20251021212157_1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4649/5248434/crop_1280x720/20251021212157_1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7029412
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7029412
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7029412
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7029412
+      }
+    ]
+  },
+  {
     "id": 5279335,
     "game_id": 6715,
     "name": "Ember's Wardrobe",
@@ -120424,6 +121152,129 @@
       {
         "platform": "ps5",
         "modfile_live": 7194290
+      }
+    ]
+  },
+  {
+    "id": 5279996,
+    "game_id": 6715,
+    "name": "Seam Mender - Dragonborn Texture fix",
+    "name_id": "dgb-texture-fix-akelka",
+    "summary": "Fixes multiple textures for Dragonborn, adds Draconic Bloodline to Tails B, C",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<hr>\n<h2><strong>Seam Mender</strong></h2>\n<p><strong>This mod fixes the visible neck seams present on all Dragonborn characters.<br></strong></p>\n<p><span style=\"font-size:medium;\"><strong>✧ </strong></span>All <strong>female Dragonborn heads</strong>, including NPCs, had a noticeable texture mismatch between the head and body - especially visible on high-contrast colors like <em>Purple 2</em>. Their head textures have been adjusted to achieve a smoother transition.</p>\n<p><strong><span style=\"font-size:medium;\"><strong>✧ M</strong></span>ale Dragonborn</strong> had a visible seam and a blurry, smeared <strong>body texture</strong> near the neck. In Durge’s color, you could notice a milky-like overlay.<br>The male body textures were reworked to better hide <strong>UV stretching</strong> and <strong>texel density differences</strong>, resulting in a cleaner and more natural blend between the head and body. <em>(not my proudest work - I didn’t manage to fully fix a couple of scales on the shoulder because of UV stretching, but it’s better than before. If I manage to improve it later, I’ll update the mod)<br><br></em><strong><span style=\"font-size:medium;\">✧ Male Dragonborn heads DMSK textures </span></strong><span style=\"font-size:medium;\">also was changed near neck seam</span><em><br></em></p>\n<p>Both male and female Dragonborn now have better<strong> neck transitions</strong> across all colors.</p>\n<p><br><br><span style=\"font-size:large;\"><strong>Draconic Bloodline Fixes</strong></span><br><br><strong><span style=\"font-size:medium;\">✧ </span>Adds Draconic Bloodline for Tails B and C, also adds switch for Draconic Bloodline for private parts<br><br><span style=\"font-size:medium;\">✧ </span>Fixes seams around tails when Draconic Bloodline selected (tails B and C female, C male had this seams)<br><br><span style=\"font-size:medium;\">✧ </span>Fixes seam for Females around private parts when Draconic Bloodline selected</strong></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2><strong>Wall of Heroes</strong></h2>\n<p>With every name added, the Wall of Heroes grows stronger<br>Today, we honor<strong> <a href=\"https://www.patreon.com/profile/creators?u=88898883\">Gentle Giant Cosplay</a>, <a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a>,</strong> <a href=\"https://www.patreon.com/user?u=171315578\"><strong>KoboldicOddities</strong></a>, <a href=\"https://www.patreon.com/user?u=60000792\"><strong>N00b</strong></a>, <a href=\"https://www.patreon.com/user?u=46327378\"><strong>Roe</strong></a>, <a href=\"https://www.patreon.com/user?u=141908783\"><strong>Raine</strong></a>, <strong><a href=\"https://www.patreon.com/profile/creators?u=127424387\">Oliver</a></strong> whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!</p>\n<h3><br><strong>Echoing Acknowledgement </strong></h3>\n<p> to <a href=\"https://www.patreon.com/user?u=91343650\"><strong>Wamp</strong></a><strong>, <a href=\"https://www.patreon.com/user?u=3855703\">luna</a>, <a href=\"https://www.patreon.com/user?u=23485532\">Merven</a>, <a href=\"https://www.patreon.com/user?u=68343342\">Funzo</a>, <a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a>, <a href=\"https://www.patreon.com/profile/creators?u=816124\">Asyrin</a> </strong>you are tentacular!</p>\n<p><a href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1759826162,
+    "date_updated": 1769704893,
+    "date_live": 1759826162,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dgb-texture-fix-akelka",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 7049732,
+      "mod_id": 5279996,
+      "version": "1.0.0.4",
+      "filename": "dgb_texture_fix_akelka_a6e0870-eano.zip",
+      "changelog": "Draconic Bloodline created for Tails B and C\nSeams on Tails when Draconic Bloodline selected fixed\nSeams on private parts when  Draconic Bloodline selected fixed",
+      "date_added": 1763932427,
+      "date_updated": 0,
+      "date_scanned": 1763932500,
+      "filesize": 354964448,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "female_fix_title_1080_1.png",
+      "original": "https://image.modcdn.io/mods/30bd/5279996/female_fix_title_1080_1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/30bd/5279996/crop_320x180/female_fix_title_1080_1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/30bd/5279996/crop_640x360/female_fix_title_1080_1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/30bd/5279996/crop_1280x720/female_fix_title_1080_1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7049732
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7049732
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7049732
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7049732
       }
     ]
   },
