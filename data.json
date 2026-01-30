@@ -118515,9 +118515,9 @@
     "name": "Cloud's Camp Clothing",
     "name_id": "clouds-camp-clothing",
     "summary": "Camp clothing outfits made from existing assets. Each has a general theme. More will be added! bodytypes vary per outfit. They are available in the tutorial chest, in a wicker basket called CLOUDBOX.",
-    "description": "<p>This is my first mod. Made these messing with assets for my own characters, but wanted to share them as well :)</p>\n<p>Camp clothing outfits made from existing assets. Each has a general theme.<br>Currently 7 outfits (1 is a colour variant) as clothing only.</p>\n<p>They are all available in the tutorial chest, in a wicker basket called CLOUDBOX.</p>\n<p>I have NOT tried dyeing these outfits so I wouldn't be surprised if they look a bit weird when dyed. if you like, you can request certain colours of one of the outfits and I should be able to make a variant for you :)</p>\n<p>For BT1 only: Dark outfit + City outfit</p>\n<p>All other outfits fit all bodytypes. Some may use different assets</p>\n<p><br>Thank you to FearTaylor for inspiration and help!</p>\n<p>I hope you enjoy!</p>\n<p>if you feel like it you can support me at kofi.com/clloudiie :)</p>",
+    "description": "<p>This is my first mod. Made these messing with assets for my own characters, but wanted to share them as well :)<br><br>Camp clothing outfits made from existing assets. Each has a general theme. I will be keeping these outfits as clothing only!<br><br>They are available in a wicker basket called CLOUDBOX in the tutorial chest, and also at the following vendors:<br><br>* Arron (Act 1)<br>* Talli (Act s)<br>* Hoots (Act 3)<br><u><br>CONTENTS:</u><br><br><strong>Cloud Forest Fit<br></strong>- green and brown forest themed outfit<br><strong><br>Cloud Bandit Fit<br></strong>- brown raider-y outfit<br><strong><br>Cloud City Fit<br></strong>- fancy top and robes. BT1 has long sleeves, all other bodies have short sleeves<strong><br><br>Cloud Belted Fit<br></strong>- simple outfit with chest belts and shoulder pad (pictured on Wyll in screenshots)<strong><br><br>Cloud Dark Fit<br></strong>- the only custom outfit in this mod. only for BT1 (pictured on purple Tiefling in screenshots)<strong><br><br>Cloud Dark Fit (v2)<br></strong>- same custom outfit in different colour variant<strong><br><br>Basic Leathers<br></strong>- simple brown leather outfit<strong><br><br>Sneaky Sneak (I know, original)<br></strong>- dark coloured fitted outfit for rogues and those in the Thieves' Guild. wait - wrong franchise?<strong><br><br>bUggbear Boots<br></strong>- I just really like the pun.<strong><br><br>Ringmail Robe<br></strong>- simple robe suitable for travelling while still appearing armoured<strong><br><br>Ringmail Robe (Ragged)<br></strong>- the same as the Ringmail Robe, but with the 'broken' version of the ringmail top. suited only for human males, dwarf males and halfling females, while all other bodies have closest equivalent assets. not recommended for strong females due to missing robe assets.<br><br><br><a href=\"https://ko-fi.com/clloudiie\">if you enjoy my silly whimsical mods, you can support me on kofi :)</a><br><br>I hope you enjoy!</p>",
     "date_added": 1755501295,
-    "date_updated": 1759396950,
+    "date_updated": 1769732730,
     "date_live": 1755502309,
     "visible": 1,
     "status": 1,
@@ -118531,15 +118531,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d9fa/49848546/crop_100x100/20250921122641.png"
     },
     "modfile": {
-      "id": 6776429,
+      "id": 7335152,
       "mod_id": 5177094,
-      "version": "1.0.0.15",
-      "filename": "cloudbox_b1461d83-eaf6-e833-1b-eiy0.zip",
-      "changelog": "added 2 outfits for all bodytypes\nadded 1 shoes",
-      "date_added": 1758008705,
+      "version": "1.0.0.19",
+      "filename": "cloudbox_b1461d83-eaf6-e833-1b-dlfe.zip",
+      "changelog": "added 3 new outfits\naltered stealth outfit colours\nadded to vendors in each act",
+      "date_added": 1769731832,
       "date_updated": 0,
-      "date_scanned": 1758008858,
-      "filesize": 10846927,
+      "date_scanned": 1769732128,
+      "filesize": 9257878,
       "platforms": [
         {
           "platform": "windows",
@@ -118547,24 +118547,24 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
     "logo": {
-      "filename": "thumbnail.png",
-      "original": "https://image.modcdn.io/mods/9c64/5177094/thumbnail.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/9c64/5177094/crop_320x180/thumbnail.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/9c64/5177094/crop_640x360/thumbnail.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/9c64/5177094/crop_1280x720/thumbnail.png"
+      "filename": "cloudboxthumbn.1.png",
+      "original": "https://image.modcdn.io/mods/9c64/5177094/cloudboxthumbn.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9c64/5177094/crop_320x180/cloudboxthumbn.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9c64/5177094/crop_640x360/cloudboxthumbn.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9c64/5177094/crop_1280x720/cloudboxthumbn.1.png"
     },
     "tags": [
       {
@@ -118608,11 +118608,6 @@
         "date_added": 0
       },
       {
-        "name": "Armor",
-        "name_localized": "Armor",
-        "date_added": 0
-      },
-      {
         "name": "Other",
         "name_localized": "Other",
         "date_added": 0
@@ -118625,10 +118620,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6776429
-      },
-      {
         "platform": "mac",
         "modfile_live": 6776429
       },
@@ -118639,6 +118630,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6776429
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7335152
       }
     ]
   },
