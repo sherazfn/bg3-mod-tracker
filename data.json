@@ -77383,7 +77383,7 @@
     "summary": "The unofficial community bug fix mod - Over 1000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1769566894,
+    "date_updated": 1769834169,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -77397,15 +77397,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7328353,
+      "id": 7340083,
       "mod_id": 4561805,
-      "version": "4.3.2.1",
-      "filename": "itembugfix_010e73d5-9342-e528-8kln.zip",
-      "changelog": "- Weapon actions that do not gain a damage increase from Great Weapon Master: All In/Sharpshooter: All In no longer receive an attack roll penalty when these passives are enabled (9 changed)\n-- Previous change to Fabricated Arbalest 'Illuminating Shot' reverted\n- Previous changes to Way of the Four Elements Blade of Rime, Fangs of the Fire Snake, and Sphere of Elemental Balance (Improved Elemental Casting) reverted as outside the scope of this mod\n- Animations for Human Body Type 4 that had missing sounds have been fixed (9 changed)\n- Minor localization optimizations",
-      "date_added": 1769566855,
+      "version": "4.3.3.2",
+      "filename": "itembugfix_010e73d5-9342-e528-0nqw.zip",
+      "changelog": "- Mage Slayer's reaction is now correctly usable while under the effects of a disguise\n- Telekinesis can now correctly be recast if the first target is a creature that saves against the initial cast\n- Dirty Trick: Sand Toss \"Blinded\" save DC modifier now matches the modifier of the attack roll used\n- Previous changes to Primal Stampede damage and save DC reverted\n- Voss' Silver Sword version of Wrathful Smite now receives same fixes as regular version\n- Harpy 'Claws' and 'Sharp Rock' can now correctly be used against characters that saved against Luring Song\n- Bow of the Banshee 'Blood-Curdling Emission' description clarified to match functionality\n- \"Frozen\", when created via applying \"Wet\" to a \"Chilled\" target, will now correctly start with 2 turns of duration\n-- \"Chilled\" now states this interaction in its description\n- Previous controller UI changes to Cloudkill, Sunbeam, and Telekinesis reverted\n- Fixed tooltips that used broken LSTag \"AttackRolls\" (5 changed)\n- Ring of Flinging 'Throwing Boost' description now matches that of Gloves of Uninhibited Kushigo 'Kushigo's Might' as they are identical in function",
+      "date_added": 1769833308,
       "date_updated": 0,
-      "date_scanned": 1769566867,
-      "filesize": 544965,
+      "date_scanned": 1769833314,
+      "filesize": 548809,
       "platforms": [
         {
           "platform": "windows",
@@ -77509,7 +77509,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7328353
+        "modfile_live": 7340083
       }
     ]
   },
