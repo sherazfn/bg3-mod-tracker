@@ -68686,7 +68686,7 @@
     "summary": "Death Knight has feats every 2 level.",
     "description": "<p>Death Knight has feats every 2 level.</p>",
     "date_added": 1730893942,
-    "date_updated": 1746105468,
+    "date_updated": 1769888492,
     "date_live": 1730893970,
     "visible": 1,
     "status": 1,
@@ -68700,15 +68700,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 6117133,
+      "id": 7343456,
       "mod_id": 4467892,
-      "version": "1.0.0.4",
-      "filename": "deathknightmorefeats_7a5889aa-4iwk.zip",
+      "version": "1.0.0.8",
+      "filename": "deathknightmorefeats_7a5889aa-16no.zip",
       "changelog": null,
-      "date_added": 1740203935,
+      "date_added": 1769888476,
       "date_updated": 0,
-      "date_scanned": 1740203938,
-      "filesize": 18143,
+      "date_scanned": 1769888484,
+      "filesize": 18006,
       "platforms": [
         {
           "platform": "windows",
@@ -68716,15 +68716,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -68759,10 +68759,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6117133
-      },
-      {
         "platform": "mac",
         "modfile_live": 6117133
       },
@@ -68773,6 +68769,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6117133
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7343456
       }
     ]
   },
