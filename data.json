@@ -97315,6 +97315,109 @@
     ]
   },
   {
+    "id": 4879227,
+    "game_id": 6715,
+    "name": "Knights and Dames",
+    "name_id": "knights-and-dames",
+    "summary": "Armour to be donned by the noble, the valiant, and the wicked",
+    "description": "<h2>~Knights and Dames~</h2>\n<p><strong>(This page is out of date)</strong></p>\n<p><em>How dost thou obtain?</em><br><a href=\"https://mod.io/g/baldursgate3/m/aardis-chest-of-presents#description\">Aardi's Chest of Presents</a></p>\n<p><del><em>By whom may this be donned?<br></em>By those with the body of the numerical value 1,2,3 &amp; 4. Rest assured, the rest will come at a later date. Later.</del><br><del>\"Aardi! Something is wrong with the morphing enchantment!\"</del><br><del>~ The Enchanter</del></p>\n<p><del><em>How farest its performance?<br></em>Taken out of the hands of she who forged it, the armour has been disenchanted.</del><br><del>\"Tis the embodiment of sufficient...\"</del><br><del>~ the poor sod of a blacksmith that gave it stats</del><br><del>(Armour Class 17, Superior Plate 2)</del></p>\n<p><img src=\"https://i.postimg.cc/ZKD0SRGn/image-2026-02-01-004048810.png\" alt=\"\" width=\"800\" height=\"450\"></p>",
+    "date_added": 1744987171,
+    "date_updated": 1769923782,
+    "date_live": 1744998605,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/knights-and-dames",
+    "submitted_by": {
+      "id": 34761538,
+      "name_id": "modiouser2078274",
+      "username": "AardiHenrietta",
+      "profile_url": "https://mod.io/u/modiouser2078274",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/79f5/34761538/crop_100x100/baldursgate3screenshot20251011-.png"
+    },
+    "modfile": {
+      "id": 7346027,
+      "mod_id": 4879227,
+      "version": "1.0.0.22",
+      "filename": "aardi_knightsanddames_194a7429-2iyu.zip",
+      "changelog": null,
+      "date_added": 1769923736,
+      "date_updated": 0,
+      "date_scanned": 1769923789,
+      "filesize": 264873952,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/392c/4879227/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/392c/4879227/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/392c/4879227/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/392c/4879227/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 6399959
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6399959
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6399959
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7346027
+      }
+    ]
+  },
+  {
     "id": 4879889,
     "game_id": 6715,
     "name": "Shadow Blade BUGFIXES",
