@@ -97320,9 +97320,9 @@
     "name": "Knights and Dames",
     "name_id": "knights-and-dames",
     "summary": "Armour to be donned by the noble, the valiant, and the wicked",
-    "description": "<h2>~Knights and Dames~</h2>\n<p><strong>(This page is out of date)</strong></p>\n<p><em>How dost thou obtain?</em><br><a href=\"https://mod.io/g/baldursgate3/m/aardis-chest-of-presents#description\">Aardi's Chest of Presents</a></p>\n<p><del><em>By whom may this be donned?<br></em>By those with the body of the numerical value 1,2,3 &amp; 4. Rest assured, the rest will come at a later date. Later.</del><br><del>\"Aardi! Something is wrong with the morphing enchantment!\"</del><br><del>~ The Enchanter</del></p>\n<p><del><em>How farest its performance?<br></em>Taken out of the hands of she who forged it, the armour has been disenchanted.</del><br><del>\"Tis the embodiment of sufficient...\"</del><br><del>~ the poor sod of a blacksmith that gave it stats</del><br><del>(Armour Class 17, Superior Plate 2)</del></p>\n<p><img src=\"https://i.postimg.cc/ZKD0SRGn/image-2026-02-01-004048810.png\" alt=\"\" width=\"800\" height=\"450\"></p>",
+    "description": "<h2>𝔎𝔫𝔦𝔤𝔥𝔱𝔰 𝔞𝔫𝔡 𝔇𝔞𝔪𝔢𝔰</h2>\n<p>Armour crafted by smiths and tailors who enjoy gold trimmings.</p>\n<p> </p>\n<h3>𝔚𝔥𝔬 𝔪𝔦𝔤𝔥𝔱 𝔡𝔬𝔫 𝔱𝔥𝔦𝔰 𝔞𝔯𝔪𝔬𝔲𝔯?</h3>\n<p>By the tall and the strong, and even the lizards. Rest assured, the rest will come at a later date. Later.<br>\"Aardi! Something is wrong with the morphing enchantment!\"<br>~ The Enchanter</p>\n<h3>ℌ𝔬𝔴 𝔣𝔞𝔯𝔢𝔰𝔱 𝔦𝔱'𝔰 𝔭𝔢𝔯𝔣𝔬𝔯𝔪𝔞𝔫𝔠𝔢?</h3>\n<p>While dazzling to the eye, the performance can be quite... disenchanting. Lacking any input from the Enchanter whatsoever, one might say that this armour can protect you (Armour Class 17 + Superior Plate 2)</p>\n<h3>ℌ𝔬𝔴 𝔡𝔬𝔰𝔱 𝔱𝔥𝔬𝔲 𝔬𝔟𝔱𝔞𝔦𝔫?</h3>\n<p>Tucked within <a href=\"https://mod.io/g/baldursgate3/m/aardis-chest-of-presents#description\" target=\"_blank\" rel=\"noopener noreferrer\">Aardi's Chest of Presents</a> </p>\n<h3>ℭ𝔯𝔞𝔣𝔱𝔢𝔡 𝔄𝔯𝔪𝔬𝔲𝔯𝔰:</h3>\n<p>Chivalry, Nobility, Romance, Loyalty, Heroism, Valour, Villainy, Devotion, Hold Guard, Radiance (And all of their variants)</p>\n<h3>𝔎𝔫𝔬𝔴𝔫 ℑ𝔰𝔰𝔲𝔢𝔰:</h3>\n<p>It's not finished... Halflings and gnomes still have not come in for their measurements to complete the glyph. </p>\n<p><img src=\"https://i.postimg.cc/ZKD0SRGn/image-2026-02-01-004048810.png\" alt=\"\" width=\"800\" height=\"450\"> <br>(No. She's not.)</p>\n<h3>𝔄𝔳𝔞𝔦𝔩𝔞𝔟𝔩𝔢 𝔬𝔫 ℭ𝔬𝔫𝔰𝔬𝔩𝔢𝔰...</h3>\n<p>(Version 1.0.0.24) I have requested it of Larian's Great Council - 1/2/26</p>\n<p>(Version 1.0.0.15) Larian's Great Council has granted this boon.</p>",
     "date_added": 1744987171,
-    "date_updated": 1769945077,
+    "date_updated": 1769948781,
     "date_live": 1744998605,
     "visible": 1,
     "status": 1,
@@ -97336,15 +97336,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/79f5/34761538/crop_100x100/baldursgate3screenshot20251011-.png"
     },
     "modfile": {
-      "id": 7346990,
+      "id": 7347192,
       "mod_id": 4879227,
-      "version": "1.0.0.23",
-      "filename": "aardi_knightsanddames_194a7429-3pcw.zip",
+      "version": "1.0.0.24",
+      "filename": "aardi_knightsanddames_194a7429-245m.zip",
       "changelog": null,
-      "date_added": 1769945032,
+      "date_added": 1769948746,
       "date_updated": 0,
-      "date_scanned": 1769945080,
-      "filesize": 264873937,
+      "date_scanned": 1769948797,
+      "filesize": 264873936,
       "platforms": [
         {
           "platform": "windows",
@@ -97413,7 +97413,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7346990
+        "modfile_live": 7347192
       }
     ]
   },
