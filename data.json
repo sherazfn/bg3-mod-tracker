@@ -97322,7 +97322,7 @@
     "summary": "Armour to be donned by the noble, the valiant, and the wicked",
     "description": "<h2>~Knights and Dames~</h2>\n<p><strong>(This page is out of date)</strong></p>\n<p><em>How dost thou obtain?</em><br><a href=\"https://mod.io/g/baldursgate3/m/aardis-chest-of-presents#description\">Aardi's Chest of Presents</a></p>\n<p><del><em>By whom may this be donned?<br></em>By those with the body of the numerical value 1,2,3 &amp; 4. Rest assured, the rest will come at a later date. Later.</del><br><del>\"Aardi! Something is wrong with the morphing enchantment!\"</del><br><del>~ The Enchanter</del></p>\n<p><del><em>How farest its performance?<br></em>Taken out of the hands of she who forged it, the armour has been disenchanted.</del><br><del>\"Tis the embodiment of sufficient...\"</del><br><del>~ the poor sod of a blacksmith that gave it stats</del><br><del>(Armour Class 17, Superior Plate 2)</del></p>\n<p><img src=\"https://i.postimg.cc/ZKD0SRGn/image-2026-02-01-004048810.png\" alt=\"\" width=\"800\" height=\"450\"></p>",
     "date_added": 1744987171,
-    "date_updated": 1769923782,
+    "date_updated": 1769945077,
     "date_live": 1744998605,
     "visible": 1,
     "status": 1,
@@ -97336,15 +97336,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/79f5/34761538/crop_100x100/baldursgate3screenshot20251011-.png"
     },
     "modfile": {
-      "id": 7346027,
+      "id": 7346990,
       "mod_id": 4879227,
-      "version": "1.0.0.22",
-      "filename": "aardi_knightsanddames_194a7429-2iyu.zip",
+      "version": "1.0.0.23",
+      "filename": "aardi_knightsanddames_194a7429-3pcw.zip",
       "changelog": null,
-      "date_added": 1769923736,
+      "date_added": 1769945032,
       "date_updated": 0,
-      "date_scanned": 1769923789,
-      "filesize": 264873952,
+      "date_scanned": 1769945080,
+      "filesize": 264873937,
       "platforms": [
         {
           "platform": "windows",
@@ -97413,7 +97413,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7346027
+        "modfile_live": 7346990
       }
     ]
   },
