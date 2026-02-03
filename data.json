@@ -52752,7 +52752,7 @@
     "name": "Death Knight Class",
     "name_id": "death-knight",
     "summary": "Death Knight Class.",
-    "description": "<h2><u>After the updates, I recommend you to respec the character to one of original class, then update the mod and respec to Death Knight back.</u></h2>\n<h2><span style=\"text-decoration:underline;\">If you find any bugs please leave comments under this mod so I can fix them. Thank you!</span></h2>\n<h3><span style=\"text-decoration:underline;\">I am currently working on progress up to level 20 and new subclass.</span></h3>\n<p><img src=\"https://image.modcdn.io/members/730d/37018598/profile/death-knight.png\" alt=\"\" width=\"735\" height=\"413\"></p>\n<p>This mod introduces Death Knight, a homebrew class based on my work for classic D&amp;D, which i have being using both as player and as GM for long time.</p>\n<p>Death Knights converge with the enemy in close combat, complementing the blows of the blade with dark magic that makes the enemy vulnerable or injures him with unholy energy. They provoke opponents by forcing them to fight one-on-one and keeping them away from weaker allies. In order to prevent the enemy from escaping, death knights must constantly keep in mind the power of the underworld that they possess and direct their attacks accordingly.</p>\n<h4>THE SOURCE OF DEATH</h4>\n<p>The Death Knight is a sinister and powerful figure, representing a combination of nobility and poverty of the soul. These creatures are supreme necromancers who have made a deal with the forces of darkness to become permanent carriers of death and destruction. Their appearance, radiating eerie charm, and abilities make them one of the most sworn enemies of all living beings.</p>\n<h4>THE DARK SERVANT</h4>\n<p>The Death Knight is usually dressed in black armor, which sparkle like stars in the night sky, but at the same time seem cold and impregnable. His armor is often decorated with images of skulls intertwined with symbols of death and decay. The Knight's face is hidden under an ominous hood, and only a pale, almost dead oval is visible under it, which radiates darkness and fear.</p>\n<h4>THE CREATION OF DEATH KNIGHT</h4>\n<p>The Death Knight is often not only the executor of the will of darkness, but also a complex character with a wayward and cold-blooded character. His motivation can range from desired control over the undead to personal revenge for some past grudges. Some Death Knights may even follow their own code of honor, despite their sinister nature. </p>\n<p>They are often presented as antagonists in campaigns, but in the world of D&amp;D, each character can have their own story and purpose. These creatures can be either villains or martyrs, depending on the context of your game.</p>\n<p>In the game, encounters with the Death Knight can be the culmination of many adventures. He can be an enemy who opposes heroes on the battlefield, or a thoughtful ally who controls the forces of darkness for their purpose. Players can face him as a powerful opponent, or get the opportunity to manipulate him through agreements and oaths.</p>\n<p>The Death Knight is not only a strong opponent, but also an interesting, multi-layered character who adds depth and intrigue to any Dungeons &amp; Dragons campaign.</p>",
+    "description": "<h2><u>After the updates, I recommend you to respec the character to one of original class, then update the mod and respec to Death Knight back.</u></h2>\n<h2><span style=\"text-decoration:underline;\">If you find any bugs please leave comments under this mod so I can fix them. Thank you!</span></h2>\n<h3><span style=\"text-decoration:underline;\">I am currently working on progress up to level 20 and new subclass.</span></h3>\n<p>This mod introduces Death Knight, a homebrew class based on my work for classic D&amp;D, which i have being using both as player and as GM for long time.</p>\n<p>Death Knights converge with the enemy in close combat, complementing the blows of the blade with dark magic that makes the enemy vulnerable or injures him with unholy energy. They provoke opponents by forcing them to fight one-on-one and keeping them away from weaker allies. In order to prevent the enemy from escaping, death knights must constantly keep in mind the power of the underworld that they possess and direct their attacks accordingly.</p>\n<h4>THE SOURCE OF DEATH</h4>\n<p>The Death Knight is a sinister and powerful figure, representing a combination of nobility and poverty of the soul. These creatures are supreme necromancers who have made a deal with the forces of darkness to become permanent carriers of death and destruction. Their appearance, radiating eerie charm, and abilities make them one of the most sworn enemies of all living beings.</p>\n<h4>THE DARK SERVANT</h4>\n<p>The Death Knight is usually dressed in black armor, which sparkle like stars in the night sky, but at the same time seem cold and impregnable. His armor is often decorated with images of skulls intertwined with symbols of death and decay. The Knight's face is hidden under an ominous hood, and only a pale, almost dead oval is visible under it, which radiates darkness and fear.</p>\n<h4>THE CREATION OF DEATH KNIGHT</h4>\n<p>The Death Knight is often not only the executor of the will of darkness, but also a complex character with a wayward and cold-blooded character. His motivation can range from desired control over the undead to personal revenge for some past grudges. Some Death Knights may even follow their own code of honor, despite their sinister nature. </p>\n<p>They are often presented as antagonists in campaigns, but in the world of D&amp;D, each character can have their own story and purpose. These creatures can be either villains or martyrs, depending on the context of your game.</p>\n<p>In the game, encounters with the Death Knight can be the culmination of many adventures. He can be an enemy who opposes heroes on the battlefield, or a thoughtful ally who controls the forces of darkness for their purpose. Players can face him as a powerful opponent, or get the opportunity to manipulate him through agreements and oaths.</p>\n<p>The Death Knight is not only a strong opponent, but also an interesting, multi-layered character who adds depth and intrigue to any Dungeons &amp; Dragons campaign.</p>",
     "date_added": 1728567283,
     "date_updated": 1769846056,
     "date_live": 1729961940,
@@ -52797,16 +52797,31 @@
       ]
     },
     "logo": {
-      "filename": "death-knight.png",
-      "original": "https://image.modcdn.io/mods/424a/4401190/death-knight.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/424a/4401190/crop_320x180/death-knight.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/424a/4401190/crop_640x360/death-knight.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/424a/4401190/crop_1280x720/death-knight.png"
+      "filename": "photo_2026-02-03_08-11-10.1.jpg",
+      "original": "https://image.modcdn.io/mods/424a/4401190/photo_2026-02-03_08-11-10.1.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/424a/4401190/crop_320x180/photo_2026-02-03_08-11-10.1.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/424a/4401190/crop_640x360/photo_2026-02-03_08-11-10.1.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/424a/4401190/crop_1280x720/photo_2026-02-03_08-11-10.1.jpg"
     },
     "tags": [
       {
         "name": "Classes",
         "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
         "date_added": 0
       },
       {
