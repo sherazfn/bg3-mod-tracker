@@ -77391,7 +77391,7 @@
     "summary": "The unofficial community bug fix mod - Over 1000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1769875009,
+    "date_updated": 1770167872,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -77405,15 +77405,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7342307,
+      "id": 7357713,
       "mod_id": 4561805,
-      "version": "4.3.3.5",
-      "filename": "itembugfix_010e73d5-9342-e528-9pmq.zip",
-      "changelog": "- Corrections to recent Chinese/ChineseTraditional localization additions",
-      "date_added": 1769874973,
+      "version": "4.4.1.1",
+      "filename": "itembugfix_010e73d5-9342-e528-ddgx.zip",
+      "changelog": "- Aspect of the Beast: Honey Badger now correctly has a 50% chance of triggering, and functions with StatusGroups instead of specific named conditions\n- \"Momentum\" will now correctly be removed by the stated conditions\n- Wild Shape abilities Bite, Burrow, Cinderous Swipe, Explosive Icicle, Rupture, and Sludgy Sling now use the correct spellcasting ability modifiers regardless of multiclassing\n- Nyrulna 'Zephyr Connection' now behaves like all other additional-damage-on-Throw features and loses DRS by default, and no longer incorrectly triggers 'Arcane Echomalefaction' and 'Coldbrim Chill' upon striking a target\n- The technical conditions which apply Force Conduit and Lightning Charges damage to enemies no longer incorrectly trigger 'Arcane Echomalefaction' and 'Coldbrim Chill'\n- The Blast Pendant 'Lightning Blast' no longer incorrectly triggers 'Arcane Echomalefaction' and 'Coldbrim Chill'\n- Previous Honour mode DRS changes to \"Lightning Charges\", \"Encrusted with Frost\", \"Noxious Fumes\", \"Reverberation\", and \"Mental Inhibition\" reverted\n-- Mod now follows the same DRS-removal style that Larian uses in Honour mode\n- \"Reverberation\" tooltip now correctly lists a Constitution save\n- Wrath of the Storm: Thunder is now correctly flagged as a Thunder damage type\n- Crimson Mischief and Murderous Cut no longer incorrectly display their additional 1d4 piercing damage twice on their tooltips\n- Crimson Mischief 'Redvein Savagery' now uses the same description format as Render of Mind and Body 'Psychic Steel Virtuoso'\n- Blooded Greataxe no longer incorrectly displays its additional 1d4 slashing damage twice on its tooltip in Honour mode\n- Markoheshkir 'Kereska's Favour' conditions now correctly add additional damage only if the action is a spell\n- 'Hunter's Mark' from Grymskull Helm or Hunting Shortbow is now correctly broken if these items are unequipped\n- 'Protection from Evil and Good' from The Ever-Seeing Eye is now correctly broken if the item is unequipped\n- 'See Invisibility' from Assassin of Bhaal Cowl is now correctly removed if the item is unequipped\n- 'Detect Thoughts' from Uncovered Mysteries, Hammer of the Just, or Mask of Soul Perception is now correctly broken if these items are unequipped\n- 'Pass Without Trace' from Ring of Shadows is now correctly broken if the item is unequipped\n- 'Speak with Dead' from The Amulet of Lost Voices is now correctly removed if the item is unequipped\n- When provided by items, Shield will now correctly continue to provide its benefits until the start of the caster's next turn\n- Cloudkill and Moonbeam now show the correct number of concentration turns remaining on controller UI after recasting\n- Sobering Realisation now correctly deals 2d8 Psychic damage in Honour mode\n- Review and improvement of some of the oldest code\n- Minor German localization correction",
+      "date_added": 1770167802,
       "date_updated": 0,
-      "date_scanned": 1769874978,
-      "filesize": 548890,
+      "date_scanned": 1770167825,
+      "filesize": 551515,
       "platforms": [
         {
           "platform": "windows",
@@ -77517,7 +77517,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7342307
+        "modfile_live": 7357713
       }
     ]
   },
