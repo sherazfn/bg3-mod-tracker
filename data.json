@@ -42171,7 +42171,7 @@
     "summary": "Dark Urge Slayer related equipments and spells I made for a playthrough. Included are a bunch of armor visuals and npc-exclusive visual along with a free slayer form. Visuals only for some bodytypes. Now updated with a new empowered slayer form.",
     "description": "<p>Dark Urge Slayer related equipments and spells I made for a playthrough. Included is a unique armor visual and npc-exclusive visual along with a free slayer transformation spell.  </p>\n<p><strong>Note: You do not have to be the dark urge,</strong> everything is usable as tav.</p>\n<p> </p>\n<p><strong>Camp clothing versions are now available, </strong><strong>you can now have all the drip with none of the power! </strong></p>\n<p>You can combine it with the no stats amulet if you'd like to use some of the skills as well.</p>\n<p> </p>\n<p><strong>Armors and weapons now have partial progressive stats!</strong></p>\n<p>Tons of armor visual to try on, but mostly only compatible with bodytype 1. Some armor visuals are compatible with other bodytype.</p>\n<p>Some are modular and designed to be mixed and match with the different underwears.</p>\n<p> </p>\n<p>2 weapons are available, sharing the orin dagger with netherstone visual.</p>\n<p>Amulet and Ring is overtuned and designed for a either a fun time or a ng+ style playthrough with difficulty mods (eg. Nightmare, Tactician enhanced, Absolute wrath) </p>\n<p> </p>\n<p> </p>\n<p>The basic slayer form itself is untouched, so it should work with mods that modify and empower the actual slayer form.</p>\n<p>A brand new powered up slayer form is added as well as new and reflavored spells.</p>\n<p>The new form is exclusively made as a standalone, with a straightforward design of using bonus action to apply prone/dazed into guaranteed criticals with the melee attacks. Basic melee will also apply a new unique status, which in turn will either do a ton of additional damage or straight up instakill with the other melee skills. Decimate everything with the new slayer nuke spell and throw anything with the empowered throw!</p>\n<p> </p>\n<p>Everything is spawned in the tutorial chest and the following merchants:</p>\n<p>Act 1: Arron - Emerald Grove</p>\n<p>Act 2: Quartermaster Talli - Last Light Inn</p>\n<p>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p> </p>\n<p>Recommended mods:</p>\n<p>- Cheater's Ring for tutorial chest, armor + weapons to supplement the look you want</p>\n<p>- The Treasure Trove for the same reason</p>\n<p>- FaerunColors to color code your equipments</p>\n<p> </p>\n<p>Feel free to leave feedbacks and suggestions!</p>\n<p> </p>\n<p>Credits to Hexiplexer for the amazing robe assets.</p>\n<p>Credits to Crosscrusade for the incredible thigh high socks and metal sleeves.</p>\n<p> </p>\n<p>If you like my works, please consider keeping me hydrated at the link below ^^</p>\n<p><a href=\"https://www.buymeacoffee.com/Skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1727551445,
-    "date_updated": 1768516153,
+    "date_updated": 1770309606,
     "date_live": 1727552504,
     "visible": 1,
     "status": 1,
@@ -42201,15 +42201,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -42284,19 +42284,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7274728
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5710260
+        "modfile_live": 7274728
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5710260
+        "modfile_live": 7274728
       },
       {
         "platform": "ps5",
-        "modfile_live": 5710260
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7274728
       }
     ]
