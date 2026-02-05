@@ -69774,7 +69774,7 @@
       "changelog": "Hotfix 6.0.6 — February 5\n\nGENERAL CHANGES\nThis update can be applied to existing saves\nAI fix against Darkness reworked on Osiris basis to not conflict with NPC have Subclasses mod\nAdded special buttons allowing exchange of gold for Planar Coins. Fey Coin can be obtained in Grymforge, Shadowfell - in Shadowfell Plane, Astral - in Astral Plane between Acts 2 and 3, Celestial - in temple in Act 3\nFixed missing tutorial when first receiving Void Capsules and Planar Coins\nVoid Capsule prices have been balanced considering their recent addition to merchants\nReduced average amount of Void Capsules offered by merchants\n\nITEM CHANGES\nShield of Vengeful Light now also grants resistance to Radiant Damage\nMaster's Cloak of Intangibility now correctly accounts for Shadow Step\nFixed minor issue with Ancient Bulwark\nLegendary version of Restored Ring has been additionally improved\n\nLOCALIZATION\nTraditional Chinese localization by @Yorkshota updated to version 6.0.5\nJapanese localization by @いぶきち updated to version 6.0.5\nhf7573843ge017g4a02g9039g988c6c32e714 in Arcanizer\nh6cf3b236ga132g44e4g97bdg77cc6914fd16 in AncientWeaponry\nha262ecdag9b20g4279g8b68g82d81f29ac3d in AncientWeaponry\nh0e707946gcb75g428eg8eccg589385803fcc in AncientJewelry *new\nhsdoefcbsgefaggascsgbedgg7aebgedob7se in AncientJewelry *new\n\nvisuals\nadded unique VFX to Shield of Vengeful Light, now explosion and presence of imminent AOE became much more noticeable",
       "date_added": 1770283163,
       "date_updated": 0,
-      "date_scanned": 0,
+      "date_scanned": 1770283560,
       "filesize": 202845205,
       "platforms": [
         {
