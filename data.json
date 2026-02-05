@@ -58627,7 +58627,7 @@
     "summary": "The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 as close to their 5th edition versions as they can elegantly be, with improvements made to Booming Blade.",
     "description": "<p>The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 from their 5th edition versions:<br>Green-Flame Blade<br>Lightning Lure<br>Sword Burst</p>\n<p>Additionally, Booming Blade is greatly enhanced including better functionality (such as level 10 scaling), bug fixes, VFX, and sound.</p>\n<p>All spells have their own visual effects and icons, with Green-Flame Blade notably being green!</p>\n<p>The 'War Caster' feat also includes Booming Blade as a reaction choice.<br><br>Looking for a way to expand the usage of these blade cantrips?  Try <a title=\"Feat - Spell Blade\" href=\"https://mod.io/g/baldursgate3/m/feat-spell-blade\">Feat - Spell Blade</a></p>",
     "date_added": 1729286972,
-    "date_updated": 1769618239,
+    "date_updated": 1770329753,
     "date_live": 1729286972,
     "visible": 1,
     "status": 1,
@@ -58641,15 +58641,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7281704,
+      "id": 7363527,
       "mod_id": 4423191,
-      "version": "2.2.6.2",
-      "filename": "5e_blade_cantrips_14943f09-f25-2bho.zip",
-      "changelog": "- Simplified multi-use code (now emulates Larian's original approach)\n- Blade cantrip DRS now changes based on difficulty mode",
-      "date_added": 1768665879,
+      "version": "2.2.6.3",
+      "filename": "5e_blade_cantrips_14943f09-f25-8ck7.zip",
+      "changelog": "- Fixed rare situation where a creature that has damage bonuses would take more damage from Booming Blade than intended",
+      "date_added": 1770329687,
       "date_updated": 0,
-      "date_scanned": 1768665886,
-      "filesize": 565594,
+      "date_scanned": 1770329699,
+      "filesize": 565602,
       "platforms": [
         {
           "platform": "windows",
@@ -58657,15 +58657,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -58730,10 +58730,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7281704
-      },
-      {
         "platform": "mac",
         "modfile_live": 7281704
       },
@@ -58744,6 +58740,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7281704
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7363527
       }
     ]
   },
