@@ -73048,7 +73048,7 @@
     "summary": "Consolidation of all Monk subclasses from the 5th Edition DnD official source material.",
     "description": "<p>Subclasses: Way of the Ascendant Dragon, Way of the Astral Self, Way of the Kensei, Way of the Long Death, Way of Mercy, Way of the Sun Soul. Everything has been implemented faithful to the source material and close to 100% Rules as Written.</p>\n<p>You will need some Level 20 unlock mod to advance beyond 12th level as a Monk.</p>\n<p><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\">Any Script Extender functionality that was used in the Nexus versions has been removed and will cause some abilities to work differently, noted below.</span></p>\n<p><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\"> </span></p>\n<p><a href=\"https://ko-fi.com/sumradagnoth\" rel=\"nofollow\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"\"></a></p>\n<p><img style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:medium;\" src=\"https://i.imgur.com/ZcxF62r.png\" alt=\"ZcxF62r.png\"><br><br></p>\n<h3>Way of the Ascendant Dragon</h3>\n<div></div>\n<p><em>The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.</em></p>\n<h3><strong><a title=\"Ascendant Dragon Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1369\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p><strong>Changes from Nexus</strong><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">:  </span></p>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">There is no way to do true damage conversion without Script Extender, so I have redone it with a janky workaround</span>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">Unarmed strike damage is converted to your Draconic Energy type based on the toggle you have active</span></li>\n<li>The damage from the original base unarmed attack is made 0 (you will see this in the combat log) and then rerolled using the converted damage type</li>\n<li>Damage riders are still attached to the original unarmed attack damage and not the new damage roll</li>\n<li>Keep the interrupt \"Ask\" disabled or Flurry of Blows will not convert properly</li>\n</ul>\n</li>\n</ul>\n<h3><strong> </strong></h3>\n<h3>Way of the Astral Self</h3>\n<div></div>\n<p><em>A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Astral Self Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1370\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p><strong>Changes from Nexus</strong><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">:  </span></p>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">There is no way to do true damage conversion without Script Extender, so I have redone it with a janky workaround</span>\n<ul>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;\">Unarmed strike damage is converted to your Force when your Astral Arms toggle is active</span></li>\n<li>The damage from the original base unarmed attack is made 0 (you will see this in the combat log) and then rerolled using the converted damage type</li>\n<li>Damage riders are still attached to the original unarmed attack damage and not the new damage roll</li>\n<li>Keep the interrupt \"Ask\" disabled or Flurry of Blows will not convert properly</li>\n</ul>\n</li>\n<li>If your Wisdom is higher than Dex/Str it will be used for attacks with the Astral Arms\n<ul>\n<li>The combat log will get ugly with the calculation and but it is correct<br><br><br></li>\n</ul>\n</li>\n</ul>\n<h3>Way of the Kensei</h3>\n<div></div>\n<p><em>Monks of the Way of the Kensei train relentlessly with their weapons, to the point that the weapon becomes like an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons. </em><em>A kensei sees a weapon much in the same way a calligrapher or a painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.</em></p>\n<h3><strong><a title=\"Kensei Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1371\">Full Implementation Details and Mechanics</a></strong></h3>\n<h3><strong> </strong></h3>\n<h3>Way of the Long Death</h3>\n<div></div>\n<p><em>Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Long Death Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1372\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<h3> </h3>\n<h3>Way of Mercy</h3>\n<div></div>\n<p><em>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy. </em><em>Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies. </em><em>The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Mercy Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1373\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<h3><strong> </strong></h3>\n<h3>Way of the Sun Soul</h3>\n<div></div>\n<p><em>Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Sun Soul Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1374\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<p> </p>\n<p><strong><em><a style=\"background-color:transparent;font-weight:500;\" href=\"https://next.nexusmods.com/profile/sumradagnoth8/mods\"><img src=\"https://i.imgur.com/VeEiEB1.png\" alt=\"VeEiEB1.png\"></a></em></strong></p>",
     "date_added": 1732668445,
-    "date_updated": 1768475672,
+    "date_updated": 1770553800,
     "date_live": 1732669999,
     "visible": 1,
     "status": 1,
@@ -73062,15 +73062,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d521/37839979/crop_100x100/51lvrxohppl_ac_uf8941000_ql80.jpg"
     },
     "modfile": {
-      "id": 7074552,
+      "id": 7374415,
       "mod_id": 4513507,
-      "version": "1.0.4.119",
-      "filename": "monksubclasses5ecombined_1f9ea-ageo.zip",
-      "changelog": "Updated action resource descriptions\nAdded sight compatibility for Expansion's Epic Boons\nShortened subclass progression descriptions\nAstral Self - Astral arm opportunity attacks will account for Sentinel feat\nAstral Self - Corrected some interrupt conditions\nAstral Self - Accounted for Panache in attack of opportunity\nAstral Self - FIx Wisdom not properly replacing Strength ability checks if it is higher\nKensei - Fix Agile Parry not working if the unarmed attack is made outside your first attack\nKensei - Fix unintentional stacking of Agile Parry AC bonuses",
-      "date_added": 1764345446,
+      "version": "1.0.4.120",
+      "filename": "monksubclasses5ecombined_1f9ea-0ri6.zip",
+      "changelog": "Astral Self: Fix hand VFX\nKensei: Fix Agile Parry stopping Kushigo Counter from working\nKensei: Fix tooltips for Sharpen the Blade",
+      "date_added": 1770553689,
       "date_updated": 0,
-      "date_scanned": 1764345476,
-      "filesize": 14132053,
+      "date_scanned": 1770553732,
+      "filesize": 14132070,
       "platforms": [
         {
           "platform": "windows",
@@ -73078,15 +73078,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -73126,10 +73126,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7074552
-      },
-      {
         "platform": "mac",
         "modfile_live": 7074552
       },
@@ -73140,6 +73136,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7074552
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7374415
       }
     ]
   },
@@ -85255,12 +85255,12 @@
   {
     "id": 4724206,
     "game_id": 6715,
-    "name": "5e Ranger Subclasses Combined (with Drakewarden)",
+    "name": "5e Ranger Subclasses Combined",
     "name_id": "5e-ranger-subclasses-combined",
     "summary": "Consolidation of all Ranger subclasses from the 5th Edition DnD official source material and some Unearthed Arcana content.",
     "description": "<p>Subclasses: Drakewarden, Fey Wanderer, Horizon Walker, Monster Slayer, Primeval Guardian (UA). Everything has been implemented faithful to the source material and close to 100% Rules as Written.</p>\n<p>You will need some Level 20 unlock mod to advance beyond 12th level as a Ranger.</p>\n<p>Any Script Extender functionality that was used in the Nexus versions has been removed and will cause some abilities to work differently, noted below. Spell lists from the Nexus version are reworked for sole compatibility with Mystra's Spells in this version.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/sumradagnoth\" rel=\"nofollow\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"\"></a></p>\n<p><a href=\"https://i.imgur.com/ZcxF62r.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://i.imgur.com/ZcxF62r.png\" alt=\"ZcxF62r.png\"></a></p>\n<h3>Drakewarden</h3>\n<p><em>Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.</em></p>\n<h3><a title=\"Drakewarden details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1577\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p><strong>Changes from Nexus</strong>:  </p>\n<ul>\n<li>Drakes will not share the Ranger's initiative</li>\n</ul>\n<p> </p>\n<h3>Fey Wanderer</h3>\n<p><em>A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.</em></p>\n<h3><a title=\"Fey Wanderer details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1298\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></h3>\n<p><strong>Changes from Nexus</strong>:  </p>\n<ul>\n<li>Fey Reinforcements is directly tied to the version of Summon Fey included in Mystra's Spells, instead of 5e Spells</li>\n</ul>\n<p> </p>\n<h3>Horizon Walker Conclave</h3>\n<p><em>Horizon walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse – especially benevolent dragons, fey, and elementals – that work to preserve life and the order of the planes.</em></p>\n<h3><a title=\"Horizon Walker details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1300\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p><strong>Changes from Nexus</strong>:  </p>\n<ul>\n<li>Planar Warrior will not convert damage from additional damage riders on the attack to force</li>\n<li>Planar Warrior will not convert thrown weapon damage - the Throw system is just too weird and janky in the game and I haven't figured a way to do this yet</li>\n</ul>\n<p> </p>\n<h3>Monster Slayer Conclave</h3>\n<p><em>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A monster slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.</em></p>\n<h3><a title=\"Monster Slayer details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1301\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p> </p>\n<h3>Primeval Guardian (UA 27)</h3>\n<p><em>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes.</em></p>\n<p><em>These rangers dwell in the elder forests of the world. They venture out only rarely, as they consider it their sacred duty to protect the druidic groves and ancient trees that saw the earliest days of the world.</em></p>\n<h3><a title=\"Primeval Guardian details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1303\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p> </p>\n<p><strong><em><a style=\"background-color:transparent;font-weight:500;\" href=\"https://mod.io/u/sumradagnoth/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/VeEiEB1.png\" alt=\"VeEiEB1.png\"></a></em></strong></p>",
     "date_added": 1739314001,
-    "date_updated": 1768301815,
+    "date_updated": 1770556133,
     "date_live": 1739315983,
     "visible": 1,
     "status": 1,
@@ -85274,15 +85274,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d521/37839979/crop_100x100/51lvrxohppl_ac_uf8941000_ql80.jpg"
     },
     "modfile": {
-      "id": 6869210,
+      "id": 7374548,
       "mod_id": 4724206,
-      "version": "2.0.0.7",
-      "filename": "rangersubclasses5ecombined_49b-g85b.zip",
-      "changelog": "- Drakewarden: Fix missing progression table, so now the subclass is actually playable (whoops)",
-      "date_added": 1761171203,
+      "version": "2.0.1.9",
+      "filename": "rangersubclasses5ecombined_49b-6i4g.zip",
+      "changelog": "Clean up action resource descriptions\nAdd sight mechanics for Epic Boons\nDrakewarden: Cleanup drake AC bonus display in character sheet\nDrakewarden: Fix Poison Breath tooltip\nDrakewarden: Fix missing Change Shape icon\nDrakewarden: Fix summon VFX constantly re applying\nFey Wanderer: Rework Beguiling Twist mechanics to prevent lag in large combats\nHorizon Walker: Hide technical statuses",
+      "date_added": 1770555938,
       "date_updated": 0,
-      "date_scanned": 1761171404,
-      "filesize": 129439523,
+      "date_scanned": 1770556171,
+      "filesize": 129477868,
       "platforms": [
         {
           "platform": "windows",
@@ -85290,15 +85290,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -85348,10 +85348,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6869210
-      },
-      {
         "platform": "mac",
         "modfile_live": 6869210
       },
@@ -85362,6 +85358,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6869210
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7374548
       }
     ]
   },
