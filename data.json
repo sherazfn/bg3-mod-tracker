@@ -64669,7 +64669,7 @@
     "summary": "this mod ensures your party has enough camp supplies for every Long Rest. Pack quantity is auto-calculated from the 'Camp Cost Multiplier' based on difficulty, keeping your adventurers refreshed and ready.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/everlastingcampprovisions-nexus.png\" alt=\"\" width=\"600\" height=\"171\"></p>\n<p> </p>\n<p><span style=\"color:#ffffff;font-family:Roboto, sans-serif;font-style:normal;font-weight:300;font-size:large;\"> <strong><span style=\"font-size:x-large;color:#ff8000;\">Everlasting Camp Provisions By SFR</span></strong><br><br><span style=\"color:#00ff00;\">With Everlasting Camp Provisions, your party will never run out of essential camp supplies.</span><br><span style=\"color:#00ff00;\"> <strong><span style=\"color:#ffff00;\">Weightless Camp Packs</span></strong> are added automatically if they are not already in your party’s inventory or the Camp Chest, </span><br><span style=\"color:#00ff00;\">ensuring a seamless experience.</span><br><span style=\"color:#00ff00;\"><br>Camp Packs are granted when going to bed, based on the <strong><span style=\"color:#ffff00;\">Camp Cost Multiplier</span></strong> of the selected Difficulty.<br><br></span> </span></p>\n<p> </p>",
     "date_added": 1730066879,
-    "date_updated": 1770383184,
+    "date_updated": 1770584130,
     "date_live": 1730068738,
     "visible": 1,
     "status": 1,
@@ -64683,15 +64683,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 7105899,
+      "id": 7376730,
       "mod_id": 4448486,
-      "version": "2.1.8.0",
-      "filename": "everlastingcampprovisions_6bdc-74su.zip",
-      "changelog": "Automatically grants the party enough camp supplies for a Long Rest. Quantity is calculated from the current difficulty’s Camp Cost Multiplier.",
-      "date_added": 1764948467,
+      "version": "2.1.8.8",
+      "filename": "everlastingcampprovisions_6bdc-cwmu.zip",
+      "changelog": "Various fixes and improvements. \nThe system now adds the required number of Camp Packs automatically to ensure you always have sufficient supplies.",
+      "date_added": 1770583945,
       "date_updated": 0,
-      "date_scanned": 1764948502,
-      "filesize": 17673032,
+      "date_scanned": 1770583982,
+      "filesize": 17676121,
       "platforms": [
         {
           "platform": "windows",
@@ -64699,15 +64699,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -64747,10 +64747,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7105899
-      },
-      {
         "platform": "mac",
         "modfile_live": 7105899
       },
@@ -64761,6 +64757,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7105899
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7376730
       }
     ]
   },
