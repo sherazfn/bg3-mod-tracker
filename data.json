@@ -91099,9 +91099,9 @@
     "name": "Armor of the Worthy",
     "name_id": "armor-of-the-worthy",
     "summary": "A fashionable armor that makes minimal sacrifice on functions.",
-    "description": "<p>A fashionable armor made for the worthy</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1, 3 and githyanki 1<br>fully dyeable</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A fashionable armor made for the worthy</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1, 3 and githyanki 1<br>fully dyeable</p>\n<p>Body refit commissioned by Anonymous</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1742861387,
-    "date_updated": 1764868026,
+    "date_updated": 1770675214,
     "date_live": 1742861693,
     "visible": 1,
     "status": 1,
@@ -91115,15 +91115,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6896987,
+      "id": 7380272,
       "mod_id": 4821825,
-      "version": "1.0.0.11",
-      "filename": "wrtarm_f92bdcb3-2d0b-c7a6-639c-c7mu.zip",
-      "changelog": "- fixed some minor clipping for the night version",
-      "date_added": 1762042175,
+      "version": "1.0.0.12",
+      "filename": "wrtarm_f92bdcb3-2d0b-c7a6-639c-4ttw.zip",
+      "changelog": "- added the Queen body variant",
+      "date_added": 1770675187,
       "date_updated": 0,
-      "date_scanned": 1762042211,
-      "filesize": 17269330,
+      "date_scanned": 1770675304,
+      "filesize": 19516414,
       "platforms": [
         {
           "platform": "windows",
@@ -91131,15 +91131,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -91164,6 +91164,16 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
         "date_added": 0
       },
       {
@@ -91209,10 +91219,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6896987
-      },
-      {
         "platform": "mac",
         "modfile_live": 6896987
       },
@@ -91223,6 +91229,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6896987
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7380272
       }
     ]
   },
@@ -97740,9 +97750,9 @@
     "name": "Divine Sister Robe",
     "name_id": "divine-sister-robe",
     "summary": "A clothing set worn by the Divine Sister.",
-    "description": "<p>A clothing set worn by the Divine Sister.</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1/3 and githyanki, and no cloak physics for BT3<br>fully dyeable</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A clothing set worn by the Divine Sister.</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1/3 and githyanki, and no cloak physics for BT3<br>fully dyeable<br><br>Body refit commissioned by Anonymous</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1745059782,
-    "date_updated": 1749817466,
+    "date_updated": 1770674442,
     "date_live": 1745060153,
     "visible": 1,
     "status": 1,
@@ -97756,15 +97766,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6384605,
+      "id": 7380224,
       "mod_id": 4881852,
-      "version": "1.0.0.7",
-      "filename": "sistrrb_9be1c048-87f9-b6b1-fab-6ugr.zip",
-      "changelog": "- fixed a texture bug that caused a few lines to show up on the dress",
-      "date_added": 1747767605,
+      "version": "1.0.0.8",
+      "filename": "sistrrb_9be1c048-87f9-b6b1-fab-1qqk.zip",
+      "changelog": "- added Queen body variant\n- added support for tiefling bt1; it should show the correct skin now",
+      "date_added": 1770674341,
       "date_updated": 0,
-      "date_scanned": 1747767648,
-      "filesize": 23110120,
+      "date_scanned": 1770674390,
+      "filesize": 24851702,
       "platforms": [
         {
           "platform": "windows",
@@ -97772,15 +97782,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -97810,6 +97820,16 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
         "date_added": 0
       },
       {
@@ -97855,10 +97875,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6384605
-      },
-      {
         "platform": "mac",
         "modfile_live": 6384605
       },
@@ -97869,6 +97885,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6384605
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7380224
       }
     ]
   },
