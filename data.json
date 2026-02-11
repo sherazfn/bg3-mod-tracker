@@ -34950,7 +34950,7 @@
       "name_id": "zx10rx",
       "username": "zx10rx",
       "profile_url": "https://mod.io/u/zx10rx",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
       "id": 7321493,
@@ -39151,7 +39151,7 @@
       "name_id": "zx10rx",
       "username": "zx10rx",
       "profile_url": "https://mod.io/u/zx10rx",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
       "id": 7302710,
@@ -39244,7 +39244,7 @@
       "name_id": "zx10rx",
       "username": "zx10rx",
       "profile_url": "https://mod.io/u/zx10rx",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
       "id": 7302712,
@@ -77391,7 +77391,7 @@
     "summary": "The unofficial community bug fix mod - Over 1000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1770447855,
+    "date_updated": 1770772279,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -77405,15 +77405,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7368602,
+      "id": 7383766,
       "mod_id": 4561805,
-      "version": "4.4.2.1",
-      "filename": "itembugfix_010e73d5-9342-e528-2y49.zip",
-      "changelog": "- Noxious Fumes and Booming Blade conditions no longer incorrectly increase self-damage based on the damage bonuses of the affected creature\n- Hand Crossbow 'Mobile Shot' will now correctly function even after multi-dashing\n- Ring of Exalted Marrow 'Ghoulish Touch' no longer incorrectly states it does not work on elves nor undead\n- Cazador 'Forced Teleportation' no longer incorrectly lists damage on its tooltip\n- Mask of Servitude 'Boon of Servitude' now correctly states its heal amount\n- Additional minor code tweaks",
-      "date_added": 1770447843,
+      "version": "4.4.3.1",
+      "filename": "itembugfix_010e73d5-9342-e528-23oa.zip",
+      "changelog": "- Flesh to Stone \"Petrify\" and Flesh to Gold \"Turned to Gold\" now last as long as the caster's concentration is maintained on the spell\n- Signed Trade Visa 'Flesh to Gold' now has a minimum save DC of 15, matching Gerringothe Thorm's normal casting ability, similar to 'Dethrone' to assist martial characters with this unique scroll\n- Kar'niss 'Cull the Weak' can no longer trigger on an attack that reduces the target below 50% hp itself, and can no longer trigger multiple times per attack\n- Goblin 'Fury of the Small' is now correctly usable once per combat\n- Shadow Blade Ring 'Shadow Blade' is now correctly inventory bound and unique to the summoner\n- Summons attempting to use waypoints on their own now provides a more accurate error to the player",
+      "date_added": 1770772263,
       "date_updated": 0,
-      "date_scanned": 1770447849,
-      "filesize": 551890,
+      "date_scanned": 1770772274,
+      "filesize": 552759,
       "platforms": [
         {
           "platform": "windows",
@@ -77517,7 +77517,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7368602
+        "modfile_live": 7383766
       }
     ]
   },
@@ -97183,7 +97183,7 @@
       "name_id": "zx10rx",
       "username": "zx10rx",
       "profile_url": "https://mod.io/u/zx10rx",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
       "id": 7321495,
@@ -108669,7 +108669,7 @@
       "name_id": "zx10rx",
       "username": "zx10rx",
       "profile_url": "https://mod.io/u/zx10rx",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
       "id": 7270593,
