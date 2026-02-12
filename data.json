@@ -113198,7 +113198,7 @@
     "summary": "Adds a powerful radiant-themed gear set designed for divine warriors. Includes custom armor, weapon, and accessories with unique effects, auras, and synergy built around radiant damage and control.",
     "description": "<h2>Beware before downloading</h2>\n<p>Many users are reporting problems on Xbox. If you are already using the mod and it is working, please do not update. If you're thinking about installing it, please do so knowing YOUR SAVE MAY GET CORRUPTED.</p>\n<p>I highly recommend refraining from downloading or updating while I get the issues sorted.</p>\n<p>I apologize, since the mod has been approved for consoles, I can't uncheck the platform to prevent more console downloads.</p>\n<hr>\n<p>This mod adds a full legendary radiant-themed gear set designed for divine warriors, spellcasters, and champions of the light. Every item features powerful radiant synergy, custom passives, and unique abilities — all built to make you feel like a living conduit of divine power.</p>\n<blockquote>\n<h4><strong>If you like my mods and would like me to keep making them,<br>please consider <a href=\"https://ko-fi.com/jradicus\" target=\"_blank\" rel=\"noopener noreferrer\">supporting me on Ko-fi</a>.</strong></h4>\n<p>Any contributions will go towards learning and resources to provide better mods in the future. That could mean actual outfit designs that aren't just base-game models repurposed! :)</p>\n</blockquote>\n<hr>\n<h4>The Story:</h4>\n<blockquote>\n<p>They were more than warriors. She, a brilliant cleric known as <em>Lightpiercer</em>, and he, a steadfast paladin named <em>Dawnwarden</em>. Together, they were radiant — a symbol of love defying the darkness of the Blood War.</p>\n<p>But their bond was shattered by a devil’s deception. Their souls were bound into a sword and shield, their power dormant, their vow unfulfilled.</p>\n<p>An ancient order called the <strong>Bondsworn</strong> took up their cause. They recovered the sword and shield and forged relics of radiant power to protect them, hoping one day to reawaken the light.</p>\n<p>Now that order is gone. But their trail remains.</p>\n<p>Many years later, a trio of adventurers tried and failed to follow that trail, leaving clues on how to continue the quest.</p>\n<p>Will you pick up where they left off?</p>\n</blockquote>\n<p><strong>PLEASE NOTE: </strong>This is not a quest mod. You will not receive objectives. You must find the relics yourself, guided only by the Bondsworn’s notes and your own intuition. For those who enjoy uncovering secrets and piecing together stories buried in the world — this is for you. Also, the scavenger hunt starts when you first get off the nautiloid, so using it on a new playthrough is the best experience (if you want to do the story/scavenger hunt)</p>\n<hr>\n<p><strong>🌟 VESTMENTS OF UNYIELDING RADIANCE — ITEM LIST</strong></p>\n<h4><strong>🗡️ Lightpiercer</strong> <em>(Longsword)</em></h4>\n<p><em>Note: This weapon only functions fully when <strong>Dawnwarden</strong> is equipped. Without it, you are not proficient and its abilities are inactive.</em></p>\n<ul>\n<li>Grants <strong>proficiency with shields</strong></li>\n<li>Emits bright light in a 6m radius</li>\n<li>On Critical Hit, unleashes a radiant shockwave that afflicts nearby enemies with <strong>Radiating Orb</strong></li>\n<li><strong>Radiant Rush</strong> <em>(Active)</em> – Charge through enemies in a line, dealing radiant damage and possibly blinding them</li>\n</ul>\n<h4><strong>🛡️ Dawnwarden</strong> <em>(Shield)</em></h4>\n<p><em>Note: This shield only functions fully when <strong>Lightpiercer</strong> is equipped. Without it, you are not proficient and its abilities are inactive.</em></p>\n<ul>\n<li>Grants <strong>proficiency with longswords</strong></li>\n<li>Armor Class +3</li>\n<li>Advantage on perception and investigation checks</li>\n<li>Reduces the roll needed to critically hit by 2</li>\n<li>Once per Long Rest, when reduced to 0 HP, you regain 3d8 HP</li>\n</ul>\n<h4><strong>📿 Skyborn Devotion</strong> <em>(Amulet)</em></h4>\n<ul>\n<li>When you deal radiant damage, affected targets are inflicted with <strong>Reverberation</strong> for 2 turns</li>\n<li>Gain <strong>+2 to Spell Save DC</strong></li>\n<li>Gain <strong>1 additional use of Channel Divinity</strong> per Long Rest</li>\n</ul>\n<h4><strong>💍 Callous Coruscation Ring</strong></h4>\n<ul>\n<li>Deal +2 radiant damage to creatures who are illuminated</li>\n<li>When you deal spell damage while a target is lit by a light source, it is afflicted with <strong>Radiating Orb</strong></li>\n</ul>\n<h4><strong>💍 Bondsworn Ring</strong> <em>(Fusing Ring)</em></h4>\n<ul>\n<li>Used to <strong>fuse the quest versions of Lightpiercer and Dawnwarden</strong> into their awakened forms, unlocking their full power.</li>\n</ul>\n<h4><strong>👑 Judicator’s Crown</strong> <em>(Helmet)</em></h4>\n<ul>\n<li>Enemies who miss you with attack rolls must make a Dexterity save or take 1d4 radiant damage</li>\n<li>When you deal radiant damage, regain 1d6 HP</li>\n<li>You cannot be critically hit</li>\n<li>Cast <em>Spirit Guardians</em> once per battle without needing Concentration</li>\n</ul>\n<h4><strong>🧤 Sunlash Gauntlets</strong> <em>(Gloves)</em></h4>\n<ul>\n<li>When you deal radiant damage, unleash a shockwave that applies <strong>Radiating Orb</strong> to nearby enemies</li>\n<li>When you deal radiant damage, you inflict <strong>radiating orb</strong></li>\n<li>Gain +2 to Attack Rolls</li>\n</ul>\n<h4><strong>🧥 Solarveil Mantle</strong> <em>(Cloak)</em></h4>\n<ul>\n<li>At the start of each turn, gain Temporary Hit Points based on your level (up to 30 at level 12)</li>\n<li>When hit while you have Temp HP, reduce the damage by half and blind nearby enemies (costs a reaction)</li>\n<li>Gain +2 to Saving Throws</li>\n</ul>\n<h4><strong>🧣 Lightbrand Cuirass</strong> <em>(Chest Armor)</em></h4>\n<ul>\n<li>You and allies within 6m gain +1 AC and Necrotic Resistance</li>\n<li>Enemies within 6m are vulnerable to radiant damage</li>\n<li>Set CON to 20</li>\n</ul>\n<h4><strong>🥾 Judgment’s Advance</strong> <em>(Boots)</em></h4>\n<ul>\n<li>Gain the benefits of <em>Freedom of Movement</em> and <em>Longstrider</em></li>\n<li>When you inflict a condition, also apply <strong>Reverberation</strong> for 2 turns</li>\n<li>WIS +2</li>\n</ul>\n<hr>\n<h3><strong>Recommendations:</strong></h3>\n<p>🟢 <strong>Want to skip the hunt?</strong> Use a mod like <em>Tutorial Chest Summoning</em> to grab all relics immediately.<br>🟠 <strong>Want a challenge?</strong> This set is powerful. For a more balanced experience, use <em>Combat Extender</em> or another difficulty-scaling mod.<br>🔦 <strong>For the best experience</strong>: explore Act 1 naturally and let the lore guide you. The story was written to reward curiosity and attention to detail.</p>\n<hr>\n<h3>Known Issues:</h3>\n<ul>\n<li>There's some armor clipping here and there, ESPECIALLY for all the dudes. I don't know why, but the armors wouldn't fit on the male (especially for small races) bodies super well no matter what I did, so I had to change them completely so they'd actually work (sorry, I don't know blender or I'd fix them).</li>\n<li>The lighting effect from the sword is working functionally, but the visuals aren't working for me</li>\n<li>I know the item set is super unbalanced. I'm trying to think of things that I can make more balanced without taking away from the fun of the set. Open to suggestions :)</li>\n</ul>\n<hr>\n<blockquote>\n<h4><strong>If you like my mods and would like me to keep making them,<br>please consider <a href=\"https://ko-fi.com/jradicus\" target=\"_blank\" rel=\"noopener noreferrer\">supporting me on Ko-fi</a>.</strong></h4>\n</blockquote>\n<hr>\n<h3>Special Thanks</h3>\n<ul>\n<li>Members of the BG3 modders community on Discord (JuuM, EvilSnake, XiphiasRex and Rydiak especially for this one)</li>\n</ul>\n<p> </p>\n<h3>As always, feel fr** to make recommendations or hit me up with bugs you're experiencing! ENJOY!</h3>\n<hr>\n<h3>Item Locations</h3>\n<p>========================================</p>\n<p>Many people are struggling to find items so, by request:</p>\n<p>THIS SECTION WILL TELL YOU WHERE EVERYTHING IS.<br>IF YOU DON'T WANT SPOILERS, DO NOT KEEP SCROLLING!</p>\n<p>Thank You! :)</p>\n<p>========================================</p>\n<p> </p>\n<ol>\n<li>Longsword - In some rocks close to where you crash land after the nautiloid</li>\n<li>Crown - Tollhouse with the Paladins of Tyr</li>\n<li>Boots - Hidden stash outside owlbear cave</li>\n<li>The Bondsworn Ledger - Can be pickpocketed off of auntie ethel... if you don't want to do that, it will be in the room after you fight her in her lair.</li>\n<li>Gloves - Corpse hidden near the magic mirror that leads to the Necromancy of Thay</li>\n<li>Ring (Callous Coruscation) - Myconid Colony reward room (behind the vines)</li>\n<li>Cloak - Myconid Colony reward room (behind the vines)</li>\n<li>Amulet - On a dark justiciar body near the area that you can convince the deep rothe to destroy the rocks for you</li>\n<li>Armor - On a corpse in a cell near the entrance of the creche</li>\n<li>Shield - Outside of the cell where you find the armor</li>\n<li>Ring (bondsworn) - In a chest above the stained glass room in rosymorn monastery</li>\n</ol>",
     "date_added": 1751340578,
-    "date_updated": 1769792335,
+    "date_updated": 1770925943,
     "date_live": 1751341239,
     "visible": 1,
     "status": 1,
@@ -113212,15 +113212,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/b3bd/46121555/crop_100x100/d6598043cd7ffeeb5bf1aeedb88f572.jpg"
     },
     "modfile": {
-      "id": 7151072,
+      "id": 7388695,
       "mod_id": 5057667,
-      "version": "1.0.0.19",
-      "filename": "unyieldingradiance_e4fd9872-e4-ay3s.zip",
-      "changelog": "- Potential fix for the ledger not showing up",
-      "date_added": 1765982223,
+      "version": "1.0.0.20",
+      "filename": "unyieldingradiance_e4fd9872-e4-5684.zip",
+      "changelog": "- It was reported that certain bonded/unbonded versions of the weapons weren't working together. I could not figure out how to improve the logic to fix the issue, so I removed the conditional logic from the weapons and shield\n- In an attempt to fix people having issues with their saves, I removed the \"Unique\" property from every item that was unique.\n\nHopefully this is enough to fix it for everyone! Thanks for baring with me :)",
+      "date_added": 1770925755,
       "date_updated": 0,
-      "date_scanned": 1765982580,
-      "filesize": 74755271,
+      "date_scanned": 1770925843,
+      "filesize": 55238076,
       "platforms": [
         {
           "platform": "windows",
@@ -113228,15 +113228,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -113291,10 +113291,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7151072
-      },
-      {
         "platform": "mac",
         "modfile_live": 7151072
       },
@@ -113305,6 +113301,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7151072
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7388695
       }
     ]
   },
