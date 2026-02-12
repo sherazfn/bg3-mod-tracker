@@ -4028,6 +4028,109 @@
     ]
   },
   {
+    "id": 4188237,
+    "game_id": 6715,
+    "name": "Astarion Epilogue Outfit Tweak",
+    "name_id": "astarion-epilogue-outfit-tweak",
+    "summary": "Changes the visuals of spawn Astarion's epilogue outfit to his ascendant epilogue outfit while retaining the spawn outfit's color theme.",
+    "description": "",
+    "date_added": 1721591843,
+    "date_updated": 1770914656,
+    "date_live": 1721670440,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/astarion-epilogue-outfit-tweak",
+    "submitted_by": {
+      "id": 32944057,
+      "name_id": "belinn",
+      "username": "BelinnFromNexusMods",
+      "profile_url": "https://mod.io/u/belinn",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/4e94/32944057/crop_100x100/belinn_pfp.png"
+    },
+    "modfile": {
+      "id": 5376442,
+      "mod_id": 4188237,
+      "version": "1.0.0.0",
+      "filename": "astarionepilogueoutfittweak_fd-6a0o.zip",
+      "changelog": null,
+      "date_added": 1721591844,
+      "date_updated": 0,
+      "date_scanned": 1721591846,
+      "filesize": 5407,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/dac8/4188237/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/dac8/4188237/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/dac8/4188237/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/dac8/4188237/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5376442
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5376442
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5376442
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5376442
+      }
+    ]
+  },
+  {
     "id": 4188705,
     "game_id": 6715,
     "name": "Selune Dice",
@@ -38981,6 +39084,135 @@
       {
         "platform": "ps5",
         "modfile_live": 5728809
+      }
+    ]
+  },
+  {
+    "id": 4360464,
+    "game_id": 6715,
+    "name": "Big Busty Body",
+    "name_id": "big-big-body",
+    "summary": "27 camp outfits and a very curvaceous body. Equipping an outfit changes your body. Works for type 1 medium races. Outfits are in tutorial chest and vendors Arron, Roah Moonglow, Carmen, and Talli (long rest if missing).",
+    "description": "<p><strong>If you hate this mod please do not comment.</strong></p>\n<h3><strong>Works for patch 8</strong></h3>\n<p>27 camp outfits and a very curvaceous body. Equipping an outfit changes your body.  Works for type 1 medium races.  Outfits are in tutorial chest and vendors Arron, Roah Moonglow, Carmen, and Talli (long rest if missing).</p>\n<p><br>Summon the tutorial chest using a mod or find it on the Nautaloid, inside will be the outfits.  They will override your normal body, to give you a super curvy appearance.  <strong>This only works on type 1/normal size Humans, Drow, Half Elves, Elves, Tieflings, and Githyanki. </strong>Credit for the Scantily Selunite outfit and both heels goes to CrossCrusade who made the fantastic <a href=\"https://www.nexusmods.com/baldursgate3/mods/2617\">Scantily Camp Outfit mod.</a></p>\n<p><span style=\"text-decoration:underline;\"><strong>You must be displaying your camp outfit</strong> </span>for the outfits to show, there's a toggle in the upper right of your character in the inventory.<br><br>If you like to discuss sexy mods, you can also <a href=\"https://discord.gg/sNCwdRXqek\" target=\"_blank\" rel=\"noopener noreferrer\">find my Discord here</a>.  I also have <a href=\"https://www.patreon.com/Sindae\" target=\"_blank\" rel=\"noopener noreferrer\">a Patreon</a> where you can suggest outfits for me to make.  And I do take commissions on Discord as well.</p>\n<p>* If you have difficulty downloading or updating, see if the file is in your mod folder at Users\\(YourUserName)\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods on the drive with your windows installation.  If it is there, try deleting and redownloading, the file will be called \"bimbo_\" and then a bunch of numbers and letters.</p>\n<p>If you wish to uninstall this mod during a playthrough it will be very difficult as the items can generate in weird places.  Instead of uninstalling, you can simply not wear the outfits and uninstall before starting a new playthrough.</p>\n<p>If you have bug reports, please use the bug report channel on my Discord, as the in-built reports do not let me respond.</p>\n<p> </p>\n<p><strong>Larian Review: </strong>I have heard from Larian, and they requested some changes and then it would be re-reviewed (at some point) after resubmission.  I have made those changes so hopefully those of you on console will see this soon.</p>\n<p> </p>\n<p> </p>\n<p><strong>Update 1.1: </strong>Added 9 new outfits (see pictures, including one Office Lady outfit that wasn't pictured).  This will probably be the last update for this barring bug fixes, unless someone commissions more I suppose.</p>\n<p><strong>Update 1.2: </strong>Added 2 new outfits.  Fixed some messy textures.  Put outfits in a bag and added to vendors.</p>\n<p><strong>Update 1.3: </strong>Added 1 new outfit and a variant.  Improved textures a fair amount.</p>\n<p><strong>Update 1.4: </strong>Increased polygon count on the chest, creating a smoother shape.  Added 1 new outfit (ported from SCO, check it out, an amazing mod).</p>\n<p>Frequently Asked Questions (mod.io actually censors the acronym for this)</p>\n<p>Clipping?  Clipping should be mostly fixed.</p>\n<p>Seam around gen000itals and neck?  Yep, a real pain to fix.</p>\n<p>My di000ck disappears?  Yeah I have to set one gen000ital type to work with a body override like this.  If you get a big enough di000ck mod you can probably just make the vul000va not visible.<br>Mod.io has weird censorship so...</p>",
+    "date_added": 1727199668,
+    "date_updated": 1770915692,
+    "date_live": 1727200606,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/big-big-body",
+    "submitted_by": {
+      "id": 32939211,
+      "name_id": "sindae",
+      "username": "Sindae",
+      "profile_url": "https://mod.io/u/sindae",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f68b/32939211/crop_100x100/2351-1699949590-816012709.jpeg"
+    },
+    "modfile": {
+      "id": 7379524,
+      "mod_id": 4360464,
+      "version": "2.0.1.3",
+      "filename": "bimbo_eb8800ba-289c-a587-0939-9vej.zip",
+      "changelog": "Removed Barbarian Outfit.",
+      "date_added": 1770660812,
+      "date_updated": 0,
+      "date_scanned": 1770661112,
+      "filesize": 168079664,
+      "platforms": [
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/307e/4360464/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/307e/4360464/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/307e/4360464/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/307e/4360464/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7275091
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7379524
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7379524
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7379524
       }
     ]
   },
@@ -111677,6 +111909,259 @@
     ]
   },
   {
+    "id": 5036174,
+    "game_id": 6715,
+    "name": "Larger pen*s With Flopping Physics",
+    "name_id": "na163251",
+    "summary": "Add Some Enlarged pen*s Options to your Character Creation Menu (Magic Mirror) with some stylish pub*s and PA rings",
+    "description": "<p><span style=\"font-size:x-large;\">FEATURES</span></p>\n<p><span style=\"font-size:large;\">• Adds Some Enlarged/Shrinked Pen1ses</span><span style=\"font-size:large;\"> Options to your character creation menu (Magic Mirror)</span></p>\n<p><span style=\"font-size:large;\">• </span><span style=\"font-size:large;\">Adds Some Enlarged/Shrinked Erected Pen1ses options as well</span></p>\n<p><span style=\"font-size:large;\">• Adds Some Stylish Pubes, PA Rings</span></p>\n<p><span style=\"font-size:large;\">• Supports <a href=\"https://www.nexusmods.com/baldursgate3/mods/2754\" target=\"_blank\" rel=\"noopener noreferrer\">Unique Tav Custom Appearance</a> (You'll have to install the other version on <a href=\"https://www.nexusmods.com/baldursgate3/mods/4789?tab=files\" target=\"_blank\" rel=\"noopener noreferrer\">Nexus Mods</a>)</span></p>\n<p><span style=\"font-size:large;\">• Includes <a href=\"https://www.nexusmods.com/baldursgate3/mods/6173\" target=\"_blank\" rel=\"noopener noreferrer\">Quick and Dirty Erections</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/192547292\" target=\"_blank\" rel=\"noopener noreferrer\">MrFunSize</a> (And Made Them Support All Modded Races Listed Below)</span></p>\n<p><span style=\"font-size:large;\">• Includes <a href=\"https://www.nexusmods.com/baldursgate3/mods/6287\" target=\"_blank\" rel=\"noopener noreferrer\">Cooler Dragonborn pen*s</a> by<a href=\"https://www.nexusmods.com/baldursgate3/users/25151829\" target=\"_blank\" rel=\"noopener noreferrer\"> TheMightyWaffle156</a></span></p>\n<p><span style=\"font-size:large;\">• Includes PP models from <a href=\"https://www.nexusmods.com/baldursgate3/mods/1194\" target=\"_blank\" rel=\"noopener noreferrer\">Muscular Male Dragonborn</a> by <a href=\"https://linktr.ee/raykieff14\" target=\"_blank\" rel=\"noopener noreferrer\">Raykie</a></span></p>\n<p><span style=\"font-size:large;\">• Supports Custom Races Listed Below</span></p>\n<p><span style=\"font-size:large;\">• Supports All Companions Including [SPOILER] </span><span style=\"font-size:large;color:#0d0d10;\">God Gale </span><span style=\"font-size:large;\">[SPOILER]</span></p>\n<h2>You might want to install <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\" target=\"_blank\" rel=\"noopener noreferrer\">Appearance Edit Origins</a> as well if you wish to edit the PPs of your companions.</h2>\n<p>Supported Custom Races :<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4076\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Elf</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/4159\" target=\"_blank\" rel=\"noopener noreferrer\">Aasimar</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/1824\" target=\"_blank\" rel=\"noopener noreferrer\">Half Angel (Aasimar 5E)</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/3861\" target=\"_blank\" rel=\"noopener noreferrer\">Solar</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/2634\" target=\"_blank\" rel=\"noopener noreferrer\">Half-Dragon</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/5127\" target=\"_blank\" rel=\"noopener noreferrer\">Fairy Race</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/428\" target=\"_blank\" rel=\"noopener noreferrer\">Satyr Race</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/4750\" target=\"_blank\" rel=\"noopener noreferrer\">Playable Dhampir</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/215\" target=\"_blank\" rel=\"noopener noreferrer\">Fantastical Dhampir/Orc/Triton/Goliath</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/13474\" target=\"_blank\" rel=\"noopener noreferrer\">Angel Themed Race (Aether-Born)</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/7030\" target=\"_blank\" rel=\"noopener noreferrer\">Legacy of Death (Deathborn)</a></p>\n<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\">-- Big Thank You --<br></span><br><span style=\"font-size:large;\"> <a href=\"https://www.nexusmods.com/baldursgate3/users/192547292\" target=\"_blank\" rel=\"noopener noreferrer\">MrFunSize</a> for Making the Tutorials on Adding Custom Genitals<br><a href=\"https://www.nexusmods.com/baldursgate3/users/2651530\" target=\"_blank\" rel=\"noopener noreferrer\">Padme4000</a> for Making the Tutorial Video on Creating Mods in Blender<br><a href=\"https://www.beastbehemoth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BeastBehemoth</a> for Guiding Me Thru Blender Basics and Providing the Starter Models<br><a href=\"https://www.nexusmods.com/baldursgate3/users/25151829\" target=\"_blank\" rel=\"noopener noreferrer\">TheMightyWaffle156</a> for Letting Me Include Those Beautiful Dragonborn PPs in My Mod</span><br><span style=\"font-size:large;\"><a href=\"https://linktr.ee/raykieff14\" target=\"_blank\" rel=\"noopener noreferrer\">raykie</a> for Letting Me Include his amazing Custom pen*s Models form <a href=\"https://www.nexusmods.com/baldursgate3/mods/1194\" target=\"_blank\" rel=\"noopener noreferrer\">Muscular Male Dragonborn</a> in My Mod</span><br><a href=\"https://www.nexusmods.com/baldursgate3/users/7967470\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"font-size:large;\">Volno</span></a><span style=\"font-size:large;\"> for <a href=\"https://www.nexusmods.com/baldursgate3/mods/4310\" target=\"_blank\" rel=\"noopener noreferrer\">Volno's Texture Toolbox</a></span></div>\n<div style=\"text-align:center;\"><br><span style=\"font-size:large;\">-- Literally Standing on the Shoulder of Those Giants--</span></div>\n<div> </div>\n<p style=\"text-align:center;\"><a href=\"https://ko-fi.com/B0B51NH0ZJ\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"Buy Me a Coffee at ko-fi.com\"></a></p>",
+    "date_added": 1750645580,
+    "date_updated": 1770915099,
+    "date_live": 1750645580,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/na163251",
+    "submitted_by": {
+      "id": 35456214,
+      "name_id": "vintheman",
+      "username": "VinTheMan",
+      "profile_url": "https://mod.io/u/vintheman",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/51ba/35456214/crop_100x100/ricocomlarge.png"
+    },
+    "modfile": {
+      "id": 7104239,
+      "mod_id": 5036174,
+      "version": "2.2.0.19",
+      "filename": "largerpeniswithfloppingphysics-9jdn.zip",
+      "changelog": "Removed shader files for console compatibility",
+      "date_added": 1764894690,
+      "date_updated": 0,
+      "date_scanned": 1764894833,
+      "filesize": 91789036,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/77e1/5036174/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/77e1/5036174/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/77e1/5036174/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/77e1/5036174/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Piercings",
+        "name_localized": "Piercings",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      },
+      {
+        "name": "Halsin",
+        "name_localized": "Halsin",
+        "date_added": 0
+      },
+      {
+        "name": "Karlach",
+        "name_localized": "Karlach",
+        "date_added": 0
+      },
+      {
+        "name": "Minsc",
+        "name_localized": "Minsc",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7104239
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7104239
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7104239
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7104239
+      }
+    ]
+  },
+  {
     "id": 5036673,
     "game_id": 6715,
     "name": "Toarie's Gith Presets",
@@ -119479,6 +119964,189 @@
     ]
   },
   {
+    "id": 5184717,
+    "game_id": 6715,
+    "name": "Wyll Kiss Dialog",
+    "name_id": "wyllkissdialog",
+    "summary": "This mod restores Wyll's reaction to being kissed.",
+    "description": "<p><span style=\"font-size:medium;\">We all know that being the Blade of Frontiers is a tough job, it's hard, exhausting, and demanding. I get it, Tav or Durge don’t have it much easier (one of them even has amnesia, so there's that). It’s all a bit much sometimes, and maybe... just maybe, we need a little moment of love in our adventures.💜<br><br>Our dear Wyll, ever the romantic, seems more than willing to give us that. But for some reason, when you ask this hero for a kiss, he only responds affectionately the first time... and after that? Nothing. 😪<br><br>Personally, it felt a bit odd to me, maybe even a little underwhelming. Do you feel the same? Well, you're in luck. This mod restores Wyll’s kiss dialogue, so that every time you share a sweet little kiss, he actually says something about it. 🤩<br><br>Because yes, the Frontiers need a Blade... and Tav/Durge need love. 💞<br><br></span><span style=\"font-size:medium;\">TL,DR: this mod restores Wyll’s original kiss dialogue, making him respond every time you kiss him, not just the first time.<br></span><br><span style=\"font-size:medium;\">It works with versions from <strong><span style=\"color:#00ff00;\">Patch #7</span></strong> to <strong><span style=\"color:#00ff00;\">Patch #8</span></strong>, as it uses Osiris.<br><span style=\"color:#ff0000;\">This mod only modifies some flags to make existing dialogue appear, so it should be compatible with any mod that edits dialogue.</span></span></p>",
+    "date_added": 1755803633,
+    "date_updated": 1770913649,
+    "date_live": 1755803633,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wyllkissdialog",
+    "submitted_by": {
+      "id": 48475833,
+      "name_id": "sinus23",
+      "username": "Sinus23",
+      "profile_url": "https://mod.io/u/sinus23",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/47ed/48475833/crop_100x100/20250505212424_1.1.jpg"
+    },
+    "modfile": {
+      "id": 6698768,
+      "mod_id": 5184717,
+      "version": "1.0.0.1",
+      "filename": "wyllkissdialog_b61bcb1a-0a6a-2-52cm.zip",
+      "changelog": "Initial version.",
+      "date_added": 1755803680,
+      "date_updated": 0,
+      "date_scanned": 1755803719,
+      "filesize": 19319866,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "20250821205914_1.2.png",
+      "original": "https://image.modcdn.io/mods/bb12/5184717/20250821205914_1.2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/bb12/5184717/crop_320x180/20250821205914_1.2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/bb12/5184717/crop_640x360/20250821205914_1.2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/bb12/5184717/crop_1280x720/20250821205914_1.2.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      },
+      {
+        "name": "German",
+        "name_localized": "German",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Polish",
+        "name_localized": "Polish",
+        "date_added": 0
+      },
+      {
+        "name": "Russian",
+        "name_localized": "Russian",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Turkish",
+        "name_localized": "Turkish",
+        "date_added": 0
+      },
+      {
+        "name": "Portuguese - Brazil",
+        "name_localized": "Portuguese - Brazil",
+        "date_added": 0
+      },
+      {
+        "name": "Italian",
+        "name_localized": "Italian",
+        "date_added": 0
+      },
+      {
+        "name": "Ukrainian",
+        "name_localized": "Ukrainian",
+        "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
+      },
+      {
+        "name": "Japanese",
+        "name_localized": "Japanese",
+        "date_added": 0
+      },
+      {
+        "name": "Other Language",
+        "name_localized": "Other Language",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6698768
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6698768
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6698768
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6698768
+      }
+    ]
+  },
+  {
     "id": 5186299,
     "game_id": 6715,
     "name": "Wyll Better Starting Gear",
@@ -120592,6 +121260,109 @@
       {
         "platform": "windows",
         "modfile_live": 7286617
+      }
+    ]
+  },
+  {
+    "id": 5221848,
+    "game_id": 6715,
+    "name": "Dror Aggrn't - No more hostile goblin camp",
+    "name_id": "dror-aggrnt-no-more-hostile-gobbo-camp",
+    "summary": "Dror Ragzlin's death no longer makes the entire Goblin Camp hostile if the alarm isn't raised.",
+    "description": "<p>A short and sweet OSI script override that prevents the entire Goblin Camp from going hostile if you manage to Kill Dror Ragzlin without any alarms being raised.  Ideal for those wanting a stealthier way to battle the camp, or who want to take out the leaders in a different order than usual.  Mod idea from OmniRob on the BG3mods subreddit.</p>\n<p>Crimes such as stealing and attacking other Goblins publically will still cause hostility, this only disables Dror Ragzlin's death triggering his non-present allies specifically.</p>\n<p>Shouldn't cause any problems with the storyline, in my own testing I was able to finish Halsin's quest, and take on the other 2 leaders separately without issue, after having taken Dror out first.</p>\n<p> </p>\n<p><strong>Compatibility:</strong><br>I edited the following scripts to make this work, so this mod will not be compatible with other mods that edit them:</p>\n<ul>\n<li>Act1_GOB_BattleStations</li>\n<li>Act1_GOB_Misc</li>\n</ul>\n<p> </p>\n<p><strong>Mods used in screenshots:</strong><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/466\">Horns of Faerun</a><br><a href=\"https://mod.io/g/baldursgate3/m/tavs-hair-salon\">Tav's Hair Salon</a><br><a href=\"https://mod.io/g/baldursgate3/m/infernal-intimates-tk#description\">Infernal Intimates</a><br>My Tav's outfit is a private mod and not available for download</p>\n<p> </p>\n<p style=\"text-align:center;\">If you'd like to see WIPs and posts about planned projects I now have a free <a href=\"https://www.patreon.com/c/Nikjima\">Patreon</a> you can follow! Nothing is locked behind a paywall, it's just a convenient place to share my work.</p>",
+    "date_added": 1757257758,
+    "date_updated": 1770913683,
+    "date_live": 1757258628,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dror-aggrnt-no-more-hostile-gobbo-camp",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 6752303,
+      "mod_id": 5221848,
+      "version": "1.0.0.3",
+      "filename": "droraggrnt_b0135039-e605-696b-fpvb.zip",
+      "changelog": null,
+      "date_added": 1757257793,
+      "date_updated": 0,
+      "date_scanned": 1757257832,
+      "filesize": 20849602,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/05e5/5221848/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/05e5/5221848/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/05e5/5221848/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/05e5/5221848/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6752303
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6752303
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6752303
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6752303
       }
     ]
   },
@@ -125619,6 +126390,134 @@
     ]
   },
   {
+    "id": 5570559,
+    "game_id": 6715,
+    "name": "College of Winter Spirit - Ice Mage Holiday Bard",
+    "name_id": "college-of-winter-spirit-bard-ice-themed",
+    "summary": "College of Winter Spirit by Jay Dunna :) ❄️ Cold-damage bard subclass",
+    "description": "<p>*sent for Console testing</p>\n<blockquote>\n<h2><strong>🎄🎅 </strong><strong>The College of Winter Spirit Bard ⛄🎄</strong></h2>\n</blockquote>\n<p>Weave frost and song into a chilling performance. Winter Spirit Bards don’t just play music, they conduct the cold itself! Calling upon the Winter Spirit Summons for help in combat. Winter Spirit Bards learn cold-damage versions of evocation spells, with some containing special upcasts. Unique weapons, healing items, weapon actions, summon spells &amp; more! With optional level 20 support, 22 passives to choose from, 33 total spells, and a 100% reason to play the game! (with this mod) ❄️</p>\n<p>No AI used, every line typed into the toolkit by Jay Dunna. 120-hour passion project for hitting 100k subs on YT!<br>Homebrewed by myself! Lots of RP potential as a jolly, whimsical bard. Sing your favorite holiday songs as you play, I dare ya! <br>I lean into Christmas/Holiday vibes, but I keep it mostly musical/cold themed for those who don't celebrate! :) <br><br>Powerful spellcaster, support your team with ice surfaces &amp; protect them from its effects. Very strong, but not turbo OP like sword bard/paladin. </p>\n<h2><strong><span style=\"text-decoration:underline;\">Winter Spirit Bard subclass progression to level 20</span></strong></h2>\n<h4>Pick a <span style=\"text-decoration:underline;\"><strong>Winter's Harmony</strong></span> passive at <em><strong>every</strong></em> level</h4>\n<p><span style=\"text-decoration:underline;\"><strong>Level 3)</strong></span> <br>[cantrip] Throw Snowball &amp; Winter's Wit bonus action (uses bardic inspiration)<br>[level 1 spell] Icy Missile, Chromatic Orb, Conjure Cranberry Juice (new healing item &amp; water for throwing with Mage Hand)<br>[summon] Ice Cat: Catsicle<br>[proficiency] Martial Weapons, Medium Armour, Shields</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 4) </strong></span><br>[level 2 spell] Freezing Ray<br>[weapon] Rimesong Blade (unique shortsword) <br>[aura] Anti-Slip Protection<br>[summon] Ice Dog: Frostbite</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 5)</strong></span><br>[level 3 spell] Ice Ball, Ice Beam<br>[summon] Ice Owlbear Cub<br>[passive] Sculpt Spells</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 6)</strong></span><br>Extra attack</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 7)</strong></span><br>[level 4 spell] Ice Storm, Sleet Storm<br>[level 2 smite] Aurora Smite (level 2 spell, weapon damage + 2d8 cold, upcastable) <br>[summon] Icy Skeleton x3 (uncontrollable like Danse Macabre) <br><br><span style=\"text-decoration:underline;\"><strong>Level 8)</strong></span><br>[weapon] Guide My Slay (unique bow)<br>[attack] Aurora's Guided Arrow (bardic inspiration trick shots) <br>[summon] Ice Owlbear</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 9)</strong></span><br>[level 3 spell] Snow Arrow<br>[level 5 spell] Cone of Cold</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 11)<br></strong></span>[level 6 spell] Chain Icebeam, Otiluke's Freezing Sphere</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 12)</strong></span><br>[level 6 spell] Wall of Ice<br>[summon] Snowman</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 14)</strong></span><br>[summon] Ice Skeleton x6</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 15)</strong></span><br>[summon] Ice Dog x3</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 17)</strong></span><br>[summon] Ice Owlbear x3</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 20)</strong></span><br>[summon] Snowman x3</p>\n<p> </p>\n<p>Strong spellcaster that plays like an Ice Mage, with unique bardic weapons, attacks, smites and more. <br>Check out my YouTube channel for more :) </p>\n<h2><br><a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">Jay Dunna</a><br><a href=\"https://www.youtube.com/watch?v=KnT5s0kq8do\" target=\"_blank\" rel=\"noopener noreferrer\">Video Breakdown</a></h2>\n<p> </p>\n<p>A HUGE thank you to <a href=\"https://mod.io/g/baldursgate3/u/ase243\" target=\"_blank\" rel=\"noopener noreferrer\">ASE243</a> for answering my 100s of questions and guiding this mod to completion. Thank you to Maggie113, <a href=\"https://mod.io/g/baldursgate3/u/dedewhale\" target=\"_blank\" rel=\"noopener noreferrer\">Dedewhale,</a> &amp; <a href=\"https://mod.io/g/baldursgate3/u/poppeii\" target=\"_blank\" rel=\"noopener noreferrer\">Poppeii</a> for bug testing! </p>\n<p>Outfits in thumbnails: <a href=\"https://mod.io/g/baldursgate3/m/merry-christmas#description\" target=\"_blank\" rel=\"noopener noreferrer\">Merry Christmas by PommelStrike </a> <a href=\"https://www.nexusmods.com/baldursgate3/mods/12122\" target=\"_blank\" rel=\"noopener noreferrer\">Celestial Threads by Arideyya on Nexus</a> <a href=\"https://mod.io/g/baldursgate3/m/tactical-dress#description\" target=\"_blank\" rel=\"noopener noreferrer\"> Femme Fatale Tactical Dress by Skirbie </a> <a href=\"https://mod.io/g/baldursgate3/m/scrappy-little-christmas-presents#discussion\" target=\"_blank\" rel=\"noopener noreferrer\">Scrappy Little Christmas Presents Sweater by Petrigrof99</a><br><a href=\"https://mod.io/g/baldursgate3/m/main-darker-act3-nightmode#description\" target=\"_blank\" rel=\"noopener noreferrer\"> Night Mode Mod by  -CH- </a> <a href=\"https://mod.io/g/baldursgate3/m/scrappy-little-christmas-presents#description\" target=\"_blank\" rel=\"noopener noreferrer\">Scrappy Little Christmas Presents by Petrigrof99</a></p>\n<p> </p>\n<h3><a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">Let me know your thoughts on my YouTube Channel! :) </a></h3>\n<p> </p>\n<p> </p>",
+    "date_added": 1765565491,
+    "date_updated": 1770915407,
+    "date_live": 1765570102,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/college-of-winter-spirit-bard-ice-themed",
+    "submitted_by": {
+      "id": 34758130,
+      "name_id": "jasondunna",
+      "username": "jasondunna",
+      "profile_url": "https://mod.io/u/jasondunna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3931/34758130/crop_100x100/fiverr_jay-dunna-v2-2.png"
+    },
+    "modfile": {
+      "id": 7133071,
+      "mod_id": 5570559,
+      "version": "1.0.0.10",
+      "filename": "collegeofwinter_06f1a66a-976b-1u6h.zip",
+      "changelog": "Official release 1.0! :) Created entirely in BG3 Modding Toolkit to ensure console compatability. Hoping for console approval before the Holiday season! Enjoy :)",
+      "date_added": 1765565501,
+      "date_updated": 0,
+      "date_scanned": 1765565527,
+      "filesize": 12210926,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/85d0/5570559/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/85d0/5570559/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/85d0/5570559/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/85d0/5570559/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7133071
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7133071
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7133071
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7133071
+      }
+    ]
+  },
+  {
     "id": 5577293,
     "game_id": 6715,
     "name": "Clansong - Astarion as Ruby Dragonborn BT1",
@@ -126280,6 +127179,626 @@
       {
         "platform": "ps5",
         "modfile_live": 7264726
+      }
+    ]
+  },
+  {
+    "id": 5694039,
+    "game_id": 6715,
+    "name": "Infernal Coronet - Lava-Forged Crown",
+    "name_id": "infernal-coronet-lava-forged-crown",
+    "summary": "Lava Elemental / Fire Myrmidon inspired headwear with original design. For BT1/2/3/4 tall races only. Two slot options, two styles and two stats options.",
+    "description": "<p>Forged from jagged rock and flowing magma, this coronet gives you the menacing presence of a pyromancer who commands eternal fire... 🔥👑<br><br>This headwear is <strong><u><span style=\"font-size:medium;\">compatible with Body Types 1, 2, 3, 4 (Tall Races)</span></u></strong> (Githyanki and Dragonborn refitted to match head shapes).<br>You can choose between the <strong><u>Glow Version (with flowing magma) and the Non-Glow Version.</u></strong><br>The <strong><u>non-magma parts</u></strong> of the crown are fully <strong><u>dyeable.</u></strong><br><br><span style=\"font-size:x-large;\"><strong><u>Item List:</u></strong></span><br><strong><u><br>Infernal Coronet (OP)</u></strong><br>Version with flowing magma. Grants the wearer 'Fire Immunity' and unlocks the spell 'Scorching Ray'. Equippable in the Helmet slot.<br><strong><u>Infernal Coronet (Ordinary)</u></strong><br>Version with flowing magma. Purely cosmetic with no stats or buffs.<br>Equippable in the Helmet slot.<br><strong><u>Infernal Coronet (Underwear)</u></strong><br>Same as above, but equippable in the Underwear slot.<br><strong><u>Infernal Coronet (OP) (NoGlow)</u></strong><br>Version WITHOUT flowing magma. Grants the wearer 'Fire Immunity' and unlocks the spell 'Scorching Ray'. Equippable in the Helmet slot.<br><strong><u>Infernal Coronet (Ordinary) (No Glow)</u></strong><br>Version WITHOUT flowing magma. Purely cosmetic with no stats or buffs.<br>Equippable in the Helmet slot.<br><strong><u>Infernal Coronet (Underwear) (No Glow)</u></strong><br>Same as above, but equippable in the Underwear slot.<br><br></p>\n<hr>\n<p><span style=\"font-size:x-large;\"><strong><u>Locations:</u></strong></span><br><span style=\"font-size:medium;\"><strong><br>Tutorial Chest<br>Vendors across the maps, including:<br></strong></span><br><em><u>Volo in Campsite<br>Dammon from all three locations<br>Roah Moonglow from Goblin Camp<br>Kith from Grymforge<br>Blurg from Underdark<br>Araj Oblodra from Moonrise Towers<br>Entharl Danthelon from Wyrm's Crossing<br>Helsik from Devil’s Fee<br>Figaro Pennygood from Lower City<br></u></em></p>\n<hr>\n<p><br><span style=\"font-size:large;\"><u><strong>Some more ramblings because that’s what I do…</strong></u></span><br><br>Well, this one actually took me way longer than I thought it would…<br>Initially, I wanted to create a glowing visual effect by using a glow map and a no transparency base map. At first, I encountered issues with the glow not appearing on the helmet slot version (but weirdly the underwear version works). After several hours of experimentation,I realized it was KAVT that was causing the issue, and it seems like using other kinds of shaders can make it work. So later on I found a solution for this: instead of relying solely on a single mesh and single shader, I kept the original headwear mesh and added a smaller one of the exact same mesh, as an inner mesh. This inner mesh uses the lava shader, while I drew out some slits on the base map as transparency, allowing the light to shine through. Additionally, I layered a fire vfx over the headwear. <br><br>For the design, I took some pieces from the Fire Myrmidon in BG3, and arranged them in my own way (well, now that I think of it, maybe I was thinking about Scarlet Witch or Hela? but Hela’s crown is too large though, I feel like it’s harder to match outfits…), also it’s worth mentioning that, because tieflings have horns, I had to remove one of the spikes and adjust the location of other spikes so that it’ll look more natural.<br><br>Anyways, I hope you guys enjoy this headwear! :D<br><br></p>\n<hr>\n<p><br><span style=\"font-size:large;\"><strong><u>Mods used in showcase images:<br></u></strong></span><br>Hair:<a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\"> Myky’s Hairstyles</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/226\">Misc mods</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\">Hijimare Hairs</a><br>Clothing: <a href=\"https://www.nexusmods.com/baldursgate3/mods/20082\">Sanguine Weave</a>, <a href=\"https://www.patreon.com/posts/shang-tsung-male-142280852\">Shang Tsung: Titan</a><br>Colors, eyes:<a href=\"https://www.nexusmods.com/baldursgate3/mods/2536\"> Astralities' Skintone Expansion</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/19276\">Maybe it's natural maybe it's Poesielibre</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/14167\"> Myky's CC Color Collection</a><br>Head presets:<a href=\"https://www.nexusmods.com/baldursgate3/mods/19563\">Berry’s Heads - Hyacinth</a><br>Tattoo/Scar: <a href=\"https://www.nexusmods.com/baldursgate3/mods/16595\">Kaz x Astralities - Scarred Visage</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/16325\"> KAVT<br></a></p>\n<h4><span style=\"text-decoration:underline;\">Image 1-3 and 7-8 are photographed by the amazing <a href=\"https://linktr.ee/arachnomancer\">@Arachnomancer </a>:)</span></h4>\n<hr>\n<h2><span style=\"font-size:small;\"> </span><u>Permission:</u></h2>\n<p>As long as you don’t reupload the PAK file or anything inside the PAK file somewhere else, modifying them for personal use (screenshot purpose) is allowed, and there is no need to ask for permission. Feel free to refit any of these items into other body types. :)<br><br></p>\n<hr>\n<p><br><span style=\"font-size:large;\"><strong>Also, the headwear comes with lava VFX!</strong></span> See final showcase video.</p>",
+    "date_added": 1768581117,
+    "date_updated": 1770914856,
+    "date_live": 1768581117,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/infernal-coronet-lava-forged-crown",
+    "submitted_by": {
+      "id": 43867185,
+      "name_id": "berrysemifreddo",
+      "username": "BerrySemifreddo",
+      "profile_url": "https://mod.io/u/berrysemifreddo",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3cdf/43867185/crop_100x100/dyingpillow-transparent.png"
+    },
+    "modfile": {
+      "id": 7279603,
+      "mod_id": 5694039,
+      "version": "1.0.1.35",
+      "filename": "infernalcoronet_d934e771-50d6-1nsx.zip",
+      "changelog": "Changed shaders.",
+      "date_added": 1768623012,
+      "date_updated": 0,
+      "date_scanned": 1768623096,
+      "filesize": 23443785,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "cover.1.jpg",
+      "original": "https://image.modcdn.io/mods/5c96/5694039/cover.1.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5c96/5694039/crop_320x180/cover.1.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5c96/5694039/crop_640x360/cover.1.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5c96/5694039/crop_1280x720/cover.1.jpg"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7279603
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7279603
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7279603
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7279603
+      }
+    ]
+  },
+  {
+    "id": 5694612,
+    "game_id": 6715,
+    "name": "Way of the Pizza Chef Monk subclass",
+    "name_id": "way-of-the-pizza-chef-monk-subclass",
+    "summary": "Ever wonder why there is pizza in Baldur's Gate? Now you know. Order now on Heroes Feast! 🍕",
+    "description": "<p>~Featured in Larian Studios' Livestreams! <br><br>Ever wonder why there is pizza in Baldur's Gate? Now you know.<br>Order now on Heroes Feast!<br><br>The Way of the Pizza Chef Monks specialize in fire damage, with 4 progressive summons, a pizza weapon, throwables, and healing items.<br>Full level 20 support. Relatively balanced; an open hand monk / rogue thief has higher damage-per-round than this class. <br><br>Follow in the teachings of the Dwarven Pizza Chef, Kneadrik Embercrust 🔥<br>Second subclass mod by <a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">Jasondunna :)</a><br>I guarantee you'll have a laugh playing this subclass! <br><br><strong><span style=\"text-decoration:underline;\">Level 3)</span></strong><br>Attack- Flour-dusted Fist: free unarmed attack, so you can use any melee weapon<br>Attack- Sauce of the Scorching Slice: extra fire damage, ranged unarmed attack<br>Craft- Smokepowder Pizza: bake 3 explosive pizzas<br>Summon- Pizza Elemental: custom flying pizza summon! <br><br>Path of the Balanced Slice passives selected at levels: 3, 5, 7, 9, 11, 14, 17, 19.<br><br><span style=\"text-decoration:underline;\"><strong>Level 4)</strong></span><br>Feat- Tavern brawler (play a dex or a strength monk with more flexibility) </p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 6)</strong></span><br>Passive- Manifestations of Marinara, Mozzarella, Pepperoni &amp; Oregano <br>Craft- Healing Pizza: Bake 3 healing pizzas<br>Summon- Dough Elemental<br><br><span style=\"text-decoration:underline;\"><strong>Level 7)</strong></span><br>Weapon- Final Slice: Fire damage pizza longsword</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 9)</strong></span><br>Summon- Greater Pizza Elemental</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 12)</strong></span><br>Buff - Pizza Chef's Feast<br>Summon- Kneadrik Embercrust Dwarf pizza chef avatar</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 14)</strong></span><br>Passive- Fast Hands: extra bonus action<br><br><span style=\"text-decoration:underline;\"><strong>Level 15)</strong></span><br>Summon- Pizza or Dough Elemental x3<br><br><span style=\"text-decoration:underline;\"><strong>Level 20)</strong></span><br>Summon- PizzUs (Us the brain, pizzafied) </p>\n<p><img src=\"https://image.modcdn.io/members/3931/34758130/profile/pizzachef.png\" alt=\"Pizza Chef Monk icon\" width=\"300\" height=\"300\"></p>\n<p>Check out my YouTube channel to see more of the Way of the Pizza Chef Monk! More BG3 mods on the way.</p>\n<h2><a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">Jay Dunna</a></h2>\n<p><br>A huge thank you to the following:<br><br><a href=\"https://mod.io/g/baldursgate3/u/incogneatoburrito\" target=\"_blank\" rel=\"noopener noreferrer\">IncogneatoBurrito</a> for the massive help with the pizza elemental and final slice weapon! Check out their Book of Sorcerer, Rogues, Druids &amp; Wizard subclass mods!<br><a href=\"https://mod.io/g/baldursgate3/u/sumradagnoth\" target=\"_blank\" rel=\"noopener noreferrer\">Sumradagnoth </a> for helping make the pizza elemental come to life! Wouldn't have happened without their help. Check out the 5e Fighter, Barbarian, Monk, Ranger and Cleric subclasses combined!<br><a href=\"https://mod.io/g/baldursgate3/u/ase243\" target=\"_blank\" rel=\"noopener noreferrer\">ASE243</a> for helping me learn the toolkit and assemble this mod! <br>Maggie113 for bug testing &amp; feedback<br><br>Outfit mod: <a href=\"https://www.nexusmods.com/baldursgate3/mods/87\" target=\"_blank\" rel=\"noopener noreferrer\">Basket full of Equipment SFW </a><br><br><iframe src=\"https://www.youtube.com/embed/zchLTYay99U\" width=\"560\" height=\"314\"></iframe></p>\n<h3><a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">Let me know your thoughts on my YouTube Channel! :) </a></h3>\n<p> </p>",
+    "date_added": 1768591583,
+    "date_updated": 1770915335,
+    "date_live": 1768593647,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/way-of-the-pizza-chef-monk-subclass",
+    "submitted_by": {
+      "id": 34758130,
+      "name_id": "jasondunna",
+      "username": "jasondunna",
+      "profile_url": "https://mod.io/u/jasondunna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3931/34758130/crop_100x100/fiverr_jay-dunna-v2-2.png"
+    },
+    "modfile": {
+      "id": 7277686,
+      "mod_id": 5694612,
+      "version": "1.0.0.10",
+      "filename": "pizzamonk_9dcb481a-d1ed-e866-d-gpfd.zip",
+      "changelog": "1.0- Official Launch! Served fresh",
+      "date_added": 1768591590,
+      "date_updated": 0,
+      "date_scanned": 1768591603,
+      "filesize": 5007984,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/98ba/5694612/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/98ba/5694612/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/98ba/5694612/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/98ba/5694612/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Monk",
+        "name_localized": "Monk",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7277686
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7277686
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7277686
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7277686
+      }
+    ]
+  },
+  {
+    "id": 5704282,
+    "game_id": 6715,
+    "name": "Arachnophobia Mode - No spiders, only sheep",
+    "name_id": "arachnophobia-mode-no-spiders-only-sheep",
+    "summary": "Replaces all spiders with sheep. Even half of Kar'niss. Please keep in mind that installing this mod will disable achievements. Spider-Sheep will sometimes pause before executing certain attacks but will resume as expected.",
+    "description": "<p>Welcome! This mod changes all spiders into sheep.</p>\n<p>A few things to keep in mind:</p>\n<ul>\n<li>Installing this mod will disable achievements. </li>\n<li>Cutscenes meant to feature spiders will look extremely goofy with the sheep instead. </li>\n<li>Sometimes spider-sheep will perform attacks that the sheep model doesn't have an animation for. This will cause the spider-sheep to pause for a moment before continuing combat.</li>\n<li>Some spider-sheep have a custom Enlarge/Reduce on them. This does nothing but change their size, no buffs or debuffs are applied.</li>\n<li>This mod also affects the Druid Wildshape, the Ranger Companion, and Find Familiar, so if you have arachnophobia but you would really like to play with the spider companions/wildshapes, you can do that now, but they will animation lag sometimes, so it would likely be annoying. </li>\n</ul>\n<p><strong>Please let me know if you find any rogue spiders who haven't gotten the memo to become sheep!</strong> </p>",
+    "date_added": 1768774166,
+    "date_updated": 1770915458,
+    "date_live": 1768778420,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/arachnophobia-mode-no-spiders-only-sheep",
+    "submitted_by": {
+      "id": 34676767,
+      "name_id": "modiouser2075079",
+      "username": "Papriqua",
+      "profile_url": "https://mod.io/u/modiouser2075079",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7288718,
+      "mod_id": 5704282,
+      "version": "1.0.0.36",
+      "filename": "papri_arachnophobia_e7d4d500-2-6dnp.zip",
+      "changelog": null,
+      "date_added": 1768774179,
+      "date_updated": 0,
+      "date_scanned": 1768774206,
+      "filesize": 15617666,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "oopsallsheep2.png",
+      "original": "https://image.modcdn.io/mods/359d/5704282/oopsallsheep2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/359d/5704282/crop_320x180/oopsallsheep2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/359d/5704282/crop_640x360/oopsallsheep2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/359d/5704282/crop_1280x720/oopsallsheep2.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Accessibility",
+        "name_localized": "Accessibility",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7288718
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7288718
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7288718
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7288718
+      }
+    ]
+  },
+  {
+    "id": 5719800,
+    "game_id": 6715,
+    "name": "Poesielibre's Spellbound Sisters - Head Duo",
+    "name_id": "pl-patreon-2k-gift",
+    "summary": "Two BT1 heads",
+    "description": "<div style=\"text-align:center;\"><br><br><br><div style=\"text-align:center;\"><span style=\"color:#6fa8dc;\"><u><span style=\"font-size:large;\"><strong>What is this mod</strong></span></u></span><span style=\"color:#6fa8dc;\"><u><span style=\"font-size:large;\"><strong>:</strong></span></u></span><br><br>Adds two new heads to the standard female body type in Character Creation.<br>Narcisse: For Human, Drow, Elf, Half-Elf, Tiefling<br>Marion: For Human, Drow, Elf, Half-Elf, Tiefling<span style=\"font-size:large;\"><strong><br></strong></span><br><strong><span style=\"color:#8e7cc3;\"><span style=\"font-size:large;\"><u>Note:</u></span></span></strong><br>Both heads use my custom eyelash textures from my Lash Bar resource<br><br><span style=\"color:#93c47d;\"><span style=\"font-size:large;\"><u><strong>Thanks and Credits</strong></u></span></span></div><br><br><br><div style=\"text-align:center;\">To the BG3 modding community for the love and help while making these presets<br>To my friends for the love and encouragement while finishing this mod</div><br></div>",
+    "date_added": 1769207274,
+    "date_updated": 1770915516,
+    "date_live": 1769207831,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/pl-patreon-2k-gift",
+    "submitted_by": {
+      "id": 38797,
+      "name_id": "poesielibre",
+      "username": "Poesielibre",
+      "profile_url": "https://mod.io/u/poesielibre",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3fd2/38797/crop_100x100/alixprofile.jpeg"
+    },
+    "modfile": {
+      "id": 7307927,
+      "mod_id": 5719800,
+      "version": "1.0.0.20",
+      "filename": "pl_patreon_2k_gift_2d0e108a-ab-5hdy.zip",
+      "changelog": null,
+      "date_added": 1769207348,
+      "date_updated": 0,
+      "date_scanned": 1769207474,
+      "filesize": 73942128,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/e9da/5719800/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/e9da/5719800/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/e9da/5719800/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/e9da/5719800/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7307927
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7307927
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7307927
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7307927
+      }
+    ]
+  },
+  {
+    "id": 5720354,
+    "game_id": 6715,
+    "name": "Ring of Viciousness (Critical Ring)",
+    "name_id": "ring-of-viciousness-critical-ring",
+    "summary": "Adds a rare ring to Act 2 that reduces critical hit threshold by 1.",
+    "description": "<p>Adds a rare ring to Act 2 that reduces critical hit threshold by 1.<br><br>Simple and balanced. Aimed to help build a character around Critical Hits.<br><br>The ring is sold by <a href=\"https://bg3.wiki/wiki/Lann_Tarv\">Lann Tarv</a> at Moonrise Towers in Act 2 (part of his standard stock, no need to convince him to see his secret stash).</p>\n<p><img src=\"https://image.modcdn.io/mods/bfbd/5720354/ring.png\" alt=\"\" width=\"600\" height=\"338\"></p>\n<p> </p>\n<p>UUID of the ring: d1f4d9d0-f9ba-4895-83c2-5416a12e2b16</p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>",
+    "date_added": 1769217634,
+    "date_updated": 1770915560,
+    "date_live": 1769217746,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ring-of-viciousness-critical-ring",
+    "submitted_by": {
+      "id": 1135184,
+      "name_id": "chizfreak",
+      "username": "ChizFreak",
+      "profile_url": "https://mod.io/u/chizfreak",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
+    },
+    "modfile": {
+      "id": 7308598,
+      "mod_id": 5720354,
+      "version": "1.0.0.1",
+      "filename": "criticalring_42a09ab3-03cf-d8f-a4w2.zip",
+      "changelog": "Initial release.",
+      "date_added": 1769217643,
+      "date_updated": 0,
+      "date_scanned": 1769217832,
+      "filesize": 741718,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/bfbd/5720354/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/bfbd/5720354/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/bfbd/5720354/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/bfbd/5720354/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7308598
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7308598
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7308598
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7308598
       }
     ]
   }
