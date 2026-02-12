@@ -48843,6 +48843,94 @@
     ]
   },
   {
+    "id": 4387890,
+    "game_id": 6715,
+    "name": "Origin Characters Dice Set",
+    "name_id": "origin-characters-dice-set1",
+    "summary": "This dice set is inspired in the origin characters from Baldur's Gate 3. With the main feature of the number 20, which means a critical on the dice, it is replaced by each of the origin characters. (Compatible with all languages)",
+    "description": "<p>This dice set is inspired in the origin characters from Baldur's Gate 3.</p>\n<p>With the main feature of the number 20, which means a critical on the dice, it is replaced by each of the origin characters.</p>\n<p>(Compatible with all languages)</p>",
+    "date_added": 1728170657,
+    "date_updated": 1770913572,
+    "date_live": 1728171063,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/origin-characters-dice-set1",
+    "submitted_by": {
+      "id": 35416488,
+      "name_id": "gonzy42",
+      "username": "Gonzy42",
+      "profile_url": "https://mod.io/u/gonzy42",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c29c/35416488/crop_100x100/image7.png"
+    },
+    "modfile": {
+      "id": 5636879,
+      "mod_id": 4387890,
+      "version": "1.0.0.5",
+      "filename": "origindice_52e0a463-539d-5e1a-6lii.zip",
+      "changelog": null,
+      "date_added": 1728172193,
+      "date_updated": 0,
+      "date_scanned": 1728172299,
+      "filesize": 98546984,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/6c14/4387890/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/6c14/4387890/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/6c14/4387890/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/6c14/4387890/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5636879
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5636879
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5636879
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5636879
+      }
+    ]
+  },
+  {
     "id": 4388007,
     "game_id": 6715,
     "name": "Twilight Cleric",
@@ -90454,6 +90542,114 @@
     ]
   },
   {
+    "id": 4815544,
+    "game_id": 6715,
+    "name": "Tieflings with Wings Remake",
+    "name_id": "tieflings-with-wings-remake",
+    "summary": "Coming back to you new and improved - since the old one broke so badly even when I got it open again it wasn't worth trying to fix it.",
+    "description": "<p>Latest update:</p>\n<p>Might not be good for a mid playthrough update.</p>\n<p>Deleted some fluff in an attempt to clean up the mod. Changed the dialogue idle of the wings, how to make the wings respond to dialogue scenes still eludes me. The wings aren't as tight to the back anymore as I found a wing position that frees up the camera line of site on the right side.</p>\n<p>Let me know if you have any issues with this new position!</p>\n<p>It has likely introduced issues with scenes I haven't seen yet, let me know if you spot any - but not sleep related scenes please, I'm aware many sleep scenes will clip with wings into the ground.</p>\n<p> </p>\n<p> </p>\n<p>For the anonymous reporter and future additions:<br>This mod is a full subrace option, not a cosmetic option. No original tieflings are altered/harmed by this mod, you need a new game and then select Winged Tiefling as a subrace.</p>\n<p>Please comment if you’re having issues, I need a back and forth with you to find the causes of issues you’re seeing.</p>\n<p>I can’t do anything with error reports other than read them and thoughtfully frown. That’s my clueless face btw.</p>\n<p>Thank you to those who have commented the issues they see with when using this mod and to those who do so in the future.</p>\n<p> </p>\n<p> </p>\n<p>Added spells for later levels, summon two little friends, a one use healer/shield based on the nightmare nurses and a dog based on Scratch/Hound of Ill Omen now but in green - I'll have to update the screenshots..</p>\n<p>The icon of the dog is a ghost, I left it like that because I didn't want to use Scratch's icon and this isn't a normal dog.</p>\n<p>There is also a shadow step that creates darkness around you. It was going to be based on the Shadow Sorcerer but cause twinned spell instead of distant spell, I am still trying to fiddle with this.</p>\n<p>Added a misty form based on what I read on the wiki page of shadow sorcerers, I suppose I am trying to fill in anything missing or possible to add now.</p>\n<p> </p>\n<p>I managed to add ImpUI as a requirement but I think I was being over cautious, I don't think it is needed and there are no references to it.</p>\n<p> </p>\n<p><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\">Main points:</span></p>\n<p>The winged tieflings are an attempt at a combination of the other 3, might have made them slightly overpowered.<br>The wings fold during conversations to stop them from blocking the camera.<br>The wings follow the skin colour of your character.<br>They are not able to be unequipped!<br>Your character starts able to fly.<br>Same wing model for strong and standard body types so that the seal on the back is complete.<br>I added a couple of extra spells to level up with because I liked them.<br>The extra passive you will see is the critical failure reroll passive.</p>\n<p>If you see any issues please let me know!</p>\n<p> </p>\n<p>For future:<br>I am still working on the animations of the wings so they are a little responsive to what you are doing/what scene you are in. So if you see any issues with the wings getting in the way or something, let me know what scene it was and what kind of position the wings were in and I'll be able to better track it down.</p>\n<p>Incompatibility:<br>Not compatible with wings able to be equipped, you can have the mod installed but it won't look right when the equitable wings are equipped. It doubles the wings in an wonky way and looks super weird. It doesn’t even looks like a multi-wing cool thing it’s just stretched and- idk if you want to see it try it, it’s just a bit weird when I tested it.</p>\n<p>Compatibility:<br>If it is made to be used with the tiefling race it is usable with this lot.</p>\n<p> </p>\n<p>All thanks as always to Rosprey and their instructions on how to create a new race!</p>\n<p>Further thanks to the Discord for their help tracking the causes of issues with this mod!</p>",
+    "date_added": 1742671219,
+    "date_updated": 1770913609,
+    "date_live": 1742671529,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/tieflings-with-wings-remake",
+    "submitted_by": {
+      "id": 35506812,
+      "name_id": "talvinter1",
+      "username": "Saelent",
+      "profile_url": "https://mod.io/u/talvinter1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f815/35506812/crop_100x100/e8ef2b11eee5e2b7b13c3a82cbbbb5e.jpg"
+    },
+    "modfile": {
+      "id": 6585634,
+      "mod_id": 4815544,
+      "version": "1.0.0.109",
+      "filename": "tiefling_with_wings_bb2cac13-7-5rol.zip",
+      "changelog": "Minor update removing some items from the progression since I'm separating this mod and another project.",
+      "date_added": 1752956458,
+      "date_updated": 0,
+      "date_scanned": 1752956475,
+      "filesize": 6492850,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/f24d/4815544/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f24d/4815544/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f24d/4815544/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f24d/4815544/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Just Testing",
+        "name_localized": "Just Testing",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6585634
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6585634
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6585634
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6585634
+      }
+    ]
+  },
+  {
     "id": 4815617,
     "game_id": 6715,
     "name": "Poesielibre's Glossy and Metallic Face Tattoos",
@@ -96483,6 +96679,119 @@
       {
         "platform": "ps5",
         "modfile_live": 6278582
+      }
+    ]
+  },
+  {
+    "id": 4873862,
+    "game_id": 6715,
+    "name": "Hexblade's Curse BUGFIX",
+    "name_id": "hexblades-curse-bugfix",
+    "summary": "Fixes the huge bug of the new Hexblade Warlock's Curse that causes it to infinitely stack on the Warlock over the course of a playthrough. Made for Patch 8.",
+    "description": "<p><strong><span style=\"color:#ff0000;\"><u>DISCLAIMER: This bug has been officially fixed as of Hotfix #30 released the 30th of April 2025. This mod is longer necessary after that hotfix.</u></span></strong></p>\n<p>Fixes the huge bug of the new Hexblade Warlock's Curse that causes it to infinitely stack on the Warlock over the course of a playthrough. Made for Patch 8.</p>\n<p>Fixed by making the hidden technical status responsible of the functionality Unique so it can't be duplicated by the same caster and made it's also removed on respec like all other similar statuses.</p>\n<p>Source <a href=\"https://bg3.wiki/wiki/Bind_Hexed_Weapon\">https://bg3.wiki/wiki/Bind_Hexed_Weapon</a>:</p>\n<p><img src=\"https://image.modcdn.io/mods/ae15/4873862/source.png\" alt=\"\" width=\"1000\" height=\"138\"></p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>",
+    "date_added": 1744803132,
+    "date_updated": 1770913458,
+    "date_live": 1744803408,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/hexblades-curse-bugfix",
+    "submitted_by": {
+      "id": 1135184,
+      "name_id": "chizfreak",
+      "username": "ChizFreak",
+      "profile_url": "https://mod.io/u/chizfreak",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
+    },
+    "modfile": {
+      "id": 6278787,
+      "mod_id": 4873862,
+      "version": "1.0.0.1",
+      "filename": "hexbladecursebugfix_da9889d9-7-ekcy.zip",
+      "changelog": "Initial release.",
+      "date_added": 1744803141,
+      "date_updated": 0,
+      "date_scanned": 1744803147,
+      "filesize": 623828,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ae15/4873862/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ae15/4873862/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ae15/4873862/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ae15/4873862/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6278787
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6278787
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6278787
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6278787
       }
     ]
   },
@@ -115116,6 +115425,99 @@
     ]
   },
   {
+    "id": 5082823,
+    "game_id": 6715,
+    "name": "Storm And Spectral Dice",
+    "name_id": "storm-and-spectral-dice",
+    "summary": "This is my submission for the July 2025 Modathon \"Storm &amp; Ghosts\" theme. This set includes two dice skins: Storm - The energy of a raging storm is in the palm of your hand. Spectral - You hear faint whispers of the souls trapped within.",
+    "description": "",
+    "date_added": 1752167891,
+    "date_updated": 1770913538,
+    "date_live": 1752168106,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/storm-and-spectral-dice",
+    "submitted_by": {
+      "id": 35409081,
+      "name_id": "sultryshea",
+      "username": "SultryShea",
+      "profile_url": "https://mod.io/u/sultryshea",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/6818/35409081/crop_100x100/img_4396.jpg"
+    },
+    "modfile": {
+      "id": 6555928,
+      "mod_id": 5082823,
+      "version": "1.0.0.5",
+      "filename": "stormandspectral_a40319b3-30d5-cp0f.zip",
+      "changelog": null,
+      "date_added": 1752167908,
+      "date_updated": 0,
+      "date_scanned": 1752167967,
+      "filesize": 35413981,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/9f53/5082823/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9f53/5082823/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9f53/5082823/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9f53/5082823/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon",
+        "name_localized": "Modathon",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6555928
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6555928
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6555928
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6555928
+      }
+    ]
+  },
+  {
     "id": 5083287,
     "game_id": 6715,
     "name": "LaezelKissDialog",
@@ -117499,6 +117901,134 @@
       {
         "platform": "ps5",
         "modfile_live": 6866970
+      }
+    ]
+  },
+  {
+    "id": 5138870,
+    "game_id": 6715,
+    "name": "Queen's Garments",
+    "name_id": "queens-garments",
+    "summary": "Queen's Garments is a pack that has undergarments fit for royalty. They feature many customisation options such as body sculpts and PHYSICS.",
+    "description": "<p>A pack that has undergarments fit for royalty<br>only for bodytype 1<br>camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Commissioned for Morgana Evelyn</p>\n<p>Find Queen's Garments at the follow locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1754207608,
+    "date_updated": 1770913373,
+    "date_live": 1754210788,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/queens-garments",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 7272429,
+      "mod_id": 5138870,
+      "version": "1.0.0.25",
+      "filename": "eqlngerie_7b25c953-f727-cab3-3-bhbe.zip",
+      "changelog": "- minor tweaks and bug fixes",
+      "date_added": 1768448871,
+      "date_updated": 0,
+      "date_scanned": 1768449063,
+      "filesize": 129614346,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "20251220164244_2.1.jpg",
+      "original": "https://image.modcdn.io/mods/825a/5138870/20251220164244_2.1.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/825a/5138870/crop_320x180/20251220164244_2.1.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/825a/5138870/crop_640x360/20251220164244_2.1.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/825a/5138870/crop_1280x720/20251220164244_2.1.jpg"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7272429
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7272429
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7272429
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7272429
       }
     ]
   },
@@ -125085,6 +125615,139 @@
       {
         "platform": "ps5",
         "modfile_live": 7100664
+      }
+    ]
+  },
+  {
+    "id": 5577293,
+    "game_id": 6715,
+    "name": "Clansong - Astarion as Ruby Dragonborn BT1",
+    "name_id": "astarion-as-dragonborn-companion-replacer",
+    "summary": "Changes Astarion to BT1 Dragonborn",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/22CO4NEKQvk?si=1-T-hKVpT6aK5T0k\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p><strong>Set Animation Level of Detail on High<br>Mod still <a href=\"https://www.patreon.com/posts/questions-about-145896258\">WIP</a><br></strong></p>\n<hr>\n<h2>Clansong - Astarion as Dragonborn BT1</h2>\n<p>Optional file of <strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\">Clansong</a><br>THIS ONE IS FULL OVERRIDE, BODY TOO<br>IN THE DESCRIPTION OF THE <a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\">MAIN FILE </a> SEVERAL <span style=\"text-decoration:underline;\">OTHER </span>OPTIONS ABOUT COMPANIONS YOU COULD CHOOSE FROM<br><iframe src=\"https://www.youtube.com/embed/_MtFHyfHYi8\" width=\"560\" height=\"314\"></iframe><br></strong><strong><br></strong>✧ Changes Astarion’s <strong>visuals</strong> to Dragonborn <strong>from the start</strong><strong>.</strong><br>✧ Changes his actual race<strong> to Dragonborn</strong>. he has<strong> Dragonborn stats</strong>. <br>In CC his is Ruby Dragonborn, but if you want to have him as Ruby out in a wild use patch <strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-astarion-as-ruby-dragonborn-bt1-subrace#description\">Clansong - Astarion BT1 - Ruby SUBRACE PATCH</a><br></strong>Otherwise he will be mimic as <strong>Red one, since it's stats the closest to a Ruby.</strong> <strong>Subrace module separated since subraces is forbitten to be on consoles<br></strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-astarion-as-ruby-dragonborn-bt1-subrace#description\"><img src=\"https://image.modcdn.io/mods/8e38/5577293/ast7copy2.1.png\" alt=\"\" width=\"1200\" height=\"1200\"></a><br>NPCs will react to him as a Dragonborn, except for pre-recorded “elf” mentions. (as example some person will call you a lizard to offend you)<br>✧ Changes his <strong>avatar in character creation and his first avatar </strong>when you meet him<br><strong>If you added mod midplaytrough</strong> and lvl upped him once - char does not uses first avatar anymore - he uses generated one - <strong>lvl up him or respec to update his generated portrait</strong><br>✧ You can play him as a <strong>Dragonborn origin from the start</strong>, and he is fully talkative<br>✧ Astarion speaks like a normal person with <strong>human-like lip-sync movements<br>✧ </strong>Astarion has his <strong>body scars<br>✧ Adds his skin and eye (+ blind variations for left and right) colors as selectables in CC <br></strong>in case if you resculpt him with <a href=\"https://www.nexusmods.com/baldursgate3/users/69959758\">Eralyne</a>'s <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a></strong> or want it for Tav/Durge<br>About eye colors - I added left and right variations for blindness as separate selectables, since blindness not plays nicely with heterocromia for one of the eyes<br><br></p>\n<hr>\n<h2>Some Advise</h2>\n<p><strong>If you resculpt him with</strong> <a href=\"https://www.nexusmods.com/baldursgate3/users/69959758\">Eralyne</a>'s <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a><br></strong>Select same tail, glowink, body of Fleshforge, due to how <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">AEE</a></strong> currently setuped all shirtless scenes does not change body to your resculpt, so best way to \"hide\" this inconvinience - use same body to avoid flickering. His body is <strong>Sickle B with Scar C</strong>. <br><strong>OR USE</strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/20920?tab=files\"><strong>Clansong - Astarion BT1 - AEE RESCULPT PATCH</strong></a> <br><strong><br></strong></p>\n<hr>\n<h2>Drawbacks</h2>\n<p>Warning - kisses don’t work with Dragonborn heads right now. The maw is too long, I'm planning to override Karlach specific <a href=\"https://www.patreon.com/posts/questions-about-145896258\"><strong>Interaction Animations</strong></a><br>Piercings won’t work either, since the selectable options are Dragonborn’s but the armature is Human’s/Hybrid<br><br>When you first meet Astarion he would not have his resistances but would gain them when you get him in party, dunno why yet, mb I'll figure that out and fix it</p>\n<hr>\n<h2>Patches</h2>\n<p><strong>✧ </strong><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/353?tab=files\">P4 </a></strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/353?tab=files\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Patches_for_VFX_Heads </strong></a> - restores <strong><a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/9702/9702-1720125941-456130912.png\" target=\"_blank\" rel=\"noopener noreferrer\">VFX for speak with dead</a> </strong>and some evil and Dark Urge related, Guardian glow eye VFX etc<br><strong>✧ </strong><strong><a href=\"https://mod.io/g/baldursgate3/m/clansong-astarion-as-ruby-dragonborn-bt1-subrace#description\">Clansong - Astarion BT1 - Ruby SUBRACE PATCH  </a></strong>Optional file of <strong>Clansong - Astarion as Ruby Dragonborn BT1</strong>. Links Clansong - Astarion as Ruby Dragonborn BT1 to metadile_ \"Dragonborn Subraces: Gem Dragonborns\"<br><strong>✧ </strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/20920?tab=files\"><strong>Clansong - Astarion BT1 - AEE RESCULPT PATCH</strong></a> and <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/20920?tab=files\">Clansong - Astarion BT1 - AEE RESCULPT PATCH VNL</a></strong> Optional file of<strong> Clansong - Astarion as Ruby Dragonborn BT1. <br></strong><strong>Use ONLY if you have <a href=\"https://www.nexusmods.com/baldursgate3/users/69959758\">Eralyne</a>'s <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a> AND will be Resculpting Astarion! </strong>Read the dependency and how to use in the description on Nexus!<strong><br>✧ <a href=\"https://www.nexusmods.com/baldursgate3/mods/19947?tab=files\">EotB Patch Clansong</a> - EOTB patch - allows you to use <a href=\"https://www.nexusmods.com/baldursgate3/mods/315?tab=description\">Eyes of the Beholder</a> and any eye presets that depend on it. Also Includes EotB Patch DMH and EotB Patch Vexa as AIO<br></strong></p>\n<h4><a href=\"https://www.nexusmods.com/baldursgate3/mods/19947?tab=description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Instalation instructions with examples here</strong></a></h4>\n<p><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767944274-702197710.png\" alt=\"19947-1767944274-702197710.png\"></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2><strong>Thanks</strong></h2>\n<p><strong><a href=\"https://www.patreon.com/profile/creators?u=36705674\">Lenster</a></strong><strong> for assisting with <a href=\"https://www.nexusmods.com/baldursgate3/mods/19475\">tools and addons</a></strong></p>\n<h3><strong>Wall of Heroes</strong></h3>\n<p>With every name added, the Wall of Heroes grows stronger<br>Today, we honor <a href=\"https://www.patreon.com/profile/creators?u=88898883\"><strong>Gentle Giant Cosplay</strong></a>, <strong><a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=171315578\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">KoboldicOddities</span></a>, <a href=\"https://www.patreon.com/user?u=60000792\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">N00b</span></a> , <a href=\"https://www.patreon.com/user?u=141908783\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Raine</span></a>, <a href=\"https://www.patreon.com/user?u=46327378\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Roe</span></a>, <a href=\"https://www.patreon.com/user?u=127424387\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Oliver</span></a>,  <a href=\"https://www.patreon.com/user?u=61745837\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">DarthRevan</span></a>, <a href=\"https://www.patreon.com/user?u=137743434\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Liam Quinn</span></a></strong>, <a href=\"https://www.patreon.com/user?u=29561792\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\"><strong>SmugFly</strong></span></a>, <strong><a href=\"https://www.patreon.com/user?u=191148959\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Erzebet</span></a></strong>, <strong><a href=\"https://www.patreon.com/raidertheanimator\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Raider the Animator</span></a></strong> whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!</p>\n<h3><br><strong>Echoing Acknowledgement </strong></h3>\n<p><strong>to <span class=\"sc-iqseJM dwFhbt\"><a href=\"https://www.patreon.com/user?u=91343650\" target=\"_blank\" rel=\"noopener noreferrer\">Wamp</a></span>, <a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a></strong><strong>, <a href=\"https://www.patreon.com/user?u=23485532\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Merven</span></a>, <a href=\"https://www.patreon.com/user?u=3855703\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">luna</span></a>, <a href=\"https://www.patreon.com/user?u=816124\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Asyrin</span></a>, <a href=\"https://www.patreon.com/user?u=22487138\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Pinkie Pain</span></a>, <span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\"><a href=\"https://www.patreon.com/user?u=94228860\" target=\"_blank\" rel=\"noopener noreferrer\">Director Isard</a></span>, <a href=\"https://www.patreon.com/user?u=32594429\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">Bödvarr The Great</span></a>, <a href=\"https://www.patreon.com/user?u=198129509\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-cyndlL cm-DKAVkg cm-jaOCnn cm-ADHYhi cm-ThmtRO cm-GGZhvK cm-rilNUk\">SkullBaster</span></a> you are tentacular!</strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1765702384,
+    "date_updated": 1770913422,
+    "date_live": 1767921227,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/astarion-as-dragonborn-companion-replacer",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 7248947,
+      "mod_id": 5577293,
+      "version": "1.0.0.6",
+      "filename": "astarion_as_dragonborn_el_be74-9rdb.zip",
+      "changelog": null,
+      "date_added": 1767920546,
+      "date_updated": 0,
+      "date_scanned": 1767920558,
+      "filesize": 2095908,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "clansongastarionasdragonbornbt1.png",
+      "original": "https://image.modcdn.io/mods/8e38/5577293/clansongastarionasdragonbornbt1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8e38/5577293/crop_320x180/clansongastarionasdragonbornbt1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8e38/5577293/crop_640x360/clansongastarionasdragonbornbt1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8e38/5577293/crop_1280x720/clansongastarionasdragonbornbt1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Eye Colors",
+        "name_localized": "Eye Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Skin Colors",
+        "name_localized": "Skin Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7248947
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7248947
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7248947
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7248947
       }
     ]
   },
