@@ -109995,7 +109995,7 @@
     "summary": "Consolidation of all Cleric domains from the 5th Edition DnD official source material.",
     "description": "<p>Subclasses: Arcana Domain, Forge Domain, Grave Domain, Order Domain, Peace Domain, Twilight Domain. Everything has been implemented faithful to the source material and close to 100% Rules as Written.</p>\n<p>You will need some Level 20 unlock mod to advance beyond 12th level as a Cleric.</p>\n<p>Any Script Extender functionality that was used in the Nexus versions has been removed and will cause some abilities to work differently, noted below. Spell lists from the Nexus version are reworked for sole compatibility with Mystra's Spells in this version. </p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/sumradagnoth\" rel=\"nofollow\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"\"></a></p>\n<p><a href=\"https://i.imgur.com/ZcxF62r.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://i.imgur.com/ZcxF62r.png\" alt=\"ZcxF62r.png\"></a></p>\n<h3>Arcana Domain</h3>\n<p><em>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</em></p>\n<h3><a title=\"Arcana Domain details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1409\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p> </p>\n<h3>Forge Domain</h3>\n<p><em>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them.</em></p>\n<h3><a title=\"Forge Domain details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1421\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<h3><strong> </strong></h3>\n<h3>Grave Domain</h3>\n<p><em>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature’s death, though they refuse to use such magic to extend a creature’s lifespan beyond its mortal lim</em><strong><em>its.</em></strong></p>\n<h3><a title=\"Grave Domain details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1389\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p><strong>Changes from Nexus</strong>:  </p>\n<ul>\n<li>Spare the Dying does not exist in Mystra's Spells, so that ability has been removed.</li>\n</ul>\n<h3> </h3>\n<h3>Order Domain</h3>\n<p><em>The Order Domain represents discipline, as well as devotion to the laws that govern a society, an institution, or a philosophy. Clerics of Order meditate on logic and justice as they serve their gods. </em><em>Clerics of Order believe that well-crafted laws establish legitimate hierarchies, and those selected by law to lead must be obeyed. Those who obey must do so to the best of their ability, and if those who lead fail to protect the law, they must be replaced. In this manner, law weaves a web of obligations that create order and security in a chaotic multiverse.</em></p>\n<h3><a title=\"Order Domain details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1382\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p> </p>\n<h3>Peace Domain</h3>\n<p><em>The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand up against those forces that try to prevent peace from flourishing. </em><em>Clerics of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic **** those who are driven to fight for the way of peace.</em></p>\n<h3><a title=\"Peace Domain details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1438\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p> </p>\n<h3>Twilight Domain</h3>\n<p><em>The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night. </em><em>Clerics who serve these deities bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</em></p>\n<h3><a title=\"Twilight Domain details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1377\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Full Implementation Details and Mechanics</strong></a></h3>\n<p> </p>\n<p><strong><em><a style=\"background-color:transparent;font-weight:500;\" href=\"https://mod.io/u/sumradagnoth/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/VeEiEB1.png\" alt=\"VeEiEB1.png\"></a></em></strong></p>",
     "date_added": 1749341201,
-    "date_updated": 1768475319,
+    "date_updated": 1771032640,
     "date_live": 1749343031,
     "visible": 1,
     "status": 1,
@@ -110009,15 +110009,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d521/37839979/crop_100x100/51lvrxohppl_ac_uf8941000_ql80.jpg"
     },
     "modfile": {
-      "id": 7075913,
+      "id": 7393205,
       "mod_id": 4998547,
-      "version": "1.5.2.3",
-      "filename": "clericsubclasses5ecombined_a64-8dkk.zip",
-      "changelog": "Resized subclass hotbar icons to better scale\nShortened subclass progression descriptions\nCleaned up action resource descriptions\nAdded sight support for Expansion's Epic Boons\nForge - Removed static VFX from Blessing of the Forge\nPeace: Fixed Bonded status typos",
-      "date_added": 1764360012,
+      "version": "1.5.3.4",
+      "filename": "clericsubclasses5ecombined_a64-1s8d.zip",
+      "changelog": "Fix Divine Strike damage improperly scaling with non Cleric levels\nOrder - Fix possible performance issues in large combats\nOrder - Total rework of Voice of Authority mechanics\nTwilight - Added condition/status info as a visual aid",
+      "date_added": 1771032602,
       "date_updated": 0,
-      "date_scanned": 1764360034,
-      "filesize": 7892132,
+      "date_scanned": 1771032973,
+      "filesize": 7893459,
       "platforms": [
         {
           "platform": "windows",
@@ -110025,15 +110025,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -110073,10 +110073,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7075913
-      },
-      {
         "platform": "mac",
         "modfile_live": 7075913
       },
@@ -110087,6 +110083,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7075913
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7393205
       }
     ]
   },
