@@ -77711,7 +77711,7 @@
     "summary": "The unofficial community bug fix mod - Over 1000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1770772279,
+    "date_updated": 1771052323,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -77725,15 +77725,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7383766,
+      "id": 7394145,
       "mod_id": 4561805,
-      "version": "4.4.3.1",
-      "filename": "itembugfix_010e73d5-9342-e528-23oa.zip",
-      "changelog": "- Flesh to Stone \"Petrify\" and Flesh to Gold \"Turned to Gold\" now last as long as the caster's concentration is maintained on the spell\n- Signed Trade Visa 'Flesh to Gold' now has a minimum save DC of 15, matching Gerringothe Thorm's normal casting ability, similar to 'Dethrone' to assist martial characters with this unique scroll\n- Kar'niss 'Cull the Weak' can no longer trigger on an attack that reduces the target below 50% hp itself, and can no longer trigger multiple times per attack\n- Goblin 'Fury of the Small' is now correctly usable once per combat\n- Shadow Blade Ring 'Shadow Blade' is now correctly inventory bound and unique to the summoner\n- Summons attempting to use waypoints on their own now provides a more accurate error to the player",
-      "date_added": 1770772263,
+      "version": "4.4.4.1",
+      "filename": "itembugfix_010e73d5-9342-e528-2fwk.zip",
+      "changelog": "- Wild Shape: Dilophosaurus 'Corrosive Spit' now lists its additional per-turn acid damage on the tooltip\n- Necromancy Wizard 'Grim Harvest' now counts the self-healing as a source of healing for passives that function with healing\n- Nine additional actions that damage or place a negative effect on a target have been given the IsHarmful flag so as to correctly be blocked by Sanctuary\n- Minor tweak to previous 'Dirty Advantage' fix",
+      "date_added": 1771052309,
       "date_updated": 0,
-      "date_scanned": 1770772274,
-      "filesize": 552759,
+      "date_scanned": 1771052318,
+      "filesize": 553108,
       "platforms": [
         {
           "platform": "windows",
@@ -77837,7 +77837,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7383766
+        "modfile_live": 7394145
       }
     ]
   },
@@ -80032,7 +80032,7 @@
     "summary": "All-in-One version: contains all the redesigned NPCs around the Emerald Grove ^.^",
     "description": "<h4><strong>Watch the Gallery above to see the Overall Changes</strong></h4>\n<blockquote>\n<p><strong>New visuals for 70+ NPCs</strong> around the start of Act 1 — Emerald Grove Environs<br><strong>Who has changed:</strong> Tieflings, Adventurers, Druids, Shadow Druids, and Crypt Bandits</p>\n</blockquote>\n<h4><strong>Special Thanks💝to my Patrons:<br></strong><a href=\"https://www.patreon.com/c/AzazeLwasTaken\">Fave777 | Plumbelina | Ursalux | Only 4 the internet</a><br><a title=\"NexusMods: AzazeL\" href=\"https://next.nexusmods.com/profile/AzazeLwasTaken\"><img src=\"https://i.imgur.com/A7ZdcLf.png\" alt=\"NexusMods\" width=\"168\" height=\"79\"></a>  <img src=\"https://i.imgur.com/zUn0KQU.png\" alt=\"Mod.io\" width=\"136\" height=\"79\">  <a title=\"Patreon: AzazeL\" href=\"https://www.patreon.com/c/AzazeLwasTaken\"><img src=\"https://i.imgur.com/topoLV2.png\" alt=\"Patreon\" width=\"157\" height=\"79\"></a></h4>\n<p> </p>",
     "date_added": 1735840579,
-    "date_updated": 1770051307,
+    "date_updated": 1771052439,
     "date_live": 1735930837,
     "visible": 1,
     "status": 1,
@@ -80046,15 +80046,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f797/35138009/crop_100x100/redgirl2.png"
     },
     "modfile": {
-      "id": 5935605,
+      "id": 7352847,
       "mod_id": 4611671,
-      "version": "1.5.0.0",
-      "filename": "aza_npcre_theemeraldgrove_74cb-bl78.zip",
-      "changelog": null,
-      "date_added": 1735840614,
+      "version": "1.5.0.3",
+      "filename": "aza_npcre_theemeraldgrove_74cb-0iq6.zip",
+      "changelog": "Fixed some neck seams for tieflings",
+      "date_added": 1770051303,
       "date_updated": 0,
-      "date_scanned": 1735840801,
-      "filesize": 4147317,
+      "date_scanned": 1770051317,
+      "filesize": 4148756,
       "platforms": [
         {
           "platform": "windows",
@@ -80062,15 +80062,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -80120,10 +80120,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 5935605
-      },
-      {
         "platform": "mac",
         "modfile_live": 5935605
       },
@@ -80134,6 +80130,10 @@
       {
         "platform": "ps5",
         "modfile_live": 5935605
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7352847
       }
     ]
   },
