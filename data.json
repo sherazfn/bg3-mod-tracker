@@ -51505,7 +51505,7 @@
     "summary": "Aim's to add more Monk equipment throughout the game.",
     "description": "<p>Enhance Your Monk with Unarmed and Upgraded, This mod is designed to help expand your Monk's potential with this collection of carefully crafted items. I designed this mod to address the lack of dedicated Monk gear throughout the game, offering new choices that enhance your unarmed combat. Some gear is also beneficial for other classes too. Feedback is welcome to ensure a balanced experience!</p>\n<p> </p>\n<p>- Each Act adds 10 items curated for Monk<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/7254\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/FkqpNut\">Act 1</a>, <a href=\"https://imgur.com/a/7Vu5KnQ\">Act 2</a>, <a href=\"https://imgur.com/a/hlnMPu0\">Act 3</a> <br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </p>\n<p><span style=\"text-decoration:underline;\"><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</span></p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1728411174,
-    "date_updated": 1757343964,
+    "date_updated": 1771275844,
     "date_live": 1728411827,
     "visible": 1,
     "status": 1,
@@ -51519,15 +51519,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 6670977,
+      "id": 7405649,
       "mod_id": 4397191,
-      "version": "1.0.0.11",
-      "filename": "uu_monk_equipment_00581072-8d7-5c8s.zip",
-      "changelog": "Ring of the Weaving Hummingbird: Now supports Way of the Open Hand - Flurry of Blows: Topple, Stagger, and Push.",
-      "date_added": 1755113724,
+      "version": "1.0.0.12",
+      "filename": "uu_monk_equipment_00581072-8d7-3jhr.zip",
+      "changelog": "• Marsh Strider Boots now require you to be unarmored.",
+      "date_added": 1771275795,
       "date_updated": 0,
-      "date_scanned": 1755113733,
-      "filesize": 3335737,
+      "date_scanned": 1771275806,
+      "filesize": 3309431,
       "platforms": [
         {
           "platform": "windows",
@@ -51535,15 +51535,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -51603,10 +51603,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6670977
-      },
-      {
         "platform": "mac",
         "modfile_live": 6670977
       },
@@ -51617,6 +51613,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6670977
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7405649
       }
     ]
   },
@@ -54832,7 +54832,7 @@
     "summary": "Adds 30 new items for Cleric throughtout the game, 10 Items per Act.",
     "description": "<p>Empower your Cleric to become a beacon of faith and resilience with the Faith and Fortitude mod! Designed to elevate the support capabilities of Clerics and make them even more engaging to play, this mod offers a comprehensive suite of equipment to bolster their role as pillars of support. All items are designed to seamlessly integrate with Larian's existing balance philosophy. Please provide feedback to help improve a balanced experience for all! Share your thoughts and help ensure your Cleric reaches their full potential! </p>\n<p>- Each Act adds 10 items curated for Cleric</p>\n<p>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/9415\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/f8y72rP\">Act 1</a>, <a href=\"https://imgur.com/a/JcC3mYb\">Act 2</a>, <a href=\"https://imgur.com/a/7bApFZY\">Act 3</a></p>\n<p>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1728750705,
-    "date_updated": 1768568907,
+    "date_updated": 1771275982,
     "date_live": 1730475917,
     "visible": 1,
     "status": 1,
@@ -54846,15 +54846,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7276462,
+      "id": 7405666,
       "mod_id": 4406280,
-      "version": "1.0.0.19",
-      "filename": "ff_cleric_equipment_b72a4134-b-028i.zip",
-      "changelog": "• Removed the visual effect from Grove Protector's Mantle temp hp - often confused as a bug.\n• Life-Weaver Crossbow - Sacred Bolt - minor grammar fix",
-      "date_added": 1768568825,
+      "version": "1.0.0.20",
+      "filename": "ff_cleric_equipment_b72a4134-b-8vpq.zip",
+      "changelog": "• Added Superior Material to all chest pieces\n• Added +1 Athletics to all boots\n• Added +1 Strength to Act 1 gloves\n• Added +1 Constitution Saving Throws to Act 2/3 helmets.",
+      "date_added": 1771275924,
       "date_updated": 0,
-      "date_scanned": 1768568836,
-      "filesize": 2673468,
+      "date_scanned": 1771275933,
+      "filesize": 2673542,
       "platforms": [
         {
           "platform": "windows",
@@ -54943,7 +54943,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7276462
+        "modfile_live": 7405666
       }
     ]
   },
@@ -58405,7 +58405,7 @@
     "summary": "Adds several new items for players who have accepted the Brand of the Absolute.",
     "description": "<p>When accepting the Brand of the Absolute in Act 1, you gain access to items that require you to have the Brand but unfortunately these items were underwhelming. This mod changes that by adding several new items for those who have accepted the Absolute! <strong>Praise the Absolute!</strong></p>\n<p>Gifts of the Absolute introduces a variety of unique and powerful items that truly make embracing the Absolute a rewarding experience. Wield the 'Absolute's Judgment,' a greatsword that imbues your smites with psychic energy, or the 'Cloak of the Unseen Absolute' to shroud yourself in a veil of psychic resilience. These are just two of the many new treasures awaiting you! Delve deeper into the Absolute's influence with items that resonate with its dark power and twisted blessings while enhancing your role-playing experience. I'm looking for feedback to help balance these items, as I haven't played every class.<br><br>- Every item added requires you to have the <a href=\"https://bg3.wiki/wiki/Brand_of_the_Absolute\">Brand of the Absolute</a><br>- Every Very Rare item included is Class Specific (You can multiclass to use several of these items)<br>- Currently adds new items to Act 1 and Act 2 (18 items in total currently)<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/11487\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/8HThUmU\">Link</a><br>- There is a Chest in the Tutorial Chest that contains backpacks for each act (If you don't want the items in the Tutorial Chest, I suggest you download my other mod - <a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a>)</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p><a style=\"color:#dfb38c;\" href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is required if you want the items to be distributed throughout the game<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a></p>",
     "date_added": 1729216978,
-    "date_updated": 1750434409,
+    "date_updated": 1771273441,
     "date_live": 1730475903,
     "visible": 1,
     "status": 1,
@@ -58419,15 +58419,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 6468379,
+      "id": 7405472,
       "mod_id": 4421222,
-      "version": "1.0.0.7",
-      "filename": "gota_equipment_a7230f48-7bce-a-1urh.zip",
-      "changelog": "Absolute's Judgement: Resolved an issue where Absolute's Judgement could not have Bind Pact Weapon or Bind Hexed Weapon cast upon it. You can now correctly bind these spells to the weapon.",
-      "date_added": 1750004903,
+      "version": "1.0.0.8",
+      "filename": "gota_equipment_a7230f48-7bce-a-2nub.zip",
+      "changelog": "• Fixed Dror Ragzlin not having his warhammer equipped because he isn't tagged branded.\n• Fixed Absolute Terror saving throw.",
+      "date_added": 1771273320,
       "date_updated": 0,
-      "date_scanned": 1750004909,
-      "filesize": 1001510,
+      "date_scanned": 1771273326,
+      "filesize": 1001574,
       "platforms": [
         {
           "platform": "windows",
@@ -58435,15 +58435,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -58553,10 +58553,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6468379
-      },
-      {
         "platform": "mac",
         "modfile_live": 6468379
       },
@@ -58567,6 +58563,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6468379
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7405472
       }
     ]
   },
@@ -62335,7 +62335,7 @@
     "summary": "Adds 30 new items curated for Ranger, 10 items per Act. Includes 3 new ranger companions bound by items.",
     "description": "<p>Sharpen your arrows and strengthen your bond with nature's creatures with Beast and Bow: Ranger Equipment. This comprehensive mod is tailor-made for Rangers, offering a curated collection of gear designed to elevate your mastery of both bow and beast. Whether you prefer to strike from afar with pinpoint accuracy or fight alongside your loyal animal companion, Beast and Bow provides the tools to excel in any situation. This mod is designed to seamlessly integrate with the game's existing mechanics, ensuring a balanced and rewarding experience for all players. Help refine the hunt! Share your feedback and suggestions to ensure Beast and Bow reaches its full potential, empowering Rangers everywhere to become true guardians of the wild.</p>\n<p>- Each Act adds 10 items curated for Ranger<br>- 3 New beast companions that grow with your Ranger level - <a href=\"https://www.nexusmods.com/baldursgate3/articles/972\">See Articles on Nexus</a><br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/12016\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/LbifDUV\">Act 1</a>, <a href=\"https://imgur.com/a/D0At1QD\">Act 2</a>, <a href=\"https://imgur.com/LbifDUV\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1729624492,
-    "date_updated": 1769522612,
+    "date_updated": 1771275686,
     "date_live": 1730475897,
     "visible": 1,
     "status": 1,
@@ -62349,15 +62349,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7276455,
+      "id": 7405616,
       "mod_id": 4435098,
-      "version": "1.0.0.16",
-      "filename": "bb_ranger_equipment_b43e03e4-0-3vwk.zip",
-      "changelog": "Improved the description for Hunter's Shroud",
-      "date_added": 1768568623,
+      "version": "1.0.0.17",
+      "filename": "bb_ranger_equipment_b43e03e4-0-8u0t.zip",
+      "changelog": "• Added +1 Dex Saving Throw to helmets.\n• Swift Stalker Boots: Removed additional movement speed, and added a short rest cooldown to the dash spell.",
+      "date_added": 1771275461,
       "date_updated": 0,
-      "date_scanned": 1768568653,
-      "filesize": 11829750,
+      "date_scanned": 1771275486,
+      "filesize": 11829822,
       "platforms": [
         {
           "platform": "windows",
@@ -62365,15 +62365,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -62433,10 +62433,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7276455
-      },
-      {
         "platform": "mac",
         "modfile_live": 7276455
       },
@@ -62447,6 +62443,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7276455
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7405616
       }
     ]
   },
@@ -79907,7 +79907,7 @@
     "summary": "Add 30 new items curated for Rogue, 10 items per Act.",
     "description": "<p>Become a true whisper in the shadows with an arsenal of gear crafted to empower every aspect of your rogue's abilities.  Improve your ability to melt into the darkness, evade detection, and strike with precision. Whether you prefer to eliminate targets with deadly efficiency, manipulate situations from the shadows, or acquire treasures through cunning and guile, this collection offers the tools to enhance your preferred playstyle. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial!  Share your thoughts and help refine this <em>Veil and Venom</em>.</p>\n<p> </p>\n<ul>\n<li>Each Act adds 10 items curated for Rogue</li>\n<li>View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14586\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-1-ZxIhOHB\">Act 1</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-2-NEBn4Yq\">Act 2</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-3-y5rfLs7\">Act 3</a></li>\n<li>These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </li>\n<li>Required <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</li>\n</ul>\n<p> </p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1735786928,
-    "date_updated": 1769420901,
+    "date_updated": 1771276124,
     "date_live": 1735786928,
     "visible": 1,
     "status": 1,
@@ -79921,15 +79921,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7157707,
+      "id": 7405677,
       "mod_id": 4610151,
-      "version": "1.0.0.9",
-      "filename": "vv_rogue_equipment_43a6a201-0b-ckif.zip",
-      "changelog": "Fixed the tooltip for Dagger Specialist.",
-      "date_added": 1766150991,
+      "version": "1.0.0.10",
+      "filename": "vv_rogue_equipment_43a6a201-0b-8ctm.zip",
+      "changelog": "• Clarified Crimson Shroud so that it only works if you are a rogue.",
+      "date_added": 1771276056,
       "date_updated": 0,
-      "date_scanned": 1766151007,
-      "filesize": 4260458,
+      "date_scanned": 1771276067,
+      "filesize": 4260501,
       "platforms": [
         {
           "platform": "windows",
@@ -79937,15 +79937,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -79995,10 +79995,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7157707
-      },
-      {
         "platform": "mac",
         "modfile_live": 7157707
       },
@@ -80009,6 +80005,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7157707
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7405677
       }
     ]
   },
