@@ -121950,7 +121950,7 @@
     "summary": "Adds new wild magic surges from PHB2024.",
     "description": "<h2>Adds new wild magic surges from PHB2024.</h2>\n<p>Thanks to the update, most of the new effects are positive. Currently there are <strong>~30 additional </strong>effects in this mod. The rest of the missing surges from 2024PHB are just for flavor, so they won't be implemented.</p>\n<p>Vanilla surge table is untouched, they are still available. The negative effects added to the list of surges used by the level 11 feature.</p>\n<p>I've tried to implement them as closely as I could to the PHB version, but some mechanics had to be changed a bit to fit BG3. </p>\n<p>Additionally, some broken vanilla implementations were fixed:</p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Wild_Magic:_Turn_Magic\">Wild Magic: Turn Magic</a> did not apply any effects whatsoever\n<ul>\n<li>Now it works as intended in in turn-based mode at the start of your turn.</li>\n<li>The duration is still 5 turns instead of 10 like in PHB, it felt too much</li>\n</ul>\n</li>\n</ul>\n<p>For better experience consider using my other mod <a href=\"https://mod.io/g/baldursgate3/m/tides-of-chaos-2024\">Tides of Chaos 2024</a>, which implements the wild magic mechanics from PHB2024, giving you more control on triggering surges.</p>\n<p>Additionally I have another mod called <a href=\"https://mod.io/g/baldursgate3/m/wildmagic2024standalone\">Wild Magic 2024 - Standalone</a>, which only uses the 2024 surge list, including some vanilla surges that are also present in the 2024 version.</p>\n<h4><strong>The surge changelog can be found at the bottom.</strong></h4>\n<h3><strong>How to Install</strong></h3>\n<p>Simple plug and play.</p>\n<h3><strong>Compatibility</strong></h3>\n<p>Compatible with patch 8. All of them were tested via toolkit, but if you find a weird interaction, let me know!</p>\n<h3>Future plans</h3>\n<ul>\n<li>There is still one surges that would be fun to implement, but I will have to look into it\n<ul>\n<li>It spawns a random friendly a creature, however none of the options are in the game as far as I know</li>\n</ul>\n</li>\n<li>Might get extended in the future with the missing implementations or if the community provides cool home-brew mechanics.\n<ul>\n<li>If you have an idea that could make the mod better, feel free to share it!</li>\n</ul>\n</li>\n</ul>\n<p>Feel free to leave your constructive feedback!</p>\n<p>If you like this mod, consider supporting me at <a href=\"https://coff.ee/robertzi75n\">https://coff.ee/robertzi75n</a>.</p>\n<p>Check out my other mods:</p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/nightmare-difficulty\">nightmare Difficulty AI</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/brutaldifficulty\">Brutal Difficulty</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/drunkenfixed\">Drunk Reworked</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/war-priest-2024\">War Priest 2024</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/rogue-expanded\">Rogue Expanded</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/featsrevamped2024\">FeatsRevamped2024</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/itemsrestored#description\">itemsRestored</a></li>\n</ul>\n<h3> </h3>\n<h3>Wild Magic Surges – Current Features</h3>\n<h3><strong>Wild Magic: Regeneration</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain 5 HP at the start of your turn for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Heightened</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Creatures have <strong>Disadvantage on Saving Throws</strong> against the next spell you cast.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Blink</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You are transported to the Astral Plane until the end of your next turn.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Resistance</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You gain <strong>Resistance to all damage</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Invisibility</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Each friendly creature within 9m becomes <strong>Invisible</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Spectral Shield</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: A spectral shield hovers near you, granting <strong>+2 AC</strong> and <strong>immunity to Magic Missile</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Frightened</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You are <strong>Frightened</strong> until the end of your next turn.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Wild Radiance</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You radiate <strong>Bright Light in a 9m radius</strong>.</p>\n</li>\n<li>\n<p><strong>Secondary Effect</strong>: Creatures standing in the light are <strong>Blinded</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Life Drain</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Up to 3 creatures of your choice within 9m take <strong>1d10 Necrotic damage</strong>.</p>\n</li>\n<li>\n<p><strong>Secondary Effect</strong>: You regain HP equal to the total damage dealt.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Stormburst</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Up to 3 creatures of your choice within 9m take <strong>4d10 Lightning damage</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Piercing Vulnerability</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You and all creatures within 9m gain <strong>Vulnerability to Piercing damage</strong> for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Surge of Life</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain <strong>2d10 Hit Points</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Restoration</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: One ally of your choice within 18m regains <strong>2d10 Hit Points</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Mana Surge</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain all expended <strong>1st-level spell slots</strong>.</p>\n<ul>\n<li>Currently no way of restoring only the lowest spent spell slot but will try to figure it out</li>\n</ul>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Arcane Recharge</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain all expended <strong>Sorcery Points</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Confusion</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Confusion</em> without requiring Concentration.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Fireball</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Fireball</em> as a spell.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Grease</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Grease</em> as a spell.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Fog Cloud</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Fog Cloud </em>without requiring Concentration.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Magic Missile</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Magic Missile</em> as a level 5 spell.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Mirror Image</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You gain the effects of <em>Mirror Image</em>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: See Invisibility</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You gain the effects of <em>See Invisibility</em>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Quickened</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Spells that cost an Action can instead be cast as a <strong>Bonus Action</strong> for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Poisoned</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: A random creature within 18m of you become <strong>Poisoned </strong>for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Second Chance</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: When you would be reduced to 0 HP, you instead remain at 1 HP.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Unleashed</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: The next spell you cast deals <strong>maximum damage</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Teleport</strong></h3>\n<ul>\n<li>You <strong>teleport </strong>up to 18m to an unoccupied space you can see.</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Teleport</strong></h3>\n<ul>\n<li>For 10 turns, you can use a bonus action to <strong>teleport </strong>up to 6m.</li>\n</ul>",
     "date_added": 1758299640,
-    "date_updated": 1769618325,
+    "date_updated": 1771449990,
     "date_live": 1758299745,
     "visible": 1,
     "status": 1,
@@ -121964,15 +121964,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/8b8a/41458926/crop_100x100/bravo.jpg"
     },
     "modfile": {
-      "id": 7109687,
+      "id": 7412972,
       "mod_id": 5244276,
-      "version": "1.0.0.10",
-      "filename": "wildmagic2024_4d77d595-dbd8-34-8kds.zip",
-      "changelog": "Fixed bug where death ward was not getting removed.",
-      "date_added": 1765016683,
+      "version": "1.1.0.1",
+      "filename": "wildmagic2024_4d77d595-dbd8-34-b89g.zip",
+      "changelog": "Improved animations.",
+      "date_added": 1771449964,
       "date_updated": 0,
-      "date_scanned": 1765016702,
-      "filesize": 5011504,
+      "date_scanned": 1771449981,
+      "filesize": 5011883,
       "platforms": [
         {
           "platform": "windows",
@@ -121980,15 +121980,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -122033,10 +122033,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7109687
-      },
-      {
         "platform": "mac",
         "modfile_live": 7109687
       },
@@ -122047,6 +122043,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7109687
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7412972
       }
     ]
   },
