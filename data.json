@@ -23464,6 +23464,89 @@
     ]
   },
   {
+    "id": 4328080,
+    "game_id": 6715,
+    "name": "Save Honour Mode",
+    "name_id": "savehonourmode",
+    "summary": "Allow multiple save slots in Honour Mode. Enjoy the ruleset without Iron Man Mode.",
+    "description": "<p>Allow multiple saves in Honour Mode. Enjoy the ruleset without Iron Man Mode.</p>\n<p>Currently all save slots will be named \"Honour Mode\". I will try to fix that so each of them can have a unique name.</p>\n<p> </p>",
+    "date_added": 1725871418,
+    "date_updated": 1771518727,
+    "date_live": 1725872341,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/savehonourmode",
+    "submitted_by": {
+      "id": 2277697,
+      "name_id": "maximuuus",
+      "username": "Maximuuus",
+      "profile_url": "https://mod.io/u/maximuuus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/7fcc/2277697/crop_100x100/d46bfc9cfbc88f8a495d64646349607.jpg"
+    },
+    "modfile": {
+      "id": 5553727,
+      "mod_id": 4328080,
+      "version": "1.0.0.1",
+      "filename": "savehonourmode_3c42e266-f67c-a-cth4.zip",
+      "changelog": null,
+      "date_added": 1725871423,
+      "date_updated": 0,
+      "date_scanned": 1725871426,
+      "filesize": 36615,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod4.4.png",
+      "original": "https://image.modcdn.io/mods/30c8/4328080/mod4.4.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/30c8/4328080/crop_320x180/mod4.4.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/30c8/4328080/crop_640x360/mod4.4.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/30c8/4328080/crop_1280x720/mod4.4.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5553727
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5553727
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5553727
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5553727
+      }
+    ]
+  },
+  {
     "id": 4328168,
     "game_id": 6715,
     "name": "Nauthiz's Godlike Armor",
@@ -57883,6 +57966,229 @@
     ]
   },
   {
+    "id": 4419649,
+    "game_id": 6715,
+    "name": "DnD PHB 2024 All in One Beyond",
+    "name_id": "dnd-2024",
+    "summary": "Adds and updates content to align with the DnD PHB 2024 rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. *some rules are modified with Homebrew rules to enhance the gameplay experience.",
+    "description": "<p>DnD PHB 2024 All in One</p>\n<h2>Introduction</h2>\n<ul>\n<li>Adds and updates content to align with the DnD 2024 Player's Handbook rules (and other sources), including Backgrounds, Classes, Feats, Items, Races, Rules, Spells and more.</li>\n<li>Some rules are modified with Homebrew rules to enhance the gameplay experience.</li>\n<li>This mod is focused on reducing the inconvenience of having to download and set up PHB 2024 related mods individually. It does not consider compatibility issues with other mods.</li>\n<li>The original or latest version of this document can be found at the link below.\n<ul>\n<li>https://github.com/yoonmoonsik/dnd2024/blob/master/README.md</li>\n</ul>\n</li>\n<li>Detailed changes can be found below.\n<ul>\n<li>https://github.com/yoonmoonsik/dnd2024/commits/master/</li>\n</ul>\n</li>\n</ul>\n<div>\n<h2>Bug Report Guidelines</h2>\n</div>\n<p>Following these guidelines helps keep bug fixing efficient and focused. Reports that do not follow these rules may be closed or removed without a separate response.</p>\n<div>\n<h3>Where to Report</h3>\n</div>\n<ul>\n<li>Bugs must be reported <strong>only via GitHub Issues</strong>: <a href=\"https://github.com/yoonmoonsik/dnd2024/issues\">https://github.com/yoonmoonsik/dnd2024/issues</a></li>\n</ul>\n<div>\n<h3>What Not to Report</h3>\n</div>\n<ul>\n<li>Bugs that occur <strong>when this mod is used together with other mods</strong>. This mod is not developed with compatibility in mind.</li>\n<li>Crashes or critical issues that occur <strong>only during leveling up or respeccing</strong>, unless the same issue can be reproduced in a <strong>new game</strong>.</li>\n</ul>\n<div>\n<h3>Before Creating a New Issue</h3>\n</div>\n<ul>\n<li><strong>Always search existing issues first.</strong></li>\n<li>If you find an issue that is identical or closely related (including issues marked as <em>New issue</em>, <em>Being looked at</em>, or <em>Needs more info</em>), add your findings, reproduction steps, or additional details <strong>as a comment on the existing issue</strong>. Creating duplicate issues slows down investigation and may result in the new issue being closed.</li>\n<li>If your report is related to a <strong>closed issue</strong>, create a <strong>new issue</strong> and reference the closed one (e.g., #504).</li>\n</ul>\n<div>\n<h3>Reporting Rules</h3>\n</div>\n<ul>\n<li><strong>One issue per bug.</strong> Do not combine multiple, unrelated problems into a single report.</li>\n</ul>\n<div>\n<h3>How to Write a Good Bug Report</h3>\n</div>\n<p>All bug reports must follow the provided <strong>Bug Report template</strong>. In particular, make sure to include:</p>\n<ul>\n<li>A clear and concise <strong>title</strong></li>\n<li>Exact <strong>reproduction steps</strong> that reliably trigger the issue</li>\n<li>A comparison of <strong>expected vs. actual results</strong></li>\n<li>Complete <strong>environment details</strong> (location, class, level, version, etc.)</li>\n</ul>\n<p>Reports that lack sufficient information to reproduce the issue may be closed.</p>\n<h2>Changes</h2>\n<ul>\n<li>Background\n<ul>\n<li>Backgrounds from <em>2024 Player's Handbook</em></li>\n<li>Backgrounds from <em>Forgotten Realms: Heroes of Faerûn</em></li>\n<li>Backgrounds from from <em>The Crooked Moon</em></li>\n</ul>\n</li>\n<li>Races\n<ul>\n<li>Aarakocra</li>\n<li>Aasimar</li>\n<li>Dhampir</li>\n<li>Dragonborn</li>\n<li>Drow</li>\n<li>Dwarf</li>\n<li>Elf</li>\n<li>High Elf</li>\n<li>Wood Elf</li>\n<li>Githyanki</li>\n<li>Gnome</li>\n<li>Goliath</li>\n<li>Half-Elf</li>\n<li>Half-Orc</li>\n<li>Halfling</li>\n<li>Human</li>\n<li>Kalashtar</li>\n<li>Tiefling\n<ul>\n<li>Asmodeus Tiefling</li>\n<li>Mephistopheles Tiefling</li>\n<li>Zariel Tiefling</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Class\n<ul>\n<li>Artificer\n<ul>\n<li>Alchemist</li>\n<li>Armorer</li>\n<li>Artillerist</li>\n<li>Battle Smith</li>\n</ul>\n</li>\n<li>Barbarian\n<ul>\n<li>Path of the Berserker</li>\n<li>Path of the Wild Heart</li>\n<li>Path of the Wild Magic</li>\n<li>Path of the World Tree</li>\n<li>Path of the Zealot</li>\n</ul>\n</li>\n<li>Bard\n<ul>\n<li>College of Dance</li>\n<li>College of the Moon</li>\n<li>College of Glamour</li>\n<li>College of Lore</li>\n<li>College of Sword</li>\n<li>College of Valor</li>\n</ul>\n</li>\n<li>Cleric\n<ul>\n<li>Arcana Domain</li>\n<li>Death Domain</li>\n<li>Grave Domain</li>\n<li>Knowledge Domain</li>\n<li>Life Domain</li>\n<li>Light Domain</li>\n<li>Trickery Domain</li>\n<li>War Domain</li>\n</ul>\n</li>\n<li>Druid\n<ul>\n<li>Circle of Dragons</li>\n<li>Circle of the Dream</li>\n<li>Circle of the Land</li>\n<li>Circle of the Moon</li>\n<li>Circle of the Sea</li>\n<li>Circle of the Star</li>\n</ul>\n</li>\n<li>Fighter\n<ul>\n<li>Battle Master</li>\n<li>Champion</li>\n<li>Eldritch Knight</li>\n<li>Psi Warrior</li>\n<li>Banneret</li>\n<li>Rune Knight</li>\n</ul>\n</li>\n<li>Monk\n<ul>\n<li>Warrior of Mercy</li>\n<li>Warrior of Shadow</li>\n<li>Warrior of the Elements</li>\n<li>Warrior of the Open Hand</li>\n<li>Way of the Kensei</li>\n</ul>\n</li>\n<li>Paladin\n<ul>\n<li>Oath of Conquest</li>\n<li>Oath of Devotion</li>\n<li>Oath of the Ancients</li>\n<li>Oath of Glory</li>\n<li>Oath of the Noble Genies</li>\n<li>Oath of Vengeance</li>\n<li>Oathbreaker</li>\n</ul>\n</li>\n<li>Ranger\n<ul>\n<li>Fey Wanderer</li>\n<li>Gloom Stalker</li>\n<li>Hollow Warden</li>\n<li>Hunter</li>\n<li>Swarmkeeper</li>\n<li>Winter Walker</li>\n</ul>\n</li>\n<li>Rogue\n<ul>\n<li>Arcane Trickster</li>\n<li>Assassin</li>\n<li>Scion of the Three</li>\n<li>Soulknife</li>\n<li>Thief</li>\n</ul>\n</li>\n<li>Sorcerer\n<ul>\n<li>Aberrant Sorcery</li>\n<li>Clockwork Sorcery</li>\n<li>Draconic Sorcery</li>\n<li>Wildmagic Sorcery</li>\n<li>Spellfire Sorcery</li>\n<li>Storm Sorcery</li>\n</ul>\n</li>\n<li>Warlock\n<ul>\n<li>Eldritch Invocations</li>\n<li>Archfey Patron</li>\n<li>Celestial Patron</li>\n<li>Fiend Patron</li>\n<li>Great Old One Patron</li>\n<li>Hexblade</li>\n</ul>\n</li>\n<li>Wizard\n<ul>\n<li>Abjurer</li>\n<li>Bladesinging School</li>\n<li>Conjurer</li>\n<li>Diviner</li>\n<li>Enchanter</li>\n<li>Evoker</li>\n<li>Illusionist</li>\n<li>Necromancer</li>\n<li>Transmuter</li>\n</ul>\n</li>\n<li>Gunslinger\n<ul>\n<li>Deadeye</li>\n<li>High Roller</li>\n<li>Secret Agent</li>\n<li>Spellslinger</li>\n<li>Trick Shot</li>\n<li>White Hat</li>\n</ul>\n</li>\n<li>Illrigger\n<ul>\n<li>Architect of Ruin</li>\n<li>Hellspeaker</li>\n<li>Painkiller</li>\n<li>Sanguine Knight</li>\n<li>Shadowmaster</li>\n</ul>\n</li>\n<li>Psion\n<ul>\n<li>Metamorph</li>\n<li>Psi Warper</li>\n<li>Psykinetic</li>\n<li>Telepath</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Feat\n<ul>\n<li>Feats from 2024 Player's Handbook</li>\n<li>Feats from Xanathar's Guide to Everything</li>\n<li>Feats from Tasha's Cauldron of Everything</li>\n<li>Feats from Fizban's Treasury of Dragons</li>\n<li>Feats from Forgotten Realms: Heroes of Faerûn</li>\n<li>Feats from The Lord of the Rings Roleplaying</li>\n<li>Feats from Valda’s Spire of Secrets</li>\n<li>Feats from The Crooked Moon</li>\n<li>Feats from Unearthed Arcana</li>\n<li>Fighting Styles</li>\n</ul>\n</li>\n<li>Items\n<ul>\n<li>Ability Score Item Rebalance</li>\n<li>Firearms</li>\n<li>New Items</li>\n</ul>\n</li>\n<li>NPCs\n<ul>\n<li>Stat Adjustment</li>\n<li>Progression Adjustment</li>\n</ul>\n</li>\n<li>Rules\n<ul>\n<li>Actions</li>\n<li>Condition</li>\n<li>D20 Tests</li>\n<li>Darkvision</li>\n<li>Initiative</li>\n<li>Ranged Weapon</li>\n<li>Short Rest</li>\n<li>Thrown Weapon</li>\n<li>Weapon Mastery Properties</li>\n</ul>\n</li>\n<li>Spells\n<ul>\n<li>Cantrip</li>\n<li>Level 1 spells</li>\n<li>Level 2 spells</li>\n<li>Level 3 spells</li>\n<li>Level 4 spells</li>\n<li>Level 5 spells</li>\n<li>Level 6 spells</li>\n<li>Spell Scroll Restrictions</li>\n</ul>\n</li>\n</ul>",
+    "date_added": 1729165055,
+    "date_updated": 1771518469,
+    "date_live": 1729165076,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dnd-2024",
+    "submitted_by": {
+      "id": 33661205,
+      "name_id": "yoonmoonsik",
+      "username": "yoonmoonsik",
+      "profile_url": "https://mod.io/u/yoonmoonsik",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
+    },
+    "modfile": {
+      "id": 7412595,
+      "mod_id": 4419649,
+      "version": "3.4.4.0",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-6f7w.zip",
+      "changelog": null,
+      "date_added": 1771443331,
+      "date_updated": 0,
+      "date_scanned": 1771443413,
+      "filesize": 41240794,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "chatgptimage202611903_14_45--.png",
+      "original": "https://image.modcdn.io/mods/abd0/4419649/chatgptimage202611903_14_45--.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/abd0/4419649/crop_320x180/chatgptimage202611903_14_45--.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/abd0/4419649/crop_640x360/chatgptimage202611903_14_45--.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/abd0/4419649/crop_1280x720/chatgptimage202611903_14_45--.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Feats",
+        "name_localized": "Feats",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Consumables",
+        "name_localized": "Consumables",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      },
+      {
+        "name": "German",
+        "name_localized": "German",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Russian",
+        "name_localized": "Russian",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Turkish",
+        "name_localized": "Turkish",
+        "date_added": 0
+      },
+      {
+        "name": "Portuguese - Brazil",
+        "name_localized": "Portuguese - Brazil",
+        "date_added": 0
+      },
+      {
+        "name": "Italian",
+        "name_localized": "Italian",
+        "date_added": 0
+      },
+      {
+        "name": "Ukrainian",
+        "name_localized": "Ukrainian",
+        "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
+      },
+      {
+        "name": "Japanese",
+        "name_localized": "Japanese",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7378248
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7378248
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7378248
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7412595
+      }
+    ]
+  },
+  {
     "id": 4419750,
     "game_id": 6715,
     "name": "Druid 2024 w/ Circle of the Sea",
@@ -70938,6 +71244,119 @@
       {
         "platform": "ps5",
         "modfile_live": 6299219
+      }
+    ]
+  },
+  {
+    "id": 4482005,
+    "game_id": 6715,
+    "name": "Royal Greatsword - Blade of the Corrupted King",
+    "name_id": "royal-greatsword-blade-of-the-corrupted-king",
+    "summary": "A simple blade made out of a giant slab of metal with progressive stats. It has 2 stances each with its own set of spells and weapon actions. Channel the light or tap into a darker power to conjure up a sacrilegious storm and more.",
+    "description": "<p>Another mini-class weapon to play with. This time it's just a simple slab of metal, once wielded by a king that eventually fell to the temptation of dark powers.</p>\n<p> </p>\n<p><span style=\"font-weight:bolder;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;background-color:#0d0d10;\">Weapons info</span></p>\n<p>This weapon features a stance-based gameplay; you will be switching stance to get the desired buff and spells that are appropriate for the situation. The precision stance (light) is focused on single target and damage whilst the power stance (dark) is tuned for AoE destruction and control.</p>\n<p>The spell ranges from basic honest 'light' damage, to jumping and exploding in people's face, conjuring up a storm infused with radiant and dark energy, and even features an RNG buff (with drawback)/debuff to enemies.</p>\n<p> </p>\n<p>Stats and Spells are progressive.</p>\n<p><span style=\"font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;background-color:#0d0d10;\">No external assets/shaders/extended scripts are used to ensure consoles compatibility.</span></p>\n<p>Legendary Excalibur mesh by Moon Cube Studios: https://skfb.ly/6ZDOY licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). </p>\n<p> </p>\n<p style=\"font-size:1rem;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\">Spawns in the tutorial chest and 1 merchant in each act:</p>\n<p style=\"font-size:1rem;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\">Act 1: Arron - Emerald Grove</p>\n<p style=\"font-size:1rem;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\">Act 2: Quartermaster Talli - Last Light Inn</p>\n<p style=\"font-size:1rem;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\">Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p style=\"font-size:1rem;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\"> </p>\n<p style=\"font-size:1rem;font-family:SuisseIntl, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\">Bugs and feedbacks are much appreciated as always</p>\n<p>If you like my works, please consider keeping me hydrated at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1731389660,
+    "date_updated": 1771518805,
+    "date_live": 1731427818,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/royal-greatsword-blade-of-the-corrupted-king",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 5985605,
+      "mod_id": 4482005,
+      "version": "1.0.0.10",
+      "filename": "giantswd_9f222ca2-5677-3c26-1b-3v6n.zip",
+      "changelog": "- added 3 new visual; holy, sacred, and obsidian greatsword\n- made the swords dippable",
+      "date_added": 1737063747,
+      "date_updated": 0,
+      "date_scanned": 1737063758,
+      "filesize": 8072301,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnails2.png",
+      "original": "https://image.modcdn.io/mods/8832/4482005/thumbnails2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8832/4482005/crop_320x180/thumbnails2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8832/4482005/crop_640x360/thumbnails2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8832/4482005/crop_1280x720/thumbnails2.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5985605
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5985605
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5985605
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5985605
       }
     ]
   },
@@ -93485,6 +93904,174 @@
     ]
   },
   {
+    "id": 4846276,
+    "game_id": 6715,
+    "name": "Wings Character Customisation - WCC",
+    "name_id": "wings-character-customisation-wcc",
+    "summary": "Wings, my friends! For the flying of foul places.",
+    "description": "<h2>𝔚𝔦𝔫𝔤𝔰!</h2>\n<p>Grants the gift of flight to those who possess wings!</p>\n<h3>ℌ𝔞𝔩𝔱 𝔉𝔯𝔦𝔢𝔫𝔡𝔰!</h3>\n<p>It is not safe to update from version 1.0.0.74 to any higher version for an ongoing game! Danger lies ahead! You have been warned. </p>\n<p> </p>\n<h3>𝔚𝔥𝔬 𝔪𝔦𝔤𝔥𝔱 𝔰𝔭𝔯𝔢𝔞𝔡 𝔱𝔥𝔢𝔦𝔯 𝔴𝔦𝔫𝔤𝔰?</h3>\n<p><span style=\"font-size:medium;\">Wings manifest on the backs of the tall and the strong. The little ones have been found to lack the balance necessary for flight.</span></p>\n<h3><span style=\"font-size:medium;\">ℌ𝔬𝔴 𝔪𝔦𝔤𝔥𝔱 𝔬𝔫𝔢 𝔪𝔞𝔫𝔦𝔣𝔢𝔰𝔱 𝔱𝔥𝔢𝔦𝔯 𝔴𝔦𝔫𝔤𝔰?</span></h3>\n<p>Wings may be selected from the Tail slot in the character creation screen OR be worn as amour (underwear slot). If you are playing on PC, use <a href=\"https://www.nexusmods.com/baldursgate3/mods/19642\" target=\"_blank\" rel=\"noopener noreferrer\">Slots</a> to change their slots. There shall be no alternative versions of these wings by Aardi. </p>\n<h3>𝔐𝔞𝔫𝔦𝔣𝔢𝔰𝔱𝔢𝔡 𝔴𝔦𝔫𝔤𝔰:</h3>\n<p>There are many wings that you may manifest to carry you through the skies!<br><strong>Wings in the Character Creator:</strong> <br>Purity, Archangel, Harpy<br>Wisdom Messenger, Chief of Sin, Old Hag, Fallen <br>Lesser Cambion, Lesser Vampire, Devilish Presence, Vampire Lord<br><strong>Wings as Armour:</strong> <br>Purity, Archangel, Harpy<br>Metal Purity, Archangel, and Harpy variants<br>Fragile Purity and Archangel variants<br>Wisdom Messenger, Chief of Sin, Old Hag, Fallen<br>Lesser Cambion, Lesser Vampire. Devilish Presence, Vampire Lord <br>Chromatic Dragon, Metallic Dragon<br><br></p>\n<h3>𝔗𝔥𝔢 𝔊𝔦𝔣𝔱 𝔬𝔣 𝔉𝔩𝔦𝔤𝔥𝔱:</h3>\n<p>All wings grant the ability to fly, both those worn as armour and those selected in the Character Creator. </p>\n<h3>ℌ𝔬𝔴 𝔪𝔦𝔤𝔥𝔱 𝔬𝔫𝔢 𝔟𝔬𝔫𝔡 𝔴𝔦𝔱𝔥 𝔱𝔥𝔢𝔦𝔯 𝔡𝔦𝔳𝔦𝔫𝔢 𝔤𝔦𝔣𝔱?</h3>\n<p>Wings in the Tail slot in the character creation screen are paired with the colour of your hair strands or your skin tone on the appropriate wing. Wings worn upon the body can be dyed with the feather dyes provided. Wings that are bare of feathers cannot be dyed using these and can be dyed using regular dyes.</p>\n<h3>𝔚𝔥𝔞𝔱 𝔥𝔞𝔭𝔭𝔢𝔫𝔢𝔡 𝔱𝔬 𝔱𝔥𝔢 ℜ𝔢𝔰𝔱𝔩𝔢𝔰𝔰 𝔚𝔦𝔫𝔤𝔰? </h3>\n<p>Aardi removed them as they lost their purpose when <a href=\"https://www.nexusmods.com/baldursgate3/mods/17737\" target=\"_blank\" rel=\"noopener noreferrer\">QSAT</a> was released. Manifesting such wings now would be a waste of time and for no reason as they were originally for flair and galavanting for photos</p>\n<h3>𝔏𝔬𝔠𝔞𝔱𝔦𝔬𝔫:</h3>\n<p>These wings were gifted in <a href=\"https://mod.io/g/baldursgate3/m/aardis-chest-of-presents#description\" target=\"_blank\" rel=\"noopener noreferrer\">Aardi's Chest of Presents</a>.</p>\n<h3>𝔐𝔬𝔯𝔢 𝔴𝔦𝔫𝔤𝔰 𝔫𝔬𝔱 𝔪𝔞𝔫𝔦𝔣𝔢𝔰𝔱𝔢𝔡 𝔟𝔶 𝔄𝔞𝔯𝔡𝔦:</h3>\n<p><a href=\"https://mod.io/g/baldursgate3/m/skybound-wings-primal-pack-dragonborn-cc#description\" target=\"_blank\" rel=\"noopener noreferrer\">Skybound Wings</a>  <br><a href=\"https://mod.io/g/baldursgate3/m/dark-soar-wings-dragonborn-cc#description\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Soar Wings</a>  <br><a href=\"https://mod.io/g/baldursgate3/m/soaring-ambition-ascended-fiend-wings#description\" target=\"_blank\" rel=\"noopener noreferrer\">Soaring Ambition</a></p>\n<h3>𝔎𝔫𝔬𝔴𝔫 ℑ𝔰𝔰𝔲𝔢𝔰:</h3>\n<p>The icons in the Character Creator may be too small.<br>The wings open for no reason sometimes. <br>Harpy wings are sticking into the character (that's the animation's fault)<br>The draconic wings can look wonky when closed. <br>Vampire Lord and Devilish Presence wings no longer appear above the head but are still VERY BUGGY on BT1, the rest of them are fine. </p>\n<p><img src=\"https://i.postimg.cc/ZKD0SRGn/image-2026-02-01-004048810.png\" alt=\"\" width=\"800\" height=\"450\"></p>\n<p>Photos by myself and HastursQueen</p>\n<h3> </h3>\n<h3>𝔄𝔳𝔞𝔦𝔩𝔞𝔟𝔩𝔢 𝔬𝔫 ℭ𝔬𝔫𝔰𝔬𝔩𝔢𝔰...</h3>\n<p>(Version 1.0.0.121) I have requested it of Larian's Great Council - 10/2/26</p>\n<p>(Version 1.0.0.74) Larian's Great Council has rejected this boon.</p>",
+    "date_added": 1743824972,
+    "date_updated": 1771518679,
+    "date_live": 1743825614,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wings-character-customisation-wcc",
+    "submitted_by": {
+      "id": 34761538,
+      "name_id": "modiouser2078274",
+      "username": "AardiHenrietta",
+      "profile_url": "https://mod.io/u/modiouser2078274",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/79f5/34761538/crop_100x100/baldursgate3screenshot20251011-.png"
+    },
+    "modfile": {
+      "id": 7379036,
+      "mod_id": 4846276,
+      "version": "1.0.0.121",
+      "filename": "aardi_wingscharactercustomisat-byuq.zip",
+      "changelog": "Fixed Chief of Sin, Old Hag, and Wisdom Messenger not working on BT1\nFixed floating above head issue for cambion and vampire wings on BT1, but animations are still VERY BUGGY for now.\nAnimation swap so Harpy wings wont stick into the character",
+      "date_added": 1770649219,
+      "date_updated": 0,
+      "date_scanned": 1770649532,
+      "filesize": 168902547,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/5a0e/4846276/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5a0e/4846276/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5a0e/4846276/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5a0e/4846276/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7379036
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7379036
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7379036
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7379036
+      }
+    ]
+  },
+  {
     "id": 4849151,
     "game_id": 6715,
     "name": "Purple Dragon Knight 2024 (new dragon animations)",
@@ -113721,6 +114308,134 @@
     ]
   },
   {
+    "id": 5059925,
+    "game_id": 6715,
+    "name": "Goliath Race For Console",
+    "name_id": "goliath-race-for-console",
+    "summary": "Adds a several permanent polymorph spells that turns you into a Goliath.",
+    "description": "<p>My mods will always be free but if you are a fan of my work, consider supporting me.</p>\n<p><a href=\"https://ko-fi.com/D1D01CKQTX\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/f53e/33769014/profile/support_me_on_kofi_badge_blue.png\" alt=\"Buy Me a Coffee at ko-fi.com\" width=\"175\" height=\"67\"></a></p>\n<h2>What does this mod do?</h2>\n<p>This mod adds two container spells that change you into a Goliath. The spells are granted as soon as you enable the mod and load into your game automatically. Currently these spells use your character visuals, enlarge you and grant you the appropriate passives and tags for the race. Your race changes to Giant after casting. One of the container spells applies a body tattoo as well, the other doesn't. The spell you cast on yourself selects the giant ancestry you would like to use. This form change is semi-permanent meaning you can dismiss it yourself but the game doesn't recognize it as a polymorph. This means you will retain this form through cutscenes, dialog, long resting, disguises, other polymorph spells when dismissed, wildshape after dismissing, etc. This was a conversion from my original <a href=\"https://mod.io/g/baldursgate3/m/goliath-race#description\">Goliath Race Mod</a> to make it compatible with console. See below for a demonstration of how the polymorph is retained.</p>\n<p><iframe src=\"https://www.youtube.com/embed/DDleij6Q-Ds?vq=hd1080\" width=\"800\" height=\"600\" frameborder=\"0\"></iframe><br><br></p>\n<h2>The Goliath</h2>\n<p>Towering over most folk, Goliaths are distant descendants of giants. Each Goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of Goliaths’ gigantic kin.</p>\n<p>Once you change into the Goliath you gain, Giant Ancestry which gives you a choice of six (6) different Spells or Reactions as described below:</p>\n<ul>\n<li><strong>Cloud’s Jaunt (Cloud Giant)</strong>: As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.</li>\n<li><strong>Fire’s Burn (Fire Giant)</strong>: When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.</li>\n<li><strong>Frost’s Chill (Frost Giant):</strong> When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.</li>\n<li><strong>Hill’s Tumble (Hill Giant)</strong>: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.</li>\n<li><strong>Stone’s Endurance (Stone Giant):</strong> When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.</li>\n<li><strong>Storm’s Thunder (Storm Giant)</strong>: When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.</li>\n</ul>\n<p>Giant Ancestry is implemented with an additional resource, which scales off of your proficiency bonus. You can use your Giant Ancestry ability a number of times equal to your proficiency bonus, you regain all uses when you complete a Long Rest. Additionally, Goliaths also gain the following passives:</p>\n<ul>\n<li><strong>Large Form</strong>: Starting at character level 5, you can change your size to Large as a Bonus Action if you’re in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can’t use it again until you finish a Long Rest.</li>\n</ul>\n<ul>\n<li><strong>Powerful Build.</strong> You also count as one size larger when determining your carrying capacity.</li>\n</ul>\n<p><strong>I am planning on releasing this to console after some additional testing is done. This mod should be 100% compatible to console as it uses an existing race to create the Goliath.</strong></p>\n<p> </p>\n<h2>Notes</h2>\n<p>You can't change your Giant Ancestry while in combat, I felt this could make it way too easy to just switch for different abilities and regaining your Giant Ancestry points. If you are level 5 or higher and you change your Giant Ancestry by just recasting the spell you will have to cast it again to regain the additional Giant Ancestry Points back. If you dismiss it and then recast it works fine. Currently Large Form is granted immediately when you change into a Goliath, this will be changed to level 5 in a future update. The race passives of your initial race you picked at character creation are retained, I haven't found a way to remove them.<br><br>I will be adding a version that applies a preset so even if you aren't a Human or Elf you can still look like a Goliath if you choose.</p>",
+    "date_added": 1751410090,
+    "date_updated": 1771518534,
+    "date_live": 1751410090,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/goliath-race-for-console",
+    "submitted_by": {
+      "id": 33769014,
+      "name_id": "kryptohack",
+      "username": "KryptoHack",
+      "profile_url": "https://mod.io/u/kryptohack",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f53e/33769014/crop_100x100/gemini_generated_image_optynlop.2.jpg"
+    },
+    "modfile": {
+      "id": 6646591,
+      "mod_id": 5059925,
+      "version": "1.0.0.8",
+      "filename": "khg_goliathrace2024consoleedit-0grc.zip",
+      "changelog": "Removed unnecessary files generated by the toolkit to greatly reduce the size.",
+      "date_added": 1754519991,
+      "date_updated": 0,
+      "date_scanned": 1754519998,
+      "filesize": 1631497,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/44f7/5059925/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/44f7/5059925/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/44f7/5059925/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/44f7/5059925/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6646591
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6646591
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6646591
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6646591
+      }
+    ]
+  },
+  {
     "id": 5064869,
     "game_id": 6715,
     "name": "Alyssa CC Head Preset by cedastarions",
@@ -126840,6 +127555,159 @@
     ]
   },
   {
+    "id": 5651125,
+    "game_id": 6715,
+    "name": "Royal Knight - Progressive Equipment Set",
+    "name_id": "royal-knight-progressive-equipment-set",
+    "summary": "Royal Knight armor set + progressive rapier.",
+    "description": "<p>A full set of armor, weapons and camp clothing of the royal knight<br>Fully Dyeable<br>Supports Bodytype 1</p>\n<p><strong>!!!!!!!!!! IMPORTANT !!!!!!!!!! </strong><br>if you come across an animation bug (eg. animation plays but only a single delayed hit with the character getting stuck after), a simple fix is to swap to your ranged weapon set, and then back to the melee set (press f on pc; hold left d-pad on controller)<br>known triggers: loading a save with the weapon already equipped; changing zone with a loading screen (eg. rivington &gt; lower city); triggering multiclass</p>\n<p>Commissioned by brustuN<br>Body refit commissioned by Anonymous<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p><a href=\"https://www.fab.com/listings/9dc1cccd-35d8-413e-b494-ed310419c910\">Dark Knight Girl Calista</a> by IdaFaber<br><a href=\"https://www.fab.com/listings/fc17a8b1-78da-4c0f-ba21-72f152a08272\">German Rapier</a> by Valeriy<br>licensed under Standard License<br>Meshes and Textures has been modified</p>\n<p>Bugs and feedbacks are appreciated!<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1767426318,
+    "date_updated": 1771518852,
+    "date_live": 1767426866,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/royal-knight-progressive-equipment-set",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 7380296,
+      "mod_id": 5651125,
+      "version": "1.0.0.5",
+      "filename": "rknghtbrs_c21250da-3aa7-d2ea-0-8fwc.zip",
+      "changelog": "- added support for bt3 and gty1\n- added queen body variant\n- fixed rapier orientation\n- tweaked how the clothing is dyed; this should enable white and lighter color dyes now",
+      "date_added": 1770675556,
+      "date_updated": 0,
+      "date_scanned": 1770675610,
+      "filesize": 26678318,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/4554/5651125/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4554/5651125/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4554/5651125/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4554/5651125/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7225404
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7225404
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7225404
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7380296
+      }
+    ]
+  },
+  {
     "id": 5682946,
     "game_id": 6715,
     "name": "Hallowleaf Epilogue Letters",
@@ -127544,6 +128412,144 @@
       {
         "platform": "ps5",
         "modfile_live": 7288718
+      }
+    ]
+  },
+  {
+    "id": 5710492,
+    "game_id": 6715,
+    "name": "Drunken Humming",
+    "name_id": "ht-drunken-humming",
+    "summary": "Hum the BG3 theme song while drunk",
+    "description": "<h2><span style=\"font-size:xx-large;color:#ffd966;\"><strong>Go home Tav, you're drunk.</strong></span></h2>\n<p><iframe src=\"https://www.youtube.com/embed/Y24gUzYc2fQ\" width=\"560\" height=\"314\"></iframe><iframe src=\"https://www.youtube.com/embed/LJLUX64sNvA\" width=\"560\" height=\"314\"></iframe></p>\n<p>I was perusing the game files (as you do) and came across recordings of every Tav and companion* drunkenly humming the BG3 theme song. So of course I couldn't resist making it into a mod.</p>\n<p>*except Halsin 🐻 :(</p>\n<ol>\n<li>Install mod</li>\n<li>Get your Tav/companion drunk</li>\n<li>Watch them do their best</li>\n</ol>\n<p><span style=\"font-size:medium;\">If there's a drunk/alcohol-related status I missed, LMK! </span></p>\n<p><span style=\"font-size:medium;\"><strong><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/20345/20345-1769599230-1935779454.png\" alt=\"\" width=\"1000\" height=\"542\"></strong></span><br><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/20345/20345-1769531209-750525920.png\" alt=\"\" width=\"1000\" height=\"562\"></p>\n<div><em>IDK why I uploaded so many screenshots. It's not like you can hear what they're singing</em></div>\n<p><br><span style=\"font-size:medium;\">Fun fact: Halsin doesn't have any drunk humming audio but Volo does. No idea if this is actually used anywhere in the game. ¯\\_(ツ)_/¯ </span></p>\n<p> </p>\n<p><strong><span style=\"font-size:x-large;color:#ffd966;\">Installation &amp; compatibility</span></strong></p>\n<ul>\n<li><span style=\"font-size:medium;\">This mod doesn't override any base game files, so it should be compatible with just about anything.</span></li>\n<li><span style=\"font-size:medium;\">Installing/uninstalling mid-playthrough is a-okay</span></li>\n</ul>",
+    "date_added": 1768930165,
+    "date_updated": 1771518584,
+    "date_live": 1770059623,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ht-drunken-humming",
+    "submitted_by": {
+      "id": 38571961,
+      "name_id": "hyperspacetowel",
+      "username": "HyperspaceTowel",
+      "profile_url": "https://mod.io/u/hyperspacetowel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5701/38571961/crop_100x100/hyperspacetowel.jpg"
+    },
+    "modfile": {
+      "id": 7329718,
+      "mod_id": 5710492,
+      "version": "1.0.0.28",
+      "filename": "ht_drunkenhumming_ad5805ea-45e-2dzd.zip",
+      "changelog": null,
+      "date_added": 1769610262,
+      "date_updated": 0,
+      "date_scanned": 1769610269,
+      "filesize": 469792,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "drunken_humming1080.png",
+      "original": "https://image.modcdn.io/mods/0ef0/5710492/drunken_humming1080.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0ef0/5710492/crop_320x180/drunken_humming1080.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0ef0/5710492/crop_640x360/drunken_humming1080.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0ef0/5710492/crop_1280x720/drunken_humming1080.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      },
+      {
+        "name": "Jaheira",
+        "name_localized": "Jaheira",
+        "date_added": 0
+      },
+      {
+        "name": "Karlach",
+        "name_localized": "Karlach",
+        "date_added": 0
+      },
+      {
+        "name": "Lae'zel",
+        "name_localized": "Lae'zel",
+        "date_added": 0
+      },
+      {
+        "name": "Minsc",
+        "name_localized": "Minsc",
+        "date_added": 0
+      },
+      {
+        "name": "Minthara",
+        "name_localized": "Minthara",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7329718
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7329718
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7329718
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7329718
       }
     ]
   },
@@ -128704,6 +129710,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7321404
+      }
+    ]
+  },
+  {
+    "id": 5750287,
+    "game_id": 6715,
+    "name": "Aardi's Chest of Presents",
+    "name_id": "aardis-chest-of-presents",
+    "summary": "It is exactly what it says, friend.",
+    "description": "<h2>𝔄 ℭ𝔥𝔢𝔰𝔱 𝔬𝔣 𝔓𝔯𝔢𝔰𝔢𝔫𝔱𝔰</h2>\n<p>This chest contains many special gifts. Magical in nature, it exists in all the listed locations at the same time:</p>\n<p>Act 1: The Tutorial Chest, Arron, Dammon, Ethel, Grat, Blurg.<br>Act 1b:  Lady Esther, A'jak'nir Jeera<br>Act 2: Quartermaster Talli, Dammon, Mattis, Araj Oblodra, Sister Lidwin<br>Act3: Mattis, Dammon, Entharl Danthelon, Popper, Rolan/Lorroakan (Yes. <em>T</em><em>hat </em>Lorroakan), Fytz, Koll</p>\n<h3>𝔎𝔫𝔬𝔴𝔫 ℑ𝔰𝔰𝔲𝔢𝔰:</h3>\n<p>None.</p>\n<h3>𝔐𝔬𝔡𝔰 ℑ𝔫𝔠𝔩𝔲𝔡𝔢𝔡:</h3>\n<p><a href=\"https://mod.io/g/baldursgate3/m/knights-and-dames#description\" target=\"_blank\" rel=\"noopener noreferrer\">Knights and Dames</a> <br><a href=\"https://mod.io/g/baldursgate3/m/wings-character-customisation-wcc#description\" target=\"_blank\" rel=\"noopener noreferrer\">Wings Character Customisation - WCC</a></p>\n<h3>𝔐𝔬𝔡𝔰 𝔑𝔬𝔱 ℑ𝔫𝔠𝔩𝔲𝔡𝔢𝔡:</h3>\n<p><a href=\"https://mod.io/g/baldursgate3/m/githyanki-headwear#description\" target=\"_blank\" rel=\"noopener noreferrer\">Githyanki Headwear</a> (I forgot)<br><a href=\"https://mod.io/g/baldursgate3/m/varang-things#description\" target=\"_blank\" rel=\"noopener noreferrer\">Varang Things</a> (Slipped my mind)</p>\n<h3>𝔄𝔳𝔞𝔦𝔩𝔞𝔟𝔩𝔢 𝔬𝔫 ℭ𝔬𝔫𝔰𝔬𝔩𝔢𝔰...</h3>\n<p> I have requested it of Larian's Great Council - 1/2/26</p>",
+    "date_added": 1769915000,
+    "date_updated": 1771519758,
+    "date_live": 1769924264,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aardis-chest-of-presents",
+    "submitted_by": {
+      "id": 34761538,
+      "name_id": "modiouser2078274",
+      "username": "AardiHenrietta",
+      "profile_url": "https://mod.io/u/modiouser2078274",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/79f5/34761538/crop_100x100/baldursgate3screenshot20251011-.png"
+    },
+    "modfile": {
+      "id": 7347175,
+      "mod_id": 5750287,
+      "version": "1.0.0.8",
+      "filename": "aardi_chestofpresents_08aaab4b-417t.zip",
+      "changelog": null,
+      "date_added": 1769948425,
+      "date_updated": 0,
+      "date_scanned": 1769948439,
+      "filesize": 4371907,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/b0d0/5750287/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b0d0/5750287/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b0d0/5750287/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b0d0/5750287/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7347175
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7347175
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7347175
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7347175
       }
     ]
   }
