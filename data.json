@@ -127548,6 +127548,433 @@
     ]
   },
   {
+    "id": 5718099,
+    "game_id": 6715,
+    "name": "Wrongway Pure Paladin",
+    "name_id": "wrongway-pure-paladin",
+    "summary": "This mod contains twelve different items to begin your Paladin adventure. You'll find this in the introduction area of the game.",
+    "description": "<p>This mod contains <span style=\"text-decoration:underline;\"><strong>twelve</strong></span> different items to begin your Paladin adventure. You'll find this in the introduction area of the game.</p>\n<ul>\n<li>\"<strong>Guardian Sword</strong>\" considered a longsword\n<ul>\n<li>on kill give allies temporary hit points and health</li>\n<li>has smite damage chance to daze</li>\n<li>has conditional damage</li>\n<li>has light</li>\n</ul>\n</li>\n<li>\"<strong>Guidance Axe</strong>\" considered a battleaxe\n<ul>\n<li>on hit regain health</li>\n<li>has smite damage chance to daze</li>\n<li>has conditional damage</li>\n<li>has light</li>\n</ul>\n</li>\n<li>\"<strong>Gallant Bow</strong>\" longbow\n<ul>\n<li>increases damage by strength</li>\n<li>has conditional damage</li>\n<li>has damage reels target</li>\n<li>has light</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p><em>Search \"<strong>Wrongway</strong>\" for any of my other mods.</em></p>\n<ul>\n<li><em><strong>Wrongway Elemental Clothes</strong> (lots of class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Feats</strong> (lots of elemental damage and ability boost feats)</em></li>\n<li><em><strong>Wrongway Elemental Jewelry</strong> (lots of elemental damage and class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Starter Bag</strong> (lots of resource goodies)</em></li>\n<li><em><strong>Wrongway Elemental Weapons</strong> (lots of elemental damage weapons)</em></li>\n<li><em><strong>Wrongway Lite Clothes</strong> (few camp clothes)</em></li>\n<li><em><strong>Wrongway Lite Jewelry</strong> (few ability boost jewelry)</em></li>\n<li><em><strong>Wrongway Lite Starter Bag</strong> (few resource goodies)</em></li>\n<li><em><strong>Wrongway Lite Weapons</strong> (few damage boost weapons)</em></li>\n</ul>",
+    "date_added": 1769173762,
+    "date_updated": 1771517922,
+    "date_live": 1769173848,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wrongway-pure-paladin",
+    "submitted_by": {
+      "id": 44991874,
+      "name_id": "wrongwayfelldown",
+      "username": "WrongwayFelldown",
+      "profile_url": "https://mod.io/u/wrongwayfelldown",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2e10/44991874/crop_100x100/1000003178.png"
+    },
+    "modfile": {
+      "id": 7340166,
+      "mod_id": 5718099,
+      "version": "1.0.0.4",
+      "filename": "wrongway_pure_paladin_bfbe6301-cbjo.zip",
+      "changelog": null,
+      "date_added": 1769835271,
+      "date_updated": 0,
+      "date_scanned": 1769835280,
+      "filesize": 3265236,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2026-01-23205635.jpg",
+      "original": "https://image.modcdn.io/mods/7de5/5718099/screenshot2026-01-23205635.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7de5/5718099/crop_320x180/screenshot2026-01-23205635.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7de5/5718099/crop_640x360/screenshot2026-01-23205635.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7de5/5718099/crop_1280x720/screenshot2026-01-23205635.jpg"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7340166
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7340166
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7340166
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7340166
+      }
+    ]
+  },
+  {
+    "id": 5719524,
+    "game_id": 6715,
+    "name": "Aylin Always Summons Moonlight Slivers",
+    "name_id": "aylin-always-summons-moonlight-slivers",
+    "summary": "Aylin will always summon Moonlight Slivers when confronting Lorroakan.",
+    "description": "<p>In the vanilla game, Aylin will summon three <a href=\"https://bg3.wiki/wiki/Moonlight_Sliver\" rel=\"nofollow\">Moonlight Slivers</a> to her aid if the party decides to hand her over to Lorroakan.<br>This mod changes it so that she will summon the Slivers even if you side with her against Lorroakan.</p>\n<p><strong><span style=\"font-size:medium;\">💬Dialogue and Gameplay Changes</span></strong></p>\n<p><strong><span style=\"font-size:medium;\">🌙Before:</span></strong> </p>\n<ul>\n<li><strong>Side with Lorroakan</strong>: Aylin summons three Moonlight Slivers, and Lorroakan summons four elemental <a href=\"https://bg3.wiki/wiki/Myrmidon\" rel=\"nofollow\">Myrmidons</a>. The Moonlight Slivers and Aylin are hostile to<em> </em>the party. Lorroakan, the Myrmidons, <a href=\"https://bg3.wiki/wiki/Miklaur\" rel=\"nofollow\">Miklaur</a> and <a href=\"https://bg3.wiki/wiki/Krank\" rel=\"nofollow\">Krank</a> will ally <em>with </em>the party.</li>\n<li><strong>Side with Aylin</strong>: Aylin doesn’t summon the Slivers — she alone allies with the party. Lorroakan and his crew are hostile.</li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">🌕After:</span></strong> </p>\n<ul>\n<li><strong>Side with Lorroakan</strong>: Unchanged. The Slivers and Myrmidons are summoned as usual.</li>\n<li><strong>Side with Aylin</strong>: Aylin summons three Moonlight Slivers, and they ally with the party. Lorroakan and his crew are hostile.</li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">🎬Cutscene Changes</span></strong></p>\n<p><strong><span style=\"font-size:medium;\">🌙Before:</span></strong> </p>\n<ul>\n<li>All the Slivers in the cutscene have the exact same appearance<span style=\"font-size:medium;\"><strong>.</strong></span></li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">🌕After:</span></strong> </p>\n<ul>\n<li>The cutscene correctly displays each Sliver's unique appearance.</li>\n</ul>\n<p> </p>\n<p>❗ <strong>Please Note</strong></p>\n<p>This mod is designed to enhance the story experience by making an often-missed scene more easily accessible. It is not intended to provide balanced combat. Aylin and the Slivers will wipe the floor with Lorroakan and his lackeys (as they should).</p>\n<p> </p>\n<p>ℹ️ <strong>Additional Notes on Slivers Behaviour</strong></p>\n<p>In the vanilla game, the only way to get rid of the Moonlight Slivers is to kill them. I've had to come up with a more peaceful way to get them to please leave the building. <br>The trigger for them to leave is after Aylin has completed her wresting move on Lorroakan. If for some reason that doesn't happen, the backup trigger is for them to leave when Aylin does (after a long rest).<br>If for whatever reason Aylin can't get her backbreaker on (if Lorroakan has been yeeted to one of the lower floors), don't worry if the Slivers are just milling about looking shifty. They'll leave eventually.</p>\n<p> </p>\n<p>Safe to install/uninstall anytime.</p>",
+    "date_added": 1769201997,
+    "date_updated": 1771517289,
+    "date_live": 1769201997,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aylin-always-summons-moonlight-slivers",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 7307539,
+      "mod_id": 5719524,
+      "version": "1.0.0.12",
+      "filename": "always_moonlight_silver_a0b1e4-0vs1.zip",
+      "changelog": "Initial upload",
+      "date_added": 1769202008,
+      "date_updated": 0,
+      "date_scanned": 1769202017,
+      "filesize": 2002485,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "moonlightsilver.1.png",
+      "original": "https://image.modcdn.io/mods/9fb7/5719524/moonlightsilver.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9fb7/5719524/crop_320x180/moonlightsilver.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9fb7/5719524/crop_640x360/moonlightsilver.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9fb7/5719524/crop_1280x720/moonlightsilver.1.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7307539
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7307539
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7307539
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7307539
+      }
+    ]
+  },
+  {
+    "id": 5719537,
+    "game_id": 6715,
+    "name": "Stomp that Tadpole",
+    "name_id": "stomp-that-tadpole",
+    "summary": "Stomp the astral-touched tadpole, even if tadpoles have been consumed previously.",
+    "description": "<p><strong>Do you wish that you could stomp on the <a href=\"https://bg3.wiki/wiki/Astral-Touched_Tadpole\" rel=\"nofollow\">Astral-Touched Tadpole</a>, but you can't because you consumed tadpoles in the past?<br><br></strong>This mod lets you stomp on the Astral-Touched Tadpole — even if you’ve been slurping down tadpoles on the regular.</p>\n<div><strong><a href=\"https://bg3.wiki/wiki/Astral-Touched_Tadpole\" rel=\"nofollow\"><img src=\"https://bg3.wiki/w/images/thumb/c/cc/Astral_Tadpole_Unfaded_Icon.png/30px-Astral_Tadpole_Unfaded_Icon.png\" alt=\"30px-Astral_Tadpole_Unfaded_Icon.png\"> </a></strong><strong>Before:<br></strong>When The Emperor offers you the tadpole:</div>\n<ul>\n<li><strong>If you haven't consumed any tadpoles: </strong>You will get the option to drop it on the ground and stomp on it.</li>\n<li><strong>If you have consumed tadpoles: </strong>You will not get an option to stomp on the tadpole.</li>\n</ul>\n<div><strong><a href=\"https://bg3.wiki/wiki/Astral-Touched_Tadpole\" rel=\"nofollow\"><img src=\"https://bg3.wiki/w/images/thumb/c/cc/Astral_Tadpole_Unfaded_Icon.png/30px-Astral_Tadpole_Unfaded_Icon.png\" alt=\"30px-Astral_Tadpole_Unfaded_Icon.png\"> </a></strong><strong>After:<br></strong>When The Emperor offers you the tadpole:</div>\n<ul>\n<li><strong>If you haven't consumed any tadpoles</strong>: You will get the option to drop it on the ground and stomp on it, same as before.</li>\n<li><strong>If you have consumed tadpoles: </strong>You will get the option to stomp on the tadpole, but you must pass a <strong>DC 14 constitution check</strong>.</li>\n</ul>\n<p> </p>\n<p>Safe to install/uninstall anytime.</p>",
+    "date_added": 1769202202,
+    "date_updated": 1771518265,
+    "date_live": 1769210247,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/stomp-that-tadpole",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 7307552,
+      "mod_id": 5719537,
+      "version": "1.0.0.2",
+      "filename": "tadpole_stomp_57f14548-1aed-73-b0xr.zip",
+      "changelog": "Initial upload",
+      "date_added": 1769202205,
+      "date_updated": 0,
+      "date_scanned": 1769202217,
+      "filesize": 937906,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "tadpolestomp.1.png",
+      "original": "https://image.modcdn.io/mods/814a/5719537/tadpolestomp.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/814a/5719537/crop_320x180/tadpolestomp.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/814a/5719537/crop_640x360/tadpolestomp.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/814a/5719537/crop_1280x720/tadpolestomp.1.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7307552
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7307552
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7307552
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7307552
+      }
+    ]
+  },
+  {
+    "id": 5719540,
+    "game_id": 6715,
+    "name": "Priestess Gut Gonna Knock You Out",
+    "name_id": "priestess-gut-gonna-knock-you-out",
+    "summary": "Priestess Gut will knock elves/drow out when her sleeping potion doesn't work",
+    "description": "<p><strong>Do you wish you could be knocked unconscious by Priestess Gut but your elfish ancestry kept getting in the way? Do you long to discover what delights she has in store for you? Look no further!</strong><br><br>This mod allows elves, half-elves, and drow to be knocked out by Priestess Gut — unlocking a scene otherwise unavailable to them.<br>Characters with <a href=\"https://bg3.wiki/wiki/Fey_Ancestry\" rel=\"nofollow\">fey ancestry</a> are immune to sleep and are therefore locked out of whatever Priestess Gut has cooking.<br><strong>This only affects characters with elf, half-elf or drow race tags.</strong></p>\n<p><br><br><strong><span style=\"font-size:medium;\">💤Before:</span></strong><br>When Priestess Gut offers you her sleeping potion:</p>\n<ul>\n<li><strong>If you drink it</strong>: It won’t work (due to elf race tags), and Gut will initiate combat.</li>\n<li><strong>If you refuse it</strong>: She’ll cast <em>Sleep</em>, it also won’t work, and again — combat.</li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">💤After:</span></strong><br>When Priestess Gut offers you the potion:</p>\n<ul>\n<li><strong>If you drink it</strong>: The potion still doesn’t work (this remains unchanged), but she follows up with a spell, which now works—knocking you out.</li>\n<li><strong>If you refuse it</strong>: She casts a spell, and this time, it works.</li>\n</ul>\n<p> </p>\n<p>\"But sleep still shouldn't work on elves! My immersion is <em>ruined</em>!\"<br>Gut now has <a href=\"https://bg3.wiki/wiki/Eyebite:_Asleep\" rel=\"nofollow\">Eyebite</a> as a condition, allowing her to knock out characters with fey ancestry.</p>\n<p><em>Safe to install/uninstall anytime.</em></p>",
+    "date_added": 1769202287,
+    "date_updated": 1771518015,
+    "date_live": 1769202287,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/priestess-gut-gonna-knock-you-out",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 7308171,
+      "mod_id": 5719540,
+      "version": "1.0.0.5",
+      "filename": "priestess_gut_elf_bedtime_f604-aes6.zip",
+      "changelog": "Reduced mod file size.",
+      "date_added": 1769210704,
+      "date_updated": 0,
+      "date_scanned": 1769210712,
+      "filesize": 1071853,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "gutgonnaknockyouout.1.png",
+      "original": "https://image.modcdn.io/mods/9b6e/5719540/gutgonnaknockyouout.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9b6e/5719540/crop_320x180/gutgonnaknockyouout.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9b6e/5719540/crop_640x360/gutgonnaknockyouout.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9b6e/5719540/crop_1280x720/gutgonnaknockyouout.1.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7308171
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7308171
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7308171
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7308171
+      }
+    ]
+  },
+  {
     "id": 5719800,
     "game_id": 6715,
     "name": "Poesielibre's Spellbound Sisters - Head Duo",
@@ -127780,6 +128207,503 @@
       {
         "platform": "ps5",
         "modfile_live": 7308598
+      }
+    ]
+  },
+  {
+    "id": 5722372,
+    "game_id": 6715,
+    "name": "Skirbie's Arcane Witch - Progressive Equipment Set",
+    "name_id": "skirbies-arcane-witch-progressive-equipment-set",
+    "summary": "Full equipment set of the arcane witch. Become an alluring sorceress and wield a bunch of arcane and charm based spells.",
+    "description": "<p>Full equipment set of the arcane witch. Become an alluring sorceress, wield powerful arcane magic and bonk people that is a bit too enthralled by your charm (you can bonk with your arcane fist or your scepter)<br>fully dyeable<br>supports bodytype 1/2/3/4/githyanki 1/2<br>bt1 has 3 options; Queen, Princess and Base body<br>comes in armor and camp clothing slot; the staff has an animated floating orb</p>\n<p>showcase of some spells:</p>\n<p></p><video controls width=\"600\" height=\"300\">\n<source src=\"https://i.imgur.com/sTtvKcs.mp4\" type=\"video/mp4\"></source></video>\n<p><br>This mod is a personal compilation (and additions) of the following mods:-<br>Arcane Spells - Commissioned by Khan<br>Crimson Monarch Dress (Queen's Garments) - Commissioned by Morgana Evelyn</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Dress model kitbashed from a few assets by RyanReos and Idafaber<br><a href=\"https://www.cgtrader.com/3d-models/military/melee/magic-staff-and-artifact\">Magic Staff</a> model by coldmocha<br>licensed under Royalty Free License<br>mesh and texture has been modified</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1769262374,
+    "date_updated": 1771517134,
+    "date_live": 1769263842,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/skirbies-arcane-witch-progressive-equipment-set",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 7310863,
+      "mod_id": 5722372,
+      "version": "1.0.0.19",
+      "filename": "atsiestff_0686b753-fb20-1772-f-ivac.zip",
+      "changelog": null,
+      "date_added": 1769262402,
+      "date_updated": 0,
+      "date_scanned": 1769262479,
+      "filesize": 48479449,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/0101/5722372/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0101/5722372/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0101/5722372/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0101/5722372/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7310863
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7310863
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7310863
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7310863
+      }
+    ]
+  },
+  {
+    "id": 5729940,
+    "game_id": 6715,
+    "name": "Anti-Hag Support Group Restyled",
+    "name_id": "anti-hag-support-group-restyled",
+    "summary": "The \"Anti-Hag Support Group\" have all-new looks.",
+    "description": "<p><span style=\"font-size:small;\">The <a href=\"https://bg3.wiki/wiki/Anti-Hag_Support_Group\" rel=\"nofollow\">Anti-Hag Support Group</a> have all-new looks.</span></p>\n<h3><span style=\"font-size:small;\"><strong><br>What's Changed: </strong></span></h3>\n<p><span style=\"font-size:small;\"><a href=\"https://bg3.wiki/wiki/Adrielle\" rel=\"nofollow\">Adrielle </a>has a new face, gold makeup and gold rings. </span></p>\n<p><span style=\"font-size:small;\"><a href=\"https://bg3.wiki/wiki/Mask_of_Regret_(Overgrown_Tunnel)\" rel=\"nofollow\">Hydrangea Wubb</a> has a new outfit and has washed the dirt of herself (if she survives Act 1). </span></p>\n<p><span style=\"font-size:small;\"><a href=\"https://bg3.wiki/wiki/Jatlo\" rel=\"nofollow\">Jatlo </a>has a new appearance and new outfit. </span></p>\n<p><span style=\"font-size:small;\"><a href=\"https://bg3.wiki/wiki/Kled\" rel=\"nofollow\">Kled </a>has a new outfit (he's no longer just a copy of Dror Ragzlin).</span></p>",
+    "date_added": 1769384187,
+    "date_updated": 1771518190,
+    "date_live": 1769384187,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/anti-hag-support-group-restyled",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 7319553,
+      "mod_id": 5729940,
+      "version": "1.0.0.3",
+      "filename": "anti-hag_support_group_restyle-8blu.zip",
+      "changelog": "Initial upload",
+      "date_added": 1769384742,
+      "date_updated": 0,
+      "date_scanned": 1769384752,
+      "filesize": 1466045,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "anti-hagsupportgrouprestyled.png",
+      "original": "https://image.modcdn.io/mods/9a85/5729940/anti-hagsupportgrouprestyled.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9a85/5729940/crop_320x180/anti-hagsupportgrouprestyled.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9a85/5729940/crop_640x360/anti-hagsupportgrouprestyled.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9a85/5729940/crop_1280x720/anti-hagsupportgrouprestyled.png"
+    },
+    "tags": [
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7319553
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7319553
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7319553
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7319553
+      }
+    ]
+  },
+  {
+    "id": 5730976,
+    "game_id": 6715,
+    "name": "Wrongway Pure Barbarian",
+    "name_id": "wrongway-pure-barbarian",
+    "summary": "This mod contains twelve different items to begin your Barbarian adventure. You'll find this in the introduction area of the game.",
+    "description": "<p>This mod contains <span style=\"text-decoration:underline;\"><strong>twelve</strong></span> different items to begin your Barbarian adventure. You'll find this in the introduction area of the game.</p>\n<ul>\n<li>\"<strong>Grudge Axe</strong>\" considered a battleaxe\n<ul>\n<li>chance to rupture</li>\n<li>chance to bleed</li>\n<li>increase damage through strength</li>\n</ul>\n</li>\n<li>\"<strong>Gunning Hammer</strong>\" considered a warhammer\n<ul>\n<li>chance to knock prone</li>\n<li>gain force conduit</li>\n<li>increase damage through strength</li>\n</ul>\n</li>\n<li>\"<strong>Great Bow</strong>\" heavy crossbow\n<ul>\n<li>increase damage through strength</li>\n<li>causes reeling</li>\n<li>increase advantage against certain targets</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p><em>Search \"<strong>Wrongway</strong>\" for any of my other mods.</em></p>\n<ul>\n<li><em><strong>Wrongway Elemental Clothes</strong> (lots of class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Feats</strong> (lots of elemental damage and ability boost feats)</em></li>\n<li><em><strong>Wrongway Elemental Jewelry</strong> (lots of elemental damage and class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Starter Bag</strong> (lots of resource goodies)</em></li>\n<li><em><strong>Wrongway Elemental Weapons</strong> (lots of elemental damage weapons)</em></li>\n<li><em><strong>Wrongway Lite Clothes</strong> (few camp clothes)</em></li>\n<li><em><strong>Wrongway Lite Jewelry</strong> (few ability boost jewelry)</em></li>\n<li><em><strong>Wrongway Lite Starter Bag</strong> (few resource goodies)</em></li>\n<li><em><strong>Wrongway Lite Weapons</strong> (few damage boost weapons)</em></li>\n</ul>",
+    "date_added": 1769408618,
+    "date_updated": 1771518123,
+    "date_live": 1769408694,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wrongway-pure-barbarian",
+    "submitted_by": {
+      "id": 44991874,
+      "name_id": "wrongwayfelldown",
+      "username": "WrongwayFelldown",
+      "profile_url": "https://mod.io/u/wrongwayfelldown",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2e10/44991874/crop_100x100/1000003178.png"
+    },
+    "modfile": {
+      "id": 7344796,
+      "mod_id": 5730976,
+      "version": "1.0.0.5",
+      "filename": "wrongway_pure_barbarian_f2a529-datp.zip",
+      "changelog": null,
+      "date_added": 1769903722,
+      "date_updated": 0,
+      "date_scanned": 1769903740,
+      "filesize": 6605625,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2026-01-26173632.jpg",
+      "original": "https://image.modcdn.io/mods/ac12/5730976/screenshot2026-01-26173632.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ac12/5730976/crop_320x180/screenshot2026-01-26173632.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ac12/5730976/crop_640x360/screenshot2026-01-26173632.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ac12/5730976/crop_1280x720/screenshot2026-01-26173632.jpg"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7344796
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7344796
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7344796
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7344796
+      }
+    ]
+  },
+  {
+    "id": 5731369,
+    "game_id": 6715,
+    "name": "B.A.L.L. Character Capture",
+    "name_id": "ball-character-capture",
+    "summary": "Capture non-player characters inside a B.A.L.L. (Binding Arcane Lattice Lock) and free them later (or don't). Use at your own risk, kidnapping certain characters can break the story. Moving chars between Acts is not recommended. Gotta catch em all!",
+    "description": "<h2><span style=\"text-decoration:underline;\">B.A.L.L. - Binding Arcane Lattice Lock</span></h2>\n<h3>Capture non-player characters inside a B.A.L.L. and free them later (or don't). </h3>\n<h3>Either use the Gotta Catch Em All spell your character receives by having an empty B.A.L.L. in inventory, or just Throw a B.A.L.L. to capture a character.*<br>*neutral NPCs sometimes take offense to being hit in the head with a B.A.L.L., so maybe use the spell on those</h3>\n<h3>The \"filled\" B.A.L.L. you received with a character in it can be \"Identified\" by using it. This will put a message on screen telling you the name of the character inside that B.A.L.L.</h3>\n<h3>Use at your own risk, kidnapping certain characters can break the story.</h3>\n<h3>Moving chars between Acts is not recommended.</h3>\n<h3>I did NOT put safety rails on this mod, meaning you CAN break things if you do something obviously against the story (like trying to keep Dammon in your pocket the whole game while attempting Karlach's questline)</h3>\n<h3>Have fun! Gotta catch em all!</h3>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/screenshot2026-01-24182525.png\" alt=\"\" width=\"650\" height=\"560\"></p>\n<p> </p>\n<h3><strong>Questions/Comments/Feedback/Mod Requests? Visit my Discord!: https://discord.gg/AgsPzTwfjR</strong></h3>",
+    "date_added": 1769428188,
+    "date_updated": 1771518073,
+    "date_live": 1769428188,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ball-character-capture",
+    "submitted_by": {
+      "id": 48531518,
+      "name_id": "forkiramay",
+      "username": "For_Kiramay",
+      "profile_url": "https://mod.io/u/forkiramay",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/07b4/48531518/crop_100x100/kiradiscord.png"
+    },
+    "modfile": {
+      "id": 7321404,
+      "mod_id": 5731369,
+      "version": "1.0.0.22",
+      "filename": "balls_bc20b69a-cb9c-c07b-34ca-pp7h.zip",
+      "changelog": null,
+      "date_added": 1769428213,
+      "date_updated": 0,
+      "date_scanned": 1769428304,
+      "filesize": 57770121,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2026-01-24182525.1.png",
+      "original": "https://image.modcdn.io/mods/692b/5731369/screenshot2026-01-24182525.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/692b/5731369/crop_320x180/screenshot2026-01-24182525.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/692b/5731369/crop_640x360/screenshot2026-01-24182525.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/692b/5731369/crop_1280x720/screenshot2026-01-24182525.1.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Consumables",
+        "name_localized": "Consumables",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7321404
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7321404
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7321404
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7321404
       }
     ]
   }
