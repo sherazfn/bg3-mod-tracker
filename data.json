@@ -53162,7 +53162,7 @@
     "summary": "Death Knight Class.",
     "description": "<h2><u>After the updates, I recommend you to respec the character to one of original class, then update the mod and respec to Death Knight back.</u></h2>\n<h2><span style=\"text-decoration:underline;\">If you find any bugs please leave comments under this mod so I can fix them. Thank you!</span></h2>\n<h3><span style=\"text-decoration:underline;\">I am currently working on progress up to level 20 and new subclass.</span></h3>\n<p>This mod introduces Death Knight, a homebrew class based on my work for classic D&amp;D, which i have being using both as player and as GM for long time.</p>\n<p>Death Knights converge with the enemy in close combat, complementing the blows of the blade with dark magic that makes the enemy vulnerable or injures him with unholy energy. They provoke opponents by forcing them to fight one-on-one and keeping them away from weaker allies. In order to prevent the enemy from escaping, death knights must constantly keep in mind the power of the underworld that they possess and direct their attacks accordingly.</p>\n<h4>THE SOURCE OF DEATH</h4>\n<p>The Death Knight is a sinister and powerful figure, representing a combination of nobility and poverty of the soul. These creatures are supreme necromancers who have made a deal with the forces of darkness to become permanent carriers of death and destruction. Their appearance, radiating eerie charm, and abilities make them one of the most sworn enemies of all living beings.</p>\n<h4>THE DARK SERVANT</h4>\n<p>The Death Knight is usually dressed in black armor, which sparkle like stars in the night sky, but at the same time seem cold and impregnable. His armor is often decorated with images of skulls intertwined with symbols of death and decay. The Knight's face is hidden under an ominous hood, and only a pale, almost dead oval is visible under it, which radiates darkness and fear.</p>\n<h4>THE CREATION OF DEATH KNIGHT</h4>\n<p>The Death Knight is often not only the executor of the will of darkness, but also a complex character with a wayward and cold-blooded character. His motivation can range from desired control over the undead to personal revenge for some past grudges. Some Death Knights may even follow their own code of honor, despite their sinister nature. </p>\n<p>They are often presented as antagonists in campaigns, but in the world of D&amp;D, each character can have their own story and purpose. These creatures can be either villains or martyrs, depending on the context of your game.</p>\n<p>In the game, encounters with the Death Knight can be the culmination of many adventures. He can be an enemy who opposes heroes on the battlefield, or a thoughtful ally who controls the forces of darkness for their purpose. Players can face him as a powerful opponent, or get the opportunity to manipulate him through agreements and oaths.</p>\n<p>The Death Knight is not only a strong opponent, but also an interesting, multi-layered character who adds depth and intrigue to any Dungeons &amp; Dragons campaign.</p>",
     "date_added": 1728567283,
-    "date_updated": 1772020700,
+    "date_updated": 1772052819,
     "date_live": 1729961940,
     "visible": 1,
     "status": 1,
@@ -53176,15 +53176,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7340602,
+      "id": 7438176,
       "mod_id": 4401190,
-      "version": "1.0.0.201",
-      "filename": "deathknight_0326bc72-6c64-5fc1-0wes.zip",
-      "changelog": "Custom icons for all custom spells, skills and passives.\n\nBloody Missile. Damage dice now 1d6 instead of 1d4.\nBlow Of Life And Death. Damage dice now 1d6 instead of 1d8. Now use Bonus Action instead of Action.\nAnnihilation. Reworked. Can make a free attack after casting a spell or cantrip.\nEpidemic. Damage dice now 1d6 instead of 1d8. Debuff now gain a penalty to Movement speed and Strength, Dexterity, and Constitution Saving Throws this creature makes.\nRapid Decomposition. Damage dice now 1d10 instead of 1d12. Now use Bonus Action instead of Action.\nScythe Of Darkness. Damage dice now 1d6 instead of 1d4.\nGhoulish Touch. Damage dice now 1d8 instead of 1d6.\nGrip Of Dead. Heal dice now 1d10 instead of 2d6 per death channel charge.\nDeath Strike. Reworked. Now weapon attacks deal an additional Force damage. When you deal Force damage to enemy you regain hit points.\nBlood Mark. Now don't need concentration.\nIce Strike. Reworked. Now weapon attacks deal an additional Cold damage. When you deal Cold damage to enemy you can make your target Frostbite.\nUlcer Strike. Reworked. Now weapon attacks deal an additional Necrotic damage. When you deal Necrotic damage to enemy you can make your target Rot.\nDark Power. Reworked. When dealing Necrotic damage, deals an additional Necrotic damage.\nClot of False Life. Now give 18 Temporary Hit Points. Give extra 6 Temporary Hit Points per spell slot.\nClot of False Life Attack. Now deals 6 Force damage. Deals extra 2 Force damage per spell slot. Now can apply debuff.\nWither and Bloom. Now heals 2d6 base + 1d6 per spell level instead of character level.\nAntimagic Armor. Reworked. Now use Bonus Action instead of Action.\nAura Of Decay. Removed.\nNow you can choose one feat on level 10.",
-      "date_added": 1769846025,
+      "version": "1.0.0.203",
+      "filename": "deathknight_0326bc72-6c64-5fc1-1xwj.zip",
+      "changelog": "- Rot: removed when creature becomes knocked out.\n- Bone Shield: reworked.\n- Biinding Ice: added it's own debuff, description improved.\n- Snow Squall: apply prone on failed, description improved.\n- Sapping Sting: description improved.\n- Otherworldly Grasp: description improved.\n- Epidemic: description improved.\n- Rapid Decomposition: description improved.\n- Asphyxia: description improved.\n- Annihilation: description fixed.\n- Blood Mark: duration 10 turns.\n- Face of Dead: fixed duration of all effects. (Thx WilliamAfton4)\n- Life Drain: fixed duration of all effects. (Thx WilliamAfton4)\n- Dark Power: gain ignore Necrotic Resistance again.",
+      "date_added": 1772052688,
       "date_updated": 0,
-      "date_scanned": 1769846415,
-      "filesize": 8740600,
+      "date_scanned": 1772052710,
+      "filesize": 9829713,
       "platforms": [
         {
           "platform": "windows",
@@ -53192,15 +53192,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -53250,10 +53250,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7340602
-      },
-      {
         "platform": "mac",
         "modfile_live": 7340602
       },
@@ -53264,6 +53260,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7340602
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7438176
       }
     ]
   },
@@ -113125,7 +113125,7 @@
     "name": "Amanda Hairstyle",
     "name_id": "amanda-hairstyle",
     "summary": "Hairstyle for all races and body types (excluding Dragonborn)",
-    "description": "<p>Hairstyle for all races and body types (excluding Dragonborn). Consoles and Mac compatibility.</p>\n<p>Dependencies or use in presets are allowed, please link back to this page.</p>\n<p>Updated: Fit more armors and clothes i.e. Queen's body, fixed Githyanki model.</p>\n<hr>\n<p>Support me on <a title=\"Patreon\" href=\"https://www.patreon.com/cazysims\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Patreon</strong></a></p>\n<p>Social: <a title=\"Homepage\" href=\"https://cazysims.tumblr.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Tumblr</strong></a> <a title=\"IG\" href=\"https://www.instagram.com/cazysims\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Instagram</strong></a></p>",
+    "description": "<p>Hairstyle for all races and body types (excluding Dragonborn). Consoles and Mac compatibility.</p>\n<p>Dependencies or use in presets are allowed, please link back to this page.</p>\n<p>Updated: Updated model to fit more armors and clothes along with original version.</p>\n<hr>\n<p>Support me on <a title=\"Patreon\" href=\"https://www.patreon.com/cazysims\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Patreon</strong></a></p>\n<p>Social: <a title=\"Homepage\" href=\"https://cazysims.tumblr.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Tumblr</strong></a> <a title=\"IG\" href=\"https://www.instagram.com/cazysims\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Instagram</strong></a></p>",
     "date_added": 1750714750,
     "date_updated": 1769092021,
     "date_live": 1750714750,
