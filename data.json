@@ -57973,7 +57973,7 @@
     "summary": "Adds and updates content to align with the DnD PHB 2024 rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. *some rules are modified with Homebrew rules to enhance the gameplay experience.",
     "description": "<p>DnD PHB 2024 All in One</p>\n<h2>Introduction</h2>\n<ul>\n<li>Adds and updates content to align with the DnD 2024 Player's Handbook rules (and other sources), including Backgrounds, Classes, Feats, Items, Races, Rules, Spells and more.</li>\n<li>Some rules are modified with Homebrew rules to enhance the gameplay experience.</li>\n<li>This mod is focused on reducing the inconvenience of having to download and set up PHB 2024 related mods individually. It does not consider compatibility issues with other mods.</li>\n<li>The original or latest version of this document can be found at the link below.\n<ul>\n<li>https://github.com/yoonmoonsik/dnd2024/blob/master/README.md</li>\n</ul>\n</li>\n<li>Detailed changes can be found below.\n<ul>\n<li>https://github.com/yoonmoonsik/dnd2024/commits/master/</li>\n</ul>\n</li>\n</ul>\n<div>\n<h2>Bug Report Guidelines</h2>\n</div>\n<p>Following these guidelines helps keep bug fixing efficient and focused. Reports that do not follow these rules may be closed or removed without a separate response.</p>\n<div>\n<h3>Where to Report</h3>\n</div>\n<ul>\n<li>Bugs must be reported <strong>only via GitHub Issues</strong>: <a href=\"https://github.com/yoonmoonsik/dnd2024/issues\">https://github.com/yoonmoonsik/dnd2024/issues</a></li>\n</ul>\n<div>\n<h3>What Not to Report</h3>\n</div>\n<ul>\n<li>Bugs that occur <strong>when this mod is used together with other mods</strong>. This mod is not developed with compatibility in mind.</li>\n<li>Crashes or critical issues that occur <strong>only during leveling up or respeccing</strong>, unless the same issue can be reproduced in a <strong>new game</strong>.</li>\n</ul>\n<div>\n<h3>Before Creating a New Issue</h3>\n</div>\n<ul>\n<li><strong>Always search existing issues first.</strong></li>\n<li>If you find an issue that is identical or closely related (including issues marked as <em>New issue</em>, <em>Being looked at</em>, or <em>Needs more info</em>), add your findings, reproduction steps, or additional details <strong>as a comment on the existing issue</strong>. Creating duplicate issues slows down investigation and may result in the new issue being closed.</li>\n<li>If your report is related to a <strong>closed issue</strong>, create a <strong>new issue</strong> and reference the closed one (e.g., #504).</li>\n</ul>\n<div>\n<h3>Reporting Rules</h3>\n</div>\n<ul>\n<li><strong>One issue per bug.</strong> Do not combine multiple, unrelated problems into a single report.</li>\n</ul>\n<div>\n<h3>How to Write a Good Bug Report</h3>\n</div>\n<p>All bug reports must follow the provided <strong>Bug Report template</strong>. In particular, make sure to include:</p>\n<ul>\n<li>A clear and concise <strong>title</strong></li>\n<li>Exact <strong>reproduction steps</strong> that reliably trigger the issue</li>\n<li>A comparison of <strong>expected vs. actual results</strong></li>\n<li>Complete <strong>environment details</strong> (location, class, level, version, etc.)</li>\n</ul>\n<p>Reports that lack sufficient information to reproduce the issue may be closed.</p>\n<h2>Changes</h2>\n<ul>\n<li>Background\n<ul>\n<li>Backgrounds from <em>2024 Player's Handbook</em></li>\n<li>Backgrounds from <em>Forgotten Realms: Heroes of Faerûn</em></li>\n<li>Backgrounds from from <em>The Crooked Moon</em></li>\n</ul>\n</li>\n<li>Races\n<ul>\n<li>Aarakocra</li>\n<li>Aasimar</li>\n<li>Dhampir</li>\n<li>Dragonborn</li>\n<li>Drow</li>\n<li>Dwarf</li>\n<li>Elf</li>\n<li>High Elf</li>\n<li>Wood Elf</li>\n<li>Githyanki</li>\n<li>Gnome</li>\n<li>Goliath</li>\n<li>Half-Elf</li>\n<li>Half-Orc</li>\n<li>Halfling</li>\n<li>Human</li>\n<li>Kalashtar</li>\n<li>Tiefling\n<ul>\n<li>Asmodeus Tiefling</li>\n<li>Mephistopheles Tiefling</li>\n<li>Zariel Tiefling</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Class\n<ul>\n<li>Artificer\n<ul>\n<li>Alchemist</li>\n<li>Armorer</li>\n<li>Artillerist</li>\n<li>Battle Smith</li>\n</ul>\n</li>\n<li>Barbarian\n<ul>\n<li>Path of the Berserker</li>\n<li>Path of the Wild Heart</li>\n<li>Path of the Wild Magic</li>\n<li>Path of the World Tree</li>\n<li>Path of the Zealot</li>\n</ul>\n</li>\n<li>Bard\n<ul>\n<li>College of Dance</li>\n<li>College of the Moon</li>\n<li>College of Glamour</li>\n<li>College of Lore</li>\n<li>College of Sword</li>\n<li>College of Valor</li>\n</ul>\n</li>\n<li>Cleric\n<ul>\n<li>Arcana Domain</li>\n<li>Death Domain</li>\n<li>Grave Domain</li>\n<li>Knowledge Domain</li>\n<li>Life Domain</li>\n<li>Light Domain</li>\n<li>Trickery Domain</li>\n<li>War Domain</li>\n</ul>\n</li>\n<li>Druid\n<ul>\n<li>Circle of Dragons</li>\n<li>Circle of the Dream</li>\n<li>Circle of the Land</li>\n<li>Circle of the Moon</li>\n<li>Circle of the Sea</li>\n<li>Circle of the Star</li>\n</ul>\n</li>\n<li>Fighter\n<ul>\n<li>Battle Master</li>\n<li>Champion</li>\n<li>Eldritch Knight</li>\n<li>Psi Warrior</li>\n<li>Banneret</li>\n<li>Rune Knight</li>\n</ul>\n</li>\n<li>Monk\n<ul>\n<li>Warrior of Mercy</li>\n<li>Warrior of Shadow</li>\n<li>Warrior of the Elements</li>\n<li>Warrior of the Open Hand</li>\n<li>Way of the Kensei</li>\n</ul>\n</li>\n<li>Paladin\n<ul>\n<li>Oath of Conquest</li>\n<li>Oath of Devotion</li>\n<li>Oath of the Ancients</li>\n<li>Oath of Glory</li>\n<li>Oath of the Noble Genies</li>\n<li>Oath of Vengeance</li>\n<li>Oathbreaker</li>\n</ul>\n</li>\n<li>Ranger\n<ul>\n<li>Fey Wanderer</li>\n<li>Gloom Stalker</li>\n<li>Hollow Warden</li>\n<li>Hunter</li>\n<li>Swarmkeeper</li>\n<li>Winter Walker</li>\n</ul>\n</li>\n<li>Rogue\n<ul>\n<li>Arcane Trickster</li>\n<li>Assassin</li>\n<li>Scion of the Three</li>\n<li>Soulknife</li>\n<li>Thief</li>\n</ul>\n</li>\n<li>Sorcerer\n<ul>\n<li>Aberrant Sorcery</li>\n<li>Clockwork Sorcery</li>\n<li>Draconic Sorcery</li>\n<li>Wildmagic Sorcery</li>\n<li>Spellfire Sorcery</li>\n<li>Storm Sorcery</li>\n</ul>\n</li>\n<li>Warlock\n<ul>\n<li>Eldritch Invocations</li>\n<li>Archfey Patron</li>\n<li>Celestial Patron</li>\n<li>Fiend Patron</li>\n<li>Great Old One Patron</li>\n<li>Hexblade</li>\n</ul>\n</li>\n<li>Wizard\n<ul>\n<li>Abjurer</li>\n<li>Bladesinging School</li>\n<li>Conjurer</li>\n<li>Diviner</li>\n<li>Enchanter</li>\n<li>Evoker</li>\n<li>Illusionist</li>\n<li>Necromancer</li>\n<li>Transmuter</li>\n</ul>\n</li>\n<li>Gunslinger\n<ul>\n<li>Deadeye</li>\n<li>High Roller</li>\n<li>Secret Agent</li>\n<li>Spellslinger</li>\n<li>Trick Shot</li>\n<li>White Hat</li>\n</ul>\n</li>\n<li>Illrigger\n<ul>\n<li>Architect of Ruin</li>\n<li>Hellspeaker</li>\n<li>Painkiller</li>\n<li>Sanguine Knight</li>\n<li>Shadowmaster</li>\n</ul>\n</li>\n<li>Psion\n<ul>\n<li>Metamorph</li>\n<li>Psi Warper</li>\n<li>Psykinetic</li>\n<li>Telepath</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Feat\n<ul>\n<li>Feats from 2024 Player's Handbook</li>\n<li>Feats from Xanathar's Guide to Everything</li>\n<li>Feats from Tasha's Cauldron of Everything</li>\n<li>Feats from Fizban's Treasury of Dragons</li>\n<li>Feats from Forgotten Realms: Heroes of Faerûn</li>\n<li>Feats from The Lord of the Rings Roleplaying</li>\n<li>Feats from Valda’s Spire of Secrets</li>\n<li>Feats from The Crooked Moon</li>\n<li>Feats from Unearthed Arcana</li>\n<li>Fighting Styles</li>\n</ul>\n</li>\n<li>Items\n<ul>\n<li>Ability Score Item Rebalance</li>\n<li>Firearms</li>\n<li>New Items</li>\n</ul>\n</li>\n<li>NPCs\n<ul>\n<li>Stat Adjustment</li>\n<li>Progression Adjustment</li>\n</ul>\n</li>\n<li>Rules\n<ul>\n<li>Actions</li>\n<li>Condition</li>\n<li>D20 Tests</li>\n<li>Darkvision</li>\n<li>Initiative</li>\n<li>Ranged Weapon</li>\n<li>Short Rest</li>\n<li>Thrown Weapon</li>\n<li>Weapon Mastery Properties</li>\n</ul>\n</li>\n<li>Spells\n<ul>\n<li>Cantrip</li>\n<li>Level 1 spells</li>\n<li>Level 2 spells</li>\n<li>Level 3 spells</li>\n<li>Level 4 spells</li>\n<li>Level 5 spells</li>\n<li>Level 6 spells</li>\n<li>Spell Scroll Restrictions</li>\n</ul>\n</li>\n</ul>",
     "date_added": 1729165055,
-    "date_updated": 1771945280,
+    "date_updated": 1772037163,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -58003,15 +58003,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -58171,19 +58171,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7434277
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7378248
+        "modfile_live": 7434277
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7378248
+        "modfile_live": 7434277
       },
       {
         "platform": "ps5",
-        "modfile_live": 7378248
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7434277
       }
     ]
