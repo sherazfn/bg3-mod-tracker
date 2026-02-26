@@ -28022,7 +28022,7 @@
     "name": "Level Up - Gain a Feat on Every Level Up (Patch 8)",
     "name_id": "levelup1",
     "summary": "This mod allows the user to select a feat on every level up. Multiclassing compatible. This is for player levels 2-12 with vanilla classes and subclasses. Updated for Patch 8 subclasses on PC! NOT LIVE FOR CONSOLES YET. AWAITING LARIAN APPROVAL.",
-    "description": "<p>This mod allows the user to select a feat on every level up. Multiclassing compatible. This is for player levels 2-12 with vanilla classes and subclasses. <strong>Updated for Patch 8 subclasses on PC! Awaiting console approval by Larian.</strong></p>\n<p> </p>\n<hr>\n<p><span style=\"text-decoration:underline;\"><strong>COMMON ISSUES SO FAR. SINCE I HAVE ALREADY RECEIVED BUG REPORTS, PLEASE READ HERE FOR FIXES:</strong></span></p>\n<p><span style=\"text-decoration:underline;\"><strong>CONSOLE PLAYERS,</strong></span> The Patch 8 compatibility for this mod is not live for you yet. This is not something I control. This is not something <em>any</em> mod author controls if they have console versions. Larian Studios uses an approval process where they test the mod on consoles and makes sure the game still works. This process takes a couple weeks. I cannot control this. I have it set to be triggered - so when it gets approved for consoles, the latest version will automatically go live ASAP. Please be patient.</p>\n<p><span style=\"text-decoration:underline;\"><strong>Mod Needs GustavX.</strong></span> GustavX is the name of the Patch 8 game data on the backend. If it says you are missing this \"mod\" file, that means you either did not update, or you need to validate your game files and redownload them.</p>\n<p><span style=\"text-decoration:underline;\"><strong>Data is corrupted.</strong></span> You either need to update your game, update the mod to the latest version, or verify integrity of your game files. Something didn't download right for you.</p>\n<hr>\n<p> </p>\n<p>v1.1.2.13</p>\n<ul>\n<li>Updated versioning to match release cadence/types</li>\n<li>Fixed Warlock double boon selection at Warlock 3. You now correctly only choose one pact boon.\n<ul>\n<li>Sorry guys, this was awesome, but not intended ***. Boon selection resources changed on the back end so the class was pointing at both new and old resource until this fix</li>\n</ul>\n</li>\n</ul>\n<p>v1.0.0.12</p>\n<ul>\n<li>Updated and now compatible with Patch 8</li>\n<li>Added Oathbreaker Paladin to compatibility\n<ul>\n<li>This has the effect now of allowing you to start as an Oathbreaker, <em>though I wouldn't do that as it may have unintended consequences</em></li>\n</ul>\n</li>\n</ul>\n<p>v1.0.0.11</p>\n<ul>\n<li>Fixed multiclassing issues where multiclassed classes weren't receiving the correct spells and abilities.</li>\n</ul>",
+    "description": "<p>This mod allows the user to select a feat on every level up. Multiclassing compatible. This is for player levels 2-12 with vanilla classes and subclasses. <strong>Updated for Patch 8 subclasses!</strong></p>\n<p>v1.1.2.13</p>\n<ul>\n<li>Updated versioning to match release cadence/types</li>\n<li>Fixed Warlock double boon selection at Warlock 3. You now correctly only choose one pact boon.\n<ul>\n<li>Sorry guys, this was awesome, but not intended ***. Boon selection resources changed on the back end so the class was pointing at both new and old resource until this fix</li>\n</ul>\n</li>\n</ul>\n<p>v1.0.0.12</p>\n<ul>\n<li>Updated and now compatible with Patch 8</li>\n<li>Added Oathbreaker Paladin to compatibility\n<ul>\n<li>This has the effect now of allowing you to start as an Oathbreaker, <em>though I wouldn't do that as it may have unintended consequences</em></li>\n</ul>\n</li>\n</ul>\n<p>v1.0.0.11</p>\n<ul>\n<li>Fixed multiclassing issues where multiclassed classes weren't receiving the correct spells and abilities.</li>\n</ul>",
     "date_added": 1726193146,
     "date_updated": 1745406653,
     "date_live": 1726193513,
@@ -28067,11 +28067,11 @@
       ]
     },
     "logo": {
-      "filename": "level_up.1.png",
-      "original": "https://image.modcdn.io/mods/2443/4334894/level_up.1.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/2443/4334894/crop_320x180/level_up.1.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/2443/4334894/crop_640x360/level_up.1.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/2443/4334894/crop_1280x720/level_up.1.png"
+      "filename": "updated.png",
+      "original": "https://image.modcdn.io/mods/2443/4334894/updated.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2443/4334894/crop_320x180/updated.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2443/4334894/crop_640x360/updated.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2443/4334894/crop_1280x720/updated.png"
     },
     "tags": [
       {
