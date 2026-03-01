@@ -97732,12 +97732,12 @@
   {
     "id": 4874758,
     "game_id": 6715,
-    "name": "Better Starting Gear for Gale by AzazeL",
+    "name": "[Aza] Better Starting Gear (Gale) + Tutorial Chest",
     "name_id": "aza-better-starting-gear-handsome-wizard-gale",
     "summary": "Better Starting Equipment for Gale | All stuff can be found in the Tutorial Chest",
     "description": "<div>\n<div>\n<div>\n<div>\n<h3><strong>Watch the Gallery above to see the Overall Changes</strong></h3>\n<p><span style=\"font-size:small;\"><strong>Inspired by Juno's Resolve from the Mod: <a href=\"https://www.nexusmods.com/baldursgate3/mods/4545\">Delfinition's Armors</a><br>Gale's Magical Attire asset permission provided </strong><strong>by </strong><strong><a href=\"https://next.nexusmods.com/profile/Delfinition/mods?gameId=3474\">Delfinition</a><br><br></strong></span></p>\n<blockquote>\n<p><strong>Content received:</strong> New Starting Equipment for Gale — Magical Attire, Wanderer's Boots, Wu's Flexy Quarterstaff</p>\n</blockquote>\n<p><strong><br><a href=\"https://www.patreon.com/AzazeLwasTaken\">Special Thanks💝to my Patrons!</a><br></strong><a title=\"NexusMods: AzazeL\" href=\"https://next.nexusmods.com/profile/AzazeLwasTaken\"><img src=\"https://i.imgur.com/A7ZdcLf.png\" alt=\"NexusMods\" width=\"168\" height=\"79\"></a>  <a title=\"Mod.io: AzazeL\" href=\"https://mod.io/u/azazelwastaken/\"><img src=\"https://i.imgur.com/zUn0KQU.png\" alt=\"Mod.io\" width=\"136\" height=\"79\"></a>  <a title=\"Patreon: AzazeL\" href=\"https://www.patreon.com/c/AzazeLwasTaken\"><img src=\"https://i.imgur.com/topoLV2.png\" alt=\"Patreon\" width=\"157\" height=\"79\"></a></p>\n</div>\n</div>\n</div>\n</div>",
     "date_added": 1744833056,
-    "date_updated": 1751256707,
+    "date_updated": 1772375464,
     "date_live": 1744988412,
     "visible": 1,
     "status": 1,
@@ -97751,30 +97751,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f797/35138009/crop_100x100/redgirl2.png"
     },
     "modfile": {
-      "id": 6365200,
+      "id": 7452809,
       "mod_id": 4874758,
-      "version": "1.0.0.13",
-      "filename": "aza_bsg_gale_32378f72-9a6a-960-pubk.zip",
-      "changelog": "Fixed the voidhole in the chest. Hopefully he won't do obscene magic again if you take off his underwear for whatever reason ;D",
-      "date_added": 1747210088,
+      "version": "1.0.0.16",
+      "filename": "aza_bsg_gale_32378f72-9a6a-960-m8mr.zip",
+      "changelog": "Reworked Shield Spell, now it works once per combat and hopefully won't break anymore",
+      "date_added": 1772374600,
       "date_updated": 0,
-      "date_scanned": 1747210452,
-      "filesize": 15139782,
+      "date_scanned": 1772374631,
+      "filesize": 15139950,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -97840,10 +97828,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6365200
-      },
-      {
         "platform": "mac",
         "modfile_live": 6365200
       },
@@ -97854,6 +97838,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6365200
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7452809
       }
     ]
   },
