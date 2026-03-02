@@ -123043,10 +123043,10 @@
     "game_id": 6715,
     "name": "Ember's Wardrobe",
     "name_id": "emberswardrobe",
-    "summary": "Adds 10 bard-themed outfits to various merchants throughout the game, available as camp clothes and armour. Visuals for all \"tall\" races.",
-    "description": "<h2>Ember's Wardrobe</h2>\n<p>Ember's Wardrobe is a simple mod that adds 10 bard themed outfits to the game, with customised visuals for all \"tall\" races and including Strong body types.</p>\n<p>Here's a summary of what the mod does:</p>\n<ul>\n<li>Automatically adds a container to your camp chest which contains camp clothes variants and dyes.</li>\n<li>Adds outfits to various merchants across all Acts, with stats aligned to the region.</li>\n<li>Adds a fun/silly/aoe variant of the Vicious Mockery spell, obtained by equipping one of the custom hats or masks.</li>\n</ul>\n<h2><strong>Getting Started</strong></h2>\n<ul>\n<li>Look in your camp chest for the container with the vanity clothes - you will find a Book with further information on how to obtain the armour with stats.</li>\n</ul>\n<h2>A General Note on Compatibility</h2>\n<p>This mod only adds outfits to the game, and so should be compatible with almost all other mods.</p>\n<h2>Adding and Removing This Mod</h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom outfits, spells and statuses, it <strong>cannot be removed mid-campaign</strong> without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2>Console Players</h2>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. All outfits can be accessed quickly via the container dropped into your camp chest, and there are potions included to also summon the stats versions for trying out.</p>\n<h2><strong>Known Issues</strong></h2>\n<ul>\n<li>The Sepulchral Tailcoat does not dye very well, that's a work in progress.</li>\n<li>Probably clipping on some of the fits for races - I'm sure I have missed places, but feel free to point me in a specific location should you find something looking a bit funky.</li>\n</ul>\n<h2>FAQ</h2>\n<ul>\n<li><strong>Q: Will you be adding visual variants for other races, like Gnomes, Dwarves, Halflings, or Custom Race XYZ etc?</strong></li>\n<li><strong>A:</strong> Most likely no. Perhaps I may be motivated in future to do an addon for other vanilla races, but there are already over 300 customised meshes in this mod and I am mentally re-fitted out for foreseeable.</li>\n</ul>\n<ul>\n<li><strong>Q: Does this mod contain unique visual assets?</strong></li>\n<li><strong>A:</strong> No - this mod is a mash up of Larian vanilla mesh assets, with a bit of noob Blender manipulation on my part to get them to fit together. I am also re-using their textures.</li>\n</ul>\n<ul>\n<li><strong>Q: Console support?</strong></li>\n<li><strong>A:</strong> Yes, I will be submitting this for console approval. It may take a several months however - mods with custom outfits usually have a longer lead time than pure spells and stats mods.</li>\n</ul>\n<ul>\n<li><strong>Q: I don't like the stats on armour XYZ</strong></li>\n<li>A: I did add stats to these outfits fairly quickly. Which is to say, that at the time of writing this description, I am expecting to be tweaking them a little bit as I get more time to playtest. I am very open to receiving feedback, and appreciate those who take the time to share their thoughts. I reserve my right to mod author's privilege when it comes to deciding whether I act on feedback, but either way, I am thankful for it. </li>\n<li><strong>A:</strong> Alternatively, if you are on PC and comfortable using third party mods, then there are also option such as Enhanced Transmog, which let you copy pretty much any stats you want onto the outfit.</li>\n</ul>\n<h3>Thanks</h3>\n<ul>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li><a>To Norbyte for a variety of essential modding tools, such as LSLib: </a><a href=\"https://github.com/Norbyte/lslib/releases\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\">BG3 Mod Manager</a></li>\n<li>To the Larian devs, the community team, and just Larian in general for the game, its assets, and their continued support for the BG3 modding community</li>\n</ul>",
+    "summary": "Adds 20 bard-themed outfits to various merchants throughout the game, available as camp clothes and armour. Visuals for all \"tall\" races.",
+    "description": "<h2>Ember's Wardrobe</h2>\n<p>Ember's Wardrobe is a simple mod that adds 20 bard themed outfits to the game, with customised visuals for all \"tall\" races and including Strong body types.</p>\n<p>Here's a summary of what the mod does:</p>\n<ul>\n<li>Automatically adds a container to your camp chest which contains camp clothes variants and dyes.</li>\n<li>Adds outfits to various merchants across all Acts, with stats aligned to the region.</li>\n<li>Adds a fun/silly/aoe variant of the Vicious Mockery spell, obtained by equipping one of the custom hats or masks.</li>\n</ul>\n<h2><strong>Getting Started</strong></h2>\n<ul>\n<li>Look in your camp chest for the container with the vanity clothes - you will find a Book with further information on how to obtain the armour with stats.</li>\n</ul>\n<h2>A General Note on Compatibility</h2>\n<p>This mod only adds outfits to the game, and so should be compatible with almost all other mods.</p>\n<h2>Adding and Removing This Mod</h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom outfits, spells and statuses, it <strong>cannot be removed mid-campaign</strong> without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2>Console Players</h2>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. All outfits can be accessed quickly via the container dropped into your camp chest, and there are potions included to also summon the stats versions for trying out.</p>\n<h2><strong>Known Issues</strong></h2>\n<ul>\n<li>The Sepulchral Tailcoat dyes ok now, though it won't take lighter dye colours especially well (and I don't really want to bloat this mod with texture files to fix that).</li>\n<li>Probably clipping on some of the fits for races - I'm sure I have missed places, but feel free to point me in a specific location should you find something looking a bit funky.</li>\n<li>A couple of the vanilla meshes re-used don't hide sleeves when you wear gloves. I <em>might </em>fix this in future, but I'm keeping an eye on the mod file size so will depend on how many MB of custom meshes it would take!</li>\n</ul>\n<h2>FAQ</h2>\n<ul>\n<li><strong>Q: Will you be adding visual variants for other races, like Gnomes, Dwarves, Halflings, or Custom Race XYZ etc?</strong></li>\n<li><strong>A:</strong> Most likely no. Perhaps I may be motivated in future to do an addon for other vanilla races, but there are already over 300 customised meshes in this mod and I am mentally re-fitted out for foreseeable.</li>\n</ul>\n<ul>\n<li><strong>Q: Does this mod contain unique visual assets?</strong></li>\n<li><strong>A:</strong> No - this mod is a mash up of Larian vanilla mesh assets, with a bit of noob Blender manipulation on my part to get them to fit together. I am also re-using their textures.</li>\n</ul>\n<ul>\n<li><strong>Q: Console support?</strong></li>\n<li><strong>A:</strong> Yes, this mod is now available on console (thank you, Larian).</li>\n</ul>\n<ul>\n<li><strong>Q: I don't like the stats on armour XYZ</strong></li>\n<li>A: I did add stats to these outfits fairly quickly. Which is to say, that at the time of writing this description, I am expecting to be tweaking them a little bit as I get more time to playtest. I am very open to receiving feedback, and appreciate those who take the time to share their thoughts. I reserve my right to mod author's privilege when it comes to deciding whether I act on feedback, but either way, I am thankful for it. </li>\n<li><strong>A:</strong> Alternatively, if you are on PC and comfortable using third party mods, then there are also option such as Enhanced Transmog, which let you copy pretty much any stats you want onto the outfit.</li>\n</ul>\n<h3>Thanks</h3>\n<ul>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li><a>To Norbyte for a variety of essential modding tools, such as LSLib: </a><a href=\"https://github.com/Norbyte/lslib/releases\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\">BG3 Mod Manager</a></li>\n<li>To the Larian devs, the community team, and just Larian in general for the game, its assets, and their continued support for the BG3 modding community</li>\n</ul>",
     "date_added": 1759787065,
-    "date_updated": 1768925466,
+    "date_updated": 1772412899,
     "date_live": 1759789553,
     "visible": 1,
     "status": 1,
@@ -123060,30 +123060,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1214/33707172/crop_100x100/screenshot2024-04-10173132.png"
     },
     "modfile": {
-      "id": 7194290,
+      "id": 7455554,
       "mod_id": 5279335,
-      "version": "1.1.0.7",
-      "filename": "emberswardrobe_334ba284-8488-c-1wum.zip",
-      "changelog": "- Fix to prevent containers summoned with the potion, from destroying themselves after a long rest",
-      "date_added": 1766854483,
+      "version": "1.2.0.1",
+      "filename": "emberswardrobe_334ba284-8488-c-8ocp.zip",
+      "changelog": "-Balladbreaker Outfit\n-Blackthorn Ballad Outfit, Shoes and Gloves\n-Briarthorn Outfit\n-Cantors Repose Outfit\n-Emberdirge Shroud Outfit, Boots and Gloves\n-Measure of Midnight Outfit\n-Minstrel's Ease Outfit\n-Sable Symphony Outfit and Boots\n-Satin Serenade Outfit\n-Versebreaker Outfit",
+      "date_added": 1772412463,
       "date_updated": 0,
-      "date_scanned": 1766854598,
-      "filesize": 71591701,
+      "date_scanned": 1772412613,
+      "filesize": 81001427,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -123179,10 +123167,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7194290
-      },
-      {
         "platform": "mac",
         "modfile_live": 7194290
       },
@@ -123193,6 +123177,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7194290
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7455554
       }
     ]
   },
