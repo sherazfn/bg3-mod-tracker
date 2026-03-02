@@ -51588,7 +51588,7 @@
     "summary": "Aim's to add more Monk equipment throughout the game.",
     "description": "<p>Enhance Your Monk with Unarmed and Upgraded, This mod is designed to help expand your Monk's potential with this collection of carefully crafted items. I designed this mod to address the lack of dedicated Monk gear throughout the game, offering new choices that enhance your unarmed combat. Some gear is also beneficial for other classes too. Feedback is welcome to ensure a balanced experience!</p>\n<p> </p>\n<p>- Each Act adds 10 items curated for Monk<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/7254\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/FkqpNut\">Act 1</a>, <a href=\"https://imgur.com/a/7Vu5KnQ\">Act 2</a>, <a href=\"https://imgur.com/a/hlnMPu0\">Act 3</a> <br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </p>\n<p><span style=\"text-decoration:underline;\"><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</span></p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1728411174,
-    "date_updated": 1771275844,
+    "date_updated": 1772467253,
     "date_live": 1728411827,
     "visible": 1,
     "status": 1,
@@ -51618,15 +51618,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -51686,19 +51686,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405649
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6670977
+        "modfile_live": 7405649
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6670977
+        "modfile_live": 7405649
       },
       {
         "platform": "ps5",
-        "modfile_live": 6670977
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405649
       }
     ]
@@ -58711,7 +58711,7 @@
     "summary": "Adds several new items for players who have accepted the Brand of the Absolute.",
     "description": "<p>When accepting the Brand of the Absolute in Act 1, you gain access to items that require you to have the Brand but unfortunately these items were underwhelming. This mod changes that by adding several new items for those who have accepted the Absolute! <strong>Praise the Absolute!</strong></p>\n<p>Gifts of the Absolute introduces a variety of unique and powerful items that truly make embracing the Absolute a rewarding experience. Wield the 'Absolute's Judgment,' a greatsword that imbues your smites with psychic energy, or the 'Cloak of the Unseen Absolute' to shroud yourself in a veil of psychic resilience. These are just two of the many new treasures awaiting you! Delve deeper into the Absolute's influence with items that resonate with its dark power and twisted blessings while enhancing your role-playing experience. I'm looking for feedback to help balance these items, as I haven't played every class.<br><br>- Every item added requires you to have the <a href=\"https://bg3.wiki/wiki/Brand_of_the_Absolute\">Brand of the Absolute</a><br>- Every Very Rare item included is Class Specific (You can multiclass to use several of these items)<br>- Currently adds new items to Act 1 and Act 2 (18 items in total currently)<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/11487\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/8HThUmU\">Link</a><br>- There is a Chest in the Tutorial Chest that contains backpacks for each act (If you don't want the items in the Tutorial Chest, I suggest you download my other mod - <a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a>)</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p><a style=\"color:#dfb38c;\" href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is required if you want the items to be distributed throughout the game<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a></p>",
     "date_added": 1729216978,
-    "date_updated": 1771273441,
+    "date_updated": 1772467178,
     "date_live": 1730475903,
     "visible": 1,
     "status": 1,
@@ -58741,15 +58741,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -58859,19 +58859,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405472
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6468379
+        "modfile_live": 7405472
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6468379
+        "modfile_live": 7405472
       },
       {
         "platform": "ps5",
-        "modfile_live": 6468379
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405472
       }
     ]
@@ -62641,7 +62641,7 @@
     "summary": "Adds 30 new items curated for Ranger, 10 items per Act. Includes 3 new ranger companions bound by items.",
     "description": "<p>Sharpen your arrows and strengthen your bond with nature's creatures with Beast and Bow: Ranger Equipment. This comprehensive mod is tailor-made for Rangers, offering a curated collection of gear designed to elevate your mastery of both bow and beast. Whether you prefer to strike from afar with pinpoint accuracy or fight alongside your loyal animal companion, Beast and Bow provides the tools to excel in any situation. This mod is designed to seamlessly integrate with the game's existing mechanics, ensuring a balanced and rewarding experience for all players. Help refine the hunt! Share your feedback and suggestions to ensure Beast and Bow reaches its full potential, empowering Rangers everywhere to become true guardians of the wild.</p>\n<p>- Each Act adds 10 items curated for Ranger<br>- 3 New beast companions that grow with your Ranger level - <a href=\"https://www.nexusmods.com/baldursgate3/articles/972\">See Articles on Nexus</a><br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/12016\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/LbifDUV\">Act 1</a>, <a href=\"https://imgur.com/a/D0At1QD\">Act 2</a>, <a href=\"https://imgur.com/LbifDUV\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1729624492,
-    "date_updated": 1771275686,
+    "date_updated": 1772467206,
     "date_live": 1730475897,
     "visible": 1,
     "status": 1,
@@ -62671,15 +62671,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -62739,19 +62739,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405616
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7276455
+        "modfile_live": 7405616
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7276455
+        "modfile_live": 7405616
       },
       {
         "platform": "ps5",
-        "modfile_live": 7276455
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405616
       }
     ]
@@ -78130,7 +78130,7 @@
     "summary": "The unofficial community bug fix mod - Over 1000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1772255714,
+    "date_updated": 1772468093,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -78244,15 +78244,15 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 7424737
+        "modfile_live": 7436368
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7424737
+        "modfile_live": 7436368
       },
       {
         "platform": "ps5",
-        "modfile_live": 7424737
+        "modfile_live": 7436368
       },
       {
         "platform": "windows",
@@ -78391,7 +78391,7 @@
     "summary": "Spellswords are arcane-martial half-casters that use magic to enhance their abilities as in-your-face combatants, performing unusual feats with their bonded weapons and swordplay-enhancing spells.",
     "description": "<p><strong>Formerly known as the Vanguard Class on Nexusmods, the new Spellsword Class has been ported over to Larian's toolkit, along with major improvements!</strong></p>\n<p>Spellswords use arcane magic to enhance their abilities as in-your-face combatants, performing unusual feats with their bonded weapons and swordplay-enhancing spells. They thrive when dynamically navigating a battlefield, teleporting between combatants to land strikes on marked foes to release devastating magical energies.</p>\n<p>This class is meant to plug the hole in 5e's (and BG3's) base class lineup: the martial arcane half-caster. It is heavily inspired by the Eldritch Knight and many other wonderful gish-style class &amp; subclass mods and community homebrew classes.</p>\n<h3><strong>HIGHLY Recommended Mods</strong></h3>\n<p><a href=\"https://mod.io/g/baldursgate3/m/mystras-spells\" target=\"_blank\" rel=\"noopener noreferrer\">Mystra's Spells</a></p>\n<p>The Spellsword has heavy integration with cantrips, and spell packs like Mystra's add a lot that are useful for this class.</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/spellsword-class-mystras-spells\" target=\"_blank\" rel=\"noopener noreferrer\">Spellsword Class + Mystra's Spells</a></p>\n<p>My official integration mod with Mystra's Spells. Install this if you install Mystra's Spells.</p>\n<h3><strong>Optional Mods</strong></h3>\n<p><a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve\" target=\"_blank\" rel=\"noopener noreferrer\">UnlockLevelCurve - Level 13-20 | Patch 7</a></p>\n<p>Not required, but the Spellsword is a full 1-20 level class, with many unique class features given out only at higher levels.</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/spellsword-class-charisma-variant\" target=\"_blank\" rel=\"noopener noreferrer\">Spellsword Class Charisma Variant</a></p>\n<p>Changes this mod to use Charisma as its spellcasting ability instead of Intelligence.</p>\n<p>Note: Not approved for consoles yet.</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/spellsword-class-5e-spells\" target=\"_blank\" rel=\"noopener noreferrer\">Spellsword Class + 5e Spells</a></p>\n<p>This is a compatibility mod with 5e Spells on Nexusmods. This pre-dated Mystra's Spells and is of very high quality, but sadly is not on mod.io. Highly recommended if you use Nexusmods. Note: Not compatible with Spellsword Class + Mystra's Class or Mystra's Spells itself.</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/spellsword-class-scribe-scrolls\" target=\"_blank\" rel=\"noopener noreferrer\">Spellsword Class Scribe Scrolls</a></p>\n<p>Allows the Spellsword to scribe scrolls. Not compatible with the above Charisma Variant mod.</p>\n<p>Note: Not approved for consoles yet.</p>\n<h3><strong>Load Order Instructions</strong></h3>\n<p>Problems can occur if this mod and the other above mods are loaded in the incorrect order. In the in-game mod manager, you can determine the load order by unselecting all your mods and then activating the ones you want in the order you'd like. If you happen to use all of the above listed mods, it would look like this, from first to last:</p>\n<ol>\n<li>Mystra's Spells</li>\n<li>Unlock Level Curve</li>\n<li>Spellsword Class</li>\n<li>Spellsword Class + Mystra's Spells</li>\n<li>Spellsword Class Charisma Variant or Spellsword Class Scribe Scrolls (they are mutually exclusive)</li>\n</ol>\n<p>Here's a page that gives good tips on how to generally order your mod list: <a href=\"https://wiki.bg3.community/en/Tutorials/Mod-Use/general-load-order\">https://wiki.bg3.community/en/Tutorials/Mod-Use/general-load-order</a></p>\n<h3><span style=\"text-decoration:underline;\"><strong>Safe Install Instructions:</strong></span></h3>\n<p>Especially important if you've used the old Nexus version of this mod (then called the Vanguard). To make sure you transition to this new version safely, do the following before installing the new version:</p>\n<p>1) Respec your class at Withers to anything other than Vanguard/Spellsword. 2) Save your game. 3) Delete the old mod file. 4) Install this new mod. 5) Load your savegame, and then respec with Withers and pick Spellsword.                                                         </p>\n<h2><strong>Class Features</strong> </h2>\n<p>Check out the full class writeup here:  <a style=\"font-size:14px;\" href=\"https://tinyurl.com/bg3spellsword\" target=\"_blank\" rel=\"noopener noreferrer\">https://tinyurl.com/bg3spellsword</a></p>\n<p>You can also check out this page's screenshots for a comprehensive class feature breakdown.</p>\n<p>Some of this mod's features include:</p>\n<p><strong>Arcane Strike</strong>: imbue your bonded weapon with a cantrip, releasing its effects on melee or thrown attacks.                                                         </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU1MmRqZW14NnU1MjZrYTQxajhuZmY3cGJmbTlkMnN6cm1rbmswaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mVSToCKXh6NDPFyrde/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"></div>\n<div>\n<p><strong>Blade Dash </strong>: throw your bonded weapon at a location or target, instantly teleporting there and gaining the effects of the blur spell.</p>\n</div>\n<p><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhvdjBpZXJ6c3Z2b2VodTBvcjJwdGUzZXVodmMzeHFjcTVuMzVodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YpXb4dzIzNhq1IQtTL/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"></p>\n<p><strong>Eldritch Mark</strong>: Mark a target with a magical sigil. Hitting a marked target releases an AOE blast of damaging magical energy, also causing your mark to jump to another enemy. Each time your mark travels, its detonation damage increases. As a Spellsword, your ability set well-equips you for this very mobile, hit-n-run style of play.                                                        </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXEzbzdpbHR2NjVhb3U0cXA5NjNrdXBsdW05eDNqeDh2bXc4ZWZ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VqYCBOuMmU2ZUW3tlf/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"><br>The <strong>Elementalist</strong> subclass utilizes each of the five elements to empower their attacks and create deadly effects.<br><br></div>\n<div><img src=\"https://i.imgur.com/ecPr6vr.jpg\" alt=\"ecPr6vr.jpg\"></div>\n<div>Some of these include:</div>\n<p><strong>Elemental Smite</strong>: Perform smites that apply both damage and debilitating effects after you make a successful melee attack.                                     </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlhdjNkZDN6dm5sandzYmgyZDdrdHlteDd6ZndwMmVyaWJuOWQ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sBOnDZu2fWUe7WDYzr/giphy.gif\" alt=\"giphy.gif\"></div>\n<p><strong>Elemental Aura</strong>: surround yourself with one of five elemental auras that damage and apply status effects on enemies, including states like Wet and Chilled for damage vulnerability.                                                    </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dmd2txeXRnOG91M3BzdXN0d21kb3c2bm1kMnRieDc2MW5iNmxnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWYGbC33HlJXKtYsTP/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"><br><strong>Blink-Bonded</strong> spellswords have an affinity for nature and have bonded with a blink dog, gaining one as a companion.<br><br></div>\n<div><img src=\"https://i.imgur.com/g9MYuDE.jpg\" alt=\"g9MYuDE.jpg\"><br>Together, you can do a number of things:</div>\n<p><strong>Blink</strong>: teleport and distract enemies if you attack them.</p>\n<p><strong>Ethereal Evasion:</strong> Use a reaction to teleport an ally away as they are about to get hit.</p>\n<p><strong>Disarming Bite: </strong>Use a teleporting attack to disarm an enemy.</p>\n<p><strong>Bonded Swap: </strong>Instantly swap positions with your Spellsword buddy, and if you surround your enemy, potentially Overwhelm it and open it up for critical hits.                                                </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmZ2JnMWdiYXpvOGJtODQ0c253MXJhcXhzZnZ3bjJwa3k0cjRpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6evaitdUZ71qXNi0W/giphy.gif\" alt=\"giphy.gif\"></div>\n<p><strong>Marked Prey: </strong>Your dog can trigger Eldritch Mark detonations when hitting targets you've marked.</p>\n<p><strong>Arcane Bite:  A</strong>rcane strike effects you apply to yourself get applied to you dog, increasing its attack potential tremendously.</p>\n<p><strong>Share Spells: </strong>All beneficial spells you cast on yourself are shared with it.                                             </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhvazR5aGd1Z2RsdGFtbXZnamtleXB4Z2U2dmoxZWgwbTJicmIzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ULsKfDDqDkDaN2wLCq/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"></div>\n<p><strong>Fey Magic: </strong>You get a small selection of ranger/druid spells for free, including the Ranger's Hail of Thorns, Conjure Barrage and Conjure Volley. They have been extensively modified so that Arcane Strike enhancements apply to them, meaning you can do small AOE, cone attack and huge AOE attacks that will set off cantrip magical explosions on EVERY hit target. Gain an enhanced version of Flame Blade that acts as a bonded weapon and lasts all day.                                                      </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno2NXVtejI1dTZoZGw0c24zcTV6aDk2bTV1YXMxNTd5ejVxeWMyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3V1h7MeDY9QcUwuaqe/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"></div>\n<div><strong>Shadow Adepts</strong> spellswords are tied to the plane of shadow and thrive in darkness. Be the scary shadow-lurking Spellsword you've always wanted to be.<br><br></div>\n<div><img src=\"https://i.imgur.com/JzoqqC2.png\" alt=\"JzoqqC2.png\"></div>\n<p><strong>Born in the Dark:</strong> Gain power when lightly or heavily obscured. Melee weapons and spells deal bonus necrotic damage. Bonus to AC and attack rolls . Necrotic and psychic damage attacks from spells or bonded weapons may detonate Eldritch Mark, even from range. </p>\n<p><strong>Shadow Rift: </strong>Tear open rifts into the Shadow Plane, draining light and color from creatures and objects and blinding all targets within the rift. Necrotic and psychic damage spells roll damage die with Advantage.                                                      </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNwOXI3dDhieDJiM3d0OHc1NGFxcjdoMndiam1xcnU4eHZnbG45OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v1voXJAZCgR4ty5YxF/giphy.gif\" alt=\"giphy.gif\"></div>\n<p><strong>Shadowfell Form: </strong>Transform your body into one wreathed in shadows. Gain damage resistance and teleport from one obscured location to another. Make an extra melee attack after casting a leveled spell that deals necrotic and psychic damage.                                                </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVqZ3E3eXNzdTdqajFqdWN0em14NjNrZnB3MHkwdXdsYjkxMGowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axUKq4Cg6ik2iol9xE/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"><span style=\"font-size:small;\">                                                              </span></div>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l5cXBmY205NDM1NWx2NTlzaXdicTBsMWdtZGtqeXgwOGJpeWZlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AJSQzZxKQyhF6q30EF/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"></div>\n<p><strong>Greater Shadow Rift:</strong> Gain mastery over the shadows. Open up to three shadow rifts at the same time. Teleport between rift spaces at will. Extra damage bonuses when attacking while obscured in the rift. All necrotic/shadow/psychic/fear-based spells can be cast on targets within any of the shadow rifts and ignore distance limitations.                                                                                                                                 </p>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY2M2ZudjFnaTR2NnJ1bDg2NmNheDRubTkyMXBmcXZyeXFtbHp6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EKLDtNW9pHwFyHtIH/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"><span style=\"font-size:medium;\">           </span>                                               </div>\n<div><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFmanduOGV2N3Z2bmlqYm9vMHp0eXo1YWo5ZXgyMHQwZHJ6MWNyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfWwOth2sdFkICH5BK/giphy-downsized-large.gif\" alt=\"giphy-downsized-large.gif\"></div>\n<p><strong>Darklands Magic: </strong>Enjoy a selection of free spells tied to aspects of the Shadow Plane: Inflict Wounds, Shadow Blade, Vampiric Touch, Shadow of Moil, Synaptic Static. Shadow Blade is treated as a bonded weapon when summoned.</p>\n<p><img src=\"https://image.modcdn.io/members/b09f/34899248/profile/spellsword_table.jpg\" alt=\"\" width=\"807\" height=\"718\"></p>\n<p><strong>Banner Art Credits: </strong>Please check out the gorgeous works of Tomasz Chistowski and Oriana Menendez.</p>",
     "date_added": 1734516485,
-    "date_updated": 1771722103,
+    "date_updated": 1772467874,
     "date_live": 1734520425,
     "visible": 1,
     "status": 1,
@@ -78421,15 +78421,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -78479,19 +78479,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7214341
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6362742
+        "modfile_live": 7214341
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6362742
+        "modfile_live": 7214341
       },
       {
         "platform": "ps5",
-        "modfile_live": 6362742
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7214341
       }
     ]
@@ -78909,7 +78909,7 @@
     "summary": "Adds Custom Wings for Dragonborns, Custom Animations, Touglable Flight, Dialogue Poses",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/aqD57aq8YZk\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p style=\"font-size:14px;font-weight:400;\"><strong>Set Animation Level of Detail on High<br>V1.0.0.12 has abilities tied to the CC assets - Do not delete mid-playthrough if your character currently has an ability from the mod. <a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Here how to delete mods properly</a></strong></p>\n<hr>\n<h2><br>Skybound Wings - Primal Pack - Dragonborn CC</h2>\n<p>Wings for male and female Dragonborns</p>\n<p><strong>Add them in CC in start of the game or trough mirrror mid game (Hair Tab)</strong></p>\n<p> </p>\n<h2>Adds Custom</h2>\n<p><strong>Wings for Dragonborns</strong> <br><strong>1 type/ 20 styles overall/ 3 dialog poses (including hidden)</strong><br>Dragonborn skin mat, seamless match with the body, parts hide under the armor when needed<br>Draconic Bloodline and Illithid marks works</p>\n<p><strong>Animations<br></strong>Female - 103 custom anims<br>Males - 35 fixed  and custom anims</p>\n<p><strong>Animations Sets</strong> <br>Behavior on spells, atacks. reactions etc</p>\n<p><strong>Female Skeleton Wings Base</strong></p>\n<p><strong>Female Wings Physics<br></strong>No more \"napkin\" behaviour</p>\n<h2><img src=\"https://i.imgur.com/ehwq0lE.gif\" alt=\"ehwq0lE.gif\"></h2>\n<h2><strong>Types of wings</strong></h2>\n<p><strong>Fiendish Spire Wing</strong></p>\n<p><strong>Shadow Wings<br></strong>Wings with a shadow effect flowing downward from within</p>\n<p><strong>ShadowCursed Wings - 2 types</strong><br>Wings with shadow curse effects and shadows flowing inside the body<br>Some treat for your future Shadow sorc playtrough in Patch 8 </p>\n<p><strong>HellFire Wings</strong><br>Wings with fire, sparks, and shadow effects </p>\n<p><strong>HolyFire Wings</strong><br>Wings surrounded by a holy fire aura<br><br><strong>Lighning Wings</strong><br>Wings surrounded by electricity<br><br><strong>SorcLighning Wings</strong><br>Wings surrounded by electricity<br><br><strong>Shar Shadow Wings</strong><br>Wings surrounded by purple miasma shadow effect flowing downward from within<br><br><strong>Blood Shadow Wings</strong><br>Wings surrounded by red miasma shadow effect flowing downward from within<br><br><strong>Acid Wings</strong><br>Wings surrounded by green mist effect flowing downward from within<br><br><strong>Ghost Wings</strong><br>9 types - Shadow Cursed (3), Ghost (2), Blood Shadow (2), Shar Shadow (2)</p>\n<hr>\n<h2>Dialogue poses</h2>\n<p>You could choose one of 3 stages in dialogs/cutscenes for each wings<br>You need to select it in Character Creation/Mirror<br><br><strong>Default        </strong>                                              <strong>Pose B                                                        Hidden<br></strong>Surround shoulders                             Slimmer, more back pose                  Hidden completely<br><img src=\"https://i.ibb.co/VYZGNB7Z/DGB-CMBN-M-Wings-A-B-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/zVm9Xr4m/DGB-SW-Wings-POSE-B-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/chc3FNPJ/DGB-SW-Wings-HIDDEN-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><br><br><strong>Video about poses and flight ability:</strong></p>\n<p><iframe src=\"https://www.youtube.com/embed/XX8VnXVSxNI?si=RFEhz8LyhfUCaR9V\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>Flight</h2>\n<p><strong>Char with wings getting Draconic Flight passive </strong><br>Passive it togglable, if you don't want flight you could switch it off<br><br><strong>Flight ability grows with level:</strong><br><strong>✧ Wyrmling’s Glide</strong> <em>(lvl 1-4)</em> - 9m, cost: Bonus Action, Movement<br><strong>✧ Dragon’s Ascent</strong> <em>(lvl 5-10)</em> - 12m, cost: Bonus Action, 0.5 Movement<br><strong>✧ Elder Skystride</strong> <em>(lvl 11+)</em> - 18m, cost: 0.5 Movement</p>\n<hr>\n<h2>Extra</h2>\n<p>More wings here - <strong><a href=\"https://mod.io/g/baldursgate3/m/dark-soar-wings-dragonborn-cc\">Dark Soar Wings - Dark Urge Dragonborn CC</a><br></strong><iframe src=\"https://www.youtube.com/embed/CqJPibyQRlg\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Extra Flight mods</strong></h2>\n<p><strong>You can use any flying ability from any mod/any autor of your choosing.</strong><br><strong>Here are my flying ability mods:</strong></p>\n<p><strong><a href=\"https://mod.io/g/baldursgate3/m/skyward-alchemy-flight-potions#description\">Skyward Alchemy - Flight Potions</a><br></strong>A collection of magical brews that permanently grant unique flight abilities. Each potion offers a different flying style. <br>Changed your mind? Use the Cleansing Potion to remove all flight effects and choose again.<br><a href=\"https://mod.io/g/baldursgate3/m/skyward-alchemy-flight-potions#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/17065/17065-1749425349-2014594495.png\" alt=\"\" width=\"1200\" height=\"1200\"></a><strong><br></strong></p>\n<p><strong>Flight passive<br>Use ONE</strong><br><strong><a href=\"https://mod.io/g/baldursgate3/m/skybound-wings-dragonborn-flight-at-1lvl#description\">Skybound Wings - Dragonborn - Flight at 1lvl</a> </strong>passive will be granded from 1lvl (Approved on Consoles and Mac)<br><strong><a href=\"https://mod.io/g/baldursgate3/m/skybound-wings-patch-flight-at-10lvl\">Skybound Wings - Dragonborn - Flight at 10lvl</a> </strong>passive will be granded from 10lvl<strong><br></strong></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2>Known bugs</h2>\n<p><span style=\"font-size:medium;\">Tick after melee hit if u not in combat<br>enlarg* brakes anims for upper hooks a bit, as well as on any Vanilla Wings with hooks<br></span><span style=\"font-size:medium;\">If you find bug - <a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\"><strong><span style=\"font-size:large;\">Troubleshooting</span> <span style=\"font-size:small;\">link</span></strong></a></span></p>\n<hr>\n<h2><strong>Special Thx </strong></h2>\n<p><strong><a href=\"https://next.nexusmods.com/profile/Padme4000/about-me?gameId=3474\">Padme4000</a> as always, I wouldn't start modding without you<br><a href=\"https://https//github.com/LaughingLeader\">LaughingLeader</a> for <a href=\"https://github.com/LaughingLeader/BG3ModManager/releases\">BG3 Mod Manager</a><br><a href=\"https://https//github.com/ShinyHobo\">ShinyHobo</a> for their <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">BG3 Modders Multitool</a>  <br>Alex Khoz (Lenster)</strong> for animation supervise<br><a href=\"https://next.nexusmods.com/profile/GentlemanBabbo?gameId=3474\"><strong>GentlemanBabbofor</strong></a> for starting all that wings thing and retargeting test<br>EvilSnail, JuuM, lizardphunk, commanderstrawberry, magnetuning, For_Kiramay, LostSoul, Nzx, Aces, Kobold Juno, Padme4000, kit, HyperspaceTowel, EmeraldTechno - for testing suggestions and support<br>You are awesome!</p>\n<h3><strong>Wall of Heroes</strong></h3>\n<p>With every name added, the Wall of Heroes grows stronger<br>Today, we honor<strong> <a href=\"https://www.patreon.com/profile/creators?u=88898883\">Gentle Giant Cosplay</a>, <a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a>, <a href=\"https://www.patreon.com/raidertheanimator\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">Raider the Animator</span></a> , <a href=\"https://www.patreon.com/user?u=29561792\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">SmugFly</span></a>,  <a href=\"https://www.patreon.com/user?u=191148959\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">Erzebet </span></a>, <a href=\"https://www.patreon.com/user?u=61745837\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">DarthRevan</span></a>, <a href=\"https://www.patreon.com/user?u=127424387\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">Oliver</span></a>, ,<a href=\"https://www.patreon.com/user?u=141908783\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">Raine</span></a>, <a href=\"https://www.patreon.com/user?u=171315578\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">KoboldicOddities</span></a>, <a href=\"https://www.patreon.com/user?u=60000792\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">N00b</span></a>, </strong>whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!</p>\n<h3><strong>Echoing Acknowledgement </strong></h3>\n<p> to <a href=\"https://www.patreon.com/user?u=91343650\"><strong>Wamp</strong></a>, <a href=\"https://www.patreon.com/profile/creators?u=62536183\"><strong>Appleaday</strong></a><strong>, <a href=\"https://www.patreon.com/user?u=3855703\">luna</a>, <a href=\"https://www.patreon.com/user?u=23485532\">Merven</a>, <a href=\"https://www.patreon.com/user?u=68343342\">Funzo</a>, <a href=\"https://www.patreon.com/user?u=120988637\">FallinD</a>, <a href=\"https://www.patreon.com/user?u=22487138\">Pinkie Pain</a>, <a href=\"https://www.patreon.com/user?u=43106925\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">Freedom-In-Moonlight</span></a>, <span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\"><a href=\"https://www.patreon.com/user?u=94228860\" target=\"_blank\" rel=\"noopener noreferrer\">Director Isard</a></span>, <a href=\"https://www.patreon.com/user?u=198129509\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">SkullBaster</span></a>, <a href=\"https://www.patreon.com/user?u=32594429\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"cm-QUQrTo cm-GVYwNr cm-euEAKf cm-eWIuIV cm-Yqkuwl cm-mgMQAS cm-OQsWrJ\">Bödvarr The Great</span></a></strong> you are tentacular!</p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1734786562,
-    "date_updated": 1772227706,
+    "date_updated": 1772467745,
     "date_live": 1735415847,
     "visible": 1,
     "status": 1,
@@ -78939,15 +78939,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -79007,19 +79007,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7417456
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6385961
+        "modfile_live": 7417456
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6385961
+        "modfile_live": 7417456
       },
       {
         "platform": "ps5",
-        "modfile_live": 6385961
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7417456
       }
     ]
@@ -80350,7 +80350,7 @@
     "summary": "Add 30 new items curated for Rogue, 10 items per Act.",
     "description": "<p>Become a true whisper in the shadows with an arsenal of gear crafted to empower every aspect of your rogue's abilities.  Improve your ability to melt into the darkness, evade detection, and strike with precision. Whether you prefer to eliminate targets with deadly efficiency, manipulate situations from the shadows, or acquire treasures through cunning and guile, this collection offers the tools to enhance your preferred playstyle. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial!  Share your thoughts and help refine this <em>Veil and Venom</em>.</p>\n<p> </p>\n<ul>\n<li>Each Act adds 10 items curated for Rogue</li>\n<li>View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14586\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-1-ZxIhOHB\">Act 1</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-2-NEBn4Yq\">Act 2</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-3-y5rfLs7\">Act 3</a></li>\n<li>These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </li>\n<li>Required <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</li>\n</ul>\n<p> </p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1735786928,
-    "date_updated": 1771276124,
+    "date_updated": 1772467297,
     "date_live": 1735786928,
     "visible": 1,
     "status": 1,
@@ -80380,15 +80380,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -80438,19 +80438,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405677
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7157707
+        "modfile_live": 7405677
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7157707
+        "modfile_live": 7405677
       },
       {
         "platform": "ps5",
-        "modfile_live": 7157707
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405677
       }
     ]
@@ -85308,7 +85308,7 @@
     "summary": "Adds 30 new items curated for Fighter, 10 items per Act.",
     "description": "<p>Control the flow of combat with Might and Metal: Fighter Equipment. This mod provides your fighter with the tools to gain a decisive tactical advantage. Increase your survivability and that of your allies by enhancing your armor and weakening enemy defenses. Whether you prefer to hold the line, protect your companions, or carve a path through your enemies, this collection offers the means to shape the battlefield to your will. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial! Share your thoughts and help refine Might and Metal.</p>\n<p>- Each Act adds 10 items curated for Fighter<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14894\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-1-Qv2fZYv\">Act 1</a>, <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-2-XWkZK8f\">Act 2</a>, <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-3-jZzKEoC\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1738298279,
-    "date_updated": 1771276600,
+    "date_updated": 1772467641,
     "date_live": 1738298279,
     "visible": 1,
     "status": 1,
@@ -85338,15 +85338,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -85396,19 +85396,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405724
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7157718
+        "modfile_live": 7405724
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7157718
+        "modfile_live": 7405724
       },
       {
         "platform": "ps5",
-        "modfile_live": 7157718
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405724
       }
     ]
@@ -85647,7 +85647,7 @@
     "summary": "Adds Custom Wings for Dragonborn - Demon, Teared, Ghost",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/CqJPibyQRlg\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p style=\"font-size:14px;font-weight:400;\"><strong>Set Animation Level of Detail on High</strong></p>\n<hr>\n<h2>Dark Soar Wings - Dragonborn CC</h2>\n<p>Wings for male and female Dragonborns</p>\n<p><strong>Add them in CC in start of the game or trough mirrror mid game (Hair Tab)<br></strong></p>\n<h2>Adds Custom</h2>\n<p><strong>Wings for Dragonborns</strong> <br><strong>2 types/ 89 styles overall</strong><br>Dragonborn skin mat, seamless match with the body, parts hide under the armor when needed<br>Draconic Bloodline and Illithid marks works</p>\n<h2><strong>Types of wings</strong></h2>\n<p><strong>Demon Wings<br></strong>Most styles includes:<br>Plain VFX - 1 types<br>Emissive - 2 types<br>Emissive + VFX - 2 types<br><img src=\"https://i.ibb.co/MkLF9Wgj/DGB-DMN-M-Wings-A-B-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><br><strong><br>Teared Wings<br></strong>Most styles includes:<br>4 vars ( left/right + 2 symmetrical vars) with every VFX<br>Ghost vars<br><img src=\"https://i.ibb.co/HDJWy9CZ/DGB-CMBNT-M-Wings-A-B-1-AA.jpg\" alt=\"\" width=\"256\" height=\"256\"></p>\n<h2><strong>Styles</strong></h2>\n<p><strong>Shadow Wings<br></strong>Wings with a shadow effect flowing downward from within</p>\n<p><strong>ShadowCursed Wings</strong><br>Wings with shadow curse effects and shadows flowing inside the body<br>Some treat for your future Shadow sorc playtrough in Patch 8 </p>\n<p><strong>HellFire Wings</strong><br>Wings with fire and shadow effects <br><br><strong>Lighning Wings</strong><br>Wings surrounded by electricity<br><br><strong>SorcLighning Wings</strong><br>Wings surrounded by electricity<br><br><strong>Shar Shadow Wings</strong><br>Wings surrounded by purple miasma shadow effect flowing downward from within<br><br><strong>Blood Shadow Wings</strong><br>Wings surrounded by red miasma shadow effect flowing downward from within<br><br><strong>HolyFire Wings</strong><br>Wings surrounded by a holy fire aura<br><br><strong>Ghost Wings</strong><br>9 types - Shadow Cursed (3), Ghost (2), Blood Shadow (2), Shar Shadow (2)</p>\n<hr>\n<h2>Dialogue poses</h2>\n<p>You could choose one of 3 stages in dialogs/cutscenes for each wings<br>You need to select it in Character Creation/Mirror<br><br><strong>Default        </strong>                                              <strong>Pose B                                                        Hidden<br></strong>Surround shoulders                             Slimmer, more back pose                  Hidden completely<br><img src=\"https://i.ibb.co/MkLF9Wgj/DGB-DMN-M-Wings-A-B-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/zVm9Xr4m/DGB-SW-Wings-POSE-B-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><img src=\"https://i.ibb.co/chc3FNPJ/DGB-SW-Wings-HIDDEN-1.jpg\" alt=\"\" width=\"256\" height=\"256\"><br><br><strong>Video about poses and flight ability:</strong></p>\n<p><iframe src=\"https://www.youtube.com/embed/XX8VnXVSxNI?si=RFEhz8LyhfUCaR9V\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>Flight</h2>\n<p><strong>Char with wings getting Draconic Flight passive </strong><br>Passive it togglable, if you don't want flight you could switch it off<br><br><strong>Flight ability grows with level:</strong><br><strong>✧ Wyrmling’s Glide</strong> <em>(lvl 1-4)</em> - 9m, cost: Bonus Action, Movement<br><strong>✧ Dragon’s Ascent</strong> <em>(lvl 5-10)</em> - 12m, cost: Bonus Action, 0.5 Movement<br><strong>✧ Elder Skystride</strong> <em>(lvl 11+)</em> - 18m, cost: 0.5 Movement</p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2>Known bugs</h2>\n<p><span style=\"font-size:medium;\">Tick after melee hit if u not in combat<br>Enlarge brakes anims for upper hooks a bit, as well as on any Vanilla Wings with hooks<br>If you find bug - <a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\"><strong><span style=\"font-size:large;\">Troubleshooting</span> <span style=\"font-size:small;\">link</span></strong></a></span></p>\n<hr>\n<h2><strong>Flight </strong></h2>\n<p><strong>You can use any flying ability from any mod/any autor of your choosing. Dark Soar Wings is purely a CC mod.<br>Here are my flying ability mods:<br><br><a href=\"https://mod.io/g/baldursgate3/m/skyward-alchemy-flight-potions#description\">Skyward Alchemy - Flight Potions</a><br></strong>A collection of magical brews that permanently grant unique flight abilities. Each potion offers a different flying style. <br>Changed your mind? Use the Cleansing Potion to remove all flight effects and choose again.<br><a href=\"https://mod.io/g/baldursgate3/m/skyward-alchemy-flight-potions#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/17065/17065-1749425349-2014594495.png\" alt=\"\" width=\"1200\" height=\"1200\"></a><strong><br></strong></p>\n<p><strong>Flight passive<br>Use ONE</strong><br><strong><a href=\"https://mod.io/g/baldursgate3/m/skybound-wings-dragonborn-flight-at-1lvl#description\">Skybound Wings - Dragonborn - Flight at 1lvl</a> </strong>passive will be granded from 1lvl (Approved on Consoles and Mac)<br><strong><a href=\"https://mod.io/g/baldursgate3/m/skybound-wings-patch-flight-at-10lvl\">Skybound Wings - Dragonborn - Flight at 10lvl</a> </strong>passive will be granded from 10lvl</p>\n<hr>\n<h2><strong>Special Thx </strong></h2>\n<p><strong>Alex Khoz (Lenster)</strong> for animation supervise<br><a href=\"https://next.nexusmods.com/profile/GentlemanBabbo?gameId=3474\"><strong>GentlemanBabbofor</strong></a> for starting all that wings thing and retargeting test</p>\n<h3><strong>Wall of Heroes</strong></h3>\n<p>With every name added, the Wall of Heroes grows stronger<br>Today, we honor <strong><span class=\"sc-iqseJM dwFhbt\"><a href=\"https://www.patreon.com/user?u=91343650\" target=\"_blank\" rel=\"noopener noreferrer\">Wamp</a></span></strong>, <a href=\"https://www.patreon.com/profile/creators?u=88898883\"><strong>Gentle Giant Cosplay</strong></a>, <strong><a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a></strong>, <strong><a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a></strong> whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!<br><br><strong>Echoing Acknowledgement to </strong><strong><a href=\"https://www.patreon.com/profile/creators?u=62536183\">Appleaday</a>, you are tentacular!</strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1738497202,
-    "date_updated": 1772227697,
+    "date_updated": 1772467771,
     "date_live": 1740459366,
     "visible": 1,
     "status": 1,
@@ -85677,15 +85677,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -85755,19 +85755,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7421515
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6385965
+        "modfile_live": 7421515
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6385965
+        "modfile_live": 7421515
       },
       {
         "platform": "ps5",
-        "modfile_live": 6385965
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7421515
       }
     ]
@@ -88998,7 +88998,7 @@
     "summary": "Add 30 new items curated for Paladin, 10 items per Act.",
     "description": "<p>Become an indomitable force for justice with Oath and Order: Paladin Equipment. This mod provides a selection of divinely-inspired gear, enhancing your paladin's martial capabilities and strengthening your connection to your oath. Bolster your defenses, empower your allies, and unleash radiant power upon your enemies. Answer the call of your sacred duty and become a true paragon of virtue. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\" rel=\"nofollow\">Fade's Equipment Distribution (FED)</a>, ensuring you'll discover these treasures organically as you adventure. I am actively seeking feedback from the community to ensure a balanced and engaging experience for all players. Share your thoughts and help balance <em>Oath and Order</em>.</p>\n<p>- Each Act adds 10 items curated for Paladin<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/15236\">Nexus page</a> or on Imgur <a href=\"https://imgur.com/a/oath-order-paladin-equipment-act-1-Wm7Msp8\">Act 1</a>, <a href=\"https://imgur.com/a/oath-order-paladin-equipment-act-2-6NXfBMr\">Act 2</a>, <a href=\"https://imgur.com/a/oath-order-paladin-equipment-act-3-hkA59zW\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" <br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q: Can I install the mod in the middle of the playthrough?</strong><br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1741380349,
-    "date_updated": 1771276482,
+    "date_updated": 1772467623,
     "date_live": 1741380532,
     "visible": 1,
     "status": 1,
@@ -89028,15 +89028,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -89086,19 +89086,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405718
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6862794
+        "modfile_live": 7405718
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6862794
+        "modfile_live": 7405718
       },
       {
         "platform": "ps5",
-        "modfile_live": 6862794
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405718
       }
     ]
@@ -103329,7 +103329,7 @@
     "summary": "A combination of Fade's Equipment Distribution and all the Class Equipment Packs.",
     "description": "<p>Experience all of Fade's Equipment mods in one convenient package! This combined mod includes Fade's Equipment Distribution and all class-specific equipment mods (excluding Gifts of the Absolute). Enjoy translated versions in Chinese, Korean, Brazilian Portuguese, Russian, and Spanish. Console players will find improved compatibility with AMP/REL as this mod is designed to automatically load lower in the mod order (due to its alphabetical naming).</p>\n<p><strong>Translation Credits:</strong> <br>Chinese Translations by <a href=\"https://next.nexusmods.com/profile/yangyangmeiiii?gameId=3474\">yangyangmei</a><br>Russian Translations by <a href=\"https://next.nexusmods.com/profile/dxo1a\">dxo1a</a> and <a href=\"https://next.nexusmods.com/profile/venomuspool\">venomuspool</a> <br>Korean Translations by <a href=\"https://www.nexusmods.com/profile/Eolaloe?gameId=3474\">Eolaloe</a><br>Brazilian Portuguese by <a href=\"https://next.nexusmods.com/profile/kaironn2\">kaironn2</a><br>Spanish Translations by <a href=\"https://next.nexusmods.com/profile/Sokrof2\">Sokrof2</a><br>French Translations by <a href=\"https://www.nexusmods.com/profile/Tojii1\">Tojii1</a> </p>\n<p> </p>\n<p><strong>List of all item locations with images - <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vThKpJZeUVZIp_mBGlPRUV9blJFcpNH7hJnDh82T46-R7YAM892mmtvKRh9HaqLzClPP3FtTezsLV9u/pubhtml\">Link</a></strong></p>\n<p> </p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br>If you download this mod, do <strong>NOT</strong> have the other mods that are included in the mod downloaded/enabled. Do <strong>NOT</strong> have Fade's Equipment Distribution installed, as it is already included in this mod. if you do, this may cause duplicate items.<br><br></p>\n<p><strong>Compatibility:</strong></p>\n<ul>\n<li><strong>AMP/REL Users:</strong> Compatibility for AMP/REL should be seamless for console players, if you are on PC I would still highly recommend you verify that this mod is placed BELOW AMP/REL. (I will not be balancing the drop rates between AMP/REL and FED combined.)(AMP/REL does <strong>NOT</strong> add any items from my equipment mods to it's randomized loot pool.)</li>\n<li><strong>Other Mod Conflicts:</strong> This mod may conflict with mods that alter the core files for characters or items, a list of incompatible mods are on the Nexus mod page.<br><br>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a><br>Buy me a coffee 💜</p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p> </p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a></p>\n<p> </p>\nSpells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul</a></li>\n</ul>",
     "date_added": 1746390180,
-    "date_updated": 1771277162,
+    "date_updated": 1772467680,
     "date_live": 1746391440,
     "visible": 1,
     "status": 1,
@@ -103359,15 +103359,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -103512,19 +103512,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7405742
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7276465
+        "modfile_live": 7405742
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7276465
+        "modfile_live": 7405742
       },
       {
         "platform": "ps5",
-        "modfile_live": 7276465
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7405742
       }
     ]
@@ -107548,7 +107548,7 @@
     "summary": "This mod automatically cleans your whole party and camp when End the Day is selected and you transition to nighttime. It also adds a cantrip to the main characters/avatars called Grime Begone which will clean your current party.",
     "description": "<p>This mod cleans you on successfully ending the day and transitioning to nighttime. And you get a cantrip called Grime Begone that will remove your active party's dirt buildup any time. The cantrip will be automatically added to your hotbar. You can also find it in your spellsheet under the Common tab.</p>\n<p>Tired of ending the day all bloody only for a romantic cutscene to play while covered in blood? Tired of trying to remember to soap everyone individually to prevent this from happening? No more! No more wondering why your camp clothes are dirty when you weren't even wearing them during the fight! No more awkward nighttime conversations drenched in the blood of your enemies! Take your bath <em>before</em> slipping into your casual clothes! You will also still get cleaned after long rest (vanilla behavior). Clean in the evening and clean in the morning!</p>\n<p>This mod uses an independent script and does not conflict with any other mods, as far as I know. It is tested and working with Camp Night Notifications.</p>\n<p><span style=\"text-decoration:underline;\"><em><strong>KNOWN ISSUES:</strong></em></span></p>\n<ul>\n<li>If you dismiss a party member, and attempt to clean/rest before they have despawned while walking to camp, they will not be cleaned.</li>\n<li>After a certain major quest in Act 1, transitioning to night when talking to the quest character does not remove dirt. Please use the cantrip before speaking to them if you want to be clean. (IYKYK, but even if you don't the dialogue will make it very obvious talking to them will transition to night.)</li>\n</ul>",
     "date_added": 1748189249,
-    "date_updated": 1771714299,
+    "date_updated": 1772467833,
     "date_live": 1748197019,
     "visible": 1,
     "status": 1,
@@ -107578,15 +107578,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -107626,19 +107626,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7424506
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6536774
+        "modfile_live": 7424506
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6536774
+        "modfile_live": 7424506
       },
       {
         "platform": "ps5",
-        "modfile_live": 6536774
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7424506
       }
     ]
@@ -113780,7 +113780,7 @@
     "summary": "Adds a powerful radiant-themed gear set designed for divine warriors. Includes custom armor, weapon, and accessories with unique effects, auras, and synergy built around radiant damage and control.",
     "description": "<h2>Beware before downloading</h2>\n<p>Many users are reporting problems on Xbox. If you are already using the mod and it is working, please do not update. If you're thinking about installing it, please do so knowing YOUR SAVE MAY GET CORRUPTED.</p>\n<p>I highly recommend refraining from downloading or updating while I get the issues sorted.</p>\n<p>I apologize, since the mod has been approved for consoles, I can't uncheck the platform to prevent more console downloads.</p>\n<hr>\n<p>This mod adds a full legendary radiant-themed gear set designed for divine warriors, spellcasters, and champions of the light. Every item features powerful radiant synergy, custom passives, and unique abilities — all built to make you feel like a living conduit of divine power.</p>\n<blockquote>\n<h4><strong>If you like my mods and would like me to keep making them,<br>please consider <a href=\"https://ko-fi.com/jradicus\" target=\"_blank\" rel=\"noopener noreferrer\">supporting me on Ko-fi</a>.</strong></h4>\n<p>Any contributions will go towards learning and resources to provide better mods in the future. That could mean actual outfit designs that aren't just base-game models repurposed! :)</p>\n</blockquote>\n<hr>\n<h4>The Story:</h4>\n<blockquote>\n<p>They were more than warriors. She, a brilliant cleric known as <em>Lightpiercer</em>, and he, a steadfast paladin named <em>Dawnwarden</em>. Together, they were radiant — a symbol of love defying the darkness of the Blood War.</p>\n<p>But their bond was shattered by a devil’s deception. Their souls were bound into a sword and shield, their power dormant, their vow unfulfilled.</p>\n<p>An ancient order called the <strong>Bondsworn</strong> took up their cause. They recovered the sword and shield and forged relics of radiant power to protect them, hoping one day to reawaken the light.</p>\n<p>Now that order is gone. But their trail remains.</p>\n<p>Many years later, a trio of adventurers tried and failed to follow that trail, leaving clues on how to continue the quest.</p>\n<p>Will you pick up where they left off?</p>\n</blockquote>\n<p><strong>PLEASE NOTE: </strong>This is not a quest mod. You will not receive objectives. You must find the relics yourself, guided only by the Bondsworn’s notes and your own intuition. For those who enjoy uncovering secrets and piecing together stories buried in the world — this is for you. Also, the scavenger hunt starts when you first get off the nautiloid, so using it on a new playthrough is the best experience (if you want to do the story/scavenger hunt)</p>\n<hr>\n<p><strong>🌟 VESTMENTS OF UNYIELDING RADIANCE — ITEM LIST</strong></p>\n<h4><strong>🗡️ Lightpiercer</strong> <em>(Longsword)</em></h4>\n<p><em>Note: This weapon only functions fully when <strong>Dawnwarden</strong> is equipped. Without it, you are not proficient and its abilities are inactive.</em></p>\n<ul>\n<li>Grants <strong>proficiency with shields</strong></li>\n<li>Emits bright light in a 6m radius</li>\n<li>On Critical Hit, unleashes a radiant shockwave that afflicts nearby enemies with <strong>Radiating Orb</strong></li>\n<li><strong>Radiant Rush</strong> <em>(Active)</em> – Charge through enemies in a line, dealing radiant damage and possibly blinding them</li>\n</ul>\n<h4><strong>🛡️ Dawnwarden</strong> <em>(Shield)</em></h4>\n<p><em>Note: This shield only functions fully when <strong>Lightpiercer</strong> is equipped. Without it, you are not proficient and its abilities are inactive.</em></p>\n<ul>\n<li>Grants <strong>proficiency with longswords</strong></li>\n<li>Armor Class +3</li>\n<li>Advantage on perception and investigation checks</li>\n<li>Reduces the roll needed to critically hit by 2</li>\n<li>Once per Long Rest, when reduced to 0 HP, you regain 3d8 HP</li>\n</ul>\n<h4><strong>📿 Skyborn Devotion</strong> <em>(Amulet)</em></h4>\n<ul>\n<li>When you deal radiant damage, affected targets are inflicted with <strong>Reverberation</strong> for 2 turns</li>\n<li>Gain <strong>+2 to Spell Save DC</strong></li>\n<li>Gain <strong>1 additional use of Channel Divinity</strong> per Long Rest</li>\n</ul>\n<h4><strong>💍 Callous Coruscation Ring</strong></h4>\n<ul>\n<li>Deal +2 radiant damage to creatures who are illuminated</li>\n<li>When you deal spell damage while a target is lit by a light source, it is afflicted with <strong>Radiating Orb</strong></li>\n</ul>\n<h4><strong>💍 Bondsworn Ring</strong> <em>(Fusing Ring)</em></h4>\n<ul>\n<li>Used to <strong>fuse the quest versions of Lightpiercer and Dawnwarden</strong> into their awakened forms, unlocking their full power.</li>\n</ul>\n<h4><strong>👑 Judicator’s Crown</strong> <em>(Helmet)</em></h4>\n<ul>\n<li>Enemies who miss you with attack rolls must make a Dexterity save or take 1d4 radiant damage</li>\n<li>When you deal radiant damage, regain 1d6 HP</li>\n<li>You cannot be critically hit</li>\n<li>Cast <em>Spirit Guardians</em> once per battle without needing Concentration</li>\n</ul>\n<h4><strong>🧤 Sunlash Gauntlets</strong> <em>(Gloves)</em></h4>\n<ul>\n<li>When you deal radiant damage, unleash a shockwave that applies <strong>Radiating Orb</strong> to nearby enemies</li>\n<li>When you deal radiant damage, you inflict <strong>radiating orb</strong></li>\n<li>Gain +2 to Attack Rolls</li>\n</ul>\n<h4><strong>🧥 Solarveil Mantle</strong> <em>(Cloak)</em></h4>\n<ul>\n<li>At the start of each turn, gain Temporary Hit Points based on your level (up to 30 at level 12)</li>\n<li>When hit while you have Temp HP, reduce the damage by half and blind nearby enemies (costs a reaction)</li>\n<li>Gain +2 to Saving Throws</li>\n</ul>\n<h4><strong>🧣 Lightbrand Cuirass</strong> <em>(Chest Armor)</em></h4>\n<ul>\n<li>You and allies within 6m gain +1 AC and Necrotic Resistance</li>\n<li>Enemies within 6m are vulnerable to radiant damage</li>\n<li>Set CON to 20</li>\n</ul>\n<h4><strong>🥾 Judgment’s Advance</strong> <em>(Boots)</em></h4>\n<ul>\n<li>Gain the benefits of <em>Freedom of Movement</em> and <em>Longstrider</em></li>\n<li>When you inflict a condition, also apply <strong>Reverberation</strong> for 2 turns</li>\n<li>WIS +2</li>\n</ul>\n<hr>\n<h3><strong>Recommendations:</strong></h3>\n<p>🟢 <strong>Want to skip the hunt?</strong> Use a mod like <em>Tutorial Chest Summoning</em> to grab all relics immediately.<br>🟠 <strong>Want a challenge?</strong> This set is powerful. For a more balanced experience, use <em>Combat Extender</em> or another difficulty-scaling mod.<br>🔦 <strong>For the best experience</strong>: explore Act 1 naturally and let the lore guide you. The story was written to reward curiosity and attention to detail.</p>\n<hr>\n<h3>Known Issues:</h3>\n<ul>\n<li>There's some armor clipping here and there, ESPECIALLY for all the dudes. I don't know why, but the armors wouldn't fit on the male (especially for small races) bodies super well no matter what I did, so I had to change them completely so they'd actually work (sorry, I don't know blender or I'd fix them).</li>\n<li>The lighting effect from the sword is working functionally, but the visuals aren't working for me</li>\n<li>I know the item set is super unbalanced. I'm trying to think of things that I can make more balanced without taking away from the fun of the set. Open to suggestions :)</li>\n</ul>\n<hr>\n<blockquote>\n<h4><strong>If you like my mods and would like me to keep making them,<br>please consider <a href=\"https://ko-fi.com/jradicus\" target=\"_blank\" rel=\"noopener noreferrer\">supporting me on Ko-fi</a>.</strong></h4>\n</blockquote>\n<hr>\n<h3>Special Thanks</h3>\n<ul>\n<li>Members of the BG3 modders community on Discord (JuuM, EvilSnake, XiphiasRex and Rydiak especially for this one)</li>\n</ul>\n<p> </p>\n<h3>As always, feel fr** to make recommendations or hit me up with bugs you're experiencing! ENJOY!</h3>\n<hr>\n<h3>Item Locations</h3>\n<p>========================================</p>\n<p>Many people are struggling to find items so, by request:</p>\n<p>THIS SECTION WILL TELL YOU WHERE EVERYTHING IS.<br>IF YOU DON'T WANT SPOILERS, DO NOT KEEP SCROLLING!</p>\n<p>Thank You! :)</p>\n<p>========================================</p>\n<p> </p>\n<ol>\n<li>Longsword - In some rocks close to where you crash land after the nautiloid</li>\n<li>Crown - Tollhouse with the Paladins of Tyr</li>\n<li>Boots - Hidden stash outside owlbear cave</li>\n<li>The Bondsworn Ledger - Can be pickpocketed off of auntie ethel... if you don't want to do that, it will be in the room after you fight her in her lair.</li>\n<li>Gloves - Corpse hidden near the magic mirror that leads to the Necromancy of Thay</li>\n<li>Ring (Callous Coruscation) - Myconid Colony reward room (behind the vines)</li>\n<li>Cloak - Myconid Colony reward room (behind the vines)</li>\n<li>Amulet - On a dark justiciar body near the area that you can convince the deep rothe to destroy the rocks for you</li>\n<li>Armor - On a corpse in a cell near the entrance of the creche</li>\n<li>Shield - Outside of the cell where you find the armor</li>\n<li>Ring (bondsworn) - In a chest above the stained glass room in rosymorn monastery</li>\n</ol>",
     "date_added": 1751340578,
-    "date_updated": 1771871433,
+    "date_updated": 1772468025,
     "date_live": 1751341239,
     "visible": 1,
     "status": 1,
@@ -113810,15 +113810,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -113873,19 +113873,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7431826
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7151072
+        "modfile_live": 7431826
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7151072
+        "modfile_live": 7431826
       },
       {
         "platform": "ps5",
-        "modfile_live": 7151072
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7431826
       }
     ]
@@ -118793,7 +118793,7 @@
     "summary": "Speak with Dead has no question limit, can communicate with its killer, and even burned corpses can respond.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/speakwithdeadunlimited_base.png\" alt=\"Speak with Dead Unlimited Mod\" width=\"300\" height=\"200\"></p>\n<p style=\"color:#ffa500;\">By SwissFred</p>\n<p style=\"color:#ffa500;\"><strong>Speak with Dead Unlimited</strong></p>\n<ul style=\"color:#ffa500;\">\n<li>No question limit – ask as many times as you want. Great if you missed an answer.</li>\n<li>Corpses will answer questions, including from their killer.</li>\n<li>Burned, dissolved in acid, or unrecognizable corpses will also respond.</li>\n</ul>\n<p style=\"color:#ffa500;\">The <strong>new version</strong> lets you ask up to <strong>five questions at once</strong> in order to obtain <em><strong>Whisper of the Grave</strong></em><br>if you have the <strong>Sage background</strong>.<br><strong>However, you can still cast <em>Speak with Dead</em> on the same corpse multiple times to ask any remaining questions.</strong></p>\n<p style=\"color:#ffa500;\"><strong>Installation:</strong><br>Install and enable the mod.<br><br><strong>How to use:</strong><br>Unlock spell Speak with Dead, or use an item that enables it.<br>Mod will then enhance the spell.</p>\n<p style=\"color:#ffa500;\"><strong>Uninstallation:</strong><br>Save, exit, and remove the mod.<br><br><strong>Most corpses</strong> have nothing to say — this is a game feature.</p>\n<p style=\"color:#ffa500;\">Select Your Statuses has Speak with Dead Unlimited built in<br><a style=\"color:#ffa500;\" href=\"https://mod.io/g/baldursgate3/m/select-your-statuses#description\"> Select Your Statuses (Individual) for Baldur's Gate 3 - mod.io </a></p>",
     "date_added": 1753711398,
-    "date_updated": 1771159718,
+    "date_updated": 1772466464,
     "date_live": 1753712562,
     "visible": 1,
     "status": 1,
@@ -118823,15 +118823,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -118876,19 +118876,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7399567
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7020236
+        "modfile_live": 7399567
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7020236
+        "modfile_live": 7399567
       },
       {
         "platform": "ps5",
-        "modfile_live": 7020236
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7399567
       }
     ]
@@ -119946,7 +119946,7 @@
     "summary": "That's right. The boar that's always wiggling and snorting in the Emerald Grove can now be summoned and recruited to camp! Experience his evolution from frustrated boar to armored Hellsboar and maybe keep Halsin's promise along the way.",
     "description": "<p>That's right. The boar that's always wiggling and snorting in the Emerald Grove. Halsin's excited boar, <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/3/33/Boar_Companion_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Tusk\" target=\"_blank\" rel=\"noopener noreferrer\">Tusk</a></span>, can now be summoned and recruited to camp! Experience his evolution from frustrated boar to armored Hellsboar and maybe keep Halsin's promise along the way.</p>\n<p>This uses the same foundation that the rest of the Evolved Summons Series mods use. For more information about everything added in an Evolved mod, visit: <a title=\"Evolved Series\" href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">https://mod.io/g/baldursgate3/c/evolved-series</a></p>\n<hr>\n<h2>Recruitment</h2>\n<p>First, you'll need Speak With Animals. If you talk to him before finding out that Halsin is missing, the option to recruit him won't appear. You'll need to first get that information which you can get in several ways in this area. The easiest is to talk to Nettie and start the \"Rescue the Druid Halsin\" quest. Now talking to Tusk will present the option:</p>\n<blockquote>\n<p>Tusk: <span class=\"tw-opacity-70\"><em>\"Where's Halsin? He promised me a mate!\"</em></span></p>\n<p>Player: <span class=\"tw-opacity-70\"><em>\"You will help me find him, won't you?\"</em></span></p>\n</blockquote>\n<p>He'll then snort, run and disappear leaving you with an item in your inventory (a tusk named 'Summon Tusk') that adds the spell to summon him.</p>\n<p>If Halsin is already at camp, you'll instead be presented with:</p>\n<blockquote>\n<p>Tusk: <span class=\"tw-opacity-70\"><em>\"Where's Halsin? He promised me a mate!\"</em></span></p>\n<p>Player: <span class=\"tw-opacity-70\"><em>\"He's in my camp. Want to come with us?\"</em></span></p>\n</blockquote>\n<p>And the same thing will happen. If you can't find him after you've completed \"Rescue the Druid Halsin\", he moves to the area above the main gate near the war horn.</p>\n<p><em><strong>A word of caution:</strong> If you bring Tusk with you to the wolf pens and side with the goblins, Tusk will be unsummoned and replaced with the NPC and it will side with Halsin.</em></p>\n<h3>New in 1.0.3.0</h3>\n<p>If Tusk hasn't been recruited by the time Halsin becomes recruitable in act 2, Halsin will get the item to summon Tusk. This works even if loading the mod for the first time in act 3. This will allow Tusk to be added to the team on existing saves where the chance to speak with Tusk in act 1 was missed.</p>\n<hr>\n<h2>Progression</h2>\n<p>Tusk largely follows the same path that the Ranger's Companion does, but at a smoother climb and with earlier access to Kick Up Muck. Level by level, it increases either it's STR by 1 (odd levels) or it's CON by 1 (even levels starting at 6), eventually matching the level 12 Ranger boar's stats but without the Ranger passives and a bit fewer <span style=\"color:#49cbc1;\">hit points</span> (though it continues to scale beyond 12 if those levels are unlocked). The rage is a blend of the Berserker Barbarian class and the regular boar rage with some added nuance.</p>\n<p>Because Tusk is basically a better Ranger's Companion, it shares the same summon stack, so you can only have either Tusk or a Ranger's Companion summoned at the same time. Tusk will receive Prey's Scent when summoned by Beast Master Rangers.</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 1</h3>\n<p>Proficiency with STR and CON saving throws.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/8e/Prone_Condition_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Immunity to Stinking Cloud, Grease, Mud, and Deep Water surfaces/terrain.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/b/b7/Wild_Shape_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Silvanus Guide Us <em><sup>Passive</sup></em> - Adds Halsin's Spellcasting Ability Modifier to Tusk's attack rolls and saving throws. It doesn't matter where Halsin is or if he's in wild shape. He just needs to be somewhere in the game and not permanently defeated. When Halsin becomes recruitable, additional information is added that states that if the summoner of Tusk is Halsin, his Spellcasting Ability Modifier is added twice to attack rolls and saving throws. When Halsin restores <span style=\"color:#49cbc1;\">hit points</span> for Tusk as his summoner, he restores additional <span style=\"color:#49cbc1;\">hit points</span> equal to his Spellcasting Ability Modifier. I originally set the modifier to Wisdom, but I didn't want to make people choose Wisdom-based classes for Halsin if they didn't want that.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Goodberry Enthusiast <em><sup>Passive</sup></em> - Eating a Goodberry will restore an additional <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/87/D4_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d4 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span>.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/9/92/Lightly_Armoured_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Lightly Armored <em><sup>Passive</sup></em> - AC increased by 1. Total of 11 AC, same as the regular boar, but this way keeps his base AC at 10 like a player.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Tusk_Attack_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Tusk_Attack_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Tusk Attack</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li><span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/2b/D6_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d6 + Strength Modifier <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\">Slashing damage</span></li>\n<li>The differences between the regular and this one are:\n<ul>\n<li>Works with Primal Strike.</li>\n<li>Against Prone targets, this inflicts <span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/0d/D10_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d10 + Strength Modifier <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\">Slashing damage</span> instead.</li>\n<li>Targets only characters or items, preventing accidental attacks against air or the ground.</li>\n</ul>\n</li>\n</ul>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Rush_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Rush</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li><span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/2b/D6_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d6 + Strength Modifier <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\">Slashing damage</span></li>\n<li>The differences between the regular and this one are:\n<ul>\n<li>Works with Primal Strike.</li>\n<li>If targets are already Prone, they are trampled by this attack and receive an additional <span class=\"tw-text-nowrap\" style=\"color:#8c8c8c;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/3/31/D4_Physical.png\" alt=\"\" width=\"22\" height=\"21\"> 1d4 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7d/Bludgeoning_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\"> Bludgeoning damage</span>.</li>\n<li>Saving Throw checks your DC instead of the flat 11.</li>\n<li>No longer targets characters that are already defeated.</li>\n</ul>\n</li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 3</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/1/12/Kick_Up_Muck_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Kick_Up_Muck\" target=\"_blank\" rel=\"noopener noreferrer\">Kick Up Muck</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">) - Unlocked here early, but it has a <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span> cooldown. The cooldown changes and eventually goes away as you level up.</p>\n<ul>\n<li>At level 6, it changes to <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Per Battle</span>.</li>\n<li>At level 11, it has no cooldown.</li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 5</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/05/Moderately_Armoured_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Moderately Armored <em><sup>Passive</sup></em> - AC increased by 5. This also adds the first boar armor to Tusk. Replaces Lightly Armored.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/3/36/Rage_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Rage_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Rage</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Instead of adding Rage Points and removing the cooldown (like with the owlbear cub), I kept the <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Per Battle</span> cooldown since the boar depends so heavily on rage for damage. The 1d6 damage on his attacks never scales higher, but the rage and amount of attacks per turn does.</li>\n<li>The vanilla version of this rage doesn't state that it also adds 1d4 bonus damage to attacks on top of the 2-3 for rage. I'm guessing that Enlarged was combined with Rage to create the boar's version of rage, but the tooltips never reflected that. I have added that to tooltips and the combat log states the source of the bonus damage as well (as seen in the images).</li>\n<li>When you use this action, you restore your bonus action and get 3 turns of Momentum.</li>\n<li>Each time you damage a character with an attack while raging, you get 2 turns of Momentum.</li>\n</ul>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/78/Frenzied_Strike_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> <a href=\"https://bg3.wiki/wiki/Frenzied_Strike_(Boar)\" target=\"_blank\" rel=\"noopener noreferrer\">Frenzied Strike</a> (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Same as Tusk Attack, but usable with a bonus action.</li>\n<li>The vanilla version of the boar's Frenzied Strike does not add -1 to attack rolls each time it's used like the Berserker Barbarian version, but this one does, just a bit differently.\n<ul>\n<li>Each time you land a hit with Frenzied Strike, you receive 1 stack of Frenzied Strain.</li>\n<li>When you miss <em><strong>any</strong></em> attack, you lose 1 stack of Frenzied Strain.</li>\n<li>All stacks of Frenzied Strain are removed when rage ends.</li>\n</ul>\n</li>\n</ul>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/78/Frenzied_Strike_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Extra Frenzied Strike <em><sup>Passive</sup></em> - You can make an additional attack using Frenzied Strike after using it once in a turn. This is added instead of Extra Attack at this level. Total possible attacks per turn: 1 main, 2 Frenzied (Rage).</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Goodberry Glutton <em><sup>Passive</sup></em> - Same as Goodberry Enthusiast, but you also gain 1 Goodberry Remittance charge (up to 3) for each Goodberry Fruit you consume.</p>\n<ul>\n<li><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Goodberry Remittance (Condition) - Gain +1 to attack rolls, difficulty class, and saving throws for each charge. All charges are removed the next time your rage ends.</li>\n<li>The Goodberry spell has been tweaked to allow targeting Tusk (summons are usually not targetable). This will add the Goodberry Fruit to his inventory and hotbar. You can also just drop them on the ground and he can consume them that way too. If Tusk has Goodberry Fruit in his inventory when he is dismissed/defeated, they'll be transferred to Tusk's summoner's inventory.</li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 6</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7d/Primal_Strike_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Primal Strike <em><sup>Passive</sup></em> - Attacks count as magical.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/22/Land%27s_Stride_Difficult_Terrain.webp\" alt=\"\" width=\"21\" height=\"21\"> Land's Stride <em><sup>Passive</sup></em> - Difficult terrain no longer slows you down.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/d/d1/Create_Water_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Create \"Water\" (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Create a puddle of \"water\" in a 3m radius around you.</li>\n<li><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span></li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 7</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/b/bf/Exceptional_Training_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Exceptional Training <em><sup>Passive</sup></em> - You can Dash, Disengage, Hide, or Help with a bonus action if you have no actions left.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/4e/Feral_Instinct_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Feral Instinct <em><sup>Passive</sup></em> - Gain +3 to initiative and can no longer be surprised.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7a/Grease_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Grease (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Create a grease surface in a 3m radius around you.</li>\n<li><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span></li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 8</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/9/9f/Nauseous_Condition_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Stinking Cloud (<img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/f2/Action_Icon.png\" alt=\"Action\" width=\"20\" height=\"20\">)</p>\n<ul>\n<li>Create a cloud of gas in a 3m radius around you so pungent it prevents creatures within it from taking actions.</li>\n<li><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span></li>\n</ul>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 10</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/b/bd/Nature%27s_Ward_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Nature's Ward <em><sup>Passive</sup></em> - You can't be Charmed or Frightened by elementals and fey. Disease and poison also no longer affect you.</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 11</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/2a/Heavily_Armoured_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Heavily Armored <em><sup>Passive</sup></em> - AC increased by 7. STR increased by 1. You also unlock Tusk's second armor (I made it silver instead of the default gold). Replaces Moderately Armored.</p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Extra Attack <em><sup>Passive</sup></em> - You can make an additional main attack after using an attack. Total possible attacks per turn: 2 main, 2 Frenzied (Rage).</p>\n<hr>\n<h2>13-20 (If Capable)</h2>\n<p>Odd levels continue gaining +1 STR and even levels continue gaining +1 CON.</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 15</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/78/Frenzied_Strike_Boar_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Improved Extra Frenzied Strike <em><sup>Passive</sup></em> - You can make two additional attacks with Frenzied Strike after using it. Total possible attacks per turn: 2 main, 3 Frenzied (Rage).</p>\n<h3><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Level 19</h3>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Improved Extra Attack <em><sup>Passive</sup></em> - You can make two additional attacks after making an attack. Total possible attacks per turn: 3 main, 3 Frenzied (Rage).</p>\n<hr>\n<h2>Evolution</h2>\n<p>Just like Us Evolved, using an item will trigger Tusk's enhanced abilities. This allows the player to choose when or if they want the stronger version.</p>\n<p>You can either drop a Soul Coin on the ground and have Tusk consume it (it'll look like he's eating it), or throw it at him (just make sure he has a decent amount of <span style=\"color:#49cbc1;\">hit points</span>). After a few seconds, you'll get an overhead message \"Hellsboar Unlocked\". Tusk won't change appearance to a Hellsboar unless he uses Hellsboar Fury while he's enraged.</p>\n<p>You instantly gain:</p>\n<ul>\n<li><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/0d/Darkvision_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Darkvision <em><sup>Passive</sup></em></li>\n<li>+3 bonus Movement Speed</li>\n<li>+4 Intelligence</li>\n<li><span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/02/Fire_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Resistance</span> and <span class=\"tw-text-nowrap\" style=\"color:#44bb00;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/0b/Poison_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Poison Resistance</span></li>\n</ul>\n<p>That puts you at around the same stats as a regular <a title=\"Hellsboar\" href=\"https://bg3.wiki/wiki/Hellsboar\" target=\"_blank\" rel=\"noopener noreferrer\">Hellsboar</a>.</p>\n<p><span class=\"tw-flex tw-justify-center\"><img src=\"https://i.postimg.cc/sg8vq2tT/tuskhellsboar.gif\" alt=\"Tusk Hellsboar\" width=\"640\" height=\"480\"></span></p>\n<p><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Generic_Fire_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Hellsboar Fury <em><sup>Interrupt</sup></em> - Once per <span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/f/fd/Recharge_Icons.png\" alt=\"\" width=\"21\" height=\"21\">Short Rest</span> when you rage, use a reaction to take the form of a Hellsboar and gain Blazing Hide and Infernal Touch.</p>\n<ul>\n<li>Infernal Touch: Adds <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/9/96/D6_Fire.png\" alt=\"\" width=\"22\" height=\"21\"> 1d6 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/84/Fire_Damage_Icon.png\" alt=\"\" width=\"21\" height=\"21\"> Fire damage</span> to melee attacks and you ignore <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/02/Fire_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Resistance</span> on targets unless they are immune.</li>\n<li>Blazing Hide: Attacks that hit you may leave the attacker Burning for 3 turns. DC 13 DEX to save (regular Hellsboar version has no save). You gain <span class=\"tw-text-nowrap\" style=\"color:#3399cc;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/4/49/Cold_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Cold Resistance</span> and your <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/0/02/Fire_Resistance_Full.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Resistance</span> becomes <span class=\"tw-text-nowrap\" style=\"color:#ee5500;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/7e/Fire_Immunity.png\" alt=\"\" width=\"14\" height=\"21\"> Fire Immunity</span>. When you use Rush, all targets in your path must make a DC 13 DEX save or they receive Burning for 2 turns.</li>\n</ul>\n<p>This will also complete an added background goal which is completable by Karlach. If she's not in the party, the goal gets completed the next time she joins.</p>\n<ul>\n<li>Sharing is Raging - Have Tusk consume a soul coin and unlock Infernal Fury.</li>\n</ul>\n<hr>\n<h2>Halsin's Promise</h2>\n<blockquote>\n<p><span class=\"tw-text-xs\"><span class=\"tw-opacity-70\"><em>\"Tusk - a boar, back in the grove. I had promised to help find him a mate before we embarked on our quest, but with all that transpired... I forgot.\"</em></span><br>- Halsin</span></p>\n</blockquote>\n<p>If a boar from a Beast Master Ranger is summoned and placed next to Tusk while no players or humanoids are within 30m of them and not currently controlled, Tusk will permanently receive <em><span class=\"tw-text-nowrap\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/cb/Lunar_Mend_Icon.webp\" alt=\"\" width=\"21\" height=\"21\"> Animalistic Vitality</span> - Restores <span style=\"color:#49cbc1;\">hit points</span> each turn during combat when Tusk is missing hit points.</em> The amount of <span style=\"color:#49cbc1;\">hit points</span> restored depends on the boar that was summoned:</p>\n<ul>\n<li>Level 1-4 boar: <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/8/87/D4_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d4 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span></li>\n<li>Level 5-10 boar: <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/7/74/D6_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d6 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span></li>\n<li>Level 11+ boar: <span class=\"tw-text-nowrap\" style=\"color:#49cbc1;\"><img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/c/ce/D8_Healing.png\" alt=\"\" width=\"18\" height=\"20\"> 1d8 <img class=\"tw-align-top\" src=\"https://bg3.wiki/w/images/a/ac/Healing_Icon.png\" alt=\"\" width=\"21\" height=\"21\">hit points</span></li>\n</ul>\n<p>You don't need to get the lesser ones if you're already at a higher level. Only the strongest buff will be applied.</p>\n<p>You can also get the 1d8 version by having Tusk stand next to the Pig in the Rivington barn. Players still need to be more than 30m away and not controlling Tusk, but humanoids are okay since Rivington is packed with them.</p>\n<p>The easiest way to do this is to just detach Tusk and the other boar from the summoner and then walk away with the party while the two boars get to know each other.</p>\n<p>Tusk will receive a condition named \"Happy\" if all went well. You'll see Animalistic Vitality on his list of passives.</p>\n<p>This will also complete an added background goal completable by Outlander backgrounds. If no Outlander background characters are in the party, the goal gets completed the next time one joins.</p>\n<ul>\n<li>Grinning Tusk to Tusk - Fulfill Halsin's promise to Tusk by finding him a mate.</li>\n</ul>\n<hr>\n<h2>Other Extras</h2>\n<p>If you get BOOOAL's Blessing while Tusk is with you, he will get it as well.</p>\n<hr>\n<p>You can speak to Tusk at any time, but his dialog is pretty limited. In camp, you can request to get the tusk that allows summoning him if you lost it.</p>\n<p><strong>If at any point Halsin is declared as permanently defeated in the game, Tusk will no longer be summonable and will leave the camp.</strong></p>\n<hr>\n<h2>FAQs</h2>\n<p><strong>1.</strong><em> \"Will this mod work with this other mod that also makes changes to the same summon?\"</em></p>\n<ul>\n<li>Probably not.</li>\n</ul>\n<p><strong>2.</strong> <em>\"Will this mod be released on console?\"</em></p>\n<ul>\n<li>Unless otherwise stated in the description, any mods I publish are always submitted for console approval.</li>\n</ul>\n<p><strong>3.</strong> <em>\"Will you be making an all-in-one version?\"</em></p>\n<ul>\n<li>Absolutely, but I want to finish adding all of the planned evolved mods first since it will take a decent amount of time to combine them all into one.</li>\n</ul>\n<p><strong>4.</strong> <em>\"When will you publish the all-in-one version?\"</em></p>\n<ul>\n<li>\n<div>\n<div>Shortly after all of the mods in the evolved series are approved for console.</div>\n</div>\n</li>\n</ul>\n<p><strong>5.</strong> <em>\"Can you create a <strong>[character]</strong> Evolved?\"</em></p>\n<ul>\n<li>Maybe. Even if I don't always reply to the suggestions, I do always read and consider them.</li>\n</ul>\n<p><strong>6.</strong> <em>\"Can you tell us what else you're working on?\"</em></p>\n<p><img src=\"https://i.postimg.cc/L8ZVg5Yd/withers-no.webp\" alt=\"No\" width=\"204\" height=\"192\"></p>\n<hr>\n<p>If you like this mod, try the rest of the <a href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">Evolved Series</a>!</p>\n<hr>\n<p><a title=\"Exaen @ Ko-Fi\" href=\"https://ko-fi.com/exaen\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.postimg.cc/zBPFJmjt/support-me-on-kofi.webp\" alt=\"Support Exaen on Ko-Fi\" width=\"198\" height=\"40\"></a></p>",
     "date_added": 1755351565,
-    "date_updated": 1771871767,
+    "date_updated": 1772468063,
     "date_live": 1755390717,
     "visible": 1,
     "status": 1,
@@ -119976,15 +119976,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -120029,19 +120029,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7431835
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7293179
+        "modfile_live": 7431835
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7293179
+        "modfile_live": 7431835
       },
       {
         "platform": "ps5",
-        "modfile_live": 7293179
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7431835
       }
     ]
@@ -122672,7 +122672,7 @@
     "summary": "Adds new wild magic surges from PHB2024.",
     "description": "<h2>Adds new wild magic surges from PHB2024.</h2>\n<p>Thanks to the update, most of the new effects are positive. Currently there are <strong>~30 additional </strong>effects in this mod. The rest of the missing surges from 2024PHB are just for flavor, so they won't be implemented.</p>\n<p>Vanilla surge table is untouched, they are still available. The negative effects added to the list of surges used by the level 11 feature.</p>\n<p>I've tried to implement them as closely as I could to the PHB version, but some mechanics had to be changed a bit to fit BG3. </p>\n<p>Additionally, some broken vanilla implementations were fixed:</p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Wild_Magic:_Turn_Magic\">Wild Magic: Turn Magic</a> did not apply any effects whatsoever\n<ul>\n<li>Now it works as intended in in turn-based mode at the start of your turn.</li>\n<li>The duration is still 5 turns instead of 10 like in PHB, it felt too much</li>\n</ul>\n</li>\n</ul>\n<p>For better experience consider using my other mod <a href=\"https://mod.io/g/baldursgate3/m/tides-of-chaos-2024\">Tides of Chaos 2024</a>, which implements the wild magic mechanics from PHB2024, giving you more control on triggering surges.</p>\n<p>Additionally I have another mod called <a href=\"https://mod.io/g/baldursgate3/m/wildmagic2024standalone\">Wild Magic 2024 - Standalone</a>, which only uses the 2024 surge list, including some vanilla surges that are also present in the 2024 version.</p>\n<p>For Barbarians, check out <a href=\"https://mod.io/g/baldursgate3/m/wild-magic-barbarian-enhanced\">Wild Magic Barbarian Enhanced</a>.</p>\n<h4><strong>The surge changelog can be found at the bottom.</strong></h4>\n<h3><strong>How to Install</strong></h3>\n<p>Simple plug and play.</p>\n<h3><strong>Compatibility</strong></h3>\n<p>Compatible with patch 8. All of them were tested via toolkit, but if you find a weird interaction, let me know!</p>\n<h3>Future plans</h3>\n<ul>\n<li>There is still one surges that would be fun to implement, but I will have to look into it\n<ul>\n<li>It spawns a random friendly a creature, however none of the options are in the game as far as I know</li>\n</ul>\n</li>\n<li>Might get extended in the future with the missing implementations or if the community provides cool home-brew mechanics.\n<ul>\n<li>If you have an idea that could make the mod better, feel free to share it!</li>\n</ul>\n</li>\n</ul>\n<p>Feel free to leave your constructive feedback!</p>\n<p>If you like this mod, consider supporting me at <a href=\"https://coff.ee/robertzi75n\">https://coff.ee/robertzi75n</a>.</p>\n<p>Check out my other mods:</p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/nightmare-difficulty\">nightmare Difficulty AI</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/brutaldifficulty\">Brutal Difficulty</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/drunkenfixed\">Drunk Reworked</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/war-priest-2024\">War Priest 2024</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/rogue-expanded\">Rogue Expanded</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/featsrevamped2024\">FeatsRevamped2024</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/itemsrestored#description\">itemsRestored</a></li>\n</ul>\n<h3> </h3>\n<h3>Wild Magic Surges – Current Features</h3>\n<h3><strong>Wild Magic: Regeneration</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain 5 HP at the start of your turn for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Heightened</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Creatures have <strong>Disadvantage on Saving Throws</strong> against the next spell you cast.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Blink</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You are transported to the Astral Plane until the end of your next turn.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Resistance</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You gain <strong>Resistance to all damage</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Invisibility</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Each friendly creature within 9m becomes <strong>Invisible</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Spectral Shield</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: A spectral shield hovers near you, granting <strong>+2 AC</strong> and <strong>immunity to Magic Missile</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Frightened</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You are <strong>Frightened</strong> until the end of your next turn.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Wild Radiance</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You radiate <strong>Bright Light in a 9m radius</strong>.</p>\n</li>\n<li>\n<p><strong>Secondary Effect</strong>: Creatures standing in the light are <strong>Blinded</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Life Drain</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Up to 3 creatures of your choice within 9m take <strong>1d10 Necrotic damage</strong>.</p>\n</li>\n<li>\n<p><strong>Secondary Effect</strong>: You regain HP equal to the total damage dealt.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Stormburst</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Up to 3 creatures of your choice within 9m take <strong>4d10 Lightning damage</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Piercing Vulnerability</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You and all creatures within 9m gain <strong>Vulnerability to Piercing damage</strong> for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Surge of Life</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain <strong>2d10 Hit Points</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Restoration</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: One ally of your choice within 18m regains <strong>2d10 Hit Points</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Mana Surge</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain all expended <strong>1st-level spell slots</strong>.</p>\n<ul>\n<li>Currently no way of restoring only the lowest spent spell slot but will try to figure it out</li>\n</ul>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Arcane Recharge</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You regain all expended <strong>Sorcery Points</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Confusion</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Confusion</em> without requiring Concentration.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Fireball</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Fireball</em> as a spell.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Grease</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Grease</em> as a spell.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Fog Cloud</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Fog Cloud </em>without requiring Concentration.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Magic Missile</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You can cast <em>Magic Missile</em> as a level 5 spell.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Mirror Image</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You gain the effects of <em>Mirror Image</em>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: See Invisibility</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: You gain the effects of <em>See Invisibility</em>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Quickened</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: Spells that cost an Action can instead be cast as a <strong>Bonus Action</strong> for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Poisoned</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: A random creature within 18m of you become <strong>Poisoned </strong>for 10 turns.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Second Chance</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: When you would be reduced to 0 HP, you instead remain at 1 HP.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Unleashed</strong></h3>\n<ul>\n<li>\n<p><strong>Effect</strong>: The next spell you cast deals <strong>maximum damage</strong>.</p>\n</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Teleport</strong></h3>\n<ul>\n<li>You <strong>teleport </strong>up to 18m to an unoccupied space you can see.</li>\n</ul>\n<hr>\n<h3><strong>Wild Magic: Teleport</strong></h3>\n<ul>\n<li>For 10 turns, you can use a bonus action to <strong>teleport </strong>up to 6m.</li>\n</ul>",
     "date_added": 1758299640,
-    "date_updated": 1771449990,
+    "date_updated": 1772467698,
     "date_live": 1758299745,
     "visible": 1,
     "status": 1,
@@ -122702,15 +122702,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -122755,19 +122755,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7412972
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7109687
+        "modfile_live": 7412972
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7109687
+        "modfile_live": 7412972
       },
       {
         "platform": "ps5",
-        "modfile_live": 7109687
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7412972
       }
     ]
@@ -124784,7 +124784,7 @@
     "summary": "Adds 22 new hairstyles to Character Creation",
     "description": "<p style=\"text-align:center;\"><span style=\"font-size:large;\"><strong><span style=\"color:#8e7cc3;\"><u>What is in this mod:</u></span></strong></span><span style=\"font-size:medium;\"><strong><u><br></u></strong></span>22 new hairstyles for Character creation.<br>All hairstyles are autosnap and will be available for all body types for most modded races (will show for races with the following tags: Humanoid, Fae, Fiend and Celestial).<br>The hairstyles have custom physics and custom highlights</p>\n<h2><span style=\"text-decoration:underline;\"><strong>Version 1.0.0.15 fixes the curly hair texture to be a closer color match to the rest of the textures, this is the last update to this mod</strong></span></h2>\n<h2><span style=\"text-decoration:underline;\"><strong>Version 1.0.0.11 is an optimizing fix, the reduced file size should improve downloading issues. It has been reduced as much as possible. Please be patient until the update goes on console !</strong></span></h2>\n<p style=\"text-align:center;\"><strong>The update fixes both ponytails versions not being close enough to the head. Removed the custom shader files.</strong></p>\n<p style=\"text-align:center;\"><br><span style=\"font-size:large;\"><strong><u><br></u><span style=\"color:#93c47d;\"><u>Thanks and Credits</u></span><u><br></u></strong></span><span style=\"font-size:medium;\">A huge thank you to Kit for all the help and answering all of my questions and to Elledwyn for helping me and answering my questions, That mod would have not seen the light of day without their help.<br>The BG3 Modding Community discord for the love and support<br></span><span style=\"font-size:large;\"><span style=\"font-size:medium;\">The Faerûn Fashionistas Discord</span><br>Thank you to all the testers and screenarchers </span></p>\n<p> </p>\n<p style=\"text-align:center;\"><span style=\"font-size:large;\"><strong><u><br></u></strong></span><span style=\"font-size:medium;\"><strong>*note: this is my first solo hair mod and my first time doing some custom skeletons and hair physics, I promise things will improve from <br>there !</strong></span><span style=\"font-size:large;\"><strong><u><br><span style=\"color:#e06666;\"><br></span></u></strong></span></p>",
     "date_added": 1762465219,
-    "date_updated": 1771190702,
+    "date_updated": 1772466819,
     "date_live": 1762465219,
     "visible": 1,
     "status": 1,
@@ -124814,15 +124814,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -124917,19 +124917,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7401502
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7199224
+        "modfile_live": 7401502
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7199224
+        "modfile_live": 7401502
       },
       {
         "platform": "ps5",
-        "modfile_live": 7199224
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7401502
       }
     ]
@@ -125512,7 +125512,7 @@
     "summary": "Compatibility Patch for mods adding poses and animations to photo mode.",
     "description": "<p style=\"text-align:center;\">This is a compatibility patch for mods that add poses and animations to photo mode and are incompatible because of overwritting the same file. Now you can have them all!<br><br>If you are a mod Author and want your mod compatible with these, send <a href=\"https://next.nexusmods.com/profile/CatastrophicalCat\" rel=\"nofollow\">CatastrophicalCat</a> a message and I can add yours to this patch! :)<br><br><span style=\"text-decoration:underline;\"><span style=\"font-size:large;\">For this Mod to work with the in Game mod manager:</span></span><br><span style=\"font-size:x-large;\">A</span><span style=\"font-size:x-large;\">fter downloading any new pose mod</span><strong><span style=\"font-size:x-large;\"> DISABLE </span></strong><span style=\"font-size:x-large;\">and</span><strong><span style=\"font-size:x-large;\"> ENABLE </span></strong><span style=\"font-size:x-large;\">this mod!</span><br><br>Thanks to <strong>N. W. Hair</strong> for Testing &lt;3 <br><br></p>\n<p> </p>\n<hr>\n<p style=\"text-align:center;\"><strong><span style=\"text-decoration:underline;\">You can pick and choose what mods you'd like in the list. you can add, remove and switch them out at any time. </span></strong></p>\n<p style=\"text-align:center;\"><span style=\"font-size:medium;\"><a href=\"https://docs.google.com/document/d/1_biQgvKx2Z7cAvmMKZYc8DpcdLVX4irgIdkC_HebH3g/edit?usp=sharing\" rel=\"nofollow\">HERE is a Google doc</a></span> <br>with ALL Mods Included with a little prevew, BT info and a link to mod.io if the mod is on there<br>(If anything is missing let me know)<br><br>Any mod with a * beside it is tagged as <u>Adult</u><br>Currently included:<br><span style=\"text-decoration:underline;\">On mod.io</span><br><a href=\"https://mod.io/g/baldursgate3/m/get-a-room-photomode-animations#description\">Get a room</a> *<br><a href=\"https://mod.io/g/baldursgate3/m/the-urge-to-pose#description\">The Urge to pose</a> *<br><a href=\"https://mod.io/g/baldursgate3/m/the-urge-to-pose-slayer#description\">The Urge to Pose - Slayer</a><br><a href=\"https://mod.io/g/baldursgate3/m/angel-photoshoot#description\">Angel Photoshoot</a><br><a href=\"https://mod.io/g/baldursgate3/m/portrait-poses-for-photo-mode#description\">Portrait Poses for Photo Mode</a><br><a href=\"https://mod.io/g/baldursgate3/m/sscod2#description\">Sera's Silly Cauldron of Delulu</a><br><a href=\"https://mod.io/g/baldursgate3/m/sscoddance#description\">Sera's Silly Cauldron of Delulu- Dances</a><br><a href=\"https://mod.io/g/baldursgate3/m/vanilla-expressions-enhanced#description\">Vanilla Expressions Enhanced</a><br><a href=\"https://mod.io/g/baldursgate3/m/little-dove-poses-by-la-vakariana1#description\">Little Dove Pose pack</a> *<br><a href=\"https://mod.io/g/baldursgate3/m/axi-cays-cute-couple-poses#description\">Axi and Cay's Cute Couple Poses</a><br><a href=\"https://mod.io/g/baldursgate3/m/chase-cherries#description\">Chase and Cherries</a><br><a href=\"https://mod.io/g/baldursgate3/m/cuddle-astarion#description\">Cuddle Astarion</a><br><a href=\"https://mod.io/g/baldursgate3/m/my-king-your-lionheart#description\">My King Your Lionheart</a><br><a href=\"https://mod.io/g/baldursgate3/m/sscodsittinganimations#description\">SSCOD Sitting Animations Pose Pack</a><br><a href=\"https://mod.io/g/baldursgate3/m/axi-and-cays-hand-holding-poses#description\">Axi and Cay's Hand-Holding Poses</a><br><a href=\"https://mod.io/g/baldursgate3/m/axi-cays-meme-poses#description\">Axi and Cay's Meme Poses</a><br><a href=\"https://mod.io/g/baldursgate3/m/aeterna-amantes-poses-by-echo#description\">Aeterna Amantes poses</a> *<br><a href=\"https://mod.io/g/baldursgate3/m/jojos-bizarre-poses-vol1#description\">JoJo's Bizarre Poses Vol.1</a><br><a href=\"https://mod.io/g/baldursgate3/m/axi-cays-lads-poses#description\">Axi &amp; Cay's LADS Poses</a><a href=\"https://www.nexusmods.com/baldursgate3/mods/19868\" rel=\"nofollow\"><br></a><a href=\"https://mod.io/g/baldursgate3/m/three-wise-monkeys-poses#description\">Three Wise Monkeys Poses</a><br><a href=\"https://mod.io/g/baldursgate3/m/path-of-the-dreamer-i#description\">Path of the Dreamer I. Couple poses</a><strong><br></strong><a href=\"https://mod.io/g/baldursgate3/m/len-vaks-hollywood-star-poses#description\">Len &amp; Vak's Hollywood Star poses</a> *<br><a href=\"https://mod.io/g/baldursgate3/m/vak-sweet-treats-poses#description\">Vak's Sweet treats</a> *<strong><br></strong><a href=\"https://mod.io/g/baldursgate3/m/this-little-dance#description\">This little dance</a><strong><br></strong><a href=\"https://mod.io/g/baldursgate3/m/miams-couple-pose-pack#description\">Miam's Couple Pose Pack</a><br><a href=\"https://mod.io/g/baldursgate3/m/the-beauty-and-the-hunk-meaty-boys-lover-edition#description\">The Beauty and the Hunk</a> *<br><a href=\"https://mod.io/g/baldursgate3/m/zillionz-of-expressions-by-echo#description\">ZillionZ of Expressions</a></p>\n<p style=\"text-align:center;\"><strong><br><span style=\"text-decoration:underline;\">Everywhere:</span></strong><br><a href=\"https://mod.io/g/baldursgate3/m/get-a-room-photomode-animations#description\">Get a Room</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16987\" rel=\"nofollow\">The Urge to pose</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17146\" rel=\"nofollow\">Angel Photoshoot</a><br><a href=\"https://mod.io/g/baldursgate3/m/portrait-poses-for-photo-mode#description\">Portrait Poses for Photo Mode</a><br><a href=\"https://www.patreon.com/posts/seras-silly-of-130463759\" rel=\"nofollow\">Sera's Silly Cauldron of Delulu</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16242\" rel=\"nofollow\">Poses of Plenty Vol. 1<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/17397\" rel=\"nofollow\">Kith'rak Photoshoot</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17597\" rel=\"nofollow\">Extra Camera Mode Poses and Animations</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17755\" rel=\"nofollow\">A Song of Ice and Fire V2</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17711\" rel=\"nofollow\">A.P.E.X. - Additional Photo Mode Expressions</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17781\" rel=\"nofollow\">Mercurial Visage</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19293\" rel=\"nofollow\">Sera's Silly Cauldron of Delulu - Dances</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17899\" rel=\"nofollow\">Vanilla Expressions Enhanced</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17962\" rel=\"nofollow\">Bonds Unspoken Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/18053\" rel=\"nofollow\">Sorrow and silk</a> *<br><a href=\"https://ko-fi.com/post/Public-Release-Mermaids-Kiss-X8X11JU52B\" rel=\"nofollow\">Mermaid's Kiss</a><br><a href=\"https://ko-fi.com/Post/Public-Release-Fairy-Charm-Q5Q71K2AS6\" rel=\"nofollow\">Fairy Charm</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/18617\" rel=\"nofollow\">Em's Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/18488\" rel=\"nofollow\">Embrace your desires</a> *<br><a href=\"https://ko-fi.com/s/3f44ac028b\" rel=\"nofollow\">Scarlet Desire</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/18957\" rel=\"nofollow\">Big Spoon x Little Spoon Pose Pack<br></a><a href=\"https://ko-fi.com/Post/Mod-Release-whirlinginroses-Pose-Pack-O5O41MLOL8\" rel=\"nofollow\">whirlinginroses Pose Pack</a><br><a href=\"https://ko-fi.com/post/Mod-Showcase-Sol-The-Witchs-Spooky-Poses-Q5Q01MUZ5B\" rel=\"nofollow\">Sol The Witch's Spooky Poses</a><br><a href=\"https://ko-fi.com/post/Mod-Showcase-Reds-Romantic-Poses-N4N11MVDEE\" rel=\"nofollow\">Red's Romantic Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19178\" rel=\"nofollow\">Little Dove Pose pack</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19288\" rel=\"nofollow\">Axi and Cay's Cute Couple Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19434\" rel=\"nofollow\">Chase and Cherries</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19432\" rel=\"nofollow\">Cuddle Astarion</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19464\" rel=\"nofollow\">My King Your Lionheart</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19509\" rel=\"nofollow\">SSCOD Sitting Animations Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19567\" rel=\"nofollow\">Spicy Time Pose pack</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19626\" rel=\"nofollow\">Len &amp; Vak's Hollywood Star poses</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19557\" rel=\"nofollow\">Solo Poses BT1</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19606\" rel=\"nofollow\">Cunty Poses bts</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19473\" rel=\"nofollow\">Axi and Cay's Hand-Holding Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19474\" rel=\"nofollow\">Axi and Cay's Meme Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19402\" rel=\"nofollow\">Endearment Poses<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/19740\" rel=\"nofollow\">Aeterna Amantes poses</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19692\" rel=\"nofollow\">Artemis' Sweet Collection BT1xBT4</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19690\">JoJo's Bizarre Poses Vol.1<br></a><a href=\"https://ko-fi.com/s/82e00f8916\">Andoral's Breath</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19724\">Our Little Hatchling</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19618\">Axi &amp; Cay's LADS Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19907\" rel=\"nofollow\">Cady's Tief Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19791\" rel=\"nofollow\">Aufelle's Boudoir Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19868\" rel=\"nofollow\">Just a Moment More Poses<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/19727\">Three Wise Monkeys Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19893\" rel=\"nofollow\">Path of the Dreamer I. Couple poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19865\" rel=\"nofollow\">JoJo couple poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19949\">Vak's Sweet treats</a>*<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20005\">Beautiful Tragedy Couples Pose</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19934\">Big and Small Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19936\">PlayBunny poses</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20115\">Cozy Moments Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20150\">Little Spark Pregnancy Poses</a><br><a href=\"https://www.patreon.com/posts/cozy-midwinter-146056498\">Cozy Midwinter Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20204\">This Little Dance</a><br><a href=\"https://www.patreon.com/posts/mod-barefoot-146630399\" rel=\"nofollow\">Barefoot Monk_Little Fighter</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19956\" rel=\"nofollow\">The Countess</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20339\" rel=\"nofollow\">a Spark of Achievement Vol. 1</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20464\" rel=\"nofollow\">Divine Fire Pose Pack</a><br><a href=\"https://www.patreon.com/posts/bg3-pose-pack-147290355\" rel=\"nofollow\">Kodak Moments: Friendship Edition (Double Trouble)</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20399\">-Domain Expansion-</a><br><a href=\"https://www.patreon.com/posts/mod-mini-pose-148329522?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link\">Mini Fighting Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20934\">Sinners Pose Pack</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20819\">Overlove AIO (BT2) (BT1)</a><a href=\"https://www.nexusmods.com/baldursgate3/mods/20911\"><br>Family Guy Death Pose<br></a><a href=\"https://www.patreon.com/posts/fan-tastic-poses-149547873\">Fan-tastic Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21348\">Ateez Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21322\">K-Pop Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19864\">Elegant Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21273\">Vampire Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20600\">Cute Parasol Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21378\">Miam's Couple Pose Pack</a><br><a href=\"https://www.patreon.com/posts/with-love-poses-150943242\">With Love Poses</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21465\">Tavern Tales</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21496\">Mood For Love Lunar New Year Dance</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21464\">Midsize Mistress</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21545\">The Beauty and the Hunk</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21578\">Miam's NSFW Pose pack</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21479\">Sols Emporium of poses</a> *<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21610\">ZillionZ of Expressions</a><br><br><br>Overwrites these Files:<br>HUM_M_Base, HUM_F_Base,HUM_FS_Base, HUM_MS_Base, DWF_M_Base, DWF_F_Base, HFL_M_Base, HFL_F_Base, GNO_M_Base, GNO_F_Base, DGB_M_Base,<br>HUM_M_Head_A_Base, DRAGON_Red_Base, DRAGON_Skeletal_Base, SLY_Bhaalspawn_Base, SLY_Player_Head_Base, TIF_M_Tail_Base, TIF_F_Tail_Base,TIF_FS_Tail_Base, TIF_MS_Tail_Base, DGB_M_Tail_Base, DGB_F_Tail_Base</p>",
     "date_added": 1763738933,
-    "date_updated": 1772273094,
+    "date_updated": 1772467812,
     "date_live": 1763745619,
     "visible": 1,
     "status": 1,
@@ -125596,15 +125596,15 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 7262599
+        "modfile_live": 7422458
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7262599
+        "modfile_live": 7422458
       },
       {
         "platform": "ps5",
-        "modfile_live": 7262599
+        "modfile_live": 7422458
       },
       {
         "platform": "windows",
@@ -127557,7 +127557,7 @@
     "summary": "Royal Knight armor set + progressive rapier.",
     "description": "<p>A full set of armor, weapons and camp clothing of the royal knight<br>Fully Dyeable<br>Supports bt1/3/gty1</p>\n<p><strong>!!!!!!!!!! IMPORTANT !!!!!!!!!! </strong><br>if you come across an animation bug (eg. animation plays but only a single delayed hit with the character getting stuck after), a simple fix is to swap to your ranged weapon set, and then back to the melee set (press f on pc; hold left d-pad on controller)<br>known triggers: loading a save with the weapon already equipped; changing zone with a loading screen (eg. rivington &gt; lower city); triggering multiclass</p>\n<p>Commissioned by brustuN<br>Body refit commissioned by Anonymous<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p><a href=\"https://www.fab.com/listings/9dc1cccd-35d8-413e-b494-ed310419c910\">Dark Knight Girl Calista</a> by IdaFaber<br><a href=\"https://www.fab.com/listings/fc17a8b1-78da-4c0f-ba21-72f152a08272\">German Rapier</a> by Valeriy<br>licensed under Standard License<br>Meshes and Textures has been modified</p>\n<p>Bugs and feedbacks are appreciated!<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1767426318,
-    "date_updated": 1771518852,
+    "date_updated": 1772467722,
     "date_live": 1767426866,
     "visible": 1,
     "status": 1,
@@ -127587,15 +127587,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -127685,19 +127685,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7380296
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7225404
+        "modfile_live": 7380296
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7225404
+        "modfile_live": 7380296
       },
       {
         "platform": "ps5",
-        "modfile_live": 7225404
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7380296
       }
     ]
