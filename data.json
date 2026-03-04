@@ -119105,9 +119105,9 @@
     "name": "Queen's Garments",
     "name_id": "queens-garments",
     "summary": "Queen's Garments is a pack that has undergarments fit for royalty. They feature many customisation options such as body sculpts and PHYSICS.",
-    "description": "<p>A collection fit for your queen and all her needs<br>Only for bodytype 1<br>Uses camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Commissioned for Morgana Evelyn<br>Credits:<br>Duskraven - <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Secret Therapy - outfit by <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Additional glamour screenshots - Lara</p>\n<p>Find Queen's Garments at the following locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A collection fit for your queen and all her needs<br>Only for bt 1; pillar outfit available for bt3<br>Uses camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Some of the included outfits:<br>Crimson Wings, Royal Knight, Bifrost, Eternal Queen, Scarlet<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits1.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Crimson Monarch, Secret Therapy, Artor, Valkyrie, Pillar<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits2.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Tactical Dress, Duskraven, Loveless, Cyber Bunny, Chic<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits3.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Commissioned for Morgana Evelyn<br>Pillar BT3 refit commissioned for JC<br>Valkyrie outfit commissioned for Oofinity<br>Aesir outfit commissioned for Albion<br><br>Credits:<br>Duskraven - <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Secret Therapy - outfit by <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Additional glamour screenshots - Lara</p>\n<p>Find Queen's Garments at the following locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1754207608,
-    "date_updated": 1770956726,
+    "date_updated": 1772637878,
     "date_live": 1754210788,
     "visible": 1,
     "status": 1,
@@ -119121,19 +119121,31 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7390064,
+      "id": 7463387,
       "mod_id": 5138870,
-      "version": "1.0.0.27",
-      "filename": "eqlngerie_7b25c953-f727-cab3-3-1bjx.zip",
-      "changelog": "- added Chic, Secret Therapy and Duskraven",
-      "date_added": 1770956682,
+      "version": "1.0.0.31",
+      "filename": "eqlngerie_7b25c953-f727-cab3-3-f7pt.zip",
+      "changelog": "- added support for bt3 for Pillar outfit\n- added royal knight set\n- added crimson wings + cyber bunny set\n- added Valkyrie + bifrost set",
+      "date_added": 1772637827,
       "date_updated": 0,
-      "date_scanned": 1770956939,
-      "filesize": 172430700,
+      "date_scanned": 1772638245,
+      "filesize": 235973118,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
         }
       ]
     },
@@ -119163,6 +119175,11 @@
       {
         "name": "Body Type 1",
         "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
         "date_added": 0
       },
       {
@@ -119211,7 +119228,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7390064
+        "modfile_live": 7463387
       }
     ]
   },
