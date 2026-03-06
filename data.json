@@ -55427,7 +55427,7 @@
     "summary": "Adds No Crest option to All Vanillas",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<hr>\n<h2>No Crest for Dragonborn</h2>\n<p>Adds No Crest option to All Vanillas</p>\n<hr>\n<h2><strong>Extra</strong></h2>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/vjle6j\"><strong>Full Dragonborn Collection</strong></a></h3>\n<h2><a href=\"https://next.nexusmods.com/baldursgate3/collections/vjle6j\"><img src=\"https://i.imgur.com/7CpDImO.png\" alt=\"\" width=\"1200\" height=\"135\"></a></h2>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1728771178,
-    "date_updated": 1768406795,
+    "date_updated": 1772785740,
     "date_live": 1728771652,
     "visible": 1,
     "status": 1,
@@ -55441,15 +55441,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6278390,
+      "id": 7469108,
       "mod_id": 4407425,
-      "version": "1.0.0.3",
-      "filename": "dgb_no_crest_e665cae5-687a-0cf-7eas.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744785061,
+      "version": "1.0.0.4",
+      "filename": "dgb_no_crest_e665cae5-687a-0cf-ge4y.zip",
+      "changelog": "0000 uuid changed to dummy mesh ones to be able to handle headwear remapping",
+      "date_added": 1772785679,
       "date_updated": 0,
-      "date_scanned": 1744785191,
-      "filesize": 7076522,
+      "date_scanned": 1772785698,
+      "filesize": 7190112,
       "platforms": [
         {
           "platform": "windows",
@@ -55457,15 +55457,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -55520,10 +55520,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6278390
-      },
-      {
         "platform": "mac",
         "modfile_live": 6278390
       },
@@ -55534,6 +55530,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6278390
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7469108
       }
     ]
   },
