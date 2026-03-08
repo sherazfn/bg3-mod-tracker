@@ -92995,9 +92995,9 @@
     "name": "High Priestess Robe",
     "name_id": "high-priestess-robe",
     "summary": "A clothing set worn by the High Priestess.",
-    "description": "<p>A clothing set worn by the High Priestess.</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1/3 and githyanki<br>fully dyeable</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A clothing set worn by the High Priestess.</p>\n<p>comes in Armor and Camp Clothing version<br>only for bodytype 1/3 and githyanki<br>fully dyeable</p>\n<p>Body refit commissioned by Anonymous</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me at the link below ^^</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1743258737,
-    "date_updated": 1752746075,
+    "date_updated": 1773007887,
     "date_live": 1743259156,
     "visible": 1,
     "status": 1,
@@ -93011,15 +93011,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6367709,
+      "id": 7482200,
       "mod_id": 4831025,
-      "version": "1.0.0.5",
-      "filename": "prstss_cda8ec98-ec8f-6f5d-4849-cvy1.zip",
-      "changelog": "- added support for githyanki\n- refitted the boots for bodytype 1\n- added Sacred Orb to headwear\n- replaced Warden of Vitality with Healing Prayer",
-      "date_added": 1747296883,
+      "version": "1.0.0.6",
+      "filename": "prstss_cda8ec98-ec8f-6f5d-4849-bwmi.zip",
+      "changelog": "- added a Queen body version",
+      "date_added": 1773007860,
       "date_updated": 0,
-      "date_scanned": 1747297017,
-      "filesize": 17515945,
+      "date_scanned": 1773007896,
+      "filesize": 18385210,
       "platforms": [
         {
           "platform": "windows",
@@ -93027,15 +93027,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -93110,10 +93110,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6367709
-      },
-      {
         "platform": "mac",
         "modfile_live": 6367709
       },
@@ -93124,6 +93120,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6367709
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7482200
       }
     ]
   },
@@ -104743,9 +104743,9 @@
     "name": "Skirbie's Death Archer - Progressive Equipment Set",
     "name_id": "death-archer-progressive-equipment-set",
     "summary": "A full set of armor, weapons and dummy goodies of the Death Archer. Progressive and contain customization stuffs like 'night' version of armor, scabbard and dummy weapons so you can dual sheathe sword + bow",
-    "description": "<p>A full set of armor, weapons, camp clothing and dummy goodies of the Death Archer. Progressive and contain customization stuffs like 'night' version of armor, scabbard and dummy weapons so you can dual sheathe sword + bow</p>\n<p>Fully Dyeable<br>Supports Bodytype 1,2,3,4 and all races that share their assets (Githyanki, Dragonborn, Half Orcs)</p>\n<p><strong>Special Thanks to Morgana Evelyn for collabing and making this mod possible!</strong></p>\n<p> </p>\n<p><strong>Update 1.0.0.24</strong><br>added support for Bodytype 2,3,4 and other races that share their assets. Though keep in mind the shared assets may clip a lot or have mismatched body, your masc gith will look hella buff :&gt;</p>\n<p><strong>Update 1.0.0.20</strong><br>added a new progressive wrist crossbow, tweaked a ton of spell effects and added 5 new spells overall</p>\n<p><strong>Weapons info</strong><br>Fully progressive stats and spells</p>\n<p><strong>Shadow Spells</strong><br>Curse your enemies with chilly hex, trap them with shadowy tendrils, summon a special purple darkness that doesn't blind your allies and allows them to shoot through it, deal a thousand magical slashes; these are some of the spells granted by the set</p>\n<p><strong>Tweaked Animations</strong><br>Both the Longbow and Longsword Main Hand attack animation has been tweaked slightly to have more impact for the longbow and to have a more dexterous looking longsword 2h attack.<br>It only affects these two Death Archer weapons and will not affect any other base game weapons</p>\n<p><strong>Scabbard/Dual Melee + Ranged Sheathe System</strong><br>You can choose to show the scabbard or the longbow for melee sheathe with the included toggleable skill; by showing the longbow this way it'll show up in cinematics, but looks pretty funky when using the sword out of combat. This method lets you use scabbard on both swords if you're dual wielding it</p>\n<p>Similarly, you're able to show the sword while equipping ranged sheathe with the toggle</p>\n<p>Alternatively you can use the included dummy weapons (instrument slot) to show both weapons when sheathed, with the downside that the one in the instrument slot will be hidden during cinematic. Using the dummy weapon method also allows you to hold one weapon out whilst having the other one show up your back for photo purposes</p>\n<p>Both methods will automatically hide the unused weapons during combat and reappear after combat ends</p>\n<p> </p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Credits:<br>Death Archer Morgana by IdaFaber: <a href=\"https://www.fab.com/listings/de458f92-c7da-4bad-85cd-ec36bad2daa8\">model link</a> licensed under Standard License<br>Blade, Handle and Scabbard mesh by sergeilihandristov: <a href=\"https://skfb.ly/oAVJZ\">https://skfb.ly/oAVJZ</a> licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Death Archer sword kitbashed with the two assets above<br>Meshes and Textures has been modified<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A full set of armor, weapons, camp clothing and dummy goodies of the Death Archer. Progressive and contain customization stuffs like 'night' version of armor, scabbard and dummy weapons so you can dual sheathe sword + bow</p>\n<p>Fully Dyeable<br>Supports Bodytype 1,2,3,4 and all races that share their assets (Githyanki, Dragonborn, Half Orcs)</p>\n<p><strong>Special Thanks to Morgana Evelyn for collabing and making this mod possible!</strong></p>\n<p> </p>\n<p><strong>Update 1.0.0.24</strong><br>added support for Bodytype 2,3,4 and other races that share their assets. Though keep in mind the shared assets may clip a lot or have mismatched body, your masc gith will look hella buff :&gt;</p>\n<p><strong>Update 1.0.0.20</strong><br>added a new progressive wrist crossbow, tweaked a ton of spell effects and added 5 new spells overall</p>\n<p><strong>Weapons info</strong><br>Fully progressive stats and spells</p>\n<p><strong>Shadow Spells</strong><br>Curse your enemies with chilly hex, trap them with shadowy tendrils, summon a special purple darkness that doesn't blind your allies and allows them to shoot through it, deal a thousand magical slashes; these are some of the spells granted by the set</p>\n<p><strong>Tweaked Animations</strong><br>Both the Longbow and Longsword Main Hand attack animation has been tweaked slightly to have more impact for the longbow and to have a more dexterous looking longsword 2h attack.<br>It only affects these two Death Archer weapons and will not affect any other base game weapons</p>\n<p><strong>Scabbard/Dual Melee + Ranged Sheathe System</strong><br>You can choose to show the scabbard or the longbow for melee sheathe with the included toggleable skill; by showing the longbow this way it'll show up in cinematics, but looks pretty funky when using the sword out of combat. This method lets you use scabbard on both swords if you're dual wielding it</p>\n<p>Similarly, you're able to show the sword while equipping ranged sheathe with the toggle</p>\n<p>Alternatively you can use the included dummy weapons (instrument slot) to show both weapons when sheathed, with the downside that the one in the instrument slot will be hidden during cinematic. Using the dummy weapon method also allows you to hold one weapon out whilst having the other one show up your back for photo purposes</p>\n<p>Both methods will automatically hide the unused weapons during combat and reappear after combat ends</p>\n<p> </p>\n<p>Body refit commissioned by Anonymous</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Credits:<br>Death Archer Morgana by IdaFaber: <a href=\"https://www.fab.com/listings/de458f92-c7da-4bad-85cd-ec36bad2daa8\">model link</a> licensed under Standard License<br>Blade, Handle and Scabbard mesh by sergeilihandristov: <a href=\"https://skfb.ly/oAVJZ\">https://skfb.ly/oAVJZ</a> licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Death Archer sword kitbashed with the two assets above<br>Meshes and Textures has been modified<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1746702905,
-    "date_updated": 1753096818,
+    "date_updated": 1773008262,
     "date_live": 1746704940,
     "visible": 1,
     "status": 1,
@@ -104759,15 +104759,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6525049,
+      "id": 7482231,
       "mod_id": 4924406,
-      "version": "1.0.0.25",
-      "filename": "darcher_5cb691ff-7296-7dab-f77-5dm2.zip",
-      "changelog": "- ominous shroud now gives you the heavily obscured condition, giving you all the obscured benefits and allowing you to hide in combat at will\n- umbral shot: changed the damage trigger vfx on move",
-      "date_added": 1751397542,
+      "version": "1.0.0.26",
+      "filename": "darcher_5cb691ff-7296-7dab-f77-0tef.zip",
+      "changelog": "- added a Queen body version\n- minor tweaks and bug fixes\n- enemies in twilight scare will no longer be able to throw weapons\n- minor buff to umbral shot damage\n- fixed githyanki f neck seams",
+      "date_added": 1773008193,
       "date_updated": 0,
-      "date_scanned": 1751397619,
-      "filesize": 46296195,
+      "date_scanned": 1773008279,
+      "filesize": 47157234,
       "platforms": [
         {
           "platform": "windows",
@@ -104775,15 +104775,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -104818,6 +104818,26 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
         "date_added": 0
       },
       {
@@ -104878,10 +104898,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6525049
-      },
-      {
         "platform": "mac",
         "modfile_live": 6525049
       },
@@ -104892,6 +104908,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6525049
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7482231
       }
     ]
   },
