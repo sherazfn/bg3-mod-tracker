@@ -55274,7 +55274,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour, Shields</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1764868310,
+    "date_updated": 1772946706,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -55288,15 +55288,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.png"
     },
     "modfile": {
-      "id": 6889466,
+      "id": 7478375,
       "mod_id": 4407068,
-      "version": "1.0.208.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-frez.zip",
-      "changelog": "- Added compatibility with Advanced Tabletop Spells mod (can now select Level 7 and Level 8 spells)\nNote: Advanced Table Spells mod is not required (without it, can select Level 1 to Level 6 spells as usual for those levels)",
-      "date_added": 1761804880,
+      "version": "1.0.209.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-chns.zip",
+      "changelog": "- Updated Spellknight's Armored Mage (Heavy) subclass feature to not impede Arcane Channeling while wearing heavy armor and/or using a shield",
+      "date_added": 1772946587,
       "date_updated": 0,
-      "date_scanned": 1761804898,
-      "filesize": 7603792,
+      "date_scanned": 1772946608,
+      "filesize": 7603842,
       "platforms": [
         {
           "platform": "windows",
@@ -55304,15 +55304,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -55377,10 +55377,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6889466
-      },
-      {
         "platform": "mac",
         "modfile_live": 6889466
       },
@@ -55391,6 +55387,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6889466
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7478375
       }
     ]
   },
