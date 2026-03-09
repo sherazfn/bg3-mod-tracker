@@ -124470,8 +124470,38 @@
     },
     "tags": [
       {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dyes",
+        "name_localized": "Dyes",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
         "date_added": 0
       },
       {
