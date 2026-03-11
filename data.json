@@ -121398,7 +121398,7 @@
       "changelog": "fix: removing custom breeds is once again working as expected.\nfix: resummoning scratch while he is downed will now correctly remove his beneficial statuses since it counts as a defeat.\nfix: the shadow curse will no longer stay on scratch through resummoning.",
       "date_added": 1773235584,
       "date_updated": 0,
-      "date_scanned": 0,
+      "date_scanned": 1773236213,
       "filesize": 11337040,
       "platforms": [
         {
