@@ -119984,7 +119984,7 @@
     "summary": "Speak with Dead has no question limit, can communicate with its killer, and even burned corpses can respond.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/speakwithdeadunlimited_base.png\" alt=\"Speak with Dead Unlimited Mod\" width=\"300\" height=\"200\"></p>\n<p style=\"color:#ffa500;\">By SwissFred</p>\n<p style=\"color:#ffa500;\"><strong>Speak with Dead Unlimited</strong></p>\n<ul style=\"color:#ffa500;\">\n<li>No question limit – ask as many times as you want. Great if you missed an answer.</li>\n<li>Corpses will answer questions, including from their killer.</li>\n<li>Burned, dissolved in acid, or unrecognizable corpses will also respond.</li>\n</ul>\n<p style=\"color:#ffa500;\">The <strong>new version</strong> lets you ask up to <strong>five questions at once</strong> in order to obtain <em><strong>Whisper of the Grave</strong></em><br>if you have the <strong>Sage background</strong>.<br><strong>However, you can still cast <em>Speak with Dead</em> on the same corpse multiple times to ask any remaining questions.</strong></p>\n<p style=\"color:#ffa500;\"><strong>Installation:</strong><br>Install and enable the mod.<br><br><strong>How to use:</strong><br>Unlock spell Speak with Dead, or use an item that enables it.<br>Mod will then enhance the spell.</p>\n<p style=\"color:#ffa500;\"><strong>Uninstallation:</strong><br>Save, exit, and remove the mod.<br><br><strong>Most corpses</strong> have nothing to say — this is a game feature.</p>\n<p style=\"color:#ffa500;\">Select Your Statuses has Speak with Dead Unlimited built in<br><a style=\"color:#ffa500;\" href=\"https://mod.io/g/baldursgate3/m/select-your-statuses#description\"> Select Your Statuses (Individual) for Baldur's Gate 3 - mod.io </a></p>",
     "date_added": 1753711398,
-    "date_updated": 1772466464,
+    "date_updated": 1773609530,
     "date_live": 1753712562,
     "visible": 1,
     "status": 1,
@@ -119998,15 +119998,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 7399567,
+      "id": 7508976,
       "mod_id": 5125248,
-      "version": "1.0.8.38",
-      "filename": "speakwithdeadunlimited_f156d3b-1psm.zip",
-      "changelog": "Fixed: Players with the Sage background now gain Whispers from the Grave Inspiration from corpses with interesting dialogue.",
-      "date_added": 1771159252,
+      "version": "1.1.8.0",
+      "filename": "speakwithdeadunlimited_f156d3b-bzdj.zip",
+      "changelog": "Fixed an issue where a corpse could not be questioned again if it refused to speak to its killer.",
+      "date_added": 1773609286,
       "date_updated": 0,
-      "date_scanned": 1771159287,
-      "filesize": 17889678,
+      "date_scanned": 1773609322,
+      "filesize": 17889692,
       "platforms": [
         {
           "platform": "windows",
@@ -120014,15 +120014,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -120067,10 +120067,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7399567
-      },
-      {
         "platform": "mac",
         "modfile_live": 7399567
       },
@@ -120081,6 +120077,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7399567
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7508976
       }
     ]
   },
