@@ -78532,7 +78532,7 @@
     "summary": "The unofficial community bug fix mod - Over 1000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish<br>Nyxveilithra and Vituperioso - Brazilian Portuguese</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1773528460,
+    "date_updated": 1773548906,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -78546,15 +78546,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7504534,
+      "id": 7505714,
       "mod_id": 4561805,
-      "version": "4.4.11.3",
-      "filename": "itembugfix_010e73d5-9342-e528-arlt.zip",
-      "changelog": "- 'Entangle' and 'Umbral Tangle' are now correctly usable against targets with the \"Grounded\" attribute\n- 'Arabella's Shadow Entangle' now actually applies \"Weavebound Vines\" to undead/shadow targets\n- Land's Stride: Plants now also correctly applies to \"Shadow-Cursed Vines\" from 'Umbral Tangle'\n- Land's Stride: Advantage now correctly provides advantage on saving throws against plants\n- 'Wall of Fire' now correctly states its damage radius as 2m\n- Corrects Larian's patch 6 fix for Flaming Spheres in INIT\n- Duellist's Prerogative 'Challenge to Duel' now correctly states attacks from Duellist's Prerogative might cause bleeding\n- \"Compelled to Duel\" condition now correctly references the Duellist's Prerogative",
-      "date_added": 1773528428,
+      "version": "4.4.12.0",
+      "filename": "itembugfix_010e73d5-9342-e528-g7ta.zip",
+      "changelog": "- Brazilian Portuguese re-release with fix to escaped characters, special thanks to Bert for finding it!",
+      "date_added": 1773548794,
       "date_updated": 0,
-      "date_scanned": 1773528433,
-      "filesize": 588118,
+      "date_scanned": 1773548800,
+      "filesize": 587896,
       "platforms": [
         {
           "platform": "windows",
@@ -78663,7 +78663,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7504534
+        "modfile_live": 7505714
       }
     ]
   },
