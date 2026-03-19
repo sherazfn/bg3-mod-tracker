@@ -53275,7 +53275,7 @@
     "summary": "Death Knight Class.",
     "description": "<h2><u>After the updates, I recommend you to respec the character to one of original class, then update the mod and respec to Death Knight back.</u></h2>\n<h2><span style=\"text-decoration:underline;\">If you find any bugs please leave comments under this mod so I can fix them. Thank you!</span></h2>\n<h3><span style=\"text-decoration:underline;\">I am currently working on progress up to level 20 and new subclass.</span></h3>\n<p>This mod introduces Death Knight, a homebrew class based on my work for classic D&amp;D, which i have being using both as player and as GM for long time.</p>\n<p>Death Knights converge with the enemy in close combat, complementing the blows of the blade with dark magic that makes the enemy vulnerable or injures him with unholy energy. They provoke opponents by forcing them to fight one-on-one and keeping them away from weaker allies. In order to prevent the enemy from escaping, death knights must constantly keep in mind the power of the underworld that they possess and direct their attacks accordingly.</p>\n<h4>THE SOURCE OF DEATH</h4>\n<p>The Death Knight is a sinister and powerful figure, representing a combination of nobility and poverty of the soul. These creatures are supreme necromancers who have made a deal with the forces of darkness to become permanent carriers of death and destruction. Their appearance, radiating eerie charm, and abilities make them one of the most sworn enemies of all living beings.</p>\n<h4>THE DARK SERVANT</h4>\n<p>The Death Knight is usually dressed in black armor, which sparkle like stars in the night sky, but at the same time seem cold and impregnable. His armor is often decorated with images of skulls intertwined with symbols of death and decay. The Knight's face is hidden under an ominous hood, and only a pale, almost dead oval is visible under it, which radiates darkness and fear.</p>\n<h4>THE CREATION OF DEATH KNIGHT</h4>\n<p>The Death Knight is often not only the executor of the will of darkness, but also a complex character with a wayward and cold-blooded character. His motivation can range from desired control over the undead to personal revenge for some past grudges. Some Death Knights may even follow their own code of honor, despite their sinister nature. </p>\n<p>They are often presented as antagonists in campaigns, but in the world of D&amp;D, each character can have their own story and purpose. These creatures can be either villains or martyrs, depending on the context of your game.</p>\n<p>In the game, encounters with the Death Knight can be the culmination of many adventures. He can be an enemy who opposes heroes on the battlefield, or a thoughtful ally who controls the forces of darkness for their purpose. Players can face him as a powerful opponent, or get the opportunity to manipulate him through agreements and oaths.</p>\n<p>The Death Knight is not only a strong opponent, but also an interesting, multi-layered character who adds depth and intrigue to any Dungeons &amp; Dragons campaign.</p>",
     "date_added": 1728567283,
-    "date_updated": 1772052819,
+    "date_updated": 1773916324,
     "date_live": 1729961940,
     "visible": 1,
     "status": 1,
@@ -53305,15 +53305,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -53363,19 +53363,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7438176
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7340602
+        "modfile_live": 7438176
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7340602
+        "modfile_live": 7438176
       },
       {
         "platform": "ps5",
-        "modfile_live": 7340602
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7438176
       }
     ]
@@ -123956,6 +123956,109 @@
     ]
   },
   {
+    "id": 5245595,
+    "game_id": 6715,
+    "name": "DarkRangersSE",
+    "name_id": "darkrangersse",
+    "summary": "A Ranger who deals in the necromantic and blight instead of life and survival.",
+    "description": "<p><img src=\"https://i.imgur.com/Z1dvY6l.png\" alt=\"Z1dvY6l.png\"></p>\n<h4><span style=\"color:#674ea7;\"><span style=\"font-size:xx-large;\"><strong>Dark Ranger<br></strong></span></span></h4>\n<p><strong>Not all who walk among the withered trees and crumbling bones of the wild are agents of cruelty. Some rangers find purpose in the shadowed cycles of the natural world where decay feeds the soil, disease culls the weak, and winter’s chill grants the land its rest. These rangers are keepers of the quiet balance, understanding that rot and ruin are as vital as growth and bloom.</strong></p>\n<p><strong>Dark Rangers wield necromantic arts not to dominate the dead, but to guide them, ensuring the fallen return to the earth, or rise briefly as guardians of sacred places. They commune with carrion birds, fungi, and blackened roots, seeing beauty in what others call corruption. Their arrows may drip with pestilence, not out of malice, but as a hunter’s tool no different than flame or steel.</strong></p>\n<p><strong>To the Dark Ranger, death is not an ending, but a season in the endless turning wheel of nature. Their presence unsettles those who cling only to life and light, yet in the wild places where plague and frost creep, they are both shepherd and sentinel.</strong></p>\n<div> </div>\n<h2><strong>Custom Starting Gear</strong></h2>\n<p><strong>You start with recolored armor, hood, and cloak, as well as fully custom scimitars, bow, and a quiver made by me specifically for this class.</strong></p>\n<p> </p>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 1</span></h4>\n<h4><span style=\"font-size:large;\"><strong>Black Arrow:<br></strong></span><a href=\"https://youtu.be/IiNqtUCl0hQ\">Video of Black Arrow</a><br>Beginning at 1st level, you gain 3 Black Arrow charges, allowing you to cast various versions of Black Arrow, each taking up a separate charge. You gain an additional charge at Dark Ranger levels<strong> 4</strong> and <strong>10</strong>.<br><br></h4>\n<ul>\n<li><strong>Black Arrow: Minor -</strong> (1: Charge) Ranged Weapon Attack + deals 2 * Darkranger level Necrotic damage.</li>\n<li><strong>Black Arrow: Moderate -</strong> (2: Charges) Ranged Weapon Attack + deals e* Darkranger level Necrotic Damage.</li>\n<li><strong>Black Arrow: Major -</strong> (3: Charges) Ranged Weapon Attack + deals a* Darkranger level Necrotic Damage.</li>\n</ul>\n<p><br><strong><span style=\"font-size:large;\">Cull the Weak</span></strong><br><span style=\"font-size:medium;\">Beginning at 1st level, you gain an advantage on all attack rolls made upon an enemy who is below 50% health, as well your critical strike roll requirement is reduced by <strong>1</strong> every <strong>3</strong> levels until<strong> 9</strong>.</span><br><br><strong><span style=\"font-size:large;\">Supernatural Predator</span></strong><br><span style=\"font-size:medium;\">Beginning at the 1st level, you can pick one of the following passives.<br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>Point Blank:</strong> Removes disadvantage in melee range for ranged weapons</span></li>\n<li><span style=\"font-size:medium;\"><strong>Deathly Sense: </strong>Gain max darkvision distance.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Haunting Movement:</strong> 2 + Gain your Dark Ranger level divided by 2 in movement speed.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Restless Perception:</strong> Gain advantage on perception checks.</span></li>\n<li> </li>\n</ul>\n<p><span style=\"font-size:medium;\">Starting at level 6, you unlock additional options:<br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>Elusive Death:</strong> Gain advantage on death rolls.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Resistant Necrosis: </strong>Gain resistance to necrotic damage.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Spectral Presence:</strong> Gain advantage on stealth checks</span></li>\n</ul>\n<p><span style=\"font-size:medium;\">You can choose one additional passive at levels<strong> 3,</strong> <strong>6</strong>, <strong>10</strong><br></span></p>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 2</span></h4>\n<h4><strong><span style=\"font-size:large;\">Fighting Style</span></strong><br><span style=\"font-size:medium;\">At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options.<br><br></span></h4>\n<ul>\n<li><strong><span style=\"font-size:medium;\">Archery</span></strong></li>\n<li><strong><span style=\"font-size:medium;\">Defense</span></strong></li>\n<li><strong><span style=\"font-size:medium;\">Dueling</span></strong></li>\n<li><strong><span style=\"font-size:medium;\">Two-Weapon Fighting</span></strong></li>\n</ul>\n<p> </p>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 3</span></h4>\n<h4><strong><span style=\"font-size:large;\">Dark Ranger Subclasses</span></strong><br><span style=\"font-size:medium;\">At 3rd level, you choose an archetype that you strive to emulate.</span><br><br></h4>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 5</span></h4>\n<h4><span style=\"font-size:large;\"><strong>Extra Attack</strong></span><br>Begging at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 8</span></h4>\n<h4><strong><span style=\"font-size:large;\">Land's Stride</span></strong><br><span style=\"font-size:medium;\">Starting at level 8, Difficult Terrain no longer slows you down.</span></h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 10</span></h4>\n<h4><strong><span style=\"font-size:large;\">Hide in Plain Sight</span></strong><br><span style=\"font-size:medium;\">Starting at level 10, become Invisible and gain +a 10 bonus to Stealth Checks as long as you stand still.<br></span></h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 11</span></h4>\n<h4><strong><span style=\"font-size:large;\">Savage Attacker Feat</span></strong></h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 12</span></h4>\n<h4><strong><span style=\"color:#f4f4f4;\"><span style=\"font-size:large;\">Feat</span></span></strong><br><br></h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Spells:</span></h4>\n<h4>(Note: Spells are gained and earned at the same levels and amounts normal rangers get them)</h4>\n<p> </p>\n<h4><strong><span style=\"font-size:large;\">Starting Spell:</span></strong><br><strong>Cantrap:</strong><span style=\"font-size:medium;\"> Chilling Touch, Toll the Bell</span><br><br><strong><span style=\"font-size:x-large;\">Level 1 Spells</span></strong><br><span style=\"font-size:medium;\">Longstrider<br>Enhance Leap<br>Fog Cloud<br>False life<br>Inflict wound <br>Withering Mark - Debuffs Necro Resist<br>Hunters Mark<br></span>Ray of Sickness<br><br><br><strong><span style=\"font-size:x-large;\">Level 2 Spells</span></strong><br><span style=\"font-size:medium;\">Darkness<br>Corpse skin (Gives AC / Poison Resist)<br>Darkvision<br>Pass without Trace<br>Silence<br>Blindness<br></span>Ray of Enfeeblement<br><br><span style=\"font-size:x-large;\"><strong>Level 3 Spells</strong></span><span style=\"font-size:medium;\"><br>Wailing Arrow (2d6 necrotic damage to those in range and an aoe silence on dex save)<br>Bestow Curse<br>Speak with the dead<br>Vampiric touch<br>Lesser Blight (blight with less damage)</span><br><br><br></h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Sub Classes:</span></h4>\n<p><img src=\"https://i.imgur.com/B16C481.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<h4><strong><span style=\"font-size:x-large;\">Wraith Touched</span><br>Your dark hunter has made a pact with a wraith and now shares your body.<br><br><span style=\"font-size:large;\">Level 3:</span><br>Two - Minds: - You gain advantage on fear and charm rolls<br>Wraith Step: Basically a teleport that works just like Misty Step.<br><br><span style=\"font-size:large;\">Level 5: </span><br>Wraith Shot: <br>Consume one of your spell slots to enhance a ranged bow attack with cold damage: a level 1 spell slot is 1d6 damage cold, a level 2 is 2d6, a level 3 is 3d6.<br><br><span style=\"font-size:large;\">level 7: </span><br>Dominate Beast:<br>Dominate the mind of a beast<br><br><span style=\"font-size:large;\">level 9:</span><br>Dominate Person: Dominate the mind of a person<br><span style=\"font-size:large;\"><br>level 11:</span><br>Reposite: Consume 1 riposte charge to use reactive action to counterattack for 1d8 damage with a melee weapon when a enemy in melee range misses you. You have 5 charges and they regenerate upon rest.</strong></h4>\n<h4> </h4>\n<h4><strong><img src=\"https://i.imgur.com/9D2pFoX.png\" alt=\"\" width=\"150\" height=\"150\"></strong><strong><br><span style=\"font-size:x-large;\">Necromycos</span><br><span style=\"font-size:large;\">Level 3:</span><br>Cantrip: </strong>Bursting Sinew<strong><br>Resistance To Poison<br>Symbiosis: </strong>Once per long rest you can form a symbiotic relationship with a party member, they will gain advantage on all attack rolls, but you will recieve all damage they take instead of them. <strong><br><br><span style=\"font-size:large;\">Level 5: </span><br>Fungal Infestation:<br></strong>Raises a mildewed, mould-encrusted zombie from a corpse, you can do this infinite number of times, however you are limited to only 1. <strong><br><br>Brittle Lung: <br></strong>When the zombie is struck by a melee attack it releases spores with a 13 con save, upon being infected by these person suffers silence and disadvantage on attack rolls for 2 turns.<strong><br><br><span style=\"font-size:large;\">level 7: </span><span style=\"font-size:large;\"><br></span>Mycelial Brand:<br></strong> A concentration free hunters mark that does not consume a spell slot. Only usable once in combat, however you can reapply after the target is dead. Does 1d8 Extra damage.<strong><br><br><span style=\"font-size:large;\">Level 9<br></span>Spell: Animate Dead<br>Symbiotic Awareness: <br></strong>Both parties gain 2 ac from their symbiotic relationship allowing each other to be more awarere of their surroundings.<strong><br><br><span style=\"font-size:large;\">Level 11:</span><br>Symbiotic Hunt: <br></strong>The party member who you share symbiosis with can now use the effects of your Mycelial Brand as well.<strong><br></strong></h4>\n<h4><strong><br><span style=\"font-size:x-large;\"><br><span style=\"color:#ff0000;\">-=Reflavored Sub Classes=-</span></span><br></strong></h4>\n<h4><strong><img src=\"https://i.imgur.com/WyherEl.png\" alt=\"\" width=\"150\" height=\"150\"><br><span style=\"font-size:x-large;\">Cloakwood Warden:</span></strong><br>Functionally the same as Beast Master, but with different pets</h4>\n<p><strong><span style=\"font-size:x-large;\">Undead Dog</span><br>Abilities and attacks are same as wolf<br></strong><br><strong><span style=\"font-size:x-large;\">Needle Blight</span><br></strong>1d6 Ranged Needle Attack<br><strong>Damage Shield</strong> - When struct by a melee attack deals damage to attacker<br><strong>Cursed Vines -</strong> Leaves behind cursed vines that causes damage when it dies<br><strong>Vine Burst</strong> - At level 5, 2d6 area needle attack<br><br><strong><span style=\"font-size:x-large;\">Grave Spider</span></strong><br><strong>Abilities are the same as regular companion spiders</strong><br><strong><span style=\"font-size:large;\"><br></span></strong><strong><span style=\"font-size:x-large;\">Vine Blight</span></strong><br><strong>1d6 bludge attack</strong></p>\n<p> </p>\n<p><strong>Level 1:<br>Taunt<br></strong><br><strong>level 5:</strong><br>Ability Spreads vines around you<br><br><strong>Level 11:</strong><br>Constrict the target locking them in place<br><span style=\"font-size:x-large;\"><br></span><strong><span style=\"font-size:x-large;\">Cursed Raven</span></strong><br>functionally same as raven<br><br><strong><span style=\"font-size:x-large;\">Displacer Beast</span></strong><br><span style=\"font-size:medium;\">1d4 piercing and 1d4 bludnging attack<br>Create Illusion<br>Jump<br><br><strong>level 5: </strong><br>Teleport with someone<br><br><strong>level 11:</strong><br>Ambush: Always crit if caught anenemy by surprise.</span></p>\n<p> </p>\n<p><img src=\"https://i.imgur.com/crrbUeT.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<p><strong><span style=\"font-size:x-large;\">Death Stalker:</span></strong><br>Same as Gloom Stalker but for Dark Ranger</p>\n<p> </p>\n<p> </p>\n<p><img src=\"https://i.imgur.com/nY4UWSC.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<p><strong><span style=\"font-size:x-large;\">Blighted Hunter:</span></strong><br>Same as Hunter but for Dark Ranger.<br><br><span style=\"color:#ff0000;\"><span style=\"font-size:x-large;\"><strong>My Other Mods</strong></span></span><br><span style=\"color:#00ff00;\"><span style=\"font-size:large;\">CLASS AND RACE:</span></span><strong><span style=\"font-size:large;\"><br></span></strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/12835\"><strong><span style=\"font-size:large;\">Fiendish Races: Race</span></strong></a><br><br><span style=\"color:#00ff00;\"><span style=\"font-size:large;\">WEAPONS</span></span><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/10998\">Katen Kyokostu</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10976\">Tensa Zangetsu</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10857\">Battleworn Shield</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10771\">Bruenor Battlehammers Shield</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10410\">Grimsaws Tooth</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10376\">Marcelines Bass Axe</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10107\">Raeshalare, Deaths Whisper</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/8209\">Aegis Fang<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/8209\">Cravens Edge</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/7551\">Twinkle and Icingdeath<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/7617\">Taulmaril The HeartSeeker</a></span></p>",
+    "date_added": 1758345100,
+    "date_updated": 1773915732,
+    "date_live": 1758345100,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/darkrangersse",
+    "submitted_by": {
+      "id": 33095222,
+      "name_id": "haytur",
+      "username": "Haytur",
+      "profile_url": "https://mod.io/u/haytur",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7302033,
+      "mod_id": 5245595,
+      "version": "1.0.0.20",
+      "filename": "darkrangersse_bb210517-afb7-5a-cq66.zip",
+      "changelog": "Fixed point blank as it was not properly working.",
+      "date_added": 1769065280,
+      "date_updated": 0,
+      "date_scanned": 1769065386,
+      "filesize": 66669492,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ba25/5245595/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ba25/5245595/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ba25/5245595/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ba25/5245595/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7302033
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7302033
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7302033
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7302033
+      }
+    ]
+  },
+  {
     "id": 5247134,
     "game_id": 6715,
     "name": "Gnome More Clipping",
@@ -130337,6 +130440,169 @@
       {
         "platform": "ps5",
         "modfile_live": 7329718
+      }
+    ]
+  },
+  {
+    "id": 5714166,
+    "game_id": 6715,
+    "name": "DTO: Otherworldly Archetypes (Subclasses)",
+    "name_id": "dto-otherworldly-archetypes",
+    "summary": "A collection of 12 new subclasses designed to blend seamlessly into the original line up and fully featured up to level 20.",
+    "description": "<h2>Otherworldly Archetypes is a pack of 12 new subclasses designed to blend seamlessly into the original line up and are fully featured up to level 20. <br><br>Visit <a href=\"https://prizzels.github.io/DTO/\" target=\"_blank\" rel=\"noopener noreferrer\">Daelen's Testament of the Otherworldly </a>to learn more<em>.</em></h2>\n<ul>\n<li>Bard - The College of Stormcallers - <em>\"Your thunder bellows, toppling your foes; their defiance answered with lightning staccato.\"</em></li>\n<li>Barbarian - Path of the Revenant - <em>\"Cursed by an eternal vengeance, you haunt the land to satiate an unrelenting taste for death.\"</em></li>\n<li>Cleric - Dream Domain - <em>\"You confront your foes in a dream where they are the weakest, with a form they fear most.\"</em></li>\n<li>Druid - Circle of Wrath - <em>\"You shift between aspects of the elements and build your wrath until you can unleash a storm worthy of nature's fury.\"<br></em></li>\n<li>Fighter - Chronoknight - <em>\"Wield time as a weapon, giving and taking when it suits your needs on the battlefield.\"<br></em></li>\n<li>Monk - Way of the Friar -<em> \"Bonded to your chosen kin, you are both guardian and guide, even as your community grows to many.\" </em></li>\n<li>Paladin - Oath of Illumination - <em>\"Empowered by Lathander's light, you eschew traditions for brilliant beams of radiant energy and smite your foes from a distance.</em>\"</li>\n<li>Ranger - Conclave of the Dawnstriders - <em>\"Invigorated by Lathander's light, you soar across the battlefield with a relentless zeal and divine rapidity.\"</em></li>\n<li>Rogue - Seeker - <em>\"An arcane duellist that steals from the Weave itself and channels it through their blade and sleight of hand\"</em></li>\n<li>Sorcerer - Wretched Soul - <em>\"Your soul is tainted by sinister energies which manifest as wither and decay, a corruption so dark and twisted that it eludes all defence.\"</em></li>\n<li>Warlock - The Psyker - <em>\"Play on the edge of oblivion as you manage the volatile malevolence of the Warp in exchange for its destructive disregard of reality.\"</em></li>\n<li>Wizard - School of Bombardment - <em>\"Rather than be limited by incantations, you discover a method to transform your magic energy into ordnance and lay siege to your foes from afar.\"</em></li>\n</ul>\n<p><em><strong>(<a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\" target=\"_blank\" rel=\"noopener noreferrer\">Mystra's Spells</a> or <a title=\"5E Spells @ Nexus\" href=\"https://www.nexusmods.com/baldursgate3/mods/125\" target=\"_blank\" rel=\"noopener noreferrer\">5E Spells</a> strongly recommended, especially for Dream Domain and Wretched Soul)</strong><br><br><br>Some acknowledgements in absolutely no particular order:<br><br>So many helpful people at the <a href=\"https://discord.gg/bg3mods\" target=\"_blank\" rel=\"noopener noreferrer\">BG3 Modding Community</a> but especially <strong>XiphiasRex</strong>, <strong>Rando</strong>, <strong>JuuM</strong> and of course <strong>Norabyte</strong> whose tools and search engine were immensely useful.<br><strong>TheBackupArtist</strong> for all the beautiful icon art.<br><a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Mystra's Spells</strong></a> and<strong> <a title=\"5E Spells @ Nexus\" href=\"https://www.nexusmods.com/baldursgate3/mods/125\" target=\"_blank\" rel=\"noopener noreferrer\">5E Spells</a> </strong>for fleshing out the spell lists<br><strong>Paizo</strong> and <strong>Owlcat</strong> for infusing me with Pathfinder appreciation.<br><strong>Larian</strong> for making this incredible game and toolkit.<br>Shout out to <strong>Hipp0</strong> for creating and <strong>celerev </strong>for reviving Trials of Tav and allowing me to playtest these mods without going insane.<br>And finally, you for checking out my mod and reading the Acknowledgements!<br><br>Image models were used to make the subclass icons, the rest is human &lt;3<br></em></p>",
+    "date_added": 1769042857,
+    "date_updated": 1773916092,
+    "date_live": 1769042857,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dto-otherworldly-archetypes",
+    "submitted_by": {
+      "id": 12244630,
+      "name_id": "zaelen",
+      "username": "Zaelen",
+      "profile_url": "https://mod.io/u/zaelen",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/45bf/12244630/crop_100x100/f61a1c2e9ee05236d6cbc89add14976.jpg"
+    },
+    "modfile": {
+      "id": 7485004,
+      "mod_id": 5714166,
+      "version": "1.2.0.60",
+      "filename": "daelenstestament_c714f127-6475-1wet.zip",
+      "changelog": "Flagged several statuses and abilities to better interact with the games systems\n(Dawnstrider) Radiant Arsenal's glow now prevents invisibility/stealth while it persists.\n(Dawnstrider) Valkyrie's jump distance only gains 1m per Wisdom, down from 2m.\n(Dawnstrider) Cleaned up Zeal's interaction with 0 damage hits or hits on non-characters\n(Seeker) Arcane Strike (and other features) now specifically require a Finesse weapon in addition to a free hand.\n(Illumination) Toned down the VFX on Aura of Brilliance\n(Illumination) Dazzled enemies can make a Con save at the start of their turn to shake it off.\n(Wretched Soul) Poison Spray now always 9m\n(Psyker) Spell progression properly extended to level 20.",
+      "date_added": 1773080359,
+      "date_updated": 0,
+      "date_scanned": 1773080407,
+      "filesize": 24459780,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/7263/5714166/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7263/5714166/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7263/5714166/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7263/5714166/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "Fighter",
+        "name_localized": "Fighter",
+        "date_added": 0
+      },
+      {
+        "name": "Monk",
+        "name_localized": "Monk",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "Ranger",
+        "name_localized": "Ranger",
+        "date_added": 0
+      },
+      {
+        "name": "Rogue",
+        "name_localized": "Rogue",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "Wizard",
+        "name_localized": "Wizard",
+        "date_added": 0
+      },
+      {
+        "name": "Feats",
+        "name_localized": "Feats",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7412858
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7412858
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7412858
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7485004
       }
     ]
   },
