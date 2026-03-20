@@ -55641,11 +55641,11 @@
       ]
     },
     "logo": {
-      "filename": "duskbladebackground.30.png",
-      "original": "https://image.modcdn.io/mods/7601/4407068/duskbladebackground.30.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/7601/4407068/crop_320x180/duskbladebackground.30.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/7601/4407068/crop_640x360/duskbladebackground.30.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/7601/4407068/crop_1280x720/duskbladebackground.30.png"
+      "filename": "duskbladebackground.32.png",
+      "original": "https://image.modcdn.io/mods/7601/4407068/duskbladebackground.32.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7601/4407068/crop_320x180/duskbladebackground.32.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7601/4407068/crop_640x360/duskbladebackground.32.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7601/4407068/crop_1280x720/duskbladebackground.32.png"
     },
     "tags": [
       {
@@ -101048,6 +101048,11 @@
       {
         "name": "Patch 8 Tested",
         "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
         "date_added": 0
       },
       {
