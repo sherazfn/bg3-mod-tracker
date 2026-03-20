@@ -55598,7 +55598,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour, Shields</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1773921205,
+    "date_updated": 1773998006,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -55612,15 +55612,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.png"
     },
     "modfile": {
-      "id": 7478375,
+      "id": 7524202,
       "mod_id": 4407068,
-      "version": "1.0.209.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-chns.zip",
-      "changelog": "- Updated Spellknight's Armored Mage (Heavy) subclass feature to not impede Arcane Channeling while wearing heavy armor and/or using a shield",
-      "date_added": 1772946587,
+      "version": "1.0.210.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-b3oa.zip",
+      "changelog": "- Armored Mage is split into Armored Mage (Light) and Armored Mage (Medium), which are granted at Level 1 and 4, respectively",
+      "date_added": 1773997881,
       "date_updated": 0,
-      "date_scanned": 1772946608,
-      "filesize": 7603842,
+      "date_scanned": 1773997903,
+      "filesize": 7603487,
       "platforms": [
         {
           "platform": "windows",
@@ -55628,15 +55628,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -55701,10 +55701,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7478375
-      },
-      {
         "platform": "mac",
         "modfile_live": 7478375
       },
@@ -55715,6 +55711,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7478375
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7524202
       }
     ]
   },
@@ -128486,6 +128486,11 @@
       {
         "name": "Customisation",
         "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
         "date_added": 0
       },
       {
