@@ -121586,7 +121586,7 @@
     "summary": "Eyes that I made for my own personal game that I decided to share. I am open to requests. I hope you like them as much as I do. There is a variety of different colors and styles.",
     "description": "<h3><strong>Eyes Mod.</strong></h3><br><h3>I created this eyes mod for my own personal game but decided to share it.<br>I hope you like it too. I am also open to eye color requests.<br><br>I recommend downloading <a href=\"https://mod.io/g/baldursgate3/m/roxs-everyone-can-glow#description\">Rox's Everyone can glow mod</a>. If you want the eyes to glow.<br>Other glow enabled mods also will work if you have a personal favorite. </h3>",
     "date_added": 1753768329,
-    "date_updated": 1773920891,
+    "date_updated": 1774070315,
     "date_live": 1753778547,
     "visible": 1,
     "status": 1,
@@ -121600,15 +121600,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a259/34781963/crop_100x100/tabbledabble_none_53800eb7-5615.png"
     },
     "modfile": {
-      "id": 7439643,
+      "id": 7528482,
       "mod_id": 5127105,
-      "version": "1.0.0.54",
-      "filename": "tabatha_eyes_e1fffc3d-ee33-7cd-2lhd.zip",
-      "changelog": "Added Request eyes: Hurricane, My Hurricane. I added a couple lore driven Shadowheart eyes: Shadow Glass and Fel Glass Jelly. Added new Jelly eyes in Apple, Lucy Darling, Pumpkin, Grape, Violet, Candy, Lemon, Fel Magic, Silver, Jay, and Colbalt. Added some eyes labeled as vivid but it's mostly because the pupils are very dark black and the colors illuminate vividly in Angelic, Nebula, Cyan, Chartreuse. Added Colors: Wheat, Woodland, Froggy, Maelstrom, Bubble Bath, Nova, Juicy Blush, Chilled (Which I need to move to Vivids), Meadow, Hazy, Lagoon, Aquarium, Celestial. I think that's all of them.",
-      "date_added": 1772090222,
+      "version": "1.0.0.58",
+      "filename": "tabatha_eyes_e1fffc3d-ee33-7cd-0w1b.zip",
+      "changelog": "Added some requested eyes. Jelly Collection, Vivid Collection, and Malice Collection.",
+      "date_added": 1774070264,
       "date_updated": 0,
-      "date_scanned": 1772090231,
-      "filesize": 1702634,
+      "date_scanned": 1774070275,
+      "filesize": 1718425,
       "platforms": [
         {
           "platform": "windows",
@@ -121616,15 +121616,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -121664,10 +121664,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7439643
-      },
-      {
         "platform": "mac",
         "modfile_live": 7439643
       },
@@ -121678,6 +121674,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7439643
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7528482
       }
     ]
   },
