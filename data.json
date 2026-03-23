@@ -55598,7 +55598,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour, Shields</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1774229653,
+    "date_updated": 1774234912,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -55612,15 +55612,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.png"
     },
     "modfile": {
-      "id": 7524202,
+      "id": 7540657,
       "mod_id": 4407068,
-      "version": "1.0.210.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-b3oa.zip",
-      "changelog": "- Armored Mage is split into Armored Mage (Light) and Armored Mage (Medium), which are granted at Level 1 and 4, respectively",
-      "date_added": 1773997881,
+      "version": "1.0.300.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-efce.zip",
+      "changelog": "- Updated class progression\n- Updated descriptions",
+      "date_added": 1774234830,
       "date_updated": 0,
-      "date_scanned": 1773997903,
-      "filesize": 7603487,
+      "date_scanned": 1774234850,
+      "filesize": 7926140,
       "platforms": [
         {
           "platform": "windows",
@@ -55641,11 +55641,11 @@
       ]
     },
     "logo": {
-      "filename": "duskbladebackground.32.png",
-      "original": "https://image.modcdn.io/mods/7601/4407068/duskbladebackground.32.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/7601/4407068/crop_320x180/duskbladebackground.32.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/7601/4407068/crop_640x360/duskbladebackground.32.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/7601/4407068/crop_1280x720/duskbladebackground.32.png"
+      "filename": "duskbladebackground.35.png",
+      "original": "https://image.modcdn.io/mods/7601/4407068/duskbladebackground.35.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7601/4407068/crop_320x180/duskbladebackground.35.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7601/4407068/crop_640x360/duskbladebackground.35.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7601/4407068/crop_1280x720/duskbladebackground.35.png"
     },
     "tags": [
       {
@@ -55714,7 +55714,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7524202
+        "modfile_live": 7540657
       }
     ]
   },
