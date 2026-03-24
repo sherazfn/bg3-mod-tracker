@@ -59678,7 +59678,7 @@
     "summary": "The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 as close to their 5th edition versions as they can elegantly be, with improvements made to Booming Blade.",
     "description": "<p>The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 from their 5th edition versions:<br>Green-Flame Blade<br>Lightning Lure<br>Sword Burst</p>\n<p>Additionally, Booming Blade is greatly enhanced including better functionality (such as level 10 scaling), bug fixes, VFX, and sound.</p>\n<p>All spells have their own visual effects and icons, with Green-Flame Blade notably being green!</p>\n<p>The 'War Caster' feat also includes Booming Blade as a reaction choice.<br><br>Looking for a way to expand the usage of these blade cantrips?  Try <a title=\"Feat - Spell Blade\" href=\"https://mod.io/g/baldursgate3/m/feat-spell-blade\">Feat - Spell Blade</a></p>",
     "date_added": 1729286972,
-    "date_updated": 1774326913,
+    "date_updated": 1774388701,
     "date_live": 1729286972,
     "visible": 1,
     "status": 1,
@@ -59692,15 +59692,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7545160,
+      "id": 7548365,
       "mod_id": 4423191,
-      "version": "2.2.7.1",
-      "filename": "5e_blade_cantrips_14943f09-f25-5x3u.zip",
-      "changelog": "- Changed Green-Flame Blade animation to better function with Bladesinger wizards",
-      "date_added": 1774326897,
+      "version": "2.3.1.1",
+      "filename": "5e_blade_cantrips_14943f09-f25-ite0.zip",
+      "changelog": "- Translations for Brazilian Portuguese, Chinese (Simplified), Chinese (Traditional), French, German, Italian, Russian, Spanish, and Ukrainian",
+      "date_added": 1774388606,
       "date_updated": 0,
-      "date_scanned": 1774326906,
-      "filesize": 565849,
+      "date_scanned": 1774388615,
+      "filesize": 571538,
       "platforms": [
         {
           "platform": "windows",
@@ -59777,6 +59777,51 @@
         "name": "English",
         "name_localized": "English",
         "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      },
+      {
+        "name": "German",
+        "name_localized": "German",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Russian",
+        "name_localized": "Russian",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Portuguese - Brazil",
+        "name_localized": "Portuguese - Brazil",
+        "date_added": 0
+      },
+      {
+        "name": "Italian",
+        "name_localized": "Italian",
+        "date_added": 0
+      },
+      {
+        "name": "Ukrainian",
+        "name_localized": "Ukrainian",
+        "date_added": 0
       }
     ],
     "platforms": [
@@ -59794,7 +59839,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7545160
+        "modfile_live": 7548365
       }
     ]
   },
