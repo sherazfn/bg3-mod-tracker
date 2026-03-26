@@ -55475,7 +55475,7 @@
     "summary": "Adds Reforged CrestTops, Chin for heads from Durge's mangled head mod",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p style=\"font-weight:400;\"><iframe src=\"https://www.youtube.com/embed/lk10OWz5akY\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">DMH Reforged Assets </span></h4>\n<p>The \"Reforged Assets\" pack - extension for my <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/10343\">Rathgor - Reforged head</a> </strong>mod</p>\n<p>Appearance inspired by hellish/abyssal creatures, Avernus machinery and armor elements tied to the Dark Urge's past</p>\n<p> </p>\n<h3><strong>Pack includes CrestTops, Chin for heads from </strong><a href=\"https://mod.io/g/baldursgate3/m/durges-mangled-head\">Durge's mangled head - Dark Urge Dragonborn CC</a> mod</h3>\n<p>Black or light iron and clean variation</p>\n<p>You could choose the broken half - assets have left and right variations</p>\n<hr>\n<h2><strong>Attention!</strong></h2>\n<p>Toolkit version of Reforged Assets DMH works with toolkit versions of Reforged Assets and DMH </p>\n<hr>\n<h2>Extra</h2>\n<h3><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1161\">All Extra Assets Avaliable to DMH</a></strong></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><strong><span style=\"font-family:Arial;\">DMH Dragonborn Collection</span></strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\"><span style=\"font-family:Arial;\">DMH and All assets from other packs in Vortex collection</span></p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:#444444;font-family:Arial;\" href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><img src=\"https://i.imgur.com/P41Ov9j.png\" alt=\"P41Ov9j.png\"></a></p>\n<hr>\n<p>This mod also exist as<br><strong><span style=\"font-size:x-large;\">All in One in </span><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><span style=\"font-size:x-large;\">Clansong - Speaking Dragonborns CC Heads</span></a><br></strong>so, you do not need Reforged Assets DMH - Dark Urge Dragonborn CC if you have Clansong mod<br><br><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767201270-1731952165.png\" alt=\"19947-1767201270-1731952165.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1728756297,
-    "date_updated": 1769535264,
+    "date_updated": 1774563489,
     "date_live": 1728757758,
     "visible": 1,
     "status": 1,
@@ -55489,15 +55489,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6277330,
+      "id": 7557244,
       "mod_id": 4406607,
-      "version": "1.0.0.9",
-      "filename": "rathgor-reforged_assets_dmh_ad-6ujr.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744754133,
+      "version": "1.0.0.10",
+      "filename": "rathgor-reforged_assets_dmh_ad-6j1t.zip",
+      "changelog": "Assets for new DMH heads added",
+      "date_added": 1774563391,
       "date_updated": 0,
-      "date_scanned": 1744754139,
-      "filesize": 996542,
+      "date_scanned": 1774563400,
+      "filesize": 2171417,
       "platforms": [
         {
           "platform": "windows",
@@ -55505,15 +55505,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -55573,10 +55573,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6277330
-      },
-      {
         "platform": "mac",
         "modfile_live": 6277330
       },
@@ -55587,6 +55583,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6277330
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7557244
       }
     ]
   },
@@ -67395,7 +67395,7 @@
     "summary": "Adds Slayer CrestTops, Jaw for heads from Durge's mangled head mod",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/b1tiUoSJafs?t=3s&amp;ab_channel=AkELkA\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Slayer Assets - Dark Urge Dragonborn CC pack</span></h4>\n<h4><strong>Pack includes CrestTops, Jaws for heads from </strong><a href=\"https://mod.io/g/baldursgate3/m/durges-mangled-head\">Durge's mangled head - Dark Urge Dragonborn CC</a> mod</h4>\n<p style=\"font-size:14px;font-weight:400;\"> </p>\n<p style=\"font-size:14px;font-weight:400;\"><strong>Slayer consumes everything - the body and soul of the host </strong>- which is why I incorporated elements of it into this pack</p>\n<p style=\"font-size:14px;font-weight:400;\"><strong>For a Slayer-ish appearance, use the Dragonborn color: Black 4</strong></p>\n<p style=\"font-size:14px;font-weight:400;\"> </p>\n<p style=\"font-size:14px;font-weight:400;\">All head assets have broken var (left and right)</p>\n<p style=\"font-size:14px;font-weight:400;\">The spikes on Crest, Jaw and Tail have two different material approaches - one based purely on Dragonborn material and the other on Horns material (Horns Tab). Go wild with it!</p>\n<p style=\"font-size:14px;font-weight:400;\"> </p>\n<h2>Spikes coloring</h2>\n<p style=\"font-size:14px;font-weight:400;\">Spikes colors trough Horns tab</p>\n<p style=\"font-size:14px;font-weight:400;\">You need to select assets (crest, jaw, tail) marked \"Horns\" in the name </p>\n<p><iframe src=\"https://www.youtube.com/embed/4a252K46X74?si=OY_wMubKxOki8kW5\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>Extra</h2>\n<h3><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1161\">All Extra Assets Avaliable to DMH</a></strong></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><strong><span style=\"font-family:Arial;\">DMH Dragonborn Collection</span></strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\"><span style=\"font-family:Arial;\">DMH and All assets from other packs in Vortex collection</span></p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:#444444;font-family:Arial;\" href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><img src=\"https://i.imgur.com/P41Ov9j.png\" alt=\"P41Ov9j.png\"></a></p>\n<hr>\n<p>This mod also exist as<br><strong><span style=\"font-size:x-large;\">All in One in </span><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><span style=\"font-size:x-large;\">Clansong - Speaking Dragonborns CC Heads</span></a><br></strong>so, you do not need Slayer Assets DMH - Dark Urge Dragonborn CC if you have Clansong mod<br><br><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767201270-1731952165.png\" alt=\"19947-1767201270-1731952165.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1730416217,
-    "date_updated": 1772812887,
+    "date_updated": 1774566472,
     "date_live": 1730416939,
     "visible": 1,
     "status": 1,
@@ -67409,15 +67409,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6277392,
+      "id": 7557455,
       "mod_id": 4456052,
-      "version": "1.0.0.7",
-      "filename": "slayer_assets_dmh_012f1a5a-ffb-1khz.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744755383,
+      "version": "1.0.0.8",
+      "filename": "slayer_assets_dmh_012f1a5a-ffb-5fqz.zip",
+      "changelog": "supports new heads",
+      "date_added": 1774566385,
       "date_updated": 0,
-      "date_scanned": 1744755399,
-      "filesize": 5465292,
+      "date_scanned": 1774566401,
+      "filesize": 7737869,
       "platforms": [
         {
           "platform": "windows",
@@ -67425,15 +67425,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -67493,10 +67493,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6277392
-      },
-      {
         "platform": "mac",
         "modfile_live": 6277392
       },
@@ -67507,6 +67503,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6277392
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7557455
       }
     ]
   },
