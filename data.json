@@ -89777,7 +89777,7 @@
     "summary": "Adds new hand crossbows of various damage types and effects, while keeping things relatively balanced.",
     "description": "<p>Hand crossbows are a <em>lot</em> of fun, but there are not too many options available in the base game.</p>\n<p>This mod aims to add some diversity by boosting damage types under certain conditions.</p>\n<p>For each damage type, there is a rare and very rare variant, the rare will do extra damage if a certain condition is met.</p>\n<p>The very rare then provides a way of triggering that condition, usually a custom spell.</p>\n<p>This provides good synergy when dual wielding of the same set, but is not required.</p>\n<p>The goal is to keep things <em>reasonably</em> balanced, hand crossbows can get out of hand very quickly!</p>\n<p>All the rare have a +1 enchantment, very rare have +2 enchantment.</p>\n<p>Hope you like them! Let me know if there are any bugs, overpowered/underpowered combos or items here.</p>\n<h2>Obtaining</h2>\n<p>The crossbows are distributed throughout the world, see in the list below:</p>\n<p><strong>Sharran Hand Crossbow</strong><br>rare - Underdakr, Grymforge (skeleton)<br>1d4 necrotic if lightly/heavily obscured</p>\n<p><strong>Justiciar's Hand Crossbow</strong><br>very rare - Gauntlet of Shar<br>1d4 necrotic if lightly/heavily obscured<br>Covert Critical</p>\n<p><strong>Sharran Assasin's Crossbow</strong><br>legendary - House of Grief (combine diamond with Sharran Hand Crossbow)<br>1d4 necrotic if lightly obscured, 2d4 necrotic if heavily obscured<br>Reduced Critical<br>Shar's Vengeance (2d4 necrotic damage, prevent healing, blinds), per short rest</p>\n<p><br><strong>Thorn Shot</strong><br>uncommon - Emerald Grove (trader)<br>1d4 poison against Ensnared, Grabbing Arrow<br>main hand: Poison Bolt (1d4 poison), per long rest</p>\n<p><strong>Serpent's Fang</strong><br>very rare - Shadow-Cursed Lands<br>1d6 poison against Ensnared, Grabbing Arrow<br>bonus: +2 nature, +1 survival<br>Poison Bolt (1d4 poison), per long rest<br>Greater Vines (5m vine surface), per short rest</p>\n<p><br><strong>Blood Seeker</strong><br>rare - Festering Cove (loot)<br>+1 bonus to initiative<br>1d4 against bleeding</p>\n<p><strong>Father's Lesson</strong><br>very rare - Murder Tribunal (trader)<br>1d6 against bleeding<br>+2 bonus to initiative<br>Father's Rebuke (2d6 piercing and bleeding), per short rest</p>\n<p><br><strong>Icicle Flinger</strong><br>rare - Reithwin Graveyard (sarcophagus)<br>1d4 cold damage against Cold, Frosted<br>Advantage when standing on ice surface</p>\n<p><strong>Frosted Demise</strong><br>very rare - Rivington Smith<br>1d4 cold damage against Cold, Frosted<br>Rays of Ice (3 rays of 2d6 frost), per short rest</p>\n<p><br><strong>Talos' Whisper</strong><br>rare - Goblin Camp (trader)<br>1d4 thunder against Off-Balanced<br>main hand: Screaming Bolt (weapon damage + 1d4 thunder), per short rest</p>\n<p><strong>Talos' Shout</strong><br>very rare - The Waning Moon (loot)<br>1d4 thunder against Off-Balanced<br>main hand: Thunderous Gust (2d4 Thunder + Reverberation), per short rest<br>off hand: Gust of Mistral (Gust of Wind + 1 cold), per short rest</p>\n<p><br><strong>Selûne's Shine</strong><br>rare - Selûnite Outpost (skeleton)<br>1d4 radiant if illuminated</p>\n<p><strong>Lathander's Legacy</strong><br>very rare - Stormshore Tabernacle (trader)<br>1d4 radiant if illuminated<br>Glowing 6m, toggle<br>Guiding Bolt (level 2), per short rest</p>\n<p><br><strong>The Absolute's Reach</strong><br>rare - Goblin Camp (chest)<br>1d4 psychic against Frightened<br>+1 to Performance</p>\n<p><strong>Furiously Fast Flinger of Fear</strong><br>very rare - Moonrise Towers<br>1d4 psychic against Frightened<br>+1 to Deception<br>Ray of Fear (fear in 12m line), per short rest</p>\n<p><br><strong>Wavemother's Crossbow</strong><br>rare - Underdark, Secluded Cove (chest)<br>1 turn wet, water surface 1m<br>Drenched Bolt (weapon damage, spray water), per short rest</p>\n<p><strong>Umberlee's Undertow</strong><br>very rare - Act2 Kuotoa<br>3 turns wet, water surface 2m<br>Bolt of Water (weapon damage, spray water, knock prone), per short rest</p>\n<p><br><strong>Metal Melter</strong><br>very rare - Reithwin Tollhouse<br>Corrosive Shot (weapon damage + 1d4 acid), per short rest<br>1d4 acid damage against metal armor, metal targets</p>\n<p><br><strong>Muddy Crossbow</strong><br>rare - Sunlit Wetlands (tree)<br>Creates mud surface<br>main hand: Muddy Bolt (force damage + mud spash), per short rest</p>\n<p><strong>Slinger of Sludge</strong><br>very rare - Circus of the Last Days<br>Creates mud surface<br>main hand: Landslide (5m mud area, muddy condition), per short rest</p>\n<p><br><strong>Lightning Crossbow</strong><br>rare - Underdark, Arcane Tower (chest)<br>1d4 lightning damage against Shocked, Electrocuted<br>+1 Arcana</p>\n<p><strong>The Shocker</strong><br>very rare - Sorcerous Vault<br>1d4 lightning damage against Shocked, Electrocuted<br>+1 Perception<br>Rays of Lightning (3 rays of 2d6 shock), per short rest</p>",
     "date_added": 1740571806,
-    "date_updated": 1774135321,
+    "date_updated": 1774743660,
     "date_live": 1740960831,
     "visible": 1,
     "status": 1,
@@ -89791,15 +89791,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7533489,
+      "id": 7567536,
       "mod_id": 4759119,
-      "version": "2.0.0.0",
-      "filename": "expanded-hand-crossbows_74e253-jhcb.zip",
-      "changelog": "Major update:\n* Adjust balance of existing crossbows\n* Add one new legendary crossbow\n* remove base acid crossbow\n* remove tutorial chest bag",
-      "date_added": 1774135196,
+      "version": "2.0.1.0",
+      "filename": "expanded-hand-crossbows_74e253-6tbo.zip",
+      "changelog": "Radiant Crossbows\n- Fix for Radiant Orb not being applied\n\nWater Crossbows\n- Fix for Water surface not being created\n- Use a single Saving Throw for Wet condition and Water surface\n\nMud Crossbows\n- Fix for mud surface not being created",
+      "date_added": 1774742338,
       "date_updated": 0,
-      "date_scanned": 1774135202,
-      "filesize": 439000,
+      "date_scanned": 1774742345,
+      "filesize": 439464,
       "platforms": [
         {
           "platform": "windows",
@@ -89873,7 +89873,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7533489
+        "modfile_live": 7567536
       }
     ]
   },
