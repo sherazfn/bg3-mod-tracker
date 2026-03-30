@@ -48620,7 +48620,7 @@
     "summary": "Adds new crystal crest tops, jaws for heads from Durge's mangled head mod",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p style=\"font-size:14px;font-weight:400;\"><iframe src=\"https://www.youtube.com/embed/hI93UqWmhyQ\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h3><strong>Pack includes CrestTops, Jaws for heads from </strong><a href=\"https://mod.io/g/baldursgate3/m/durges-mangled-head\">Durge's mangled head - Dark Urge Dragonborn CC</a> mod</h3>\n<p> </p>\n<h4><span style=\"font-size:x-large;\">Gem Crowns</span></h4>\n<p>Gem Dragons and Dragonborns - part of DnD lore, which was omitted in BG3. Now you could play as  one of them.<br>Gems: Obsidian, Sapphire, Emerald, Honey Topaz, Blue-Yellow Topaz, Amethyst</p>\n<h4><span style=\"font-size:x-large;\">Crystal Crown</span></h4>\n<p>Durge is a white Dragonborn, representing the Ice primal type, ideal for players who want to build around ice damage.</p>\n<p>Ice crystals and straight lines are incorporated into his design concept, giving him a blizzard-type appearance.</p>\n<h4><span style=\"font-size:x-large;\">Blood Crown</span></h4>\n<h4>Pure crystilized blood</h4>\n<p><img src=\"https://i.imgur.com/99AkX7I.gif\" alt=\"\" width=\"1200\" height=\"1080\"></p>\n<hr>\n<h2>Extra</h2>\n<h3><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1161\">All Extra Assets Avaliable to DMH</a></strong></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><strong><span style=\"font-family:Arial;\">DMH Dragonborn Collection</span></strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\"><span style=\"font-family:Arial;\">DMH and All assets from other packs in Vortex collection</span></p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:#444444;font-family:Arial;\" href=\"https://next.nexusmods.com/baldursgate3/collections/gfaqsr\"><img src=\"https://i.imgur.com/P41Ov9j.png\" alt=\"P41Ov9j.png\"></a></p>\n<hr>\n<p>This mod also exist as<br><strong><span style=\"font-size:x-large;\">All in One in </span><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><span style=\"font-size:x-large;\">Clansong - Speaking Dragonborns CC Heads</span></a><br></strong>so, you do not need Crystal Crown DMH - Gem Dragonborn CC if you have Clansong mod<br><br><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767201270-1731952165.png\" alt=\"19947-1767201270-1731952165.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1728088517,
-    "date_updated": 1772812935,
+    "date_updated": 1774888855,
     "date_live": 1728089016,
     "visible": 1,
     "status": 1,
@@ -48634,15 +48634,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6278242,
+      "id": 7575131,
       "mod_id": 4383067,
-      "version": "1.0.0.6",
-      "filename": "crystal_crown_dmh_9e4d5d97-3b3-bnre.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744779365,
+      "version": "1.0.0.7",
+      "filename": "crystal_crown_dmh_9e4d5d97-3b3-3rxt.zip",
+      "changelog": "supports new heads",
+      "date_added": 1774888715,
       "date_updated": 0,
-      "date_scanned": 1744779371,
-      "filesize": 1057920,
+      "date_scanned": 1774888730,
+      "filesize": 7156381,
       "platforms": [
         {
           "platform": "windows",
@@ -48650,15 +48650,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -48708,10 +48708,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6278242
-      },
-      {
         "platform": "mac",
         "modfile_live": 6278242
       },
@@ -48722,6 +48718,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6278242
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7575131
       }
     ]
   },
