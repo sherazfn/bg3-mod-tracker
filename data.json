@@ -108933,9 +108933,9 @@
     "name": "Temi Longsword + Warden Armor Set",
     "name_id": "temi-lightning-longsword",
     "summary": "A lightning based longsword + the Warden armor set. Gives you access to 3 lightning spells and 1 aura.",
-    "description": "<p>A paladin longsword + armor set with 3 spells and 1 toggleable aura</p>\n<p> <br>Commissioned by OrioneXV<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Paladin Longsword mesh by Efarys: https://skfb.ly/6TtHO<br>licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Mesh and textures modified.</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A paladin longsword + armor set with 3 spells and 1 toggleable aura</p>\n<p>works for all bodytype, but bt2 has a more unique appearance</p>\n<p> <br>Commissioned by OrioneXV<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Paladin Longsword mesh by Efarys: https://skfb.ly/6TtHO<br>licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Mesh and textures modified.</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1747935809,
-    "date_updated": 1772020520,
+    "date_updated": 1774992607,
     "date_live": 1747936153,
     "visible": 1,
     "status": 1,
@@ -108949,15 +108949,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7326650,
+      "id": 7579548,
       "mod_id": 4955962,
-      "version": "1.0.0.9",
-      "filename": "temiswrd_22fe70ad-c877-9aec-13-a3js.zip",
-      "changelog": "- fixed aura of warden staying on character even when the helmet is removed",
-      "date_added": 1769538953,
+      "version": "1.0.0.10",
+      "filename": "temiswrd_22fe70ad-c877-9aec-13-blpq.zip",
+      "changelog": "- tweaked the bt2 appearance",
+      "date_added": 1774992579,
       "date_updated": 0,
-      "date_scanned": 1769538969,
-      "filesize": 7827445,
+      "date_scanned": 1774992596,
+      "filesize": 8833115,
       "platforms": [
         {
           "platform": "windows",
@@ -108965,15 +108965,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -109003,6 +109003,26 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
         "date_added": 0
       },
       {
@@ -109078,10 +109098,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7326650
-      },
-      {
         "platform": "mac",
         "modfile_live": 7326650
       },
@@ -109092,6 +109108,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7326650
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7579548
       }
     ]
   },
