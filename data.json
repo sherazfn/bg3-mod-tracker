@@ -58410,7 +58410,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<p> </p>",
     "date_added": 1729165055,
-    "date_updated": 1775038542,
+    "date_updated": 1775044577,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -58424,31 +58424,19 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7581403,
+      "id": 7581580,
       "mod_id": 4419649,
-      "version": "4.0.0.7",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-ashm.zip",
+      "version": "4.0.0.9",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-0eb9.zip",
       "changelog": null,
-      "date_added": 1775038517,
+      "date_added": 1775044558,
       "date_updated": 0,
-      "date_scanned": 1775038727,
-      "filesize": 35629833,
+      "date_scanned": 1775044626,
+      "filesize": 35415493,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 0
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 0
-        },
-        {
-          "platform": "ps5",
-          "status": 0
         }
       ]
     },
@@ -58561,7 +58549,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7581403
+        "modfile_live": 7581580
       }
     ]
   },
@@ -71378,6 +71366,11 @@
       {
         "name": "English",
         "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
         "date_added": 0
       },
       {
