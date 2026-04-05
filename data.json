@@ -86805,10 +86805,10 @@
     "game_id": 6715,
     "name": "Loot Master",
     "name_id": "loot-master",
-    "summary": "Loot Master: Grants 6 spells with a 24-ft radius. Loot Corpses: Loots all non-ally corpses. Loot Containers: Loots all non-empty containers. Loot All: Loots both. PickPocket: Loots one target. Loot Ground: Remove Mod: Uninstalls the mod.",
-    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/lootmaster-intro.png\" alt=\"\" width=\"300\" height=\"300\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/spell1.png\" alt=\"\" width=\"200\" height=\"200\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/spell2.png\" alt=\"\" width=\"200\" height=\"200\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/spell3.png\" alt=\"\" width=\"200\" height=\"200\"><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/icon_lootmaster5.1.png\" alt=\"\" width=\"200\" height=\"200\"><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/icon_lootmaster6.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h3><strong>Loot Master By SwissFred</strong></h3>\n<h3><strong>Loot containers and corpses, disarm and unlock containers, pickpocket characters.<br>Recover inventory from characters who have been thrown or pushed into a chasm.<br>Destroy containers and get the loot.<br>Loot Ground.<br>___________________________________________________________________________________<br><br>----- Read the update procedure on the release notes or pinned Info. -----<br>___________________________________________________________________________________</strong></h3>\n<p style=\"color:#ffff00;\">You gain the following spells upon installing this mod. All spells can loot within a <strong>radius of 24 feet</strong> from the caster:</p>\n<p style=\"color:#ffff00;\"><strong>Loot Corpses</strong>: Loots all corpses except allies.</p>\n<p style=\"color:#ffff00;\"><strong>Loot Containers</strong>: Loots all non-empty containers.</p>\n<p style=\"color:#ffff00;\"><strong>Loot All</strong>: Loots both corpses and containers.</p>\n<p style=\"color:#ffff00;\"><strong>PickPocket</strong>: Loots a single non-dead, non-ally character within a <strong>radius of 18 feet</strong>.<br><br><strong>Loot Ground: </strong>Loots potions, camp supplies, alchemy ingredients, keys, books, and weapons directly to the caster's inventory</p>\n<p style=\"color:#ffff00;\"><strong>Remove Mod</strong>: Uninstalls the mod.</p>\n<p style=\"color:#ffff00;\"><strong>Features:</strong></p>\n<p style=\"color:#ffff00;\">The <strong>party leader</strong> gains <strong>4 spells</strong> and <strong>3 weightless backpacks</strong>.</p>\n<p style=\"color:#ffff00;\">Spells are stored in a <strong>spell container</strong>.</p>\n<p style=\"color:#ffff00;\">All looted <strong>common and junk items</strong> are transferred to a <strong>weightless 'Loot Master Commons Backpack.'</strong> Items lose weight inside the backpack and regain weight outside.<br>All looted <strong>rares</strong> are transferred to a <strong>weightless 'Loot Master Rares Backpack.'</strong> Items lose weight inside the backpack and regain weight outside.<br>All <strong>story items and keys</strong> are transferred to a <strong>weightless 'Loot Master Uniques Backpack.'</strong> Items lose weight inside the backpack and regain weight outside.</p>\n<p style=\"color:#ffff00;\"><strong>Vanity clothes</strong> will not be looted <strong>unless found inside containers</strong>.</p>\n<p style=\"color:#ffff00;\">Containers will be <strong>unlocked and opened</strong>.</p>\n<p style=\"color:#ffff00;\">If containers are trapped, the <strong>trap will be disarmed</strong>.<br><br><strong>Characters </strong>(except players) that are <strong>thrown or pushed into a chasm</strong> will also have their <strong>inventory looted.</strong></p>\n<p style=\"color:#ffff00;\">You can <strong>destroy containers</strong> and collect their loot. Have fun with a bit of <strong>vandalism</strong>—go ahead and destroy everything you can!<br><br><strong>Pickpocket will get only the private Inventory Items not the complete loot of vendors.</strong><br><br><strong>Tip: you can put all your inventory in a container or corpse nearby and use Loot All to get all items sorted in the correct backpack</strong></p>\n<p style=\"color:#ffff00;\">---------------------------------------------------------------------------------------<br>compatible with <a href=\"https://mod.io/g/baldursgate3/m/smart-containers-2024-more-sorting-containers\">Smart Containers 2024 - More Sorting Containers for Baldur's Gate 3 - mod.io</a></p>\n<p style=\"color:#ffff00;\">***** Loot All Containers has been retired and replaced with this mod. *****<br>----------------------------------------------------------------------------------------</p>",
+    "summary": "Loot Master: Grants 7 spells in a 24‑ft radius. Loot Corpses: Loots all non‑ally corpses. Loot Containers: Loots non‑empty containers. Loot All: Loots both. Pickpocket: Loots one target., Loot Ground, Refresh Loot, Remove Mod: Uninstalls the mod.",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/lootmaster-intro.png\" alt=\"\" width=\"300\" height=\"300\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/spell1.png\" alt=\"\" width=\"200\" height=\"200\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/spell2.png\" alt=\"\" width=\"200\" height=\"200\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/spell3.png\" alt=\"\" width=\"200\" height=\"200\"><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/icon_lootmaster5.1.png\" alt=\"\" width=\"200\" height=\"200\"><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/icon_lootmaster6.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h3><strong>Loot Master By SwissFred</strong></h3>\n<h3><strong>Loot containers and corpses, disarm and unlock containers, pickpocket characters.<br>Recover inventory from characters who have been thrown or pushed into a chasm.<br>Destroy containers and get the loot.<br>Loot Ground.<br>___________________________________________________________________________________<br><br>----- Read the update procedure on the release notes or pinned Info. -----<br>___________________________________________________________________________________</strong></h3>\n<p style=\"color:#ffff00;\">You gain the following spells upon installing this mod. All spells can loot within a <strong>radius of 24 feet</strong> from the caster:</p>\n<p style=\"color:#ffff00;\"><strong>Loot Corpses</strong>: Loots all corpses except allies.</p>\n<p style=\"color:#ffff00;\"><strong>Loot Containers</strong>: Loots all non-empty containers.</p>\n<p style=\"color:#ffff00;\"><strong>Loot All</strong>: Loots both corpses and containers.</p>\n<p style=\"color:#ffff00;\"><strong>PickPocket</strong>: Loots a single non-dead, non-ally character within a <strong>radius of 18 feet</strong>.<br><br><strong>Loot Ground: </strong>Loots potions, camp supplies, alchemy ingredients, keys, books, and weapons directly to the caster's inventory<br><strong><br>rescan Loot:</strong> rescan surroundings to highlight containers, corpses</p>\n<p style=\"color:#ffff00;\"><strong>Remove Mod</strong>: Uninstalls the mod.</p>\n<p style=\"color:#ffff00;\"><strong>Features:</strong></p>\n<p style=\"color:#ffff00;\">The <strong>party leader</strong> gains <strong>4 spells</strong> and <strong>3 weightless backpacks</strong>.</p>\n<p style=\"color:#ffff00;\">Spells are stored in a <strong>spell container</strong>.</p>\n<p style=\"color:#ffff00;\">All looted <strong>common and junk items</strong> are transferred to a <strong>weightless 'Loot Master Commons Backpack.'</strong> Items lose weight inside the backpack and regain weight outside.<br>All looted <strong>rares</strong> are transferred to a <strong>weightless 'Loot Master Rares Backpack.'</strong> Items lose weight inside the backpack and regain weight outside.<br>All <strong>story items and keys</strong> are transferred to a <strong>weightless 'Loot Master Uniques Backpack.'</strong> Items lose weight inside the backpack and regain weight outside.</p>\n<p style=\"color:#ffff00;\"><strong>Vanity clothes</strong> will not be looted <strong>unless found inside containers</strong>.</p>\n<p style=\"color:#ffff00;\">Containers will be <strong>unlocked and opened</strong>.</p>\n<p style=\"color:#ffff00;\">If containers are trapped, the <strong>trap will be disarmed</strong>.<br><br><strong>Characters </strong>(except players) that are <strong>thrown or pushed into a chasm</strong> will also have their <strong>inventory looted.</strong></p>\n<p style=\"color:#ffff00;\">You can <strong>destroy containers</strong> and collect their loot. Have fun with a bit of <strong>vandalism</strong>—go ahead and destroy everything you can!<br><br><strong>Pickpocket will get only the private Inventory Items not the complete loot of vendors.</strong><br><br><strong>Tip: you can put all your inventory in a container or corpse nearby and use Loot All to get all items sorted in the correct backpack</strong></p>\n<p style=\"color:#ffff00;\">---------------------------------------------------------------------------------------<br>compatible with <a href=\"https://mod.io/g/baldursgate3/m/smart-containers-2024-more-sorting-containers\">Smart Containers 2024 - More Sorting Containers for Baldur's Gate 3 - mod.io</a></p>\n<p style=\"color:#ffffoo;\">***** Loot All Containers has been retired and replaced with this mod. *****<br>----------------------------------------------------------------------------------------</p>",
     "date_added": 1738095155,
-    "date_updated": 1772020804,
+    "date_updated": 1775382794,
     "date_live": 1738097894,
     "visible": 1,
     "status": 1,
@@ -86822,15 +86822,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 7366167,
+      "id": 7598763,
       "mod_id": 4688261,
-      "version": "4.3.8.2",
-      "filename": "lootmaster_f4695834-1216-1ca7-795e.zip",
-      "changelog": "Corrected a bug preventing bags from remaining assigned to the party leader.",
-      "date_added": 1770402855,
+      "version": "4.4.8.0",
+      "filename": "lootmaster_f4695834-1216-1ca7-eyks.zip",
+      "changelog": "Non‑empty containers and corpses stay highlighted until fully looted\nAdded Rescan Surroundings spell to re‑highlight nearby loot\nImproved one‑time prompts and container unlock/disarm behavior\nReworked internal effects for better consistency\nMod‑added items now move to Camp Chest on removal; one‑time prompts reset\nMinor fixes and stability improvements",
+      "date_added": 1775382188,
       "date_updated": 0,
-      "date_scanned": 1770402895,
-      "filesize": 18905655,
+      "date_scanned": 1775382219,
+      "filesize": 18995519,
       "platforms": [
         {
           "platform": "windows",
@@ -86838,15 +86838,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -86891,10 +86891,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7366167
-      },
-      {
         "platform": "mac",
         "modfile_live": 7366167
       },
@@ -86905,6 +86901,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7366167
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7598763
       }
     ]
   },
