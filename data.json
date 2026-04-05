@@ -56083,7 +56083,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour, Shields</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1774508487,
+    "date_updated": 1775410043,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -56097,15 +56097,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.1.png"
     },
     "modfile": {
-      "id": 7554310,
+      "id": 7600154,
       "mod_id": 4407068,
-      "version": "1.0.306.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-eby9.zip",
-      "changelog": "- Updated class progression\n- Updated class icons\n- Updated descriptions",
-      "date_added": 1774508466,
+      "version": "1.0.309.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-lrrx.zip",
+      "changelog": "- Revamped class progression (see Discussion for details)\n- Updated class and feature icons\n- Updated animations",
+      "date_added": 1775409798,
       "date_updated": 0,
-      "date_scanned": 1774508550,
-      "filesize": 8007809,
+      "date_scanned": 1775409816,
+      "filesize": 9500830,
       "platforms": [
         {
           "platform": "windows",
@@ -56126,11 +56126,11 @@
       ]
     },
     "logo": {
-      "filename": "duskblade.2.png",
-      "original": "https://image.modcdn.io/mods/7601/4407068/duskblade.2.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/7601/4407068/crop_320x180/duskblade.2.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/7601/4407068/crop_640x360/duskblade.2.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/7601/4407068/crop_1280x720/duskblade.2.png"
+      "filename": "duskblade.5.png",
+      "original": "https://image.modcdn.io/mods/7601/4407068/duskblade.5.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7601/4407068/crop_320x180/duskblade.5.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7601/4407068/crop_640x360/duskblade.5.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7601/4407068/crop_1280x720/duskblade.5.png"
     },
     "tags": [
       {
@@ -56199,7 +56199,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7554310
+        "modfile_live": 7600154
       }
     ]
   },
