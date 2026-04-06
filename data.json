@@ -58895,7 +58895,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<p> </p>",
     "date_added": 1729165055,
-    "date_updated": 1775417855,
+    "date_updated": 1775444238,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -58909,14 +58909,14 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7600806,
+      "id": 7602420,
       "mod_id": 4419649,
-      "version": "4.0.9.1",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-6abg.zip",
+      "version": "4.0.9.2",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-1npq.zip",
       "changelog": null,
-      "date_added": 1775417838,
+      "date_added": 1775444227,
       "date_updated": 0,
-      "date_scanned": 1775417898,
+      "date_scanned": 1775444286,
       "filesize": 36526223,
       "platforms": [
         {
@@ -59034,7 +59034,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7600806
+        "modfile_live": 7602420
       }
     ]
   },
