@@ -32,11 +32,11 @@ pytest --cov=scripts --cov-report=html
 1. **New Mod** - Mod appears for first time (creates 'added' event)
 2. **Console Version Bump** - PS5 version increases (creates 'updated' event)
 3. **Description Only Change** - Only description changes, no version bump (no 'updated' event)
-4. **PC Version Only Change** - Only Windows version changes (no 'updated' event)
+4. **PC-Only Version Bump** - Windows version bumps, PS5 unchanged (creates 'updated' event — any platform counts)
 5. **Multiple Console Updates** - Multiple PS5 version bumps (multiple 'updated' events)
 6. **Name Change Only** - Only name changes (no 'updated' event)
-7. **Mixed Platform Updates** - Both PS5 and Windows change (only PS5 matters)
-8. **No PS5 Platform** - Mod with no PS5 platform (no updates tracked)
+7. **Mixed Platform Updates** - Both PS5 and Windows change (any platform bump triggers update)
+8. **Windows-Only Mod Version Bump** - Windows-only mod version bumps (creates 'updated' event)
 
 #### Edge Cases
 9. **Version Decrease** - PS5 version decreases (no 'updated' event)
@@ -48,6 +48,7 @@ pytest --cov=scripts --cov-report=html
 13. **Mod Reappears** - Mod removed then reappears (continues tracking or creates new entry)
 14. **Mod Removed with Other Mods** - One mod removed while others continue (other mods unaffected)
 15. **Mod Removed No PS5 Platform** - Mod without PS5 platform is removed (still tracked)
+16. **Mod Platforms Populated** - Mod.platforms reflects the latest platforms list across versions
 
 ### Workflow Logic Tests (`test_workflow_logic.py`)
 

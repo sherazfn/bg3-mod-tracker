@@ -660,6 +660,73 @@ STYLES = """
             color: var(--text-primary);
         }
 
+        /* Platform filter bar */
+        .platform-filter {
+            display: flex;
+            gap: 0.5rem;
+            justify-content: center;
+            padding: 0.75rem 1rem 0.25rem;
+            flex-wrap: wrap;
+        }
+        .platform-chip {
+            background: var(--surface, #1f2937);
+            color: var(--text-secondary, #94a3b8);
+            border: 1px solid var(--border, #334155);
+            border-radius: 999px;
+            padding: 0.35rem 0.9rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+        }
+        .platform-chip:hover {
+            color: var(--text-primary, #f1f5f9);
+            border-color: var(--gold-primary, #d4af37);
+        }
+        .platform-chip.active {
+            background: var(--gold-primary, #d4af37);
+            color: #1a1a1a;
+            border-color: var(--gold-primary, #d4af37);
+        }
+
+        /* Per-mod platform badges */
+        .mod-badges {
+            display: flex;
+            gap: 0.3rem;
+            margin-top: 0.3rem;
+            flex-wrap: wrap;
+        }
+        .mod-badge {
+            font-size: 0.65rem;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            padding: 0.1rem 0.45rem;
+            border-radius: 4px;
+            background: rgba(148, 163, 184, 0.15);
+            color: var(--text-secondary, #94a3b8);
+            border: 1px solid rgba(148, 163, 184, 0.25);
+            text-transform: uppercase;
+        }
+        .mod-badge-windows,
+        .mod-badge-mac,
+        .mod-badge-linux {
+            background: rgba(59, 130, 246, 0.15);
+            color: #93c5fd;
+            border-color: rgba(59, 130, 246, 0.35);
+        }
+        .mod-badge-ps5,
+        .mod-badge-ps4 {
+            background: rgba(99, 102, 241, 0.15);
+            color: #a5b4fc;
+            border-color: rgba(99, 102, 241, 0.35);
+        }
+        .mod-badge-xboxseriesx,
+        .mod-badge-xboxone {
+            background: rgba(34, 197, 94, 0.15);
+            color: #86efac;
+            border-color: rgba(34, 197, 94, 0.35);
+        }
+
         /* Responsive */
         @media (max-width: 480px) {
             .header-stat {

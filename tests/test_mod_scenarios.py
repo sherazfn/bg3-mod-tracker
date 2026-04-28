@@ -216,12 +216,12 @@ class TestModScenarios:
         
         print("[PASS] Test passed: Description-only change does NOT create 'updated' event")
 
-    def test_pc_version_only_change_scenario(self, temp_dir, sample_mod_base):
-        """Test: Only PC/Windows version changes, PS5 unchanged (should NOT create 'updated' event)."""
+    def test_pc_only_version_bump_scenario(self, temp_dir, sample_mod_base):
+        """Test: Windows version bumps while PS5 unchanged (should create 'updated' event)."""
         db_file = temp_dir / "mods.db"
         conn = sqlite3.connect(db_file)
         cursor = conn.cursor()
-        
+
         cursor.execute("""
             CREATE TABLE item_version_detail (
                 _item INTEGER,
@@ -234,41 +234,42 @@ class TestModScenarios:
                 platforms TEXT
             )
         """)
-        
+
         mod_id = sample_mod_base["id"]
         now = datetime.now(timezone.utc).isoformat()
-        
+
         # Version 1: PS5 version 1, Windows version 1
         platforms_v1 = [
             {"platform": "ps5", "status": 1, "modfile_live": 1},
             {"platform": "windows", "status": 1, "modfile_live": 1}
         ]
         cursor.execute("""
-            INSERT INTO item_version_detail 
+            INSERT INTO item_version_detail
             (_item, _version, _commit_at, name, summary, profile_url, logo, platforms)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         """, (mod_id, 1, now, "Test Mod", "Summary", "https://mod.io/m/test", None, json.dumps(platforms_v1)))
-        
+
         # Version 2: PS5 version still 1, Windows version 2 (bump!)
         platforms_v2 = [
             {"platform": "ps5", "status": 1, "modfile_live": 1},
             {"platform": "windows", "status": 1, "modfile_live": 2}
         ]
         cursor.execute("""
-            INSERT INTO item_version_detail 
+            INSERT INTO item_version_detail
             (_item, _version, _commit_at, name, summary, profile_url, logo, platforms)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         """, (mod_id, 2, now, "Test Mod", "Summary", "https://mod.io/m/test", None, json.dumps(platforms_v2)))
-        
+
         conn.commit()
         conn.close()
-        
+
         mods = get_mods(str(db_file))
         mod_obj = mods[mod_id]
-        
-        # Should only have "added" event, no "updated" event (PS5 version didn't change)
-        assert len(mod_obj.updates) == 1
+
+        # Should have "added" + "updated" since Windows bumped
+        assert len(mod_obj.updates) == 2
         assert mod_obj.updates[0].update_type == "added"
+        assert mod_obj.updates[1].update_type == "updated"
 
     def test_multiple_console_updates_scenario(self, temp_dir, sample_mod_base):
         """Test: Multiple PS5 version bumps (should create multiple 'updated' events)."""
@@ -375,6 +376,53 @@ class TestModScenarios:
         assert len(mod_obj.updates) == 1  # Only "added"
         assert mod_obj.name == "New Name"  # Name should update
 
+    def test_mod_platforms_populated(self, temp_dir, sample_mod_base):
+        """Test: Mod.platforms reflects the latest known platforms list."""
+        db_file = temp_dir / "mods.db"
+        conn = sqlite3.connect(db_file)
+        cursor = conn.cursor()
+
+        cursor.execute("""
+            CREATE TABLE item_version_detail (
+                _item INTEGER,
+                _version INTEGER,
+                _commit_at TEXT,
+                name TEXT,
+                summary TEXT,
+                profile_url TEXT,
+                logo TEXT,
+                platforms TEXT
+            )
+        """)
+
+        mod_id = sample_mod_base["id"]
+        now = datetime.now(timezone.utc).isoformat()
+
+        platforms_v1 = [{"platform": "windows", "status": 1, "modfile_live": 1}]
+        cursor.execute("""
+            INSERT INTO item_version_detail
+            (_item, _version, _commit_at, name, summary, profile_url, logo, platforms)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        """, (mod_id, 1, now, "Test Mod", "Summary", "https://mod.io/m/test", None, json.dumps(platforms_v1)))
+
+        # Version 2 expands to all three platforms
+        platforms_v2 = [
+            {"platform": "windows", "status": 1, "modfile_live": 1},
+            {"platform": "ps5", "status": 1, "modfile_live": 1},
+            {"platform": "xboxseriesx", "status": 1, "modfile_live": 1},
+        ]
+        cursor.execute("""
+            INSERT INTO item_version_detail
+            (_item, _version, _commit_at, name, summary, profile_url, logo, platforms)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        """, (mod_id, 2, now, "Test Mod", "Summary", "https://mod.io/m/test", None, json.dumps(platforms_v2)))
+
+        conn.commit()
+        conn.close()
+
+        mod_obj = get_mods(str(db_file))[mod_id]
+        assert sorted(mod_obj.platforms) == ["ps5", "windows", "xboxseriesx"]
+
     def test_platform_version_parsing(self):
         """Test: Platform version parsing helper function."""
         platforms_json = json.dumps([
@@ -389,7 +437,7 @@ class TestModScenarios:
         assert get_platform_version("invalid json", "ps5") == 0
 
     def test_mixed_platform_updates(self, temp_dir, sample_mod_base):
-        """Test: PS5 and Windows versions both change, but only PS5 matters."""
+        """Test: Both PS5 and Windows versions bump (should create one 'updated' event)."""
         db_file = temp_dir / "mods.db"
         conn = sqlite3.connect(db_file)
         cursor = conn.cursor()
@@ -438,12 +486,14 @@ class TestModScenarios:
         mods = get_mods(str(db_file))
         mod_obj = mods[mod_id]
         
-        # Should have "added" and "updated" because PS5 version bumped
+        # Should have "added" and "updated" — any platform bump triggers update
         assert len(mod_obj.updates) == 2
         assert mod_obj.updates[1].update_type == "updated"
+        assert "ps5" in mod_obj.platforms
+        assert "windows" in mod_obj.platforms
 
-    def test_no_ps5_platform_scenario(self, temp_dir, sample_mod_base):
-        """Test: Mod with no PS5 platform (should still create 'added' but no 'updated' on changes)."""
+    def test_windows_only_mod_version_bump(self, temp_dir, sample_mod_base):
+        """Test: Windows-only mod with version bump (should create 'updated' event)."""
         db_file = temp_dir / "mods.db"
         conn = sqlite3.connect(db_file)
         cursor = conn.cursor()
@@ -485,10 +535,12 @@ class TestModScenarios:
         
         mods = get_mods(str(db_file))
         mod_obj = mods[mod_id]
-        
-        # Should only have "added" (no PS5 platform, so no updates tracked)
-        assert len(mod_obj.updates) == 1
+
+        # Should have "added" + "updated" since Windows bumped (cross-platform tracking)
+        assert len(mod_obj.updates) == 2
         assert mod_obj.updates[0].update_type == "added"
+        assert mod_obj.updates[1].update_type == "updated"
+        assert "windows" in mod_obj.platforms
 
     def test_version_decrease_scenario(self, temp_dir, sample_mod_base):
         """Test: PS5 version decreases (should NOT create 'updated' event - only increases matter)."""

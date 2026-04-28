@@ -48,7 +48,7 @@ jobs:
 
           while true; do
             echo "Fetching offset=${OFFSET}..."
-            URL="${URL_TO_SCRAPE}?api_key=${API_KEY}&_limit=${LIMIT}&_offset=${OFFSET}&_sort=-date_updated&platforms=ps5"
+            URL="${URL_TO_SCRAPE}?api_key=${API_KEY}&_limit=${LIMIT}&_offset=${OFFSET}&_sort=-date_updated"
 
             HTTP_CODE=$(curl -sS -w "%{http_code}" -D "${HEADERS_FILE}" -o "${PAGE_FILE}" "${URL}")
 

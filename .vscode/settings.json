@@ -3,7 +3,7 @@
         {
             "match": "\\.py*",
             "isAsync": true,
-            "cmd": "cd c:\\dev\\bg3-console-mod-tracker && python -m scripts.generate_html",
+            "cmd": "python -m scripts.generate_html",
             "event": "onFileChange"
         }
     ]

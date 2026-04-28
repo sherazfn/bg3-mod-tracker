@@ -3,6 +3,32 @@
 from typing import Optional
 
 
+# Map mod.io platform identifiers to display labels.
+PLATFORM_LABELS = {
+    "windows": "PC",
+    "mac": "Mac",
+    "linux": "Linux",
+    "ps5": "PS5",
+    "ps4": "PS4",
+    "xboxseriesx": "XSX",
+    "xboxone": "XB1",
+    "switch": "Switch",
+    "android": "Android",
+    "ios": "iOS",
+}
+
+
+def platform_filter_bar() -> str:
+    """Filter chip row above the changelog (All / PC / Console)."""
+    return """
+        <div class="platform-filter" role="tablist" aria-label="Filter by platform">
+            <button class="platform-chip active" data-filter="all" onclick="setPlatformFilter('all')" role="tab" aria-selected="true">All</button>
+            <button class="platform-chip" data-filter="pc" onclick="setPlatformFilter('pc')" role="tab" aria-selected="false">PC</button>
+            <button class="platform-chip" data-filter="console" onclick="setPlatformFilter('console')" role="tab" aria-selected="false">Console</button>
+        </div>
+    """
+
+
 def tab_bar(new_count: int, updated_count: int, active_tab: str = "new") -> str:
     """
     Generate the tab bar with New and Updated tabs.
@@ -40,6 +66,7 @@ def mod_card(
     image_url: Optional[str] = None,
     profile_url: Optional[str] = None,
     timestamp: Optional[str] = None,
+    platforms: Optional[list] = None,
 ) -> str:
     """
     Generate a compact mod row.
@@ -50,6 +77,7 @@ def mod_card(
         image_url: URL to the mod's thumbnail
         profile_url: URL to the mod's page
         timestamp: Formatted timestamp string
+        platforms: List of mod.io platform identifiers (e.g. ["windows", "ps5"])
 
     Returns:
         HTML string for the mod row
@@ -72,11 +100,24 @@ def mod_card(
         else ""
     )
 
-    return f"""<{tag} class="mod-row" {href}>
+    platform_list = platforms or []
+    badges_html = ""
+    if platform_list:
+        chips = "".join(
+            f'<span class="mod-badge mod-badge-{p}">{PLATFORM_LABELS.get(p, p)}</span>'
+            for p in platform_list
+            if p in PLATFORM_LABELS
+        )
+        if chips:
+            badges_html = f'<div class="mod-badges">{chips}</div>'
+    data_platforms = " ".join(platform_list)
+
+    return f"""<{tag} class="mod-row" data-platforms="{data_platforms}" {href}>
             <img class="mod-thumb" src="{img_src}" alt="" loading="lazy" onerror="this.src='{fallback_image}'">
             <div class="mod-info">
                 <div class="mod-title">{title}</div>
                 <div class="mod-summary">{summary}</div>
+                {badges_html}
             </div>
             {link_icon}
         </{tag}>"""
@@ -284,7 +325,7 @@ def tabs_script() -> str:
             }
             
             function fetchLastChecked() {
-                fetch('https://api.github.com/repos/xKeeg/bg3-console-mod-tracker/actions/workflows/main.yml/runs?status=success&per_page=1')
+                fetch('https://api.github.com/repos/sherazfn/bg3-mod-tracker/actions/workflows/main.yml/runs?status=success&per_page=1')
                     .then(r => r.json())
                     .then(data => {
                         if (data.workflow_runs && data.workflow_runs.length > 0) {
@@ -299,25 +340,72 @@ def tabs_script() -> str:
                     });
             }
             
+            const PLATFORM_FILTER_KEY = 'bg3-platform-filter';
+            const VALID_FILTERS = ['all', 'pc', 'console'];
+
+            function rowMatchesFilter(row, filter) {
+                if (filter === 'all') return true;
+                const platforms = (row.dataset.platforms || '').split(/\\s+/);
+                if (filter === 'pc') {
+                    return platforms.includes('windows') || platforms.includes('mac') || platforms.includes('linux');
+                }
+                if (filter === 'console') {
+                    return platforms.includes('ps5') || platforms.includes('ps4') ||
+                           platforms.includes('xboxseriesx') || platforms.includes('xboxone') ||
+                           platforms.includes('switch');
+                }
+                return true;
+            }
+
+            function applyPlatformFilter(filter) {
+                if (!VALID_FILTERS.includes(filter)) filter = 'all';
+                document.querySelectorAll('.mod-row').forEach(row => {
+                    row.style.display = rowMatchesFilter(row, filter) ? '' : 'none';
+                });
+                document.querySelectorAll('.platform-chip').forEach(chip => {
+                    const isActive = chip.dataset.filter === filter;
+                    chip.classList.toggle('active', isActive);
+                    chip.setAttribute('aria-selected', isActive ? 'true' : 'false');
+                });
+                updateTotalModsCount(filter);
+            }
+
+            function setPlatformFilter(filter) {
+                if (!VALID_FILTERS.includes(filter)) filter = 'all';
+                localStorage.setItem(PLATFORM_FILTER_KEY, filter);
+                applyPlatformFilter(filter);
+            }
+
+            function updateTotalModsCount(filter) {
+                const totalModsEl = document.getElementById('total-mods');
+                if (!totalModsEl) return;
+                if (filter === 'all') {
+                    let total = 0;
+                    document.querySelectorAll('.date-section').forEach(s => {
+                        total += parseInt(s.dataset.newCount) || 0;
+                    });
+                    totalModsEl.textContent = total.toLocaleString();
+                } else {
+                    // Count visible "added" rows across all date sections.
+                    const visible = document.querySelectorAll('.tab-panel[data-panel="new"] .mod-row');
+                    let count = 0;
+                    visible.forEach(row => { if (rowMatchesFilter(row, filter)) count++; });
+                    totalModsEl.textContent = count.toLocaleString();
+                }
+            }
+
             // Initialize on load
             document.addEventListener('DOMContentLoaded', function() {
                 const savedTab = localStorage.getItem('activeTab');
                 if (savedTab && ['new', 'updated'].includes(savedTab)) {
                     currentTab = savedTab;
                 }
-                
-                // Calculate total mods
-                const sections = document.querySelectorAll('.date-section');
-                let totalMods = 0;
-                sections.forEach(section => {
-                    totalMods += parseInt(section.dataset.newCount) || 0;
-                });
-                const totalModsEl = document.getElementById('total-mods');
-                if (totalModsEl) {
-                    totalModsEl.textContent = totalMods.toLocaleString();
-                }
-                
+
                 updateDateDisplay();
+
+                const savedFilter = localStorage.getItem(PLATFORM_FILTER_KEY) || 'all';
+                applyPlatformFilter(VALID_FILTERS.includes(savedFilter) ? savedFilter : 'all');
+
                 fetchLastChecked();
             });
         </script>

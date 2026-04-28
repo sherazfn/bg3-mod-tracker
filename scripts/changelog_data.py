@@ -27,6 +27,7 @@ class Mod:
     profile_url: Optional[str] = None
     logo_url: Optional[str] = None
     updates: list[ModUpdate] = field(default_factory=list)
+    platforms: list[str] = field(default_factory=list)
 
 
 def parse_logo_url(logo_json: Optional[str]) -> Optional[str]:
@@ -67,6 +68,32 @@ def get_platform_version(
     return 0
 
 
+def get_all_platform_versions(platforms_json: Optional[str]) -> dict[str, int]:
+    """Extract {platform_name: modfile_live} for every platform present."""
+    if not platforms_json:
+        return {}
+    try:
+        platforms = json.loads(platforms_json)
+    except (json.JSONDecodeError, TypeError):
+        return {}
+    result: dict[str, int] = {}
+    for platform in platforms:
+        name = platform.get("platform")
+        if name:
+            result[name] = platform.get("modfile_live", 0) or 0
+    return result
+
+
+def has_any_version_bump(
+    old_versions: dict[str, int], new_versions: dict[str, int]
+) -> bool:
+    """True if any platform's modfile_live increased between the two snapshots."""
+    for name, new_ver in new_versions.items():
+        if new_ver > old_versions.get(name, 0):
+            return True
+    return False
+
+
 def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
     """
     Fetch all mods with their update history from the database.
@@ -103,13 +130,15 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
 
     # Build mod dictionary with updates
     mods: dict[int, Mod] = {}
-    # Track the previous platforms per item for version bump detection
-    previous_platforms: dict[int, str] = {}
+    # Track previous {platform_name: modfile_live} per item for version bump detection
+    previous_versions: dict[int, dict[str, int]] = {}
 
     for row in rows:
         item_id = row["_item"]
         version = row["_version"]
-        platforms = row["platforms"]
+        platforms_json = row["platforms"]
+        current_versions = get_all_platform_versions(platforms_json)
+        current_platform_names = sorted(current_versions.keys())
 
         if version == 1:
             # First version - this is when the mod was added
@@ -119,6 +148,7 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                 summary=row["summary"],
                 profile_url=row["profile_url"],
                 logo_url=parse_logo_url(row["logo"]),
+                platforms=current_platform_names,
             )
             mod.updates.append(
                 ModUpdate(
@@ -128,9 +158,9 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                 )
             )
             mods[item_id] = mod
-            previous_platforms[item_id] = platforms
+            previous_versions[item_id] = current_versions
         else:
-            # Subsequent version - check if it's a real update (version bump on ps5)
+            # Subsequent version - check if any platform's modfile_live increased
             mod = mods.get(item_id)
             if mod is None:
                 # Orphan update without a version 1 - create the mod
@@ -140,6 +170,7 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                     summary=row["summary"],
                     profile_url=row["profile_url"],
                     logo_url=parse_logo_url(row["logo"]),
+                    platforms=current_platform_names,
                 )
                 mods[item_id] = mod
 
@@ -152,12 +183,12 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                 mod.profile_url = row["profile_url"]
             if row["logo"]:
                 mod.logo_url = parse_logo_url(row["logo"])
+            if current_platform_names:
+                mod.platforms = current_platform_names
 
-            # Check for version bump on ps5 platform
-            old_ver = get_platform_version(previous_platforms.get(item_id), "ps5")
-            new_ver = get_platform_version(platforms, "ps5")
-
-            if new_ver > old_ver:
+            # Update event if any platform's modfile_live increased
+            old_versions = previous_versions.get(item_id, {})
+            if has_any_version_bump(old_versions, current_versions):
                 mod.updates.append(
                     ModUpdate(
                         timestamp=parse_timestamp(row["_commit_at"]),
@@ -166,10 +197,12 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                     )
                 )
 
-            # Update tracked platforms
-            # Update tracked platforms
-            if new_ver > 0:
-                previous_platforms[item_id] = platforms
+            # Update tracked versions (keep the highest seen per platform)
+            if current_versions:
+                merged = dict(old_versions)
+                for name, ver in current_versions.items():
+                    merged[name] = max(merged.get(name, 0), ver)
+                previous_versions[item_id] = merged
 
     return mods
 

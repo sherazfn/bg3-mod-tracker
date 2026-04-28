@@ -26,7 +26,7 @@ Comprehensive tests for mod update detection scenarios:
    - Only description changes, no version bump
    - Expected: NO 'updated' event (only metadata updates)
 
-4. **test_pc_version_only_change_scenario** ✅
+4. **test_pc_only_version_bump_scenario** ✅
    - Only Windows/PC version changes, PS5 unchanged
    - Expected: NO 'updated' event (PS5 version didn't change)
 
@@ -48,7 +48,7 @@ Comprehensive tests for mod update detection scenarios:
    - Both PS5 and Windows versions change
    - Expected: 'updated' event (PS5 version bumped)
 
-9. **test_no_ps5_platform_scenario** ✅
+9. **test_windows_only_mod_version_bump** ✅
    - Mod with no PS5 platform (Windows only)
    - Expected: Only 'added' event, no updates tracked
 

@@ -227,7 +227,7 @@ class TestFullPipeline:
         
         # Verify HTML content
         html_content = html_path.read_text(encoding="utf-8")
-        assert "BG3 Console Mod Tracker" in html_content, "Expected title in HTML"
+        assert "BG3 Mod Tracker" in html_content, "Expected title in HTML"
         assert "Test Mod 1" in html_content, "Expected mod name in HTML"
         print("Got: HTML contains expected content")
         
@@ -588,7 +588,7 @@ class TestFullPipeline:
             assert html_size > 1000, f"Expected HTML file > 1KB, got {html_size} bytes"
             
             html_content = html_path.read_text(encoding="utf-8")
-            assert "BG3 Console Mod Tracker" in html_content, "Expected title in HTML"
+            assert "BG3 Mod Tracker" in html_content, "Expected title in HTML"
             print("Got: HTML contains expected structure")
         except sqlite3.OperationalError as e:
             # Live data may have different schema - that's acceptable

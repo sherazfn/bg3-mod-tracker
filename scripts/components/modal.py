@@ -11,27 +11,29 @@ INFO_MODAL_HTML = """
                 <h2 class="modal-title">About This Tracker</h2>
             </div>
             <div class="modal-body">
-                <p>This site tracks <strong>new and updated mods</strong> for Baldur's Gate 3 on console platforms (PlayStation & Xbox).</p>
-                
+                <p>This site tracks <strong>new and updated mods</strong> for Baldur's Gate 3 across PC and console (PlayStation &amp; Xbox).</p>
+
                 <div class="modal-section">
                     <h3>How It Works</h3>
-                    <p>The tracker automatically checks <a href="https://mod.io/g/baldursgate3" target="_blank" rel="noopener">mod.io</a> every hour for new console-compatible mods and updates to existing ones.</p>
+                    <p>The tracker automatically checks <a href="https://mod.io/g/baldursgate3" target="_blank" rel="noopener">mod.io</a> every hour for new mods and version updates on every supported platform.</p>
                 </div>
-                
+
                 <div class="modal-section">
                     <h3>Features</h3>
                     <ul>
-                        <li><strong>New Mods</strong> — Freshly added mods for console</li>
-                        <li><strong>Updated Mods</strong> — Existing mods that received updates</li>
+                        <li><strong>New Mods</strong> — Freshly added mods on any platform</li>
+                        <li><strong>Updated Mods</strong> — Existing mods that received version bumps</li>
+                        <li><strong>Platform Filter</strong> — Filter the feed by PC or Console</li>
                         <li><strong>Daily Navigation</strong> — Browse changes by date</li>
                     </ul>
                 </div>
-                
+
                 <div class="modal-section">
                     <h3>Links</h3>
                     <p>
-                        <a href="https://github.com/xKeeg/bg3-console-mod-tracker" target="_blank" rel="noopener">View on GitHub</a>
+                        <a href="https://github.com/sherazfn/bg3-mod-tracker" target="_blank" rel="noopener">View on GitHub</a>
                     </p>
+                    <p class="modal-credit">Forked from <a href="https://github.com/xKeeg/bg3-console-mod-tracker" target="_blank" rel="noopener">xKeeg/bg3-console-mod-tracker</a> &mdash; original work by xKeeg.</p>
                 </div>
             </div>
         </div>

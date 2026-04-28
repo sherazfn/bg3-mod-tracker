@@ -66,6 +66,7 @@ def generate_mod_cards(updates: list[tuple[Mod, ModUpdate]]) -> str:
                 summary=mod.summary or "",
                 image_url=mod.logo_url,
                 profile_url=mod.profile_url,
+                platforms=mod.platforms,
             )
         )
 
@@ -162,9 +163,9 @@ def generate_html(
     mods = get_mods(db_path)
     content, nav = generate_changelog_content(mods)
     layout = page_layout(
-        title="BG3 Console Mod Tracker", content=content, hero_image_url=hero_image, date_nav_html=nav
+        title="BG3 Mod Tracker", content=content, hero_image_url=hero_image, date_nav_html=nav
     )
-    html = html_document("BG3 Console Mod Tracker", layout)
+    html = html_document("BG3 Mod Tracker", layout)
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
