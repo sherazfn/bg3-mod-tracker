@@ -689,6 +689,39 @@ STYLES = """
             border-color: var(--gold-primary, #d4af37);
         }
 
+        /* Sort selector bar */
+        .sort-bar {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 0.25rem 1rem 0.5rem;
+        }
+        .sort-label {
+            font-size: 0.75rem;
+            color: var(--text-secondary, #94a3b8);
+            font-weight: 600;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+        .sort-select {
+            background: var(--surface, #1f2937);
+            color: var(--text-primary, #f1f5f9);
+            border: 1px solid var(--border, #334155);
+            border-radius: 999px;
+            padding: 0.3rem 0.75rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .sort-select:hover {
+            border-color: var(--gold-primary, #d4af37);
+        }
+        .sort-select:focus {
+            outline: none;
+            border-color: var(--gold-primary, #d4af37);
+        }
+
         /* Per-mod platform badges */
         .mod-badges {
             display: flex;

@@ -18,6 +18,25 @@ PLATFORM_LABELS = {
 }
 
 
+def sort_bar() -> str:
+    """Sort selector for re-ordering mod rows within each date section."""
+    return """
+        <div class="sort-bar">
+            <label class="sort-label" for="sort-select">Sort</label>
+            <select id="sort-select" class="sort-select" onchange="setSortMode(this.value)">
+                <option value="default">Default</option>
+                <option value="recent">Most recently updated</option>
+                <option value="popular">Most popular</option>
+                <option value="downloads">Downloads today</option>
+                <option value="subscribers">Most subscribed</option>
+                <option value="name-asc">Name A–Z</option>
+                <option value="name-desc">Name Z–A</option>
+                <option value="author-asc">Author A–Z</option>
+            </select>
+        </div>
+    """
+
+
 def platform_filter_bar() -> str:
     """Filter chip row above the changelog (All / PC / Console)."""
     return """
@@ -67,6 +86,11 @@ def mod_card(
     profile_url: Optional[str] = None,
     timestamp: Optional[str] = None,
     platforms: Optional[list] = None,
+    author: Optional[str] = None,
+    date_updated: int = 0,
+    popularity_rank: int = 0,
+    downloads_today: int = 0,
+    subscribers: int = 0,
 ) -> str:
     """
     Generate a compact mod row.
@@ -112,7 +136,10 @@ def mod_card(
             badges_html = f'<div class="mod-badges">{chips}</div>'
     data_platforms = " ".join(platform_list)
 
-    return f"""<{tag} class="mod-row" data-platforms="{data_platforms}" {href}>
+    sort_key_name = (title or "").lower().replace('"', "&quot;")
+    sort_key_author = (author or "").lower().replace('"', "&quot;")
+
+    return f"""<{tag} class="mod-row" data-platforms="{data_platforms}" data-name="{sort_key_name}" data-author="{sort_key_author}" data-date-updated="{date_updated}" data-popularity="{popularity_rank}" data-downloads-today="{downloads_today}" data-subscribers="{subscribers}" {href}>
             <img class="mod-thumb" src="{img_src}" alt="" loading="lazy" onerror="this.src='{fallback_image}'">
             <div class="mod-info">
                 <div class="mod-title">{title}</div>
@@ -342,6 +369,70 @@ def tabs_script() -> str:
             
             const PLATFORM_FILTER_KEY = 'bg3-platform-filter';
             const VALID_FILTERS = ['all', 'pc', 'console'];
+            const SORT_KEY = 'bg3-sort-mode';
+            const VALID_SORTS = ['default', 'recent', 'popular', 'downloads', 'subscribers', 'name-asc', 'name-desc', 'author-asc'];
+
+            function sortValue(row, mode) {
+                switch (mode) {
+                    case 'recent': return Number(row.dataset.dateUpdated) || 0;
+                    case 'popular': {
+                        // popularity_rank: lower = more popular; 0 means unknown
+                        const v = Number(row.dataset.popularity) || 0;
+                        return v === 0 ? Number.POSITIVE_INFINITY : v;
+                    }
+                    case 'downloads': return Number(row.dataset.downloadsToday) || 0;
+                    case 'subscribers': return Number(row.dataset.subscribers) || 0;
+                    case 'name-asc':
+                    case 'name-desc': return row.dataset.name || '';
+                    case 'author-asc': return row.dataset.author || '';
+                    default: return 0;
+                }
+            }
+
+            function compareRows(a, b, mode) {
+                const av = sortValue(a, mode);
+                const bv = sortValue(b, mode);
+                if (mode === 'name-asc' || mode === 'author-asc') {
+                    return String(av).localeCompare(String(bv));
+                }
+                if (mode === 'name-desc') {
+                    return String(bv).localeCompare(String(av));
+                }
+                // numeric, larger first (recent, popular handled by infinity, downloads, subs)
+                if (mode === 'popular') return av - bv; // ascending: lower rank first
+                return bv - av;
+            }
+
+            function applySortMode(mode) {
+                if (!VALID_SORTS.includes(mode)) mode = 'default';
+                document.querySelectorAll('.mod-list').forEach(list => {
+                    const rows = Array.from(list.querySelectorAll('.mod-row'));
+                    if (rows.length < 2) return;
+                    if (mode === 'default') {
+                        // Restore original DOM order from data-original-index
+                        rows.sort((a, b) => Number(a.dataset.originalIndex) - Number(b.dataset.originalIndex));
+                    } else {
+                        rows.sort((a, b) => compareRows(a, b, mode));
+                    }
+                    rows.forEach(r => list.appendChild(r));
+                });
+                const sel = document.getElementById('sort-select');
+                if (sel && sel.value !== mode) sel.value = mode;
+            }
+
+            function setSortMode(mode) {
+                if (!VALID_SORTS.includes(mode)) mode = 'default';
+                localStorage.setItem(SORT_KEY, mode);
+                applySortMode(mode);
+            }
+
+            function snapshotOriginalOrder() {
+                document.querySelectorAll('.mod-list').forEach(list => {
+                    Array.from(list.querySelectorAll('.mod-row')).forEach((row, i) => {
+                        row.dataset.originalIndex = String(i);
+                    });
+                });
+            }
 
             function rowMatchesFilter(row, filter) {
                 if (filter === 'all') return true;
@@ -403,8 +494,13 @@ def tabs_script() -> str:
 
                 updateDateDisplay();
 
+                snapshotOriginalOrder();
+
                 const savedFilter = localStorage.getItem(PLATFORM_FILTER_KEY) || 'all';
                 applyPlatformFilter(VALID_FILTERS.includes(savedFilter) ? savedFilter : 'all');
+
+                const savedSort = localStorage.getItem(SORT_KEY) || 'default';
+                applySortMode(VALID_SORTS.includes(savedSort) ? savedSort : 'default');
 
                 fetchLastChecked();
             });

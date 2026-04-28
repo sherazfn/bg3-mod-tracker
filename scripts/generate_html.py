@@ -67,6 +67,11 @@ def generate_mod_cards(updates: list[tuple[Mod, ModUpdate]]) -> str:
                 image_url=mod.logo_url,
                 profile_url=mod.profile_url,
                 platforms=mod.platforms,
+                author=mod.author,
+                date_updated=mod.date_updated,
+                popularity_rank=mod.popularity_rank,
+                downloads_today=mod.downloads_today,
+                subscribers=mod.subscribers,
             )
         )
 

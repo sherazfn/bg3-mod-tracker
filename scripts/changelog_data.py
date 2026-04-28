@@ -28,6 +28,33 @@ class Mod:
     logo_url: Optional[str] = None
     updates: list[ModUpdate] = field(default_factory=list)
     platforms: list[str] = field(default_factory=list)
+    author: Optional[str] = None
+    date_updated: int = 0  # latest modfile update unix timestamp from mod.io
+    popularity_rank: int = 0  # 0 means unknown; lower (non-zero) is more popular
+    downloads_today: int = 0
+    downloads_total: int = 0
+    subscribers: int = 0
+    rating_percent: int = 0
+    rating_weighted: float = 0.0
+
+
+def parse_author(submitted_by_json: Optional[str]) -> Optional[str]:
+    if not submitted_by_json:
+        return None
+    try:
+        data = json.loads(submitted_by_json)
+        return data.get("username") or data.get("name_id")
+    except (json.JSONDecodeError, TypeError):
+        return None
+
+
+def parse_stats(stats_json: Optional[str]) -> dict:
+    if not stats_json:
+        return {}
+    try:
+        return json.loads(stats_json) or {}
+    except (json.JSONDecodeError, TypeError):
+        return {}
 
 
 def parse_logo_url(logo_json: Optional[str]) -> Optional[str]:
@@ -108,9 +135,20 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
     connection.row_factory = sqlite3.Row
     cursor = connection.cursor()
 
+    # Detect optional columns that older db snapshots may not have.
+    available_cols = {
+        row[1] for row in cursor.execute("PRAGMA table_info(item_version_detail)").fetchall()
+    }
+    optional_select = []
+    for col in ("date_updated", "submitted_by", "stats"):
+        if col in available_cols:
+            optional_select.append(col)
+        else:
+            optional_select.append(f"NULL AS {col}")
+
     # Fetch all versions of all items, ordered by item and version
-    query = """
-    SELECT 
+    query = f"""
+    SELECT
         _item,
         _version,
         _commit_at,
@@ -118,7 +156,10 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
         summary,
         profile_url,
         logo,
-        platforms
+        platforms,
+        {optional_select[0]},
+        {optional_select[1]},
+        {optional_select[2]}
     FROM item_version_detail
     ORDER BY _item, _version
     """
@@ -132,6 +173,23 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
     mods: dict[int, Mod] = {}
     # Track previous {platform_name: modfile_live} per item for version bump detection
     previous_versions: dict[int, dict[str, int]] = {}
+
+    def apply_metadata(target: Mod, source_row) -> None:
+        author = parse_author(source_row["submitted_by"])
+        if author:
+            target.author = author
+        if source_row["date_updated"]:
+            target.date_updated = max(target.date_updated, int(source_row["date_updated"]))
+        stats = parse_stats(source_row["stats"])
+        if stats:
+            rank = stats.get("popularity_rank_position") or 0
+            if rank:
+                target.popularity_rank = rank
+            target.downloads_today = stats.get("downloads_today") or target.downloads_today
+            target.downloads_total = stats.get("downloads_total") or target.downloads_total
+            target.subscribers = stats.get("subscribers_total") or target.subscribers
+            target.rating_percent = stats.get("ratings_percentage_positive") or target.rating_percent
+            target.rating_weighted = stats.get("ratings_weighted_aggregate") or target.rating_weighted
 
     for row in rows:
         item_id = row["_item"]
@@ -150,6 +208,7 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                 logo_url=parse_logo_url(row["logo"]),
                 platforms=current_platform_names,
             )
+            apply_metadata(mod, row)
             mod.updates.append(
                 ModUpdate(
                     timestamp=parse_timestamp(row["_commit_at"]),
@@ -185,6 +244,7 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                 mod.logo_url = parse_logo_url(row["logo"])
             if current_platform_names:
                 mod.platforms = current_platform_names
+            apply_metadata(mod, row)
 
             # Update event if any platform's modfile_live increased
             old_versions = previous_versions.get(item_id, {})

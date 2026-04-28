@@ -1,7 +1,7 @@
 """Page layout component."""
 
 from .modal import info_button
-from .tabs import platform_filter_bar
+from .tabs import platform_filter_bar, sort_bar
 
 
 def page_layout(title: str, content: str, hero_image_url: str = None, date_nav_html: str = "") -> str:
@@ -26,6 +26,7 @@ def page_layout(title: str, content: str, hero_image_url: str = None, date_nav_h
     <div class="toast" id="toast" aria-live="polite"></div>
 {date_nav_html}
 {platform_filter_bar()}
+{sort_bar()}
     <main class="changelog-container">
         <div class="changelog-stack">
 {content}

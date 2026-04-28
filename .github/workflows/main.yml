@@ -115,8 +115,20 @@ jobs:
             
             logo,
             tags,
-            platforms
-            
+            platforms,
+
+            stats: {
+              popularity_rank_position: .stats.popularity_rank_position,
+              popularity_rank_total_mods: .stats.popularity_rank_total_mods,
+              downloads_today: .stats.downloads_today,
+              downloads_total: .stats.downloads_total,
+              subscribers_total: .stats.subscribers_total,
+              ratings_positive: .stats.ratings_positive,
+              ratings_negative: .stats.ratings_negative,
+              ratings_percentage_positive: .stats.ratings_percentage_positive,
+              ratings_weighted_aggregate: .stats.ratings_weighted_aggregate
+            }
+
           }) | sort_by(.id)' "$TEMP_NDJSON" > data.json
 
           echo "Finished. data.json size: $(du -h data.json | cut -f1)"
