@@ -2,7 +2,7 @@ name: Scrape, Update, and Deploy
 
 on:
   schedule:
-    - cron: "0 * * * *" # Every hour
+    - cron: "23 7 * * *" # Daily at 07:23 UTC (off-peak minute to avoid GH scheduler contention)
   workflow_dispatch:
     inputs:
       force_deploy:
